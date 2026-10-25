@@ -1,0 +1,937 @@
+{
+  "records": [
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_0600_1500_00_mma",
+      "template": 55,
+      "Japanese": {
+        "Text": "いまは　魔晄中毒の方々の療養所になっています",
+        "MetaData": {
+          "ACTOR": "管理人"
+        }
+      },
+      "English": {
+        "Text": "It now serves as a treatment center\r\nfor mako poisoning.",
+        "MetaData": {
+          "ACTOR": "Supervisor"
+        }
+      },
+      "before": "ปัจจุบันเป็นสถานพักฟื้นสำหรับผู้ป่วยจากพิษมาโก้",
+      "after": "ปัจจุบันเป็นสถานพักฟื้นสำหรับผู้มีภาวะเป็นพิษจากมาโก้",
+      "reason": "Use established mako-poisoning terminology."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_0800_2200_00_cld",
+      "template": 80,
+      "Japanese": {
+        "Text": "そんなこと……するはずないだろ",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "What? N-no way. I-I'd never do that.",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "เรื่องแบบนั้น...ฉันจะทำได้ยังไง",
+      "after": "เรื่องแบบนั้น……ฉันไม่มีทางทำหรอก",
+      "reason": "するはずない denies doing it; it does not express inability."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_1200_2200_00_cld",
+      "template": 117,
+      "Japanese": {
+        "Text": "すこしは力になれたか？",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "Have I helped you get through it at all?",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "ฉันพอจะช่วยอะไรได้บ้างไหม?",
+      "after": "ตอนนั้นฉันพอจะช่วยได้บ้างไหม?",
+      "reason": "Asks whether Cloud helped Tifa after their reunion; past help, not a new offer."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_1300_0400_00_cld",
+      "template": 130,
+      "Japanese": {
+        "Text": "面倒くさいガキだった　自分でもそう思う",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "Not surprised... I was a pain in the ass as a kid.",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "เป็นเด็กที่ยุ่งยากจริง ๆ ฉันเองก็คิดอย่างนั้น",
+      "after": "ฉันเป็นเด็กเรื่องมาก ตัวเองก็คิดอย่างนั้น",
+      "reason": "面倒くさいガキ describes a troublesome child, not a difficult task."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_1700_0300_00_cld",
+      "template": 147,
+      "Japanese": {
+        "Text": "魔晄中毒だな",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "Mako poisoning?",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "พิษมาโก้สินะ",
+      "after": "ภาวะเป็นพิษจากมาโก้สินะ",
+      "reason": "Preserve the established condition name."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_1700_0900_00_dae",
+      "template": 154,
+      "Japanese": {
+        "Text": "中毒の治療の痕じゃないのかい",
+        "MetaData": {
+          "ACTOR": "料理長"
+        }
+      },
+      "English": {
+        "Text": "From their treatments, if I had to guess.",
+        "MetaData": {
+          "ACTOR": "Head Chef"
+        }
+      },
+      "before": "คงเป็นรอยจากการรักษาพิษมาโก้มั้ง",
+      "after": "นั่นไม่ใช่รอยจากการรักษาภาวะเป็นพิษจากมาโก้เหรอ?",
+      "reason": "Keep the chef’s question and established condition name."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_3700_0500_00_cld",
+      "template": 300,
+      "Japanese": {
+        "Text": "自然の状態で　ここまでになるには\r\nいったい　どれほどの時間が掛かることか",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "For the mako energy to condense into something\r\nlike this, it must have taken an eternity.",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "กว่าจะมีขนาดเท่านี้ได้ตามธรรมชาติ\r\nต้องใช้เวลานานแค่ไหนกันนะ",
+      "after": "กว่าจะก่อตัวได้ถึงขั้นนี้ตามธรรมชาติ\r\nต้องใช้เวลานานแค่ไหนกันนะ",
+      "reason": "ここまで refers to materia formation, not only physical size."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_4100_0700_00_cld",
+      "template": 345,
+      "Japanese": {
+        "Text": "死んだヤツらには　同じことだ",
+        "MetaData": {
+          "ACTOR": "クラウド"
+        }
+      },
+      "English": {
+        "Text": "And it makes no difference to <i>them</i> either way.",
+        "MetaData": {
+          "ACTOR": "Cloud"
+        }
+      },
+      "before": "คนที่ตายไปแล้วก็ไม่ต่างกันหรอก",
+      "after": "สำหรับคนที่ตายไปแล้ว จะยังไงก็ไม่ต่างกันหรอก",
+      "reason": "Connect to the preceding ceasefire question: dead people are unaffected by its status."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_4100_1000_00_yfi",
+      "template": 348,
+      "Japanese": {
+        "Text": "始めたんだ……始まったんだ",
+        "MetaData": {
+          "ACTOR": "ユフィ"
+        }
+      },
+      "English": {
+        "Text": "This is it... There's no turning back.",
+        "MetaData": {
+          "ACTOR": "Yuffie"
+        }
+      },
+      "before": "เริ่มแล้ว...พวกเขาเริ่มแล้วสินะ",
+      "after": "พวกเขาเริ่มลงมือแล้ว……สงครามเริ่มแล้วสินะ",
+      "reason": "Preserve active 始めた then intransitive 始まった in Yuffie’s reaction."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_4800_0700_00_cat",
+      "template": 404,
+      "Japanese": {
+        "Text": "ここは　宝条博士が\r\n実験に使ってたと聞いたことがあります",
+        "MetaData": {
+          "ACTOR": "ケット・シー"
+        }
+      },
+      "English": {
+        "Text": "Well...it would add weight to the rumor that Hojo used to conduct experiments here.",
+        "MetaData": {
+          "ACTOR": "Cait Sith"
+        }
+      },
+      "before": "เคยได้ยินว่าด็อกเตอร์โฮโจ\r\nใช้ที่นี่ทดลองครับ",
+      "after": "เคยได้ยินว่าดอกเตอร์โฮโจ\r\nใช้ที่นี่ทดลองครับ",
+      "reason": "Consistent spelling with other Hojo dialogue."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_4800_0800_00_blt",
+      "template": 405,
+      "Japanese": {
+        "Text": "ロクでもねえな",
+        "MetaData": {
+          "ACTOR": "バレット"
+        }
+      },
+      "English": {
+        "Text": "Doubt it's just a rumor.",
+        "MetaData": {
+          "ACTOR": "Barret"
+        }
+      },
+      "before": "ไม่ได้เรื่องแน่",
+      "after": "คงไม่ใช่เรื่องดีแน่ๆ",
+      "reason": "ロクでもねえ reacts to Hojo’s experiments being sinister, not merely useless."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_5200_0300_00_blt",
+      "template": 488,
+      "Japanese": {
+        "Text": "手伝うだろ？",
+        "MetaData": {
+          "ACTOR": "バレット"
+        }
+      },
+      "English": {
+        "Text": "Agreed?",
+        "MetaData": {
+          "ACTOR": "Barret"
+        }
+      },
+      "before": "นายจะช่วยด้วยใช่ไหม?",
+      "after": "จะช่วยด้วยใช่ไหม?",
+      "reason": "Barret asks Aerith, whose affirmative reply follows; remove the male addressee นาย."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_6100_0500_00_vin",
+      "template": 558,
+      "Japanese": {
+        "Text": "道理はどちらにある",
+        "MetaData": {
+          "ACTOR": "ヴィンセント"
+        }
+      },
+      "English": {
+        "Text": "Why should I?",
+        "MetaData": {
+          "ACTOR": "Vincent"
+        }
+      },
+      "before": "ใครเป็นฝ่ายมีเหตุผลกันแน่",
+      "after": "ใครเป็นฝ่ายถูกกันแน่",
+      "reason": "道理 challenges who is in the right before 私かおまえか, not general intelligence."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$CHADL_QST_06_0500_0400_00_yfi",
+      "template": 648,
+      "Japanese": {
+        "Text": "そうだね　ひどい目にあうもんね",
+        "MetaData": {
+          "ACTOR": "ユフィ"
+        }
+      },
+      "English": {
+        "Text": "Sad, but true. I'll bet they've seen some things...",
+        "MetaData": {
+          "ACTOR": "Yuffie"
+        }
+      },
+      "before": "นั่นสินะ เจอเรื่องเลวร้ายมาขนาดนั้น",
+      "after": "นั่นสิ เจอเรื่องโหดร้ายขนาดนี้ด้วยนี่นา",
+      "reason": "Keep present suffering in the discussion of the robes’ lack of conscious thought."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$CHADL_QST_06_1500_0110_00_yfi",
+      "template": 709,
+      "Japanese": {
+        "Text": "アタシ追いかける～　黒～マント～",
+        "MetaData": {
+          "ACTOR": "ユフィ"
+        }
+      },
+      "English": {
+        "Text": "Oh, robed guys, you must be cooking underneath those robes♪",
+        "MetaData": {
+          "ACTOR": "Yuffie"
+        }
+      },
+      "before": "ฉันตามไป～ชุด～คลุมดำ～",
+      "after": "คนชุดคลุมดำ～ไล่ตามฉัน～",
+      "reason": "Deliberate inversion of previous lyric: I follow robes / robes follow me. The preceding followers context also supports the inverse subject."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$CHADL_QST_06_1900_0300_00_red",
+      "template": 732,
+      "Japanese": {
+        "Text": "黒マントとセフィロスは無関係じゃない",
+        "MetaData": {
+          "ACTOR": "レッドXIII"
+        }
+      },
+      "English": {
+        "Text": "These guys and Sephiroth are related somehow...",
+        "MetaData": {
+          "ACTOR": "Red XIII"
+        }
+      },
+      "before": "พวกชุดคลุมดำกับเซฟิรอธไม่ได้ไร้ความเกี่ยวข้องกัน",
+      "after": "พวกชุดคลุมดำกับเซฟิรอธเกี่ยวข้องกัน",
+      "reason": "Render 無関係じゃない clearly as a connection; next line intensifies it."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_0100_2500_00_yfi",
+      "template": 843,
+      "Japanese": {
+        "Text": "ただのっていうか\r\nものすご～く　ジジイだよね",
+        "MetaData": {
+          "ACTOR": "ユフィ"
+        }
+      },
+      "English": {
+        "Text": "Well, doi, he's not a \"sage.\" This guy's like the king of the crazy old coots!",
+        "MetaData": {
+          "ACTOR": "Yuffie"
+        }
+      },
+      "before": "ไม่ใช่แค่ตาธรรมดา\r\nแต่แก่เอามากๆ เลยล่ะเนอะ",
+      "after": "จะว่าคนแก่ธรรมดาก็ไม่ใช่\r\nตาคนนี้แก่สุดๆ เลยต่างหาก",
+      "reason": "Respond to the just-an-old-man choice without the ambiguous phrase ตาธรรมดา."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_1400_0800_00_che",
+      "template": 953,
+      "Japanese": {
+        "Text": "いんや　ただの嗜好品じゃ",
+        "MetaData": {
+          "ACTOR": "チョコボ仙人"
+        }
+      },
+      "English": {
+        "Text": "Oh, no. Just a little fun.",
+        "MetaData": {
+          "ACTOR": "Chocobo Sage"
+        }
+      },
+      "before": "เปล่า ก็แค่เครื่องดื่มเพื่อความสำราญน่ะ",
+      "after": "เปล่า แค่ของที่ข้าเสพเพื่อความเพลิดเพลินน่ะ",
+      "reason": "嗜好品 is not necessarily a beverage; later 吸う explicitly refers to smoking."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_1700_0110_00_che",
+      "template": 984,
+      "Japanese": {
+        "Text": "まあ　あと何度か競争すれば\r\nなじんでくるわ",
+        "MetaData": {
+          "ACTOR": "チョコボ仙人"
+        }
+      },
+      "English": {
+        "Text": "Meh... \"If at first you don't succeed,\" et cetera.",
+        "MetaData": {
+          "ACTOR": "Chocobo Sage"
+        }
+      },
+      "before": "เอาเถอะ แข่งอีกสักกี่ครั้ง\r\nก็คงจะคุ้นเคยเอง",
+      "after": "เอาเถอะ แข่งอีกสักไม่กี่ครั้ง\r\nก็คงจะคุ้นเคยเอง",
+      "reason": "何度か means a few times, not the interrogative สักกี่ครั้ง."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_1800_0300_00_che",
+      "template": 991,
+      "Japanese": {
+        "Text": "それだけ　チョコボは\r\n奥が深い生き物ということじゃ",
+        "MetaData": {
+          "ACTOR": "チョコボ仙人"
+        }
+      },
+      "English": {
+        "Text": "Bird handlin' is an art─one that requires hours of practice to perfect.",
+        "MetaData": {
+          "ACTOR": "Chocobo Sage"
+        }
+      },
+      "before": "นั่นแสดงว่าโจโกโบะ\r\nเป็นสิ่งมีชีวิตที่ลึกซึ้งเพียงใด",
+      "after": "นั่นแสดงว่าเรื่องของโจโกโบะ\r\nยังมีอะไรให้เรียนรู้อีกมาก",
+      "reason": "奥が深い concerns depth of knowledge, not a literally profound creature."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_1900_1000_00_che",
+      "template": 1006,
+      "Japanese": {
+        "Text": "しかたがないので\r\n適当に雑用を押しつけたのが始まりじゃわ",
+        "MetaData": {
+          "ACTOR": "チョコボ仙人"
+        }
+      },
+      "English": {
+        "Text": "Since they had nothin' better to do, I put 'em to work─and that's how it all began.",
+        "MetaData": {
+          "ACTOR": "Chocobo Sage"
+        }
+      },
+      "before": "ข้าเลยช่วยไม่ได้\r\nโยนงานจิปาถะให้ทำไปตามเรื่อง นั่นแหละจุดเริ่มต้น",
+      "after": "ข้าเลยจำใจ\r\nโยนงานจิปาถะให้ทำไปตามเรื่อง นั่นแหละจุดเริ่มต้น",
+      "reason": "しかたがないので = having no choice; avoid sounding unable to help."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_01_1900_2600_00_che",
+      "template": 1021,
+      "Japanese": {
+        "Text": "まずは邪念を取り払い　いまいちど\r\n己を見つめ直す時間を与えようと考えたわけじゃ",
+        "MetaData": {
+          "ACTOR": "チョコボ仙人"
+        }
+      },
+      "English": {
+        "Text": "What you needed was time─time to look deep inside yourself and clear out all the wickedness and spite that have been hauntin' your heart.",
+        "MetaData": {
+          "ACTOR": "Chocobo Sage"
+        }
+      },
+      "before": "จึงคิดว่าจะให้เวลาขจัดความคิดชั่วร้าย\r\nแล้วกลับมาทบทวนตัวเองอีกครั้งเสียก่อน",
+      "after": "ข้าจึงคิดจะให้เวลาเจ้าปล่อยวางความแค้น\r\nแล้วกลับมาทบทวนตัวเองอีกครั้งเสียก่อน",
+      "reason": "邪念 here is Billy’s revenge fixation, as the following hatred/avenging dialogue confirms."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_02_0300_2790_00_dae",
+      "template": 1091,
+      "Japanese": {
+        "Text": "ふふん　私はダーエ\r\nここの料理長よ",
+        "MetaData": {
+          "ACTOR": "ダーエ"
+        }
+      },
+      "English": {
+        "Text": "I'm Christine by the way. Chef and chanteuse.",
+        "MetaData": {
+          "ACTOR": "Christine"
+        }
+      },
+      "before": "ฮึๆ ฉันชื่อคริสทีน\r\nเป็นหัวหน้าพ่อครัวของที่นี่",
+      "after": "ฮึๆ ฉันชื่อคริสทีน\r\nเป็นหัวหน้าครัวของที่นี่",
+      "reason": "料理長 is a gender-neutral occupation; avoid introducing พ่อครัว as gender evidence."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_02_0800_0400_00_tif",
+      "template": 1121,
+      "Japanese": {
+        "Text": "私がもらってきたネコなのに\r\nパパのほうがかわいがってたかも",
+        "MetaData": {
+          "ACTOR": "ティファ"
+        }
+      },
+      "English": {
+        "Text": "Even though she was my cat, I think he took better care of her.",
+        "MetaData": {
+          "ACTOR": "Tifa"
+        }
+      },
+      "before": "ทั้งที่ฉันเป็นคนได้แมวมา\r\nแต่พ่ออาจจะรักมันมากกว่าฉันอีก",
+      "after": "ทั้งที่ฉันเป็นคนได้แมวมา\r\nแต่พ่ออาจจะเป็นฝ่ายที่รักเจ้าเหมียวมากกว่าก็ได้",
+      "reason": "Compare father’s and Tifa’s affection for the cat; avoid implying father loved the cat more than his daughter."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_02_1500_0900_00_dae",
+      "template": 1187,
+      "Japanese": {
+        "Text": "持ち直せるわよ",
+        "MetaData": {
+          "ACTOR": "ダーエ"
+        }
+      },
+      "English": {
+        "Text": "I know you can do better.",
+        "MetaData": {
+          "ACTOR": "Christine"
+        }
+      },
+      "before": "กลับมาตั้งหลักได้นะ",
+      "after": "ค่อยๆ กลับเข้าจังหวะได้นะ",
+      "reason": "持ち直せる is encouragement to recover during the piano performance."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_02_1700_0100_00_tif",
+      "template": 1190,
+      "Japanese": {
+        "Text": "ごめんなさい　調子に乗っちゃった",
+        "MetaData": {
+          "ACTOR": "ティファ"
+        }
+      },
+      "English": {
+        "Text": "Sorry about that. Definitely rusty.",
+        "MetaData": {
+          "ACTOR": "Tifa"
+        }
+      },
+      "before": "ขอโทษนะ เผลอเล่นเพลินไปหน่อย",
+      "after": "ขอโทษนะ ฉันมั่นใจเกินไปหน่อย",
+      "reason": "Bad-performance branch: 調子に乗った is getting overconfident, not merely playing for too long."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_20_0400_0600_00_mfa",
+      "template": 1352,
+      "Japanese": {
+        "Text": "ここに来てからは\r\nみんな健康に暮らせているの"
+      },
+      "English": {
+        "Text": "Living out here in the country has done wonders for my health."
+      },
+      "before": "ตั้งแต่มาอยู่ที่นี่\r\nทุกคนก็ใช้ชีวิตอย่างสุขภาพดีกันนะ",
+      "after": "ตั้งแต่มาอยู่ที่นี่\r\nทุกคนก็มีสุขภาพดีกันนะ",
+      "reason": "Natural Thai rendering of living healthily."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_20_0400_1500_00_mfa",
+      "template": 1365,
+      "Japanese": {
+        "Text": "ネコがゴロゴロいってるでしょ？\r\n喜んでるんだよ　ありがとうってね"
+      },
+      "English": {
+        "Text": "Do you know what that purring means? It means that she's happy. She's saying, \"Thank you for the pets!\""
+      },
+      "before": "แมวทำเสียงครืดคราดอยู่ใช่ไหม?\r\nแปลว่าดีใจ กำลังบอกว่าขอบคุณอยู่นะ",
+      "after": "ได้ยินเสียงแมวครางเบาๆ ใช่ไหม?\r\nแปลว่ามีความสุข กำลังบอกว่าขอบคุณอยู่นะ",
+      "reason": "ゴロゴロ is contented purring, not labored breathing."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_20_0600_0610_00_mma",
+      "template": 1419,
+      "Japanese": {
+        "Text": "料理長のダーエさんなら\r\n２階にいますよ"
+      },
+      "English": {
+        "Text": "If you're looking for Christine, she's upstairs."
+      },
+      "before": "ถ้าหาหัวหน้าพ่อครัวคริสทีน\r\nอยู่ที่ชั้น 2 นะ",
+      "after": "ถ้าหาหัวหน้าครัวคริสทีน\r\nอยู่ที่ชั้น 2 นะ",
+      "reason": "Use the same gender-neutral job title."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_20_0700_0500_00_mma",
+      "template": 1435,
+      "Japanese": {
+        "Text": "料理長のおかげで\r\n毎日楽しく仕事できています！"
+      },
+      "English": {
+        "Text": "I just love our head chef. She always keeps things interesting around here!"
+      },
+      "before": "เพราะหัวหน้าพ่อครัว\r\nเลยทำงานอย่างสนุกทุกวันเลย!",
+      "after": "เพราะหัวหน้าครัว\r\nเลยทำงานอย่างสนุกทุกวันเลย!",
+      "reason": "Use the same gender-neutral job title."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_20_0700_0600_00_mfa",
+      "template": 1436,
+      "Japanese": {
+        "Text": "わたしも料理長みたいに\r\nいつでもどこでもおおらかにありたいわ"
+      },
+      "English": {
+        "Text": "Seriously. I hope I can learn to be as coolheaded as her someday."
+      },
+      "before": "ฉันก็อยากเป็นคนใจกว้างได้ทุกที่ทุกเวลา\r\nเหมือนหัวหน้าพ่อครัวบ้างจัง",
+      "after": "ฉันก็อยากเป็นคนสบายๆ ไม่คิดมาก\r\nได้ทุกที่ทุกเวลาเหมือนหัวหน้าครัวบ้างจัง",
+      "reason": "おおらか describes an easygoing demeanor; keep the occupation neutral."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$CARDG_QST_16_0300_0300_00_dle",
+      "template": 1481,
+      "Japanese": {
+        "Text": "くろ……べに……\r\nじょお……まじょ……",
+        "MetaData": {
+          "ACTOR": "デイル"
+        }
+      },
+      "English": {
+        "Text": "Shadow...blood... Queen... Witch...",
+        "MetaData": {
+          "ACTOR": "Dale"
+        }
+      },
+      "before": "โลหิต……เงา……\r\nราชินี……แม่มด……",
+      "after": "โลหิต……ดำ……\r\nราชินี……แม่มด……",
+      "reason": "Match existing spoken ราชินีโลหิตดำ terminology; เงา was inconsistent."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$CARDG_QST_16_0600_0410_00_tur",
+      "template": 1510,
+      "Japanese": {
+        "Text": "もしかして　おまえ……無職なのか？",
+        "MetaData": {
+          "ACTOR": "ターナー"
+        }
+      },
+      "English": {
+        "Text": "Oh, I see... You're unemployed. Living the dream!",
+        "MetaData": {
+          "ACTOR": "Turner"
+        }
+      },
+      "before": "หรือว่านาย……ตกงานอยู่?",
+      "after": "หรือว่านาย……ว่างงานอยู่?",
+      "reason": "無職 means unemployed, without asserting a recent job loss."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_00_0700_0300_00_fcs",
+      "template": 1520,
+      "Japanese": {
+        "Text": "あなたの作品が\r\n世界をめぐっている様子が目に浮かびます",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "It bespeaks a beautiful finesse─never seen anything like it.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "ผมเห็นภาพผลงานของคุณ\r\nเดินทางไปทั่วโลกเลย",
+      "after": "ฉันเห็นภาพผลงานของคุณ\r\nเดินทางไปทั่วโลกเลย",
+      "reason": "Neutral first-person pronoun where no new speaker-sex evidence was established."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_07_0300_0200_00_fcs",
+      "template": 1528,
+      "Japanese": {
+        "Text": "申請して　なんとか撮影の許可を取りました",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "Getting permission to take pictures was <i>not</i> easy.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "ผมยื่นเรื่องจนขออนุญาตถ่ายภาพได้ในที่สุด",
+      "after": "ฉันยื่นเรื่องจนขออนุญาตถ่ายภาพได้ในที่สุด",
+      "reason": "Same neutral first-person policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_07_0300_0500_00_fcs",
+      "template": 1531,
+      "Japanese": {
+        "Text": "では　オススメ撮影スポットが見つかったら\r\n教えてくださいね",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "If you find a good photo spot, don't hesitate to let me know.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "ถ้าเจอจุดถ่ายภาพที่แนะนำ\r\nก็บอกด้วยนะ",
+      "after": "ถ้าเจอจุดถ่ายภาพดีๆ\r\nก็บอกด้วยนะ",
+      "reason": "He asks the player to recommend a spot, not to find an already recommended one."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_07_0300_0600_00_fcs",
+      "template": 1532,
+      "Japanese": {
+        "Text": "私の目的はズバリ　あのニブル山です",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "Today's target is none other than Mt. Nibel.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "เป้าหมายของผมก็คือเขานิเบิลลูกนั้น",
+      "after": "เป้าหมายของฉันก็คือเขานิเบิลลูกนั้น",
+      "reason": "Same neutral first-person policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_07_0400_0100_00_fcs",
+      "template": 1536,
+      "Japanese": {
+        "Text": "オススメ撮影スポットを\r\n見つけてくれたんですね　ありがとうございます",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "Hey there. Thank you for tracking down that spot. Quite the view you captured.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "หาจุดถ่ายภาพที่แนะนำ\r\nให้แล้วสินะ ขอบคุณมาก",
+      "after": "หาจุดถ่ายภาพดีๆ\r\nให้แล้วสินะ ขอบคุณมาก",
+      "reason": "Acknowledge the player’s recommendation naturally."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PHOTO_QST_07_0500_0100_00_fcs",
+      "template": 1541,
+      "Japanese": {
+        "Text": "近くに　神羅屋敷と呼ばれる建物があるのですが\r\nそこだけ撮影の許可がおりなかったんですよ",
+        "MetaData": {
+          "ACTOR": "フォーカス"
+        }
+      },
+      "English": {
+        "Text": "I managed to get permission to take pictures of every place in town except for one: Shinra Manor.",
+        "MetaData": {
+          "ACTOR": "Snaps"
+        }
+      },
+      "before": "แถวนี้มีอาคารที่เรียกว่าคฤหาสน์ชินระอยู่\r\nแต่มีแค่ที่นั่นที่ผมไม่ได้รับอนุญาตให้ถ่ายภาพ",
+      "after": "แถวนี้มีอาคารที่เรียกว่าคฤหาสน์ชินระอยู่\r\nแต่มีแค่ที่นั่นที่ฉันไม่ได้รับอนุญาตให้ถ่ายภาพ",
+      "reason": "Same neutral first-person policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_CDV_01_0500_3100_00_chd",
+      "template": 1581,
+      "Japanese": {
+        "Text": "宝条博士を超えるためにも\r\nここで研究をしてみるのもいいかもしれません",
+        "MetaData": {
+          "ACTOR": "チャドリー"
+        }
+      },
+      "English": {
+        "Text": "I suppose that makes it a fitting place for me to endeavor to surpass his research.",
+        "MetaData": {
+          "ACTOR": "Chadley"
+        }
+      },
+      "before": "ถ้าอยากก้าวข้ามดอกเตอร์โฮโจ\r\nลองทำวิจัยที่นี่ดูก็อาจดีนะครับ",
+      "after": "เพื่อก้าวข้ามดอกเตอร์โฮโจ\r\nผมอาจลองทำวิจัยที่นี่ดูก็ได้นะครับ",
+      "reason": "Chadley proposes his own research, not that Cloud should become a researcher."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_CDV_02_0700_2300_00_msg",
+      "template": 1594,
+      "Japanese": {
+        "Text": "わたくしのガイド能力を\r\nさらに強化することができます！",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "I'll use this data to further enhance my guidance functionality!",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะช่วยเสริมประสิทธิภาพ\r\nการนำทางของฉันให้ดียิ่งขึ้นค่ะ!",
+      "after": "จะช่วยเสริมความสามารถ\r\nในการให้คำแนะนำของฉันให้ดียิ่งขึ้นค่ะ!",
+      "reason": "MAI means combat guidance, not geographic navigation."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_MGV_01_0700_0400_00_msg",
+      "template": 1625,
+      "Japanese": {
+        "Text": "これより　ガイドを開始します",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "Commencing guidance protocol.",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะเริ่มให้คำแนะนำจากนี้ค่ะ",
+      "after": "จากนี้จะเริ่มให้คำแนะนำค่ะ",
+      "reason": "Natural Thai word order; apply to all five same-context guidance-start lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_MGV_01_0700_1200_00_msg",
+      "template": 1625,
+      "Japanese": {
+        "Text": "これより　ガイドを開始します",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "Commencing guidance protocol.",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะเริ่มให้คำแนะนำจากนี้ค่ะ",
+      "after": "จากนี้จะเริ่มให้คำแนะนำค่ะ",
+      "reason": "Natural Thai word order; apply to all five same-context guidance-start lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_MGV_01_0700_2100_00_msg",
+      "template": 1625,
+      "Japanese": {
+        "Text": "これより　ガイドを開始します",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "Commencing guidance protocol.",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะเริ่มให้คำแนะนำจากนี้ค่ะ",
+      "after": "จากนี้จะเริ่มให้คำแนะนำค่ะ",
+      "reason": "Natural Thai word order; apply to all five same-context guidance-start lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_MGV_01_0700_3000_00_msg",
+      "template": 1625,
+      "Japanese": {
+        "Text": "これより　ガイドを開始します",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "Commencing guidance protocol.",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะเริ่มให้คำแนะนำจากนี้ค่ะ",
+      "after": "จากนี้จะเริ่มให้คำแนะนำค่ะ",
+      "reason": "Natural Thai word order; apply to all five same-context guidance-start lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$WORLD_MGV_01_0700_3900_00_msg",
+      "template": 1625,
+      "Japanese": {
+        "Text": "これより　ガイドを開始します",
+        "MetaData": {
+          "ACTOR": "ＭＡＩ"
+        }
+      },
+      "English": {
+        "Text": "Commencing guidance protocol.",
+        "MetaData": {
+          "ACTOR": "MAI"
+        }
+      },
+      "before": "จะเริ่มให้คำแนะนำจากนี้ค่ะ",
+      "after": "จากนี้จะเริ่มให้คำแนะนำค่ะ",
+      "reason": "Natural Thai word order; apply to all five same-context guidance-start lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_0800_1700_00_sys",
+      "template": "existing-UI",
+      "Japanese": {
+        "Text": "そうだな"
+      },
+      "English": {
+        "Text": "Sounds like something I'd do."
+      },
+      "before": "นั่นสิ",
+      "after": "ก็เคยอยู่",
+      "reason": "Affirm Aerith’s question about watching Tifa from the tower; original นั่นสิ is vague."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_0800_1900_00_sys",
+      "template": "existing-UI",
+      "Japanese": {
+        "Text": "バカにするな"
+      },
+      "English": {
+        "Text": "That's not funny."
+      },
+      "before": "อย่ามาดูถูกกัน",
+      "after": "อย่ามาล้อกันสิ",
+      "reason": "Aerith is teasing, and Cloud’s voiced answer uses the same sense; no claim that she looks down on him."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C3110_MAIN_1800_0500_00_sys",
+      "template": "existing-UI",
+      "Japanese": {
+        "Text": "気にするな"
+      },
+      "English": {
+        "Text": "This isn't my hometown."
+      },
+      "before": "ไม่ต้องกังวล",
+      "after": "ไม่ต้องใส่ใจหรอก",
+      "reason": "Reassure Red about apologizing for badmouthing the hometown, matching the voiced answer."
+    }
+  ],
+  "scope": "Explicit Ch11 source IDs only; previous Ch1–10 unchanged except these three previously translated Ch11 choice labels."
+}

@@ -1,0 +1,19 @@
+{
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "source": "translations/working-choice-completion-th.json",
+  "stage": "staging/ThaiJP_ChoiceCompletion_Working",
+  "qa": "qa/choice-completion",
+  "cluster_map": "reference/choice-completion-cluster-map.json",
+  "seed": "reference/through-chapter9-cluster-map.json",
+  "punctuation_policy": "reference/dialogue-punctuation-policy.json"
+}

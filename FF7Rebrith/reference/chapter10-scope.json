@@ -1,0 +1,12 @@
+{
+  "records": 2717,
+  "templates": 2617,
+  "reused_templates": 26,
+  "deferred": 66,
+  "assets": {
+    "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset": 317,
+    "End/Content/Text/JP/8600-COSME_TxtRes.uasset": 2162,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 238
+  },
+  "source_sha256": "5fea8f710a34314ae2ba0e61ede31f9e3a746ab52bfdb8e233b18cbcc6612609"
+}

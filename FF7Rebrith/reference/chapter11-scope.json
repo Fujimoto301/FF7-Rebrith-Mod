@@ -1,0 +1,21 @@
+{
+  "records": 1703,
+  "templates": 1658,
+  "assets": {
+    "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset": 1505,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 198
+  },
+  "deferred": 144,
+  "source_sha256": "2edaa1934a5cc89cd7147d371beec7edcaf5c65a3e3a784832d67936c69e3620",
+  "boundaries": {
+    "main": "C3110 only; C3210 begins Chapter12",
+    "odd_jobs": "NIBLE_QST_01/02; QST03 explicitly deferred",
+    "NPC": "All NIBLT_NPC_20 states, NIBLS boss dialogue and CHADL_QST_06",
+    "shared": "Nibel Chadley/MAI, Snaps, Dale/Turner, Odin and full regional-intel families"
+  },
+  "references": [
+    "https://www.powerpyx.com/final-fantasy-7-vii-rebirth-my-white-haired-angel-walkthrough/",
+    "https://www.powerpyx.com/final-fantasy-7-vii-rebirth-lament-of-the-damned-walkthrough/"
+  ],
+  "in_game_tested": false
+}

@@ -1,0 +1,510 @@
+{
+  "records": [
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C3220_MAIN_0100_0100_00_elm",
+      "template": 0,
+      "jp": "エアリスは　あとで私がやるからね",
+      "before": "เอริธ เดี๋ยวฉันจะดูแลเองนะ",
+      "after": "เอริธน่ะ เดี๋ยวฉันดูแลเองนะ",
+      "reason": "Elmyra tells Zack she will tend to Aerith; Aerith is the topic, not the person being addressed."
+    },
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C3220_MAIN_0400_0100_00_elm",
+      "template": 49,
+      "jp": "食事までには帰ってくるんだよ",
+      "before": "กลับมาให้ทันมื้อเย็นล่ะ",
+      "after": "กลับมาให้ทันมื้ออาหารล่ะ",
+      "reason": "JP食事 does not specify dinner."
+    },
+    {
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$JUNOE_QST_06_0900_0400_00_prs",
+      "template": 311,
+      "jp": "ショータイムはじめるよ～！",
+      "before": "เริ่มเวลาแสดงแล้ว~!",
+      "after": "ได้เวลาเริ่มการแสดงแล้ว~!",
+      "reason": "Natural show-start announcement."
+    },
+    {
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$JUNOE_QST_06_0900_1800_00_prs",
+      "template": 325,
+      "jp": "ショータイムおわり～　おつかれさま",
+      "before": "จบเวลาแสดงแล้ว~ เหนื่อยหน่อยนะ",
+      "after": "จบการแสดงแล้ว~ เหนื่อยหน่อยนะ",
+      "reason": "Natural show-end announcement."
+    },
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CHADL_QST_03_4600_0600_00_koc",
+      "template": 475,
+      "jp": "モンジョだか　ケンゴウだか知らねえが",
+      "before": "จะคัมภงคัมภีร์ หรือนักดาบอะไรไม่รู้ละ",
+      "after": "จะคัมภีร์หรือนักดาบอะไรนั่นก็ช่าง",
+      "reason": "Preserve dismissive mispronunciation without a nonsensical Thai word."
+    },
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_06_1100_0200_00_mry",
+      "template": 600,
+      "jp": "そのへんで許してやっておくれよ　なんでも屋",
+      "before": "ยกโทษให้แค่นั้นเถอะ นักรับจ้าง",
+      "after": "พอแค่นั้นแล้ว ยกโทษให้หลานฉันเถอะ พ่อนักรับจ้าง",
+      "reason": "Mireille asks Cloud to stop pressing Kyrie and forgive her; not forgive to that extent."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3210_MAIN_1900_1000_00_cid",
+      "template": 723,
+      "jp": "エアリスはいつも返事がいいなあ",
+      "before": "เอริธตอบได้ดีเสมอเลยนะ",
+      "after": "เอริธตอบรับอย่างเต็มใจเสมอเลยนะ",
+      "reason": "返事がいい refers to her enthusiastic acceptance."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3210_MAIN_2800_0600_00_red",
+      "template": 812,
+      "jp": "みんなにあわせて歩くから\r\n最近　体がなまってるんだよね",
+      "before": "ต้องคอยเดินให้ทันกับทุกคน\r\nช่วงนี้ร่างกายเลยอืดอาดไปหมด",
+      "after": "ต้องคอยเดินให้ช้าลงตามทุกคน\r\nช่วงนี้ร่างกายเลยไม่ค่อยได้ออกแรง",
+      "reason": "Red adjusts his pace down to the party; previous keep-up wording reversed the implication."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3210_MAIN_3470_0700_00_art",
+      "template": 917,
+      "jp": "読む？　読むかなあ",
+      "before": "จะอ่านเหรอ? จะอ่านไหมนะ",
+      "after": "จะอ่านหรือเปล่านะ...",
+      "reason": "Keep Aerith tentative about reading; avoid an unsupported explicit addressee."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_1735_1710_00_red",
+      "template": 1054,
+      "jp": "ごちそうさま～\r\nオイラ　お腹いっぱいだ！",
+      "before": "ขอบคุณสำหรับอาหาร~\r\nฉันอิ่มแปล้แล้ว!",
+      "after": "ขอบคุณสำหรับอาหาร~\r\nข้าอิ่มแปล้แล้ว!",
+      "reason": "Garm retains the theatricalข้า register used in his other lines."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_1745_0400_00_cat",
+      "template": 1066,
+      "jp": "かつて道をたがえた友たちへの想いが\r\n彼をかろうじて　支えているのかもしれません",
+      "before": "หรือความคำนึงถึงสหายที่เคยแยกทางกัน\r\nจะเป็นสิ่งค้ำจุนเขาอย่างเลือนราง",
+      "after": "หรือความคำนึงถึงสหายที่เคยแยกทางกัน\r\nจะเป็นสิ่งที่ยังพอค้ำจุนเขาไว้ได้",
+      "reason": "かろうじて means barely managing, not faint/indistinct."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_1780_0400_00_rus",
+      "template": 1121,
+      "jp": "<i>忙しい足音に急かされて</i>",
+      "before": "<i>ถูกรอยเท้าอันเร่งรีบเร่งเร้า</i>",
+      "after": "<i>ถูกเสียงฝีเท้าเร่งรีบเร่งเร้า</i>",
+      "reason": "足音 means sound of footsteps, not footprints."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_2800_0200_00_tif",
+      "template": 1189,
+      "jp": "クラウド　乗って？",
+      "before": "คลาวด์ ขึ้นสิ?",
+      "after": "คลาวด์ ขึ้นมาสิ",
+      "reason": "Tifa invites him aboard; natural request rather than a question mark attached to imperative."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_3800_2400_00_yfi",
+      "template": 1268,
+      "jp": "でもぜ～んぶ　文字どおりの子供ダマシ",
+      "before": "แต่ทั้งหมดเป็นแค่การหลอกเด็กตามตัวอักษรเลย",
+      "after": "แต่ทั้งหมดก็เป็นแค่การหลอกเด็กจริงๆ นั่นแหละ",
+      "reason": "Keep the literal child-tricking joke in natural Thai."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_3900_1300_00_blt",
+      "template": 1298,
+      "jp": "最初のデートは　遊園地だったな",
+      "before": "เดตแรกของเราที่สวนสนุกนี่แหละ",
+      "after": "เดตแรกของเราไปสวนสนุกกันน่ะ",
+      "reason": "He recalls a different travelling amusement park; นี่แหละ wrongly implied this location."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_4000_2200_00_cld",
+      "template": 1334,
+      "jp": "気にしようがない",
+      "before": "ถึงสนใจไปก็ทำอะไรไม่ได้",
+      "after": "ถึงอยากสนใจ ก็ไม่รู้จะสนใจยังไง",
+      "reason": "気にしようがない: cannot attend to unknowable fate, rather than inability to act on it."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_5200_0600_00_soc",
+      "template": 1418,
+      "jp": "砂漠のお調子者　サボテンダーの登場だー！",
+      "before": "ตัวป่วนแห่งทะเลทราย แคคทัวร์ปรากฏตัวแล้ว~!",
+      "after": "ตัวป่วนแห่งทะเลทราย แคคเตอร์ปรากฏตัวแล้ว~!",
+      "reason": "Canonical spoken Cactuar spelling in the prior chapters is แคคเตอร์."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C3230_MAIN_6300_0700_00_cld",
+      "template": 1542,
+      "jp": "放っておこう　それよりも",
+      "before": "ปล่อยไปเถอะ ยิ่งกว่านั้น",
+      "after": "ปล่อยไปเถอะ ที่สำคัญกว่านั้น...",
+      "reason": "Shift attention from Rufus to Cait Sith, not the literal ยิ่งกว่านั้น."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_02_0400_0600_00_sum",
+      "template": 1739,
+      "jp": "八百長だ？　馬鹿らしい",
+      "before": "ล้มแข่งเหรอ? ไร้สาระ",
+      "after": "ล็อกผลแข่งเหรอ? ไร้สาระ",
+      "reason": "八百長 means race-fixing; ล้มแข่ง is unclear."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_02_0400_2500_00_sum",
+      "template": 1759,
+      "jp": "でも　ガキにゃあまだ早い\r\n真相は大人になるまでガマンしな",
+      "before": "แต่เด็กยังฟังเร็วไป\r\nรอให้โตก่อนแล้วค่อยรู้ความจริงเถอะ",
+      "after": "แต่เรื่องนี้เด็กยังไม่ควรรู้\r\nรอให้โตก่อนแล้วค่อยฟังความจริงเถอะ",
+      "reason": "まだ早い concerns maturity, not a child listening quickly."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_02_1000_2900_00_sum",
+      "template": 1820,
+      "jp": "捨てられたとか思うなよ\r\nあいつらが守ったのは　おまえたちの未来だ",
+      "before": "อย่าคิดว่าถูกทอดทิ้งเลย\r\nสิ่งที่พวกเขาปกป้องไว้คืออนาคตของพวกนาย",
+      "after": "อย่าคิดว่าถูกทอดทิ้งเลย\r\nสิ่งที่พวกเขาปกป้องไว้คืออนาคตของนายกับน้องสาว",
+      "reason": "Sam means the future of Billy and his younger sister, not a group including Cloud; state both siblings explicitly."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0200_0500_00_snk",
+      "template": 1864,
+      "jp": "はい　そのとおり！",
+      "before": " ถูกต้องแล้ว!",
+      "after": "ถูกต้องแล้ว!",
+      "reason": "Remove unintended leading space."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0900_0110_00_snk",
+      "template": 1900,
+      "jp": "これで君も　遊び人としての一歩目を\r\n踏み出したわけです",
+      "before": "เท่านี้คุณก็ก้าวแรก\r\nสู่การเป็นนักเที่ยวแล้ว",
+      "after": "เท่านี้คุณก็เริ่มก้าวแรก\r\nสู่การเป็นนักเที่ยวแล้ว",
+      "reason": "Complete the sentence with the attained-step predicate."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_1700_0610_00_snk",
+      "template": 1939,
+      "jp": "ええ　それで状況は？\r\nなるほど……",
+      "before": " แล้วสถานการณ์เป็นยังไง?\r\nอย่างนี้นี่เอง...",
+      "after": "แล้วสถานการณ์เป็นยังไง?\r\nอย่างนี้นี่เอง...",
+      "reason": "Remove unintended leading space."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_1700_1110_00_snk",
+      "template": 1945,
+      "jp": "部下たちのまえに立って\r\n上とやりあえるのは　あたしだけですから",
+      "before": "เพราะมีแต่ผมที่ยืนต่อหน้าลูกน้อง\r\nแล้วสู้กับเบื้องบนให้ได้",
+      "after": "เพราะมีแต่ผมที่ยืนปกป้องลูกน้อง\r\nแล้วต่อกรกับเบื้องบนได้",
+      "reason": "He stands up for his subordinates against management, rather than merely standing in front of them."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDS_BOS_17_7100_3700_00_koc",
+      "template": 1996,
+      "jp": "ディオ軍団を針のむしろに！\r\nあっという間に\r\n人間サボテンダーのできあがり～",
+      "before": "จับกองทัพดีโอนั่งบนพรมเข็ม!\r\nพริบตาเดียว\r\nก็ได้มนุษย์แคคทัวร์แล้ว~",
+      "after": "จับกองทัพดีโอนั่งบนพรมเข็ม!\r\nพริบตาเดียว\r\nก็ได้มนุษย์แคคเตอร์แล้ว~",
+      "reason": "Canonical spoken Cactuar spelling in the prior chapters is แคคเตอร์."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDS_BOS_18_7100_5500_00_dio",
+      "template": 2348,
+      "jp": "ブラボー　タークス！\r\nふう　敵にまわしたくないものだね",
+      "before": "ยอดเยี่ยม เติร์กส!\r\nเฮ้อ ไม่อยากเป็นศัตรู้ด้วยเลยนะ",
+      "after": "ยอดเยี่ยม เติร์กส!\r\nเฮ้อ ไม่อยากเป็นศัตรูด้วยเลยนะ",
+      "reason": "Correct ศัตรู้ spelling to ศัตรู."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$CARDG_QST_07_0300_2000_00_vin",
+      "template": 2438,
+      "jp": "掘り起こした伝承が悪かったな",
+      "before": "ตำนานที่ขุดขึ้นมาเป็นสิ่งชั่วร้ายสินะ",
+      "after": "เลือกขุดตำนานผิดเรื่องเข้าแล้วสินะ",
+      "reason": "Vincent comments on the ill-fated legend chosen, not simply that the legend is evil."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGE_QST_05_1200_3800_00_csn",
+      "template": 2517,
+      "jp": "私が　思わせぶりな態度で\r\nあなたの気を引こうとしたとか？",
+      "before": "หมายถึงฉันทำท่าทีมีลับลมคมใน\r\nเพื่อเรียกร้องความสนใจจากนายเหรอ?",
+      "after": "หมายถึงฉันทำทีเหมือนมีใจ\r\nเพื่อเรียกร้องความสนใจจากนายเหรอ?",
+      "reason": "Cissnei playfully interprets suggestive behavior as flirtation before Cloud clarifies that she seems to know him."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGE_QST_05_1200_5500_00_csn",
+      "template": 2535,
+      "jp": "あ～あ　無力",
+      "before": "เฮ้อ ไร้พลังจริงๆ",
+      "after": "เฮ้อ ทำอะไรไม่ได้เลย",
+      "reason": "無力 here is feeling powerless to affect world events."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGE_QST_06_0200_1000_00_mib",
+      "template": 2560,
+      "jp": "大変失礼いたしました\r\nわたくし　絵本作家のミーベと申します",
+      "before": "เสียมารยาทอย่างยิ่ง\r\nฉันชื่อเมฟ เป็นนักเขียนหนังสือภาพ",
+      "after": "ขออภัยที่เสียมารยาท\r\nฉันชื่อเมฟ เป็นนักเขียนหนังสือภาพ",
+      "reason": "Natural apology/introduction."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGE_QST_06_0700_2200_00_mib",
+      "template": 2634,
+      "jp": "はい　書きあげましたら\r\n必ずバレットさん親子にお届けいたします",
+      "before": " ถ้าเขียนเสร็จแล้ว\r\nจะส่งให้คุณบาร์เร็ตกับลูกสาวแน่นอน",
+      "after": "ถ้าเขียนเสร็จแล้ว\r\nจะส่งให้คุณบาร์เร็ตกับลูกสาวแน่นอน",
+      "reason": "Remove unintended leading space."
+    },
+    {
+      "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+      "id": "$COSME_QST_05_0100_1600_00_gjy",
+      "template": 2651,
+      "jp": "神羅が七番街を潰す計画を立てているって\r\nウワサを聞いた時は正直　半信半疑だったんだ",
+      "before": "ตอนข่าวลือว่าชินระวางแผนทำลายเขต7\r\nพูดตรงๆ ว่าฉันยังไม่ค่อยเชื่อ",
+      "after": "ตอนที่ได้ยินข่าวลือว่าชินระวางแผนทำลายเขต7\r\nพูดตรงๆ ว่าฉันยังไม่ค่อยเชื่อ",
+      "reason": "Restore the heard-rumor verb."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_03_0300_0300_00_mma",
+      "template": 2865,
+      "jp": "ここ　あなたの故郷でしたよね\r\nはやく落ち着いてほしいですねえ",
+      "before": "ที่นี่เคยเป็นบ้านเกิดคุณใช่ไหม\r\nอยากให้สงบลงเร็วๆ นะ",
+      "after": "ที่นี่เป็นบ้านเกิดคุณใช่ไหม\r\nอยากให้สงบลงเร็วๆ นะ",
+      "reason": "A hometown remains a hometown; remove unsupported formerly."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_03_1900_0400_00_vin",
+      "template": 2954,
+      "jp": "モンスターも成長するし　精神活動もある",
+      "before": "มอนสเตอร์ก็เติบโต และมีกิจกรรมทางจิตใจด้วย",
+      "after": "มอนสเตอร์ก็เติบโต และมีความคิดความรู้สึกด้วย",
+      "reason": "精神活動 in this explanation is mental/emotional life, not awkward กิจกรรมทางจิตใจ."
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLE_QST_03_1900_0500_00_vin",
+      "template": 2955,
+      "jp": "境遇が耐え難ければ　悲痛な声で歌いもする\r\nそういうことかもしれない",
+      "before": "ถ้าสภาพที่อยู่ทนรับไม่ไหว ก็ร้องเพลงด้วยเสียงโศกเศร้า\r\nอาจเป็นแบบนั้นก็ได้",
+      "after": "หากต้องอยู่กับสภาพอันเกินทน ก็อาจร้องเพลงคร่ำครวญ\r\nอาจเป็นแบบนั้นก็ได้",
+      "reason": "Natural statement preserving the hypothetical emotional explanation."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$CHADL_QST_07_1550_0310_00_gil",
+      "template": 3064,
+      "jp": "エクスカリ“パー”ではないか！",
+      "before": "นี่มันเอ็กซ์คาลิ『เพอร์』!",
+      "after": "นี่มันเอ็กซ์คาลิ『พัวร์』!",
+      "reason": "The same-ID official name is Excalipoor; preserve the emphasized differing syllable."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$CARDG_QST_05_0200_0200_00_rdl",
+      "template": 3140,
+      "jp": "いまの君ではダメだ\r\nもっと　力をつけてきてくれ",
+      "before": "ตอนนี้นายยังไม่ได้\r\nไปเพิ่มฝีมือให้มากกว่านี้ก่อน",
+      "after": "ฝีมือนายตอนนี้ยังไม่พอ\r\nไปเพิ่มฝีมือให้มากกว่านี้ก่อน",
+      "reason": "いまの君ではダメ is insufficient skill, not the incomplete ยังไม่ได้."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$CARDG_QST_05_0200_0300_00_rdl",
+      "template": 3141,
+      "jp": "よくきた　クラウド",
+      "before": "มาได้ดีแล้ว คลาวด์",
+      "after": "มาแล้วสินะ คลาวด์",
+      "reason": "よくきた is welcome, not came well."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$CARDG_QST_07_0100_1110_00_leg",
+      "template": 3208,
+      "jp": "『力に身を委ねろ　すべてを支配しろ』って",
+      "before": "บอกว่า『จงยอมมอบตัวให้พลัง แล้วครอบงำทุกสิ่ง』",
+      "after": "บอกว่า『จงปล่อยตัวไปตามอำนาจ แล้วครอบงำทุกสิ่ง』",
+      "reason": "Entrust oneself to power, not hand oneself in."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$PIANO_QST_01_0300_1000_00_pia",
+      "template": 3338,
+      "jp": "これからもどうか　その指で\r\n美しい音色を奏で続けてくださいませ",
+      "before": "จากนี้ก็ขอให้นิ้วคู่นั้น\r\nบรรเลงเสียงอันงดงามต่อไปด้วยนะ",
+      "after": "จากนี้ก็ขอให้นิ้วมือของท่าน\r\nบรรเลงเสียงอันงดงามต่อไปด้วยนะ",
+      "reason": "その指 does not mean a pair of fingers."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EB0004_00_RenoMine_Standard",
+      "template": 3456,
+      "jp": "レノが使用する浮遊機雷の改良版。ルードとの連携プログラムが追加され、多彩な攻撃で敵をかく乱する。",
+      "before": "ทุ่นระเบิดลอยตัวรุ่นปรับปรุงที่รีโนใช้ เพิ่มโปรแกรมประสานงานกับรู้ด เพื่อก่อกวนศัตรู้ด้วยการโจมตีหลากหลายรูปแบบ",
+      "after": "ทุ่นระเบิดลอยตัวรุ่นปรับปรุงที่รีโนใช้ เพิ่มโปรแกรมประสานงานกับรู้ด เพื่อก่อกวนศัตรูด้วยการโจมตีหลากหลายรูปแบบ",
+      "reason": "Correct ศัตรู้ spelling to ศัตรู."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EB2040_00_Bottomswell_WaterBall",
+      "template": 3473,
+      "jp": "ボトムスウェルが吐き出した水の玉。獲物を水の膜で覆い、閉じ込める。",
+      "before": "ลูกน้ำที่ Terror of the Deep พ่นออกมา ใช้เยื่อน้ำหุ้มเหยื่อแล้วกักขังไว้",
+      "after": "ก้อนน้ำที่ Terror of the Deep พ่นออกมา ใช้เยื่อน้ำหุ้มเหยื่อแล้วกักขังไว้",
+      "reason": "水の玉 is a water sphere; ลูกน้ำ suggests mosquito larvae."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN0201_00_Goblin_StandardEnd2",
+      "template": 3514,
+      "jp": "人間の文化に興味を持ち、独学で言語を習得した異端のゴブリン。古の盟約にもとづき、サボテンダーたちを指揮し、砂漠の秘宝を守る。",
+      "before": "ก็อบลินนอกรีตที่สนใจวัฒนธรรมมนุษย์และเรียนภาษาด้วยตัวเอง นำเหล่าแคคทัวร์ปกป้องสมบัติทะเลทรายตามพันธสัญญาโบราณ",
+      "after": "ก็อบลินนอกรีตที่สนใจวัฒนธรรมมนุษย์และเรียนภาษาด้วยตัวเอง นำเหล่าแคคเตอร์ปกป้องสมบัติทะเลทรายตามพันธสัญญาโบราณ",
+      "reason": "Canonical spoken Cactuar spelling in the prior chapters is แคคเตอร์."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2017_03_Tonberry_DonEnd2",
+      "template": 3544,
+      "jp": "ドン・コルネオが飼育する摩訶不思議な生物。前髪がチャームポイント。手にランタンと一撃必殺の包丁を持ち、ホヒホヒと近づいてくる。",
+      "before": "สิ่งมีชีวิตลี้ลับที่ดอน คอร์เนโอเลี้ยงไว้ มีฉันหน้าม้าเป็นเสน่ห์ ถือโคมไฟกับมีดที่ฆ่าได้ในครั้งเดียว แล้วเดินโฮฮิโฮฮิเข้ามา",
+      "after": "สิ่งมีชีวิตลี้ลับที่ดอน คอร์เนโอเลี้ยงไว้ มีผมหน้าม้าเป็นเสน่ห์ ถือโคมไฟกับมีดที่ฆ่าได้ในครั้งเดียว แล้วเดินโฮฮิโฮฮิเข้ามา",
+      "reason": "前髪 is hair/bangs; ฉัน was an incorrect pronoun substitution."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2209_00_ArkDragon_Phoenix",
+      "template": 3569,
+      "jp": "フェニックスの炎によって生み出されたモンスター。炎で敵を焼き払い、創造主を守る。",
+      "before": "มอนสเตอร์ที่เกิดจากเปลวไฟฟีนิกซ์ เผาศัตรู้ด้วยไฟเพื่อปกป้องผู้สร้าง",
+      "after": "มอนสเตอร์ที่เกิดจากเปลวไฟฟีนิกซ์ เผาศัตรูด้วยไฟเพื่อปกป้องผู้สร้าง",
+      "reason": "Correct ศัตรู้ spelling to ศัตรู."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2211_00_Ogre_Phoenix",
+      "template": 3576,
+      "jp": "フェニックスの炎によって生み出されたモンスター。敵をこん棒で叩きのめし、創造主を守る。",
+      "before": "มอนสเตอร์ที่เกิดจากเปลวไฟฟีนิกซ์ ทุบศัตรู้ด้วยกระบองเพื่อปกป้องผู้สร้าง",
+      "after": "มอนสเตอร์ที่เกิดจากเปลวไฟฟีนิกซ์ ทุบศัตรูด้วยกระบองเพื่อปกป้องผู้สร้าง",
+      "reason": "Correct ศัตรู้ spelling to ศัตรู."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2215_00_HellRiderVR2_StandardEnd2",
+      "template": 3586,
+      "jp": "神羅の科学部門によって生み出された人造生物。人型と獣型の実験体を融合した狂気の産物。海底魔晄炉の研究施設に隔離されていたが、逃げ出してしまう。",
+      "before": "สิ่งมีชีวิตเทียมที่ฝ่ายวิทยาศาสตร์ชินระสร้าง ผลผลิตวิปลาสจากการรวมร่างทดลองมนุษย์กับสัตว์ ถูกกักในศูนย์วิจัยเตาปฏิกรณ์ใต้ทะเล แต่หลบหนีออกมาได้",
+      "after": "สิ่งมีชีวิตเทียมที่ฝ่ายวิทยาศาสตร์ชินระสร้าง ผลผลิตวิปลาสจากการหลอมรวมร่างทดลองรูปร่างมนุษย์กับรูปร่างสัตว์ ถูกกักในศูนย์วิจัยเตาปฏิกรณ์ใต้ทะเล แต่หลบหนีออกมาได้",
+      "reason": "人型/獣型 specify body forms, not necessarily actual human/animal origins."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2233_00_TouchMe_StandardEnd2",
+      "template": 3621,
+      "jp": "森林地帯に生息するカエル型モンスター。襲ってくる敵をカエルに変えることで対抗する。鋭いパンチとキックを繰り出すカエル拳法の使い手。",
+      "before": "มอนสเตอร์กบที่อาศัยในป่า รับมือศัตรู้ด้วยการเปลี่ยนอีกฝ่ายเป็นกบ เชี่ยวชาญมวยกบซึ่งปล่อยหมัดและลูกเตะเฉียบคม",
+      "after": "มอนสเตอร์กบที่อาศัยในป่า รับมือศัตรูด้วยการเปลี่ยนอีกฝ่ายเป็นกบ เชี่ยวชาญมวยกบซึ่งปล่อยหมัดและลูกเตะเฉียบคม",
+      "reason": "Correct ศัตรู้ spelling to ศัตรู."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2237_00_HeavyTank_StandardEnd2",
+      "template": 3630,
+      "jp": "森林地帯に生息する大型草食獣。分厚い皮に守られた屈強な肉体と巨大な二本のツノを持つ。超重量級の暴走戦車。",
+      "before": "สัตว์กินพืชขนาดใหญ่ที่อาศัยในป่า ร่างกายกำยำปกป้องด้วยหนังหนาและมีเขายักษ์2ข้าง ราวกับรถถังคลุ้มคลั่งรุ่นมหาน้ำหนัก",
+      "after": "สัตว์กินพืชขนาดใหญ่ที่อาศัยในป่า มีร่างกายกำยำหุ้มหนังหนาและเขายักษ์2ข้าง ราวกับรถถังมหึมาที่พุ่งอาละวาด",
+      "reason": "Natural heavy runaway-tank metaphor; keep2 horns."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookText_EN2259_04_Cactuar_CorneoEnd2",
+      "template": 3660,
+      "jp": "ドン・コルネオが飼育する植物系モンスター。前髪を揺らしながらホヒホヒと走り回り、敵を翻弄する。",
+      "before": "มอนสเตอร์พืชที่ดอน คอร์เนโอเลี้ยงไว้ สะบัดฉันหน้าม้าวิ่งโฮฮิโฮฮิไปมาเพื่อปั่นหัวศัตรู",
+      "after": "มอนสเตอร์พืชที่ดอน คอร์เนโอเลี้ยงไว้ สะบัดผมหน้าม้าวิ่งโฮฮิโฮฮิไปมาเพื่อปั่นหัวศัตรู",
+      "reason": "前髪 is hair/bangs; ฉัน was an incorrect pronoun substitution."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookTipsText_EB2020_01_Elena_Colosseum",
+      "template": 3694,
+      "jp": "強力なアビリティ攻撃をあてるとHEAT状態にできるが、疾風スタイル時は強力なアビリティ攻撃を2回あてねばHEAT状態にできなくなる。タークスの連携技を断ち切ることでもHEAT状態にできる。",
+      "before": "โจมตีด้วยท่ารุนแรงเพื่อทำให้ติดHEAT แต่ขณะอยู่ในสไตล์สายลมต้องใช้ท่ารุนแรงโจมตีโดน2ครั้ง การขัดท่าประสานของเติร์กสก็ทำให้ติดHEATได้เช่นกัน",
+      "after": "โจมตีด้วยท่ารุนแรงเพื่อทำให้ติดHEAT แต่ขณะอยู่ใน Rogue Stance ต้องใช้ท่ารุนแรงโจมตีโดน2ครั้ง การขัดท่าประสานของเติร์กสก็ทำให้ติดHEATได้เช่นกัน",
+      "reason": "疾風スタイル official same action ID $bt_Elena_B_Support02 is Rogue Stance."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookTipsText_EN2204_00_Mu_StandardEnd2",
+      "template": 3754,
+      "jp": "強力な攻撃でひるませると、巣穴から弾き出してHEAT状態にできる。",
+      "before": "ใช้การโจมตีรุนแรงให้ชะงัก เพื่อกระเด็นออกจากโพรงและติดHEAT",
+      "after": "ใช้การโจมตีรุนแรงให้ชะงัก เพื่อกระแทกมันออกจากโพรงและทำให้ติดHEAT",
+      "reason": "Make the enemy, rather than the player, the explicit object of knockback."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookTipsText_EN2204_01_Mu_RareEnd2",
+      "template": 3755,
+      "jp": "弱点属性の攻撃をあてるか、強力な攻撃でひるませると巣穴から弾き出してHEAT状態にできる。",
+      "before": "โจมตีธาตุจุดอ่อน หรือใช้การโจมตีรุนแรงให้ชะงัก เพื่อกระเด็นออกจากโพรงและติดHEAT",
+      "after": "โจมตีธาตุจุดอ่อน หรือใช้การโจมตีรุนแรงให้ชะงัก เพื่อกระแทกมันออกจากโพรงและทำให้ติดHEAT",
+      "reason": "Preserve alternate elemental condition; enemy is object of knockback."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookTipsText_EN2217_02_Grangalan_GrandchildEnd2",
+      "template": 3777,
+      "jp": "ＨＰが一定以下になると近づいてきて『自爆』しようとする。『自爆』は範囲内の敵にもダメージを与える。強力なアビリティ攻撃をあてると、前方へ大きく吹っ飛ばして『自爆』させることができる。",
+      "before": "เมื่อHPต่ำกว่าระดับที่กำหนด จะเข้าใกล้แล้วพยายามใช้『Self-Destruct』ระเบิดตัวเอง ซึ่งสร้างความเสียหายแก่ศัตรูในระยะด้วย ใช้ท่ารุนแรงโจมตีเพื่อกระเด็นไปข้างหน้าไกลๆ แล้วระเบิดได้",
+      "after": "เมื่อHPต่ำกว่าระดับที่กำหนด จะเข้าใกล้แล้วพยายามใช้『Self-Destruct』ระเบิดตัวเอง ซึ่งสร้างความเสียหายแก่ศัตรูในระยะด้วย ใช้ท่ารุนแรงโจมตีให้มันกระเด็นไปข้างหน้าไกลๆ แล้วระเบิดได้",
+      "reason": "Explicitly knock the enemy forward; previous subject of กระเด็น was unclear."
+    },
+    {
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$menu_EnemyBookTipsText_SU2020_01_Kjata_Boss",
+      "template": 3840,
+      "jp": "炎氷雷のいずれかの属性に変化する。弱点属性の攻撃で一定のダメージを与えるとHEAT状態にでき、属性状態が解除される。解除に失敗するとエレメントが出現し、３つそろうと『トライディザスター』が発動する。",
+      "before": "เปลี่ยนเป็นธาตุไฟ น้ำแข็ง หรือสายฟ้า โจมตีธาตุจุดอ่อนจนสร้างความเสียหายถึงระดับหนึ่งเพื่อทำให้ติดHEATและปลดธาตุ หากปลดไม่สำเร็จจะมีธาตุปรากฏ เมื่อครบ3ธาตุจะใช้『Tri-Disaster』",
+      "after": "เปลี่ยนเป็นธาตุไฟ น้ำแข็ง หรือสายฟ้า โจมตีธาตุจุดอ่อนจนสร้างความเสียหายถึงระดับหนึ่งเพื่อทำให้ติดHEATและปลดธาตุ หากปลดไม่สำเร็จจะเรียกสิ่งมีชีวิตธาตุออกมา เมื่อครบ3ธาตุจะใช้『Tri-Disaster』",
+      "reason": "エレメント出現 describes manifested elemental beings; merely a type appearing was vague."
+    }
+  ],
+  "templates": 56,
+  "source": "Second complete JP/Thai template read; original release snapshot retained."
+}

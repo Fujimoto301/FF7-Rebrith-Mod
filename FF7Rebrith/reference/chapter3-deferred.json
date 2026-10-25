@@ -1,0 +1,212 @@
+[
+  {
+    "id": "$C2110_MAIN_3800_0100_00_tif",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "さっきの鳥って　どこから来たのかな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Where did that bird even come from, you think?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3800_0200_00_red",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "孤島の古い魔晄炉に\r\n巨大なコンドルが住みついた",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "There's a story about a great condor said to roost on an island's abandoned reactor.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3800_0300_00_red",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "そんな話を聞いたことがある\r\nだが　その島へ行く方法はない",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Though there's no longer any way to reach the isle─or at least, none that I'm aware of.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3800_0400_00_blt",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "神羅め　ざまあねえな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Nature's finally reclaimin' what Shinra stole.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3800_0500_00_tif",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "島か……\r\nじゃあ　どうしようもないね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Well, even if we could get there, I'd rather not bother. Didn't seem very friendly.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3800_0600_00_cld",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "ああ　まずジュノンへ行こう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Agreed. Let's focus on where we <i>can</i> go.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3900_0100_00_art",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "この先が　ジュノン？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "So all of this is Junon?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3900_0200_00_cld",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "いや　要塞都市の下に小さな村がある",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Everything above us. Below is Under Junon.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3900_0300_00_red",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "アンダージュノン　寂れた漁村だ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Little more than an impoverished fishing village.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_3900_0400_00_blt",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "神羅のしわ寄せは　全部下にくるんだ\r\nどこもいっしょだぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Figures. Shinra's always gotta have <i>someone</i> to stomp on. It's their friggin' MO.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_4000_0100_00_skm",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "ここは通行禁止だ",
+    "MetaData": {
+      "ACTOR": "警備兵"
+    },
+    "English": {
+      "Text": "I can't let you through.",
+      "MetaData": {
+        "ACTOR": "Security Officer"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_4000_0200_00_skm",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "休みたければ　アンダージュノンへ行くんだな",
+    "MetaData": {
+      "ACTOR": "警備兵"
+    },
+    "English": {
+      "Text": "Head to Under Junon if you're looking for an inn.",
+      "MetaData": {
+        "ACTOR": "Security Officer"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_4000_0300_00_skm",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "一般人は立ち入り禁止だ",
+    "MetaData": {
+      "ACTOR": "警備兵"
+    },
+    "English": {
+      "Text": "No civilians allowed.",
+      "MetaData": {
+        "ACTOR": "Security Officer"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  },
+  {
+    "id": "$C2110_MAIN_4000_0400_00_skm",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "アンダージュノンなら海沿いを進め",
+    "MetaData": {
+      "ACTOR": "警備兵"
+    },
+    "English": {
+      "Text": "Under Junon's further down, on the coast.",
+      "MetaData": {
+        "ACTOR": "Security Officer"
+      }
+    },
+    "reason": "Post-mine Junon-region approach, Fort Condor follow-up and checkpoint: defer to Chapter 4"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "chapter": 3,
+  "title": "Deeper into Darkness",
+  "records": 253,
+  "assets": {
+    "End/Content/Text/JP/8100-GRASE_TxtRes.uasset": 245,
+    "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset": 8
+  },
+  "source_sha256": "70497e1c59ee10acc1e1c8a6185c66cd2549d1bed8bcc2a7ec4536b9472f55c6",
+  "selected_prefixes": [
+    "$C2110_",
+    "$MYTHM_BOS_"
+  ],
+  "excluded_prefixes": [
+    "$C2110_MAIN_3800_",
+    "$C2110_MAIN_3900_",
+    "$C2110_MAIN_4000_"
+  ],
+  "boundary": "Entry, split parties, Turks encounter and all boss battle variants, reunion and mine-exit cinematic C2110_3600. Post-exit regional conversations are deferred, regardless of C2110 ID.",
+  "ui": "Chapter 3 objectives/help/location labels already included in the all-game UI release; preserve them."
+}

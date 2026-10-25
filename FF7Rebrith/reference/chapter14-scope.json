@@ -1,0 +1,23 @@
+{
+  "records": 936,
+  "templates": 897,
+  "assets": {
+    "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset": 201,
+    "End/Content/Text/JP/8800-FOREE_TxtRes.uasset": 435,
+    "End/Content/Text/JP/8900-CAPIT_TxtRes.uasset": 300
+  },
+  "categories": {
+    "Ch14 Midgar dream/date and all Zack branching interludes": 201,
+    "Ch14 finale, all FOREE/CAPIT script variants and ending": 638,
+    "Ch14 final boss voices, all party variants": 97
+  },
+  "source_sha256": "c7b4b0f9d762c286f1a97d077340a036d64f88c3c9059349863fdc11761fa104",
+  "future_spoken_story_excluded": [],
+  "references": [
+    "https://www.powerpyx.com/final-fantasy-7-vii-rebirth-chapter-14-end-of-the-world-walkthrough/",
+    "https://gamers-high.com/ff7-rebirth/story/chapter14.html",
+    "https://www.youtube.com/watch?v=BIHjKH4c1BI"
+  ],
+  "reference_limits": "Walkthrough boundaries and video metadata; not a full audio/video review",
+  "in_game_tested": false
+}

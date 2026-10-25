@@ -1,0 +1,2738 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0100_00_cld",
+    "Japanese": {
+      "Text": "ここは……",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "What the...?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-0"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0200_00_gil",
+    "Japanese": {
+      "Text": "彷徨いて　刻の狭間の　橋の上",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "An untethered soul\r\nAdrift in the void of time\r\nThis bridge his makefast",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-1"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0400_00_cld",
+    "Japanese": {
+      "Text": "隊長？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Captain?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-2"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0500_00_cld",
+    "Japanese": {
+      "Text": "誰だ！",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Who're you!?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-3"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0600_00_gil",
+    "Japanese": {
+      "Text": "おぬしが手に入れしもの",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "The singular item that you now hold...",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-4"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0610_00_gil",
+    "Japanese": {
+      "Text": "潔く　こちらに渡してもらおうか！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "is possessed of a power beyond your ken!\r\nYou will deliver it unto me!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-5"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0700_00_cld",
+    "Japanese": {
+      "Text": "嫌だね",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "No.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-6"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_0800_00_gil",
+    "Japanese": {
+      "Text": "ならば　力尽くで奪うまでよ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Very well. Then I shall take it from you by force!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-7"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_1000_00_gil",
+    "Japanese": {
+      "Text": "おぬし　相当の使い手と見た\r\nやはり我の見立ては正しかったようだな",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "You are indeed a worthy warrior. I saw it plain,\r\nand never does my judgment err.",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-8"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_1100_00_gil",
+    "Japanese": {
+      "Text": "と　なれば――",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "So it comes to this.",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_1200_00_gil",
+    "Japanese": {
+      "Text": "ひとまず退散ッ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Retreat!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-10"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_02_2200_1300_00_cld",
+    "Japanese": {
+      "Text": "は……？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Huh?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-11"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0100_00_cld",
+    "Japanese": {
+      "Text": "またここか……",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Here we go again...",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-12"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0300_00_cld",
+    "Japanese": {
+      "Text": "言ったはずだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Just give it up.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-13"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0310_00_cld",
+    "Japanese": {
+      "Text": "エンシェントマターを渡す気はない",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "The protorelic's staying with me.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-14"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0400_00_gil",
+    "Japanese": {
+      "Text": "ええい　黙れ\r\n過日は不覚を取ったが二度目はないわ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Silence! You caught me unawares once, but it will not happen again!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-15"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0500_00_gil",
+    "Japanese": {
+      "Text": "待ちわびて　我が身焦がせし\r\n時のまにまに",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Burning desire\r\nTo reclaim my stolen prize\r\nRages evermore",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-16"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0700_00_gil",
+    "Japanese": {
+      "Text": "いまこそ我が宝――",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "That which you have taken...",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-17"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_2900_0800_00_gil",
+    "Japanese": {
+      "Text": "返してもらうぞ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "shall be returned!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-18"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0110_00_gil",
+    "Japanese": {
+      "Text": "やはり　源氏が戻らねば力は出ぬか……",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Confound it...\r\nWithout the power of Genji, I am outmatched.",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-19"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0200_00_gil",
+    "Japanese": {
+      "Text": "おぬしの　その剣",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "That blade you wield...",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-20"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0300_00_gil",
+    "Japanese": {
+      "Text": "ううぬ……\r\n身のうちより湧き出でし　この欲求！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "The mere sight of it has kindled in me a covetous desire!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-21"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0310_00_gil",
+    "Japanese": {
+      "Text": "我は　伝説の武器を求め　ここへ？",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Could it be─that a hunger for weapons brought me hither?",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-22"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0410_00_gil",
+    "Japanese": {
+      "Text": "なにゆえ　なにも思い出せんのだ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Wherefore does the memory elude me!?",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-23"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0500_00_gil",
+    "Japanese": {
+      "Text": "ええい　源氏を……我が力を返せ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Return what you have stolen─my Genji!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-24"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0600_00_gil",
+    "Japanese": {
+      "Text": "よこせっ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Give it back!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-25"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0700_00_gil",
+    "Japanese": {
+      "Text": "よこ――",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Curse you!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-26"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0800_00_gil",
+    "Japanese": {
+      "Text": "この……！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Cur!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-27"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_0900_00_gil",
+    "Japanese": {
+      "Text": "ふんぬっ　ま……待って？",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Ugh... Stand...and deliver!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-28"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_1000_00_gil",
+    "Japanese": {
+      "Text": "ぜえ……はあ……　おのれ……",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "...Halt, I say...",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-29"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_1100_00_cld",
+    "Japanese": {
+      "Text": "大丈夫か",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Let it go.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-30"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_1200_00_gil",
+    "Japanese": {
+      "Text": "これで　勝ったと思うなよ……",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Not until you return...what is mine...",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-31"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_1210_00_gil",
+    "Japanese": {
+      "Text": "我は決して　あきらめぬ",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Only then shall I rest!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-32"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3000_1220_00_gil",
+    "Japanese": {
+      "Text": "何度でも　おぬしのまえに現れてやるぞ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Only then shall you know peace─but not until that day!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-33"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0110_00_gil",
+    "Japanese": {
+      "Text": "おぬしが来るのを　待っておったぞ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "At long last, the knave returns!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-34"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0200_00_gil",
+    "Japanese": {
+      "Text": "今宵こそ　我が手につかまん　源氏！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Beneath the moonlight\r\nIn vict'ry shall I revel\r\nMy Genji─",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-35"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0310_00_gil",
+    "Japanese": {
+      "Text": "だだだっ　誰だ貴様は！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Interloper!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-36"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0400_00_cld",
+    "Japanese": {
+      "Text": "チャドリー！",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Chadley!?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-37"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0500_00_chd",
+    "Japanese": {
+      "Text": "これまでに発生した現象を分析し\r\nクラウドさんの位置情報がロストするまえに",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "None other. After analyzing the phenomena associated with your sudden disappearance...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-38"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0600_00_chd",
+    "Japanese": {
+      "Text": "ボクのデータを潜り込ませるよう\r\nプログラムしてみました！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I was able to devise a way in which to join you virtually.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-39"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0700_00_gil",
+    "Japanese": {
+      "Text": "ぷ　ぷろぐ……？",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "\"Virch-yuu-aly\"?",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-40"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0800_00_gil",
+    "Japanese": {
+      "Text": "ええい　面妖なる奇術師めが\r\n貴様を呼んだ覚えはないぞ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "No matter! Begone, foul conjurer, or I shall make this place your grave!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-41"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_0900_00_chd",
+    "Japanese": {
+      "Text": "大変　興味深い空間です！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "This is simply fascinating!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-42"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1000_00_chd",
+    "Japanese": {
+      "Text": "ボクは　チャドリー",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I'm Chadley.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-43"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1100_00_chd",
+    "Japanese": {
+      "Text": "あなたは　いったい何者ですか？\r\nこの空間は――",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "You must tell me about yourself─and about this place!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-44"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1200_00_gil",
+    "Japanese": {
+      "Text": "我が何者かだと？",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "You dare demand answers of <i>me</i>!?",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-45"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1210_00_gil",
+    "Japanese": {
+      "Text": "ええい　それを聞きたいのは我のほうなのだ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Such impudence! A wanton display of disrespect!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-46"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1300_00_gil",
+    "Japanese": {
+      "Text": "帰れ　帰れ！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "Loathsome whelp! Die!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-47"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1400_00_chd",
+    "Japanese": {
+      "Text": "わわっ　待ってください！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Ah! Whoa! What did I say!?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-48"
+  },
+  {
+    "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5000_1500_00_gil",
+    "Japanese": {
+      "Text": "立ち去れ～い！",
+      "MetaData": {
+        "ACTOR": "謎の剣豪"
+      }
+    },
+    "English": {
+      "Text": "This will not stand!",
+      "MetaData": {
+        "ACTOR": "Eccentric Swordsman"
+      }
+    },
+    "reason": null,
+    "family": "regional_protorelic_closure_in_shared_dimension_asset",
+    "template": "recheck-49"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0100_00_cid",
+    "Japanese": {
+      "Text": "ご利用どーも！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Fixin' to fly?",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-50"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0200_00_cid",
+    "Japanese": {
+      "Text": "おう　呼んだか！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "You rang?",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-51"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0300_00_cid",
+    "Japanese": {
+      "Text": "オレの出番ってか？",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Y'all need a lift?",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-52"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0400_00_cid",
+    "Japanese": {
+      "Text": "しっかり　つかまっとけ～！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "We are cleared for takeoff!",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-53"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0500_00_cid",
+    "Japanese": {
+      "Text": "チビんじゃねえぞ！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Hold on tight!",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-54"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3400_0600_00_cid",
+    "Japanese": {
+      "Text": "オレ様のテクニックにほれんなよ～？",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Prepare to be razzled and dazzled!",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-55"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3500_0100_00_cid",
+    "Japanese": {
+      "Text": "毎度あり～！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Have a good one!",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-56"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3500_0200_00_cid",
+    "Japanese": {
+      "Text": "今後とも　ごひいきに～！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "Don't be a stranger now, y'hear?",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-57"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$C3010_MAIN_3500_0300_00_cid",
+    "Japanese": {
+      "Text": "んじゃ　あばよ～！",
+      "MetaData": {
+        "ACTOR": "シド"
+      }
+    },
+    "English": {
+      "Text": "'Preciate the business!",
+      "MetaData": {
+        "ACTOR": "Cid"
+      }
+    },
+    "reason": null,
+    "family": "Cid_flight_service_reactions_Ch10",
+    "template": "recheck-58"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0100_00_chd",
+    "Japanese": {
+      "Text": "なるほど",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Fascinating...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-59"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0200_00_chd",
+    "Japanese": {
+      "Text": "例の大男さんは『源氏』――",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I believe I understand the situation.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-60"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0300_00_chd",
+    "Japanese": {
+      "Text": "つまり　エンシェントマターを手に入れ\r\n自分の力や記憶を取り戻そうとしている……と",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "All this time, he was seeking the protorelics in order to restore his lost memories and make himself whole.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-61"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0400_00_cld",
+    "Japanese": {
+      "Text": "たぶんな",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Guess so.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-62"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0500_00_tif",
+    "Japanese": {
+      "Text": "エンシェントマターの正体って\r\n結局　なんなのかな？",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "Wait... So what exactly are the protorelics?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-63"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0600_00_chd",
+    "Japanese": {
+      "Text": "まだ解析途中ですので　確証はありませんが",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "It is of course too early to say anything for certain...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-64"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0700_00_chd",
+    "Japanese": {
+      "Text": "この次元には　本来存在しない物質で作られた\r\n武具のようなもの……と考えられます",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "but I suspect they may be some manner of armaments formed from matter not normally present in this dimension.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-65"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0800_00_chd",
+    "Japanese": {
+      "Text": "あの大男さんが\r\n異次元の存在だと仮定するならば",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "If we assume the giant was <i>also</i> from another dimension...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-66"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_0900_00_chd",
+    "Japanese": {
+      "Text": "エンシェントマターの持ち主が\r\n彼である可能性も　ゼロではありません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "then there is a possibility that he was the original owner of the protorelics.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-67"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_1000_00_blt",
+    "Japanese": {
+      "Text": "ならよ　とっとと持ち主に返してやったほうが\r\nいいんじゃないか？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Wait, so...if they <i>are</i> his, does that mean we should give 'em back?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-68"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_1100_00_chd",
+    "Japanese": {
+      "Text": "これまでの不可思議な現象から考えて\r\n彼に本来の力が戻った場合",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Given the phenomena he has been able to conjure in this dimension without the protorelics on hand...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-69"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_1200_00_chd",
+    "Japanese": {
+      "Text": "この次元に　どんな影響が発生するのか\r\n予測がつきません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I shudder to think what havoc he might wreak were his powers fully restored.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-70"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_1300_00_chd",
+    "Japanese": {
+      "Text": "彼にエンシェントマターを返すのは　もうすこし\r\n情報を集めてからでも遅くはないはずです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "It might be prudent for us to gather a bit more information on the protorelics before we decide to return them.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-71"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_04_3100_1400_00_chd",
+    "Japanese": {
+      "Text": "いましばらくは　ボクたちの手で回収し\r\n解析を進めることにしましょう",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "For now, I propose that we retrieve the artifacts and perform a thorough analysis.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Gongaga_protorelic_post_scene_report_catchup",
+    "template": "recheck-72"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0100_00_cld",
+    "Japanese": {
+      "Text": "チャドリー　無事か？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Chadley! You okay?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-73"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0200_00_chd",
+    "Japanese": {
+      "Text": "はい　なんとか……",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I believe so, yes...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-74"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0300_00_cld",
+    "Japanese": {
+      "Text": "おまえもいたよな？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Tell me I didn't dream that shit.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-75"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0400_00_chd",
+    "Japanese": {
+      "Text": "はい　クラウドさんとあそこにいたのは\r\n間違いなくボクです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Correct. That was no dream, Cloud! You and I were there together.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-76"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0500_00_chd",
+    "Japanese": {
+      "Text": "どうやらあの場所は\r\nこことは異なる次元に存在する空間のようですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Wherever \"there\" was, that is... I presume it was another dimension.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-77"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0600_00_cld",
+    "Japanese": {
+      "Text": "頭がついていかない",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Nothing's ever simple.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-78"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0700_00_chd",
+    "Japanese": {
+      "Text": "ふふ　クラウドさんの動揺を検知",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I sense exasperation.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-79"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0800_00_chd",
+    "Japanese": {
+      "Text": "この謎の解明に向け\r\nますます意欲がわいてきました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I, however, am emboldened to solve this mystery!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-80"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CHADL_QST_05_5100_0900_00_chd",
+    "Japanese": {
+      "Text": "引き続き　調査へのご協力をお願いします！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I only hope that you will assist me in my quest for answers!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_protorelic_post_scene_report",
+    "template": "recheck-81"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_21100_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん\r\nコスモエリアの調査は　これにて完了です！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Well done! Our survey of the Cosmo Canyon region is complete!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_region_completion_report",
+    "template": "recheck-82"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_21200_00_chd",
+    "Japanese": {
+      "Text": "星命学とゆかりの深い土地を調べることで\r\n星への理解が深まりました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "My understanding of the planet has deepened considerably thanks to the data you've provided.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_region_completion_report",
+    "template": "recheck-83"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_21300_00_chd",
+    "Japanese": {
+      "Text": "さらに　神羅とは違った思想に触れ\r\nぐんと視界が広がったように思います",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "This wealth of new and diverse perspectives has certainly broadened my horizons.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_region_completion_report",
+    "template": "recheck-84"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_21400_00_chd",
+    "Japanese": {
+      "Text": "神秘的なレポートの提供　ありがとうございました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I could not have come this far without your help. Thank you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_region_completion_report",
+    "template": "recheck-85"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_26500_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Cloud!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Bahamut_Arisen_simulator_unlock",
+    "template": "recheck-86"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_26600_00_chd",
+    "Japanese": {
+      "Text": "赤い大地に降り立った限界を超えし破壊神\r\n『バハムート改』を仮想空間に再現しました！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "You may now face off against Bahamut Arisen─a winged being possessed of phenomenal powers of destruction.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Bahamut_Arisen_simulator_unlock",
+    "template": "recheck-87"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_26700_00_chd",
+    "Japanese": {
+      "Text": "召喚マテリアを生成するためにも\r\nぜひ　バトルデータの収集にご協力ください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I encourage you to pit your skills against this summoned entity, so that I might complete its materia.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Bahamut_Arisen_simulator_unlock",
+    "template": "recheck-88"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0100_5600_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん　空チョコボなら\r\nこの先も進めるかもしれません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Perhaps you would be able to cross if you were riding a sky chocobo.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_sky_chocobo_field_help",
+    "template": "recheck-89"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0100_5700_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん　空チョコボなら\r\n上昇気流を捕まえて飛べるはずです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I believe a sky chocobo would be able to glide across the thermal updrafts.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Cosmo_sky_chocobo_field_help",
+    "template": "recheck-90"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0100_6000_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん\r\nこの先へ行くには　バギーが必要ですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Hey, Cloud. I believe this terrain is best traversed by buggy.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Corel_buggy_quicksand_field_help_catchup",
+    "template": "recheck-91"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0100_6100_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん\r\n流砂はバギーでしか越えられませんよ",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Careful, Cloud. Only the buggy can cross quicksand.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Corel_buggy_quicksand_field_help_catchup",
+    "template": "recheck-92"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0410_00_chd",
+    "Japanese": {
+      "Text": "ぜひ　挑戦してみてください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Perhaps you ought to seek him out.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-93"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0500_00_chd",
+    "Japanese": {
+      "Text": "おめでとうございます\r\nランクが『戦血の騎士』になりましたね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Congratulations, Cloud.\r\nYou have attained the rank of Blood Knight.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-94"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0600_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん\r\n新たなバウター情報を入手しました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "And I have obtained intel on a new opponent for you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-95"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0700_00_chd",
+    "Japanese": {
+      "Text": "北コレルに『百目のナバラ』と呼ばれる\r\n摩訶不思議なバウターがいるそうです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "There is a somewhat mysterious player by the name of Navalan in North Corel.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-96"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0800_00_chd",
+    "Japanese": {
+      "Text": "騎士の実力なら　きっと勝てます\r\nよければ挑戦してみてください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Having proven yourself as a Knight,\r\nI believe you can defeat this formidable foe.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-97"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0900_00_chd",
+    "Japanese": {
+      "Text": "おめでとうございます\r\nランクが『戦血の団長』になりましたね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Congratulations.\r\nYou have attained the rank of Blood Captain.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-98"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1000_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Cloud!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-99"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1100_00_chd",
+    "Japanese": {
+      "Text": "連絡船で戦ったロボットのワイズが\r\nバージョンアップしたという情報を入手しました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Wize─the AI you met on the ferry─has undergone a software update.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-100"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1110_00_chd",
+    "Japanese": {
+      "Text": "いまは　アンダーソーサーにいるようです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "It presently resides in the Dustbowl.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-101"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1200_00_chd",
+    "Japanese": {
+      "Text": "どれほど強くなっているのか\r\nぜひ再戦して確かめてみてください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I advise you to challenge it, and gauge its new and improved capabilities.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-102"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1300_00_chd",
+    "Japanese": {
+      "Text": "そんなクラウドさんに\r\nまたバウター情報を仕入れてきましたよ",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "As such, allow me to brief you on another promising player.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-103"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1400_00_chd",
+    "Japanese": {
+      "Text": "アンダーソーサーに『ワイズ』という\r\n高性能カードバウトロボットがいるそうです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "An advanced Queen's Blood AI named Wize can be found in the Dustbowl.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-104"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1500_00_chd",
+    "Japanese": {
+      "Text": "ぜひ戦って　その性能を確かめてみてください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I suspect it might prove a worthy opponent.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-105"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1600_00_chd",
+    "Japanese": {
+      "Text": "おめでとうございます\r\nランクが『戦血の軍師』になりましたね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Congratulations, Cloud.\r\nYou have attained the rank of Blood Tactician.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-106"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1700_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん！",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Speaking of!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-107"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1800_00_chd",
+    "Japanese": {
+      "Text": "連絡船でお会いした天才バウターのレジーさんが\r\nゴンガガに滞在しているという情報を入手しました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I've received intel that Regina─the card game maven you met on the <i>Shinra-8</i>─is in Gongaga.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-108"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_1900_00_chd",
+    "Japanese": {
+      "Text": "軍師 vs 天才……\r\nすばらしいバウトになる予感がします",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "A clash between two players of your caliber would surely be one for the ages!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-109"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_2000_00_chd",
+    "Japanese": {
+      "Text": "ぜひ　挑戦してみてください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I can't wait to watch!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-110"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_2100_00_chd",
+    "Japanese": {
+      "Text": "おめでとうございます\r\nランクが『戦血の侯爵』になりましたね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Congratulations, Cloud.\r\nYou have risen to the rank of Blood Marquis.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-111"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_2200_00_chd",
+    "Japanese": {
+      "Text": "侯爵となったクラウドさん宛てに\r\nメールが届いています",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "By the way, I recently received a letter addressed to you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-112"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_2300_00_chd",
+    "Japanese": {
+      "Text": "『ゴールドソーサーのホテルで待つ\r\n　親愛なる亡霊より』とのことです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "It read: \"I'll be waiting for you at the hotel in the Gold Saucer. From, a friendly specter.\"",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-113"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_2400_00_chd",
+    "Japanese": {
+      "Text": "これは　バウトのお誘いでしょうか",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Are they inviting you to play Queen's Blood with them? I wonder.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "Queens_Blood_rank_and_return_notifications_through_Cosmo",
+    "template": "recheck-114"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_PCV_01_1000_0100_00_tif",
+    "Japanese": {
+      "Text": "クラウドのところに急がないと",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "We have to find the others first.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": null,
+    "family": "Tifa_Gongaga_reactor_field_reactions_catchup",
+    "template": "recheck-115"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_PCV_01_1000_0200_00_tif",
+    "Japanese": {
+      "Text": "寄り道してる場合じゃないね",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "No time for distractions.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": null,
+    "family": "Tifa_Gongaga_reactor_field_reactions_catchup",
+    "template": "recheck-116"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_PCV_01_1000_0300_00_tif",
+    "Japanese": {
+      "Text": "魔晄炉に行かないと",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "Get to the reactor.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": null,
+    "family": "Tifa_Gongaga_reactor_field_reactions_catchup",
+    "template": "recheck-117"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0100_00_chd",
+    "Japanese": {
+      "Text": "ワールドレポートの達成\r\n本当にお疲れ様でした",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "The value of your assistance cannot be overstated, Cloud.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-118"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0200_00_chd",
+    "Japanese": {
+      "Text": "ワールドレポートはコンプリートしましたが\r\nボクとクラウドさんの関係は終わりません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Though I have no more to ask of you for now, I hope that we can continue our partnership!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-119"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0300_00_chd",
+    "Japanese": {
+      "Text": "ふふふ　いつでもお声がけください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "If you need anything, you know where to find me!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-120"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0400_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん　お元気そうですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "It's so good to see you again, Cloud.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-121"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0500_00_chd",
+    "Japanese": {
+      "Text": "ボクはいま　いろんな街を見てまわりながら\r\nじっくり研究ができる拠点を探しているのですが",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I've been traveling from town to town, searching for an ideal location in which I might continue my research.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-122"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0510_00_chd",
+    "Japanese": {
+      "Text": "どの街も魅力的で　なかなか選べません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "But I'm having some difficulty narrowing it down.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-123"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0600_00_chd",
+    "Japanese": {
+      "Text": "クラウドさんに集めていただいた\r\nレポートのおかげで",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "The intel you have gathered has paid dividends.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-124"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0610_00_chd",
+    "Japanese": {
+      "Text": "世界を多角的に眺められるようになりました",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I've begun to see the planet in a whole new light!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-125"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0700_00_chd",
+    "Japanese": {
+      "Text": "この世界を知れば知るほど\r\n冒険が楽しくなりますね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "The more I learn about our world, the more rewarding it is to explore it.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-126"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0800_00_chd",
+    "Japanese": {
+      "Text": "クラウドさん　冒険は順調ですか？",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Cloud! How go your travels? Well, I hope?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-127"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_0900_00_chd",
+    "Japanese": {
+      "Text": "こんにちは　調子はいかがですか？",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Hello! I hope you're doing well.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-128"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1000_00_chd",
+    "Japanese": {
+      "Text": "みなさんに集めてもらったデータのおかげで\r\n研究が捗っています　ありがとうございます",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "My research is proceeding smoothly, thanks to the intel you collected. You have my gratitude.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-129"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1100_00_chd",
+    "Japanese": {
+      "Text": "う～ん……\r\nカームでのんびり研究するのもいいですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Hmm... Kalm would be a peaceful and pleasant place to conduct research.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-130"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1200_00_chd",
+    "Japanese": {
+      "Text": "ただ　のんびりしすぎて研究が進まないかも\r\nクラウドさんは　どう思われます？",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Though perhaps so pleasant that I might not get any work done. What do you think, Cloud?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-131"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1300_00_chd",
+    "Japanese": {
+      "Text": "チョコボに囲まれて研究するのもいいかもですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "The presence of chocobos might aid my research.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-132"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1310_00_chd",
+    "Japanese": {
+      "Text": "チョコボの鳴き声を解析するのも楽しそうです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Perhaps I should consider analyzing their cries.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-133"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1400_00_chd",
+    "Japanese": {
+      "Text": "くんくん……",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Hnf, hnf...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-134"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1500_00_chd",
+    "Japanese": {
+      "Text": "チョコボのかおりと　潮風の絶妙なハーモニーは\r\nここだけの特権ですね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I'm quite surprised at how well the scent of chocobos blends with that of the salty sea breeze.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-135"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1510_00_chd",
+    "Japanese": {
+      "Text": "このかおりに包まれて研究するのも\r\nいい気がします",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Perhaps such a fragrance would enhance my research.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-136"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1600_00_chd",
+    "Japanese": {
+      "Text": "この街にいる間は\r\n海の調査を進めようと思っています",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I intend to take this opportunity to study the waters here.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-137"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1700_00_chd",
+    "Japanese": {
+      "Text": "イルカさんたちが安全に暮らせるよう\r\nボクなりに研究をしていくつもりです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I hope to help facilitate the restoration of the environment for the dolphins.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-138"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_1800_00_chd",
+    "Japanese": {
+      "Text": "クラウドさんもリゾートでひと休みですか？\r\nボクはいま　日焼けに挑戦してみようか検討中です",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Are you taking a brief vacation as well, Cloud? Currently, I'm weighing the pros and cons of engaging in sunbathing.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-139"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_3200_00_chd",
+    "Japanese": {
+      "Text": "では　旅の無事を祈っています\r\nお気をつけて",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "If there is nothing else, then I wish you good luck in your travels.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-140"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_3300_00_chd",
+    "Japanese": {
+      "Text": "ワールドレポートは完了しましたが\r\nまたいつでも会いにきてくださいね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "There may be no more intel to collect, but I hope we can still meet from time to time.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-141"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_3400_00_chd",
+    "Japanese": {
+      "Text": "ワールドレポートを終えて\r\n探求心がさらに増したような気がします",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Obtaining all that intel has only stoked my desire to learn more.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-142"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0500_3500_00_chd",
+    "Japanese": {
+      "Text": "いつか　ほかの大陸にも行ってみたいです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "If I could visit other continents...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "reason": null,
+    "family": "visited_region_Chadley_all_ordinary_return_states_except_Nibel_specific",
+    "template": "recheck-143"
+  }
+]

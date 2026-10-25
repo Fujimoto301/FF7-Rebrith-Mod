@@ -1,0 +1,2450 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_0100_00_mma",
+    "Japanese": {
+      "Text": "また来たんですか　今度はなんですか？",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Back again, are we? What is it this time?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_0700_00_mma",
+    "Japanese": {
+      "Text": "ニブル魔晄炉にあったウータイ兵の遺体は\r\n神羅軍の調査隊が運び出してくれましたよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Well, they're gone now, or what was left of them. Some Shinra troopers helped dispose of their remains.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_0800_00_mma",
+    "Japanese": {
+      "Text": "侵入経路などは　これから調査していくようです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "How they got in, however, remains unclear.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_0900_00_mma",
+    "Japanese": {
+      "Text": "まさか　ムラサキ課長が犠牲になるなんて\r\nまだ信じられませんよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "But that's for someone else to figure out. We're still struggling with the loss of Mr. Murasaki.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1000_00_mma",
+    "Japanese": {
+      "Text": "魔晄中毒者のみなさんには\r\n神羅カンパニーの管理のもと",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Shinra's created a refuge for those suffering from mako poisoning.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1100_00_mma",
+    "Japanese": {
+      "Text": "この村で　なに不自由なく\r\n療養していただいております",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Here, they can relax and recover in their own time.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1200_00_mma",
+    "Japanese": {
+      "Text": "ただ最近　無断で村から出てしまう方が多くて\r\n困ってるんですよね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Though recently some have up and left without a word, which is, frankly, beyond me.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1300_00_mma",
+    "Japanese": {
+      "Text": "いちおう　私が管理人なんですが\r\n詳しいことはわかりません",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I'm the manager of the manor only on paper─I know next to nothing about it.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1400_00_mma",
+    "Japanese": {
+      "Text": "記録によると　神羅製作所時代に\r\n村から土地を借り上げて建てた研究施設らしいです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Records indicate it was built as a research facility on land borrowed from the village back in Shinra's early days.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1500_00_mma",
+    "Japanese": {
+      "Text": "屋敷で行われていた研究は機密事項だったようで\r\n残っている資料も　黒塗りだらけなんです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "The work carried out at the facility, however, was apparently quite sensitive. Pretty much all the details have been redacted.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1600_00_mma",
+    "Japanese": {
+      "Text": "いったい　どんな研究をしていたんでしょうね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Really makes you wonder what they're trying to conceal.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1700_00_mma",
+    "Japanese": {
+      "Text": "そうだ　みなさん\r\n神羅屋敷に入った時　中でなにをしたんですか？",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "By the way, you spent an awful long time inside Shinra Manor. What were you doing in there?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1800_00_cld",
+    "Japanese": {
+      "Text": "あの時は……",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "We...",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_1900_00_cld",
+    "Japanese": {
+      "Text": "端末を借りただけだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "needed to use the terminal.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2000_00_mma",
+    "Japanese": {
+      "Text": "そうですか",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "That's all, was it?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2100_00_cld",
+    "Japanese": {
+      "Text": "なにかあるのか？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Why do you ask?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2200_00_mma",
+    "Japanese": {
+      "Text": "いえね　あれ以来\r\n屋敷から女性の声が聞こえることがあるんです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Well y'see, ever since your visit, I've been hearing this strange voice─a woman's─coming from inside.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2300_00_mma",
+    "Japanese": {
+      "Text": "これって　なんかこう\r\n怖～い話じゃないですかね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I know this sounds crazy, but...you don't think it's haunted, do you?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2400_00_blt",
+    "Japanese": {
+      "Text": "くだらねえ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Hardly.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2500_00_blt",
+    "Japanese": {
+      "Text": "てか　管理人だろ？\r\n自分で見にいけよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "'Sides, you're the manager.\r\nAin't it your job to investigate?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2600_00_mma",
+    "Japanese": {
+      "Text": "私のＩＤじゃ　屋敷には入れないんですよ\r\nでも　ウソじゃありません",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "No. I don't have the clearance to set even one foot inside. Regardless, I know what I heard.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2700_00_mma",
+    "Japanese": {
+      "Text": "風の音や木々のざわめきにまぎれて\r\nまるで　泣いているような　歌っているような",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "It wasn't just the wind rustling through the trees at night. Someone was...weeping─almost musically.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2800_00_mma",
+    "Japanese": {
+      "Text": "女の悲痛な声が\r\n『うああ　うあああ～』……って",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "It sounded like a woman wailing: \"Ooo, waaah...\"",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_2900_00_blt",
+    "Japanese": {
+      "Text": "マジかよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "For real?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3000_00_mma",
+    "Japanese": {
+      "Text": "マジです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I'm afraid so.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3100_00_mma",
+    "Japanese": {
+      "Text": "あなたたちが屋敷に入る前はなかったことですから\r\n因果関係は明白です",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "And given that I didn't hear a thing until you went inside, it's clear there's a connection.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3200_00_mma",
+    "Japanese": {
+      "Text": "すこしは責任を感じてもらって\r\n調べてくださいよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Why not take some responsibility\r\nand go investigate for me?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3300_00_tif",
+    "Japanese": {
+      "Text": "私は……行きません",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "Think I'm gonna sit this one out.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3400_00_tif",
+    "Japanese": {
+      "Text": "もう！",
+      "MetaData": {
+        "ACTOR": "ティファ"
+      }
+    },
+    "English": {
+      "Text": "Hey!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0200_3500_00_cld",
+    "Japanese": {
+      "Text": "誰でもいい　つきあってくれ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "C'mon. I'm sure it's nothing serious.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0300_0100_00_mma",
+    "Japanese": {
+      "Text": "ウータイ人の侵入からこっち\r\n本社からの指示が　次から次へと来ましてね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "The company's had us burning the midnight oil since the Wutaians left that mess at the reactor.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0300_0200_00_mma",
+    "Japanese": {
+      "Text": "ぜんぜん　対処しきれてないんですよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "It's been a constant string of orders.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0300_0300_00_mma",
+    "Japanese": {
+      "Text": "ここ　あなたの故郷でしたよね\r\nはやく落ち着いてほしいですねえ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "You mentioned growing up here, didn't you? Bet you're as sick of all this trouble as I am─probably more so.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0100_00_blt",
+    "Japanese": {
+      "Text": "はん　女の声なんて聞こえねえぞ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Well, I don't hear a damn thing.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0110_00_blt",
+    "Japanese": {
+      "Text": "よし　調査終了！\r\nさっさと帰ろうぜ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "So─case closed!\r\nNo need for us to overstay our welcome.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0300_00_blt",
+    "Japanese": {
+      "Text": "おい……",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "What are you doin'?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0400_00_vin",
+    "Japanese": {
+      "Text": "静かに",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Be quiet.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0500_00_vin",
+    "Japanese": {
+      "Text": "騒がしいな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Listen...",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0600_00_blt",
+    "Japanese": {
+      "Text": "適当なことを言ってんじゃねえぞ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Uh, you hear somethin' I don't?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0700_00_vin",
+    "Japanese": {
+      "Text": "地下だ　わかるか",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "I <i>feel</i> it below us.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0800_00_cld",
+    "Japanese": {
+      "Text": "いや　わからない",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Well, I don't feel anything...",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_0900_00_cld",
+    "Japanese": {
+      "Text": "でも　あんたが言うなら\r\n調べてみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "But you know this place better than we do.\r\nIf you're willing to lead, we'll follow.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_1000_00_blt",
+    "Japanese": {
+      "Text": "おいおいおい！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Whaddya mean \"we\"!?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_1100_00_vin",
+    "Japanese": {
+      "Text": "ふっ　弱虫か",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Hmph... Scared?",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_1200_00_blt",
+    "Japanese": {
+      "Text": "弱虫？　んなのウン十年ぶりに聞いたぜ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Me? Scared? I ain't been scared a day in my life!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_1300_00_blt",
+    "Japanese": {
+      "Text": "もちろん　オレは言う側だったけどな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "I was even voted \"Bravest Buddy\" back in the day!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0400_1400_00_vin",
+    "Japanese": {
+      "Text": "それは頼もしい",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Of course you were.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0500_0100_00_vin",
+    "Japanese": {
+      "Text": "もう飽きたのか",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Had enough, then?",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0500_0200_00_vin",
+    "Japanese": {
+      "Text": "いったん引くか　それもいいだろう",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "We can take a break. Give you time to calm your nerves.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0500_0300_00_vin",
+    "Japanese": {
+      "Text": "ふん　怖気づいたか",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Hmph... Fear's natural.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0600_0100_00_vin",
+    "Japanese": {
+      "Text": "声の正体が気になってな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "That voice still haunts me.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0600_0200_00_vin",
+    "Japanese": {
+      "Text": "私の職場だ　荒らしてもらっては困る",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "This place is my responsibility. Even now.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0600_0300_00_vin",
+    "Japanese": {
+      "Text": "たまには　警備員らしくしないとな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Gotta do my job sometime.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0100_00_cld",
+    "Japanese": {
+      "Text": "ヴィンセント\r\nセフィロスとは　どういう関係なんだ？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Vincent, what's the deal with you and Sephiroth? How do you know him?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0200_00_vin",
+    "Japanese": {
+      "Text": "あいつが悪を為すとき\r\nその責任の一端は　私にある",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Our bond is unique. I'm to blame in part for the evils he's unleashed.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0300_00_vin",
+    "Japanese": {
+      "Text": "私にはセフィロスを亡き者にする機会があった\r\n幾度か　その機会はあった",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "I've had many opportunities to purge him from this world. Unfortunately...I couldn't pull the trigger.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0400_00_cld",
+    "Japanese": {
+      "Text": "気にしないほうがいい",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Don't beat yourself up.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0500_00_vin",
+    "Japanese": {
+      "Text": "ほう？",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Oh?",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0600_00_cld",
+    "Japanese": {
+      "Text": "あいつは……きっと死なない\r\n死んでも　消えないんだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "I dunno if you <i>can</i> kill him. And even if you could...I think he'd stick with you. Somehow.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0700_0700_00_vin",
+    "Japanese": {
+      "Text": "ふん　気が滅入る話だ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Hmph... Quite the rosy outlook.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0100_00_blt",
+    "Japanese": {
+      "Text": "ったく　バカらしい",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Man, this is ridiculous.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0200_00_blt",
+    "Japanese": {
+      "Text": "管理人が言うのは　アレだろ\r\n幽霊がいるんじゃねえかって話だろ？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "That guy was convinced there's some kinda ghost in here, but I'm not buyin' it. I say we just turn around.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0300_00_cld",
+    "Japanese": {
+      "Text": "そうだろうな",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Getting cold feet?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0400_00_blt",
+    "Japanese": {
+      "Text": "ギ族みてえな　訳アリか\r\nあれも幽霊っちゃあ幽霊だ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "'Course not. 'Sides, it wouldn't be our first paranormal encounter. Like the Gi─they were ghosts...I think.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0500_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0600_00_blt",
+    "Japanese": {
+      "Text": "聞いたか　いまの聞いたか？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "What was that? Y'all heard it, right!?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0700_00_vin",
+    "Japanese": {
+      "Text": "ああ　聞こえた",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Loud and clear.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0800_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_0900_00_cld",
+    "Japanese": {
+      "Text": "ギ族とは　別物だな",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Sounds nothing like the Gi we know.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_1000_00_blt",
+    "Japanese": {
+      "Text": "じゃ　なんだよ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Then what is it!?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_1100_00_vin",
+    "Japanese": {
+      "Text": "それを調べている",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "We'll soon find out.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0800_1200_00_blt",
+    "Japanese": {
+      "Text": "くぅ～～～！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Uh...!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0100_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0200_00_blt",
+    "Japanese": {
+      "Text": "ヴィンセント\r\n心当たりはねえのか　この声の主",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Hey, Vincent. You got any idea whose voice that is? Like, seen any women wandering the manor?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0300_00_blt",
+    "Japanese": {
+      "Text": "実は　女が住んでるとかよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Maybe some gal got stuck in a coffin...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0400_00_vin",
+    "Japanese": {
+      "Text": "以前は　女性スタッフも滞在していたが\r\nいまはありえない",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Unlikely. A female staffer once lived here, but she's long gone.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0500_00_blt",
+    "Japanese": {
+      "Text": "じゃあ　あの声はなんだよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Then...who else could it be?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0600_00_vin",
+    "Japanese": {
+      "Text": "何度も同じ事を言わせるな\r\n私たちは　それを調べているところだ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Do I have to keep repeating myself? As I said, we'll soon find out.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0700_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_0900_0800_00_blt",
+    "Japanese": {
+      "Text": "うわあああ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Lalalala, not listening!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1000_0100_00_vin",
+    "Japanese": {
+      "Text": "待て",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Wait.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1000_0200_00_vin",
+    "Japanese": {
+      "Text": "警備用セキュリティカードだ\r\nこれで　さらに地下へ行ける",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "You're going to need my keycard. It'll grant you access to the lower levels.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0100_00_vin",
+    "Japanese": {
+      "Text": "ここは　実戦的な試験が繰り返されていたフロアだ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "This floor is where he conducted his combat trials.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0200_00_vin",
+    "Japanese": {
+      "Text": "多くの実験体が命を落とし\r\n弔われることなく　廃棄された",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Countless subjects were slaughtered here. Disposed of, never to be mourned...",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0300_00_blt",
+    "Japanese": {
+      "Text": "はん　ビビらせようって魂胆だろ\r\nオレはだまされねえからな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Hmph! Now I know you're just screwin' with me! Well, I ain't fallin' for it, no sir!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0400_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0400_05_blt",
+    "Japanese": {
+      "Text": "う……ぐぬぬ……",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Uh... Er...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1100_0500_00_vin",
+    "Japanese": {
+      "Text": "行くぞ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Keep moving.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1200_0100_00_vin",
+    "Japanese": {
+      "Text": "この先に　バトルシミュレーターがある",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "The simulator is up ahead.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1200_0110_00_vin",
+    "Japanese": {
+      "Text": "試験にパスしないと　奥へは進めない",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Can't proceed further until we complete the trial.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1200_0200_00_vin",
+    "Japanese": {
+      "Text": "おまえにまかせる",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Best of luck.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1300_0100_00_vin",
+    "Japanese": {
+      "Text": "私はすこし眠る",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Just resting my eyes.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1300_0200_00_vin",
+    "Japanese": {
+      "Text": "苦戦しているようだな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "You having trouble?",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1300_0300_00_vin",
+    "Japanese": {
+      "Text": "宝条のＡＩとはな……",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "He's not known for mercy.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0100_00_hjo",
+    "Japanese": {
+      "Text": "ようこそ　実験体の諸君！",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Greetings and welcome, my lovely specimens!",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0200_00_blt",
+    "Japanese": {
+      "Text": "また　こいつかよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "This asshole again?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0300_00_hjo",
+    "Japanese": {
+      "Text": "いまから　君たちには\r\n実戦を想定した試験に挑戦してもらう",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Today is your lucky day. You'll be participating in a series of combat simulations.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0400_00_hjo",
+    "Japanese": {
+      "Text": "私が作成したミッションだ\r\n光栄に思いたまえ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Few are permitted to take part in mine.\r\nBe grateful for this honor.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0500_00_hjo",
+    "Japanese": {
+      "Text": "では　さっそく始めるとしよう\r\n頼むから有益なデータを残してから死んでくれよ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Well, without further ado, let us begin. I look forward to analyzing the data gleaned from your deaths. Messy as they'll be.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1400_0600_00_hjo",
+    "Japanese": {
+      "Text": "ようこそ　実験体の諸君！",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Greetings and welcome, my lovely specimens!",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1500_0100_00_hjo",
+    "Japanese": {
+      "Text": "いいぞ　その調子で次も頑張ってくれよ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Excellent! That performance bodes well for the next trial!",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1500_0200_00_hjo",
+    "Japanese": {
+      "Text": "ふむ　面白い\r\n次の検証へ移ろう",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "What a fascinating outcome! Now then, on to the next.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1500_0300_00_hjo",
+    "Japanese": {
+      "Text": "ほう　興味深い\r\nそのまま最後の検証といこうか",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "That is an intriguing result indeed. But let's see how you perform in the final trial.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1500_0400_00_hjo",
+    "Japanese": {
+      "Text": "ふむ　まあこんなものか\r\nどうする　再戦するかね？",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Hrm...a most disappointing conclusion. Well, will you give up? Or will you try again?",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1600_0100_00_hjo",
+    "Japanese": {
+      "Text": "まさか　すべてクリアするとは！\r\nまた新たな傑作を生み出してしまったようだ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Marvelous─you've cleared every trial! I've created masterpieces yet again, I see.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1600_0200_00_hjo",
+    "Japanese": {
+      "Text": "それでは　実験体の諸君\r\n奥へと進みたまえ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Without further ado, my dear specimens, let's proceed to act two.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1600_0300_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Ooooooh!</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1600_0400_00_vin",
+    "Japanese": {
+      "Text": "行くぞ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Let's go.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0100_00_blt",
+    "Japanese": {
+      "Text": "そういや　女も働いてたって言ったよな\r\nなにやってたんだ？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "You mentioned some gal used to work here, but...what exactly did she do?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0200_00_vin",
+    "Japanese": {
+      "Text": "宝条博士とそのスタッフが滞在していた",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Whatever the \"good professor\" bade her.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0300_00_vin",
+    "Japanese": {
+      "Text": "私は　その護衛だ\r\n研究の詳細までは知らない",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "As their bodyguard, I was never made privy to the details of their research.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0400_00_blt",
+    "Japanese": {
+      "Text": "宝条のこった\r\nろくでもない研究だろうよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Well, knowin' that sick freak, I doubt he was up to anything good.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0500_00_blt",
+    "Japanese": {
+      "Text": "そのスタッフも　とんでもねえ連中だな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "And I bet that gal wasn't much better than him either.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0600_00_vin",
+    "Japanese": {
+      "Text": "そんなことはない",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "That's not true.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0700_00_blt",
+    "Japanese": {
+      "Text": "なんだよ　怒ったのか？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Oof. Did I touch a nerve?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1700_0800_00_vin",
+    "Japanese": {
+      "Text": "もう話しかけるな　集中させてくれ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Just stay quiet. I have to concentrate.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0100_00_hjo",
+    "Japanese": {
+      "Text": "待っていたぞ　実験体の諸君",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "You know, deep down, I knew you'd make it this far.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0200_00_hjo",
+    "Japanese": {
+      "Text": "この特殊実験ルームに入れるのは\r\nほんのひと握りの　優秀な個体だけだ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Of course, not every participant does. Only the finest─the elite among you─survive.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0300_00_hjo",
+    "Japanese": {
+      "Text": "おめでとう！\r\n研究者として　本当に誇らしいよ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "You should be very proud! I, for one, am delighted by your success.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0400_00_blt",
+    "Japanese": {
+      "Text": "どこ行くんだよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Where you off to?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0500_00_vin",
+    "Japanese": {
+      "Text": "こいつを黙らせる",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "To shut him up.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0600_00_hjo",
+    "Japanese": {
+      "Text": "そんな素晴らしい諸君に　私からプレゼントだ",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "As a token of my appreciation, I've prepared for you a gift.",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0700_00_mfa",
+    "Japanese": {
+      "Text": "<i>ああ……ああ……</i>",
+      "MetaData": {
+        "ACTOR": "<i>？？？？</i>"
+      }
+    },
+    "English": {
+      "Text": "<i>Aaah... Wah... Aaah...</i>",
+      "MetaData": {
+        "ACTOR": "<i>???</i>"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0800_00_cld",
+    "Japanese": {
+      "Text": "これが　声の正体か",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "<i>That's</i> what we've all been hearing?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_0900_00_blt",
+    "Japanese": {
+      "Text": "どういうことだよ？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "You gotta be kiddin' me!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1800_1000_00_hjo",
+    "Japanese": {
+      "Text": "さあ　最後の試験だ！\r\n彼女に打ち勝って　自らの有用性を示したま――",
+      "MetaData": {
+        "ACTOR": "宝条"
+      }
+    },
+    "English": {
+      "Text": "Here it is, your final trial! You must face this fiend in combat and emerge triumphant or die tr─",
+      "MetaData": {
+        "ACTOR": "Hojo"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0100_00_blt",
+    "Japanese": {
+      "Text": "幽霊じゃ……ねえよな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Guess this means we busted our \"ghost.\"",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0200_00_vin",
+    "Japanese": {
+      "Text": "モンスターだ\r\nおそらく　宝条の手が入っている",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "A monster. Tainted by Hojo's touch, no doubt.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0300_00_cld",
+    "Japanese": {
+      "Text": "なぜ　声を出した？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Why the singing though?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0400_00_vin",
+    "Japanese": {
+      "Text": "モンスターも成長するし　精神活動もある",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "An outlet for stress, perhaps─an expression of displeasure.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0500_00_vin",
+    "Japanese": {
+      "Text": "境遇が耐え難ければ　悲痛な声で歌いもする\r\nそういうことかもしれない",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Despite their appearance, some fiends are capable of complex thinking─and experiencing emotions.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0600_00_blt",
+    "Japanese": {
+      "Text": "へっ　モンスターのくせに生意気だ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Right, monsters got feelings.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0800_00_blt",
+    "Japanese": {
+      "Text": "モンスターは　モンスターだ\r\nそうじゃねえと撃てねえ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "I know we oughta have mercy for all life, but you gotta draw the line somewhere.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_0900_00_vin",
+    "Japanese": {
+      "Text": "調査は終了だ\r\nこれは掃除の礼だ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "In any case, thanks for your help with the investigation.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_1900_1000_00_vin",
+    "Japanese": {
+      "Text": "私は先に行く",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Don't stay too long.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0100_00_mma",
+    "Japanese": {
+      "Text": "ああ　みなさん　聞きましたよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I heard your investigation was a success!",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0200_00_mma",
+    "Japanese": {
+      "Text": "女の声の正体は\r\nモンスターの鳴き声だったんでしょ？",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Turns out it wasn't a woman, but some kind of wild beast, right?",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0210_00_mma",
+    "Japanese": {
+      "Text": "ガッカリしたような　ホッとしたような",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I'm relieved, if a bit disappointed.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0300_00_mma",
+    "Japanese": {
+      "Text": "実は幽霊とか　そういう話\r\n嫌いじゃないんです",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Scary though they may be, I can appreciate a good ghost story.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0400_00_mma",
+    "Japanese": {
+      "Text": "ミッドガルに　列車墓場っていう\r\nなにかと噂の多い場所があって",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Speaking of, I've heard talk of some sort of haunted train graveyard in Midgar.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0500_00_mma",
+    "Japanese": {
+      "Text": "いつか　行ってみたいんですよね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I'd love to see it for myself...",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0600_00_mma",
+    "Japanese": {
+      "Text": "ニブル山の魔晄炉　どうなってるんですかね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "I wonder how the reactor is faring these days.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0700_00_mma",
+    "Japanese": {
+      "Text": "ウータイ人が出入りしたのかと思うと\r\n怖くて近づけませんよ",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Given the Wutaians came and went as they did, I doubt it's all that safe.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  },
+  {
+    "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+    "id": "$NIBLE_QST_03_2000_0800_00_mma",
+    "Japanese": {
+      "Text": "ムラサキ課長がいなくなって　寂しいですよ\r\n私　頼り切っていたんですよね",
+      "MetaData": {
+        "ACTOR": "管理人"
+      }
+    },
+    "English": {
+      "Text": "Such a shame about Deputy Commissioner Murasaki's passing... One of the most dependable men I knew.",
+      "MetaData": {
+        "ACTOR": "Supervisor"
+      }
+    },
+    "reason": "Lament of the Damned unlocks in Chapter12 after Full Speed Ahead; not a Chapter11 odd job."
+  }
+]

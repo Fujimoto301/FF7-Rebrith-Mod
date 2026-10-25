@@ -1,0 +1,4346 @@
+[
+  {
+    "id": "$GRASA_CARD_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "local_shop_labels",
+    "Japanese": {
+      "Text": "グラスランドエリア　カードショップ"
+    },
+    "English": {
+      "Text": "Queen's Blood Vendor"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$Moogle_Shop",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "local_shop_labels",
+    "Japanese": {
+      "Text": "モーグリショップ"
+    },
+    "English": {
+      "Text": "Moogle Emporium"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_MenuLog_Absence",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "カードバウターが不在です。"
+    },
+    "English": {
+      "Text": "No opponent available."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_CORLV",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "北コレルに新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in North Corel."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_COSTT",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "コスタ・デル・ソルに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Costa del Sol."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_CSMOA",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "コスモキャニオンに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Cosmo Canyon."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_GONGV",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ゴンガガ村に\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Gongaga."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_JNONV",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "アンダージュノンに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Under Junon."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_JUNOA",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "サイドジュノンに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in the Crow's Nest."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_KALMT",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "カームに新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Kalm."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_NIBLT",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ニブルヘイムに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Nibelheim."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_Appeared_UNDRS",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "アンダーソーサーに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in the Dustbowl."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_JNONV_CardGamer02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "弟のデ・ムーアに勝利しました。\r\n次は兄のダ・ムーアに勝利しよう。"
+    },
+    "English": {
+      "Text": "You defeated Devin.\r\nNow it's Darren's turn."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_NotFill_CORLVBoss",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "<button=card-R5>戦血の騎士になるまでは挑めません。"
+    },
+    "English": {
+      "Text": "You must be a <button=card-R5> Blood Knight to challenge him."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_NotFill_GOLDSBoss",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "<button=card-R9>戦血の侯爵になるまでは挑めません。"
+    },
+    "English": {
+      "Text": "You must be a <button=card-R9> Blood Marquis to challenge him."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_NotFill_GONGVBoss",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "<button=card-R8>戦血の軍師になるまでは挑めません。"
+    },
+    "English": {
+      "Text": "You must be a <button=card-R8> Blood Tactician to challenge her."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_NotFill_JUNOABoss",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "<button=card-R3>戦血の平民になるまでは挑めません。"
+    },
+    "English": {
+      "Text": "You must be a <button=card-R3> Blood Squire to challenge him."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_MenuLog_NotFill_UNDRSBoss",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "<button=card-R7>戦血の団長になるまでは挑めません。"
+    },
+    "English": {
+      "Text": "You must be a <button=card-R7> Blood Captain to challenge them."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$card_opponent_CORLV_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "百目のナバラ"
+    },
+    "English": {
+      "Text": "Navalan"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CORLV_01_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "百目のナバラ\r\n（北コレル）"
+    },
+    "English": {
+      "Text": "Navalan\r\n(North Corel)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CORLV_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ドッグファイターのロルフ"
+    },
+    "English": {
+      "Text": "Rolf"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CORLV_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "アウトサイダーのビーガ"
+    },
+    "English": {
+      "Text": "Biff"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CSMOC_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "元傭兵のロビン"
+    },
+    "English": {
+      "Text": "Robin"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CSMOC_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "メンターのカディナ"
+    },
+    "English": {
+      "Text": "Ka'dina"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_CSMOC_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "饒舌のバーンズ"
+    },
+    "English": {
+      "Text": "Bernard"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GOLDS_01_Af",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ゴーストバウター"
+    },
+    "English": {
+      "Text": "Specter of the Cards"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GOLDS_01_Bf",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "リドラル"
+    },
+    "English": {
+      "Text": "Lidrehl"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GOLDS_01_Bf_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "リドラル        \r\n（ゴールドソーサー）"
+    },
+    "English": {
+      "Text": "Lidrehl\r\n(The Gold Saucer)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GOLDS_ShinraManager",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "神羅課長"
+    },
+    "English": {
+      "Text": "Shinra Middle Manager"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GONGA_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "黒紅の女王"
+    },
+    "English": {
+      "Text": "Shadowblood Queen"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GONGV_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "レジー"
+    },
+    "English": {
+      "Text": "Regina"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GONGV_01_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "レジー     \r\n（ゴンガガ村）"
+    },
+    "English": {
+      "Text": "Regina\r\n(Gongaga)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GONGV_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "のんびり農家のザジ"
+    },
+    "English": {
+      "Text": "Zhijun"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_GONGV_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "俊足のオスカー"
+    },
+    "English": {
+      "Text": "Oscar"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JNONV_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "船乗りのイザベラ"
+    },
+    "English": {
+      "Text": "Isabelle"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JNONV_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ツインズのムーア"
+    },
+    "English": {
+      "Text": "The Moore Twins"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JNONV_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "一本釣りのゾガン"
+    },
+    "English": {
+      "Text": "Zogan"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JUNOA_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "反神羅青年団のミザリー"
+    },
+    "English": {
+      "Text": "Michaela"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JUNOA_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "さすらいのカマロ"
+    },
+    "English": {
+      "Text": "Cameron"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JUNOA_02_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "さすらいのカマロ \r\n（サイドジュノン）"
+    },
+    "English": {
+      "Text": "Cameron\r\n(The Crow's Nest)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_JUNOA_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "流しのニール"
+    },
+    "English": {
+      "Text": "Neil"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_KALMT_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "泣き虫のシェド"
+    },
+    "English": {
+      "Text": "Ned"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_KALMT_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "腹話術師のネネ"
+    },
+    "English": {
+      "Text": "Nene"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_KALMT_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "鉄壁のジーヴル"
+    },
+    "English": {
+      "Text": "Zahira"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_MadamMum",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "マダム・マム"
+    },
+    "English": {
+      "Text": "Madam M"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ヴィンセント"
+    },
+    "English": {
+      "Text": "Vincent"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_01_PreIcon",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "混沌の獣"
+    },
+    "English": {
+      "Text": "Monster of Chaos"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_01_PreIcon_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "混沌の獣      \r\n（ニブルヘイム）"
+    },
+    "English": {
+      "Text": "Monster of Chaos\r\n(Nibelheim)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_01_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ヴィンセント   \r\n（ニブルヘイム）"
+    },
+    "English": {
+      "Text": "Vincent\r\n(Nibelheim)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "黒マントのデイル"
+    },
+    "English": {
+      "Text": "Dale"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_NIBLT_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "サボりの達人ターナー"
+    },
+    "English": {
+      "Text": "Turner"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_UNDRS_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "バウター・ダス"
+    },
+    "English": {
+      "Text": "Dax"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_UNDRS_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "不動のポピーノ"
+    },
+    "English": {
+      "Text": "Pietro"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_UNDRS_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "絡み酒のラム"
+    },
+    "English": {
+      "Text": "Mary"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_UNDRS_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ワイズ Type III Ver.2.0"
+    },
+    "English": {
+      "Text": "Wize 3.0 Ver. 2.0"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_UNDRS_04_place",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ワイズ Type III Ver.2.0\r\n（アンダーソーサー）"
+    },
+    "English": {
+      "Text": "Wize 3.0 Ver. 2.0\r\n(The Dustbowl)"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_opponent_tutorial",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "チュートリアル"
+    },
+    "English": {
+      "Text": "Tutorial"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_00_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ヴァル"
+    },
+    "English": {
+      "Text": "Vash"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_00_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ビルゴ"
+    },
+    "English": {
+      "Text": "Virgil"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_00_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "トゥロン"
+    },
+    "English": {
+      "Text": "Thorin"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_01_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "フレッサー"
+    },
+    "English": {
+      "Text": "Felix"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_01_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ワイズ Type III"
+    },
+    "English": {
+      "Text": "Wize 3.0"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$card_questopponent_01_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "レジー"
+    },
+    "English": {
+      "Text": "Regina"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$cardtext_HowtoGet_Bout",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "カードバウターに勝利すると入手できるカードです。"
+    },
+    "English": {
+      "Text": "Obtain by defeating a certain opponent."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$cardtext_HowtoGet_Extra_Event",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ストーリーやクエストで入手できるカードです。"
+    },
+    "English": {
+      "Text": "Obtain by completing a certain quest."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$cardtext_HowtoGet_Extra_Game",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "カードチャレンジで入手できるカードです。"
+    },
+    "English": {
+      "Text": "Obtain by completing a certain challenge."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$cardtext_HowtoGet_Shop",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_navigation_and_notifications",
+    "Japanese": {
+      "Text": "ショップで購入できるカードです。"
+    },
+    "English": {
+      "Text": "Obtain by purchasing from a shop."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL11_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "クラウドが挑戦するチュートリアルバトルコースです。\r\nクラウドの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Cloud. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL12_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "バレットが挑戦するチュートリアルバトルコースです。\r\nバレットの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Barret. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL13_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "ティファが挑戦するチュートリアルバトルコースです。\r\nティファの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Tifa. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL14_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "エアリスが挑戦するチュートリアルバトルコースです。\r\nエアリスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Aerith. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL15_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "レッドXIIIが挑戦するチュートリアルバトルコースです。\r\nレッドXIIIの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Red XIII. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL16_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "ユフィが挑戦するチュートリアルバトルコースです。\r\nユフィの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Yuffie. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL17_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "ケット・シーが挑戦するチュートリアルバトルコースです。\r\nケット・シーの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Cait Sith. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL1S_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "セフィロスが挑戦するチュートリアルバトルコースです。\r\nセフィロスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Sephiroth. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL1Z_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "ザックスが挑戦するチュートリアルバトルコースです。\r\nザックスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Zack. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL20_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "クラウドとバレットの２人組で挑戦するチュートリアルバトルコースです。基礎的な戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of two-person battles for Cloud and Barret. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseFlavor_COL30_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "クラウド、バレット、ティファの３人組で挑戦するチュートリアルバトルコースです。仲間と協力して放つ「連携アクション」「連携アビリティ」を体験して学びましょう。\r\n\r\n<color=orange>※連携技を習得していなくても体験できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles for Cloud, Barret, and Tifa. Participate in training exercises to learn how best to utilize synergy skills and abilities.\r\n<color=orange>You do not need to have unlocked these commands to participate.\r\nItems cannot be used.</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL11_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】クラウド"
+    },
+    "English": {
+      "Text": "Combat Training: Cloud"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL12_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】バレット"
+    },
+    "English": {
+      "Text": "Combat Training: Barret"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL13_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】ティファ"
+    },
+    "English": {
+      "Text": "Combat Training: Tifa"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL14_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】エアリス"
+    },
+    "English": {
+      "Text": "Combat Training: Aerith"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL15_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】レッドXIII"
+    },
+    "English": {
+      "Text": "Combat Training: Red XIII"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL16_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】ユフィ"
+    },
+    "English": {
+      "Text": "Combat Training: Yuffie"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL17_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】ケット・シー"
+    },
+    "English": {
+      "Text": "Combat Training: Cait Sith"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL1S_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】セフィロス"
+    },
+    "English": {
+      "Text": "Combat Training: Sephiroth"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL1Z_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】ザックス"
+    },
+    "English": {
+      "Text": "Combat Training: Zack"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL20_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】バトル初心者の館"
+    },
+    "English": {
+      "Text": "Combat Training: Beginner's Hall"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$menu_Colosseum_CourseTitle_COL30_TutorialBtl_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "combat_tutorial_courses",
+    "Japanese": {
+      "Text": "【チュートリアル】連携アクション＆連携アビリティ"
+    },
+    "English": {
+      "Text": "Combat Training: Synergy"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_Mulligan_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=decide> 交換するカード選択"
+    },
+    "English": {
+      "Text": "<button=decide> Select"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_Mulligan_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "交換したいカードを選んでください。"
+    },
+    "English": {
+      "Text": "Select the cards you wish to mulligan."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_Mulligan_start_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> ゲーム開始"
+    },
+    "English": {
+      "Text": "<button=triangle> Play"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_NO",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_NextRound",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ROUND <count=0>"
+    },
+    "English": {
+      "Text": "Round <count=0>"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_Try",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードバウトしますか？"
+    },
+    "English": {
+      "Text": "Challenge to a match?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_YES",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_YES_Quest",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=quest>はい"
+    },
+    "English": {
+      "Text": "<button=quest> Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_base_Round",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ROUND"
+    },
+    "English": {
+      "Text": "Round"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_0",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の奴隷"
+    },
+    "English": {
+      "Text": "Blood Servant"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の貧民"
+    },
+    "English": {
+      "Text": "Blood Peasant"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_10",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の処刑人"
+    },
+    "English": {
+      "Text": "Blood Executioner"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_11",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の英雄"
+    },
+    "English": {
+      "Text": "Blood Champion"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の平民"
+    },
+    "English": {
+      "Text": "Blood Squire"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の従者"
+    },
+    "English": {
+      "Text": "Blood Acolyte"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_4",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の騎士"
+    },
+    "English": {
+      "Text": "Blood Knight"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_5",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の隊長"
+    },
+    "English": {
+      "Text": "Blood Knight 2nd Class"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_6",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の団長"
+    },
+    "English": {
+      "Text": "Blood Captain"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_7",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の軍師"
+    },
+    "English": {
+      "Text": "Blood Tactician"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_8",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の侯爵"
+    },
+    "English": {
+      "Text": "Blood Marquis"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_9",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "戦血の君主"
+    },
+    "English": {
+      "Text": "Blood Sovereign"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_rankup_condition",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ランクアップ条件"
+    },
+    "English": {
+      "Text": "Promotion Requirements"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_rankup_condition_hide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "？？？？"
+    },
+    "English": {
+      "Text": "???"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrank_rankup_condition_max",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "最高ランクに到達済みです。"
+    },
+    "English": {
+      "Text": "You have attained the highest rank possible."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrankup_gamename",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "QUEEN'S BLOOD"
+    },
+    "English": {
+      "Text": "Queen's Blood"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_bouterrankup_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "バウターランクアップ！"
+    },
+    "English": {
+      "Text": "New Rank Achieved!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_cardbout_cannot_start",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "このデッキではカードバウトに参加することができません。\r\nカードバウトするには15枚のカードを編成してください。"
+    },
+    "English": {
+      "Text": "This deck cannot be used in any matches,\r\nas it does not contain exactly fifteen cards."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_cardbout_cannot_start_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ＯＫ"
+    },
+    "English": {
+      "Text": "OK"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_cardlist_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カード一覧"
+    },
+    "English": {
+      "Text": "Card List"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_cardlist_new",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "NEW"
+    },
+    "English": {
+      "Text": "New"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_cardlist_sorting_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> ソート／フィルター"
+    },
+    "English": {
+      "Text": "<button=triangle> Sort / Filter"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_cardname_unknown",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "？？？？"
+    },
+    "English": {
+      "Text": "???"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_changeview_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> ソート／フィルター"
+    },
+    "English": {
+      "Text": "<button=triangle> Sort / Filter"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckcopy_comfirm_replace",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<object=0>を<object=1>で上書きしてもよろしいですか？"
+    },
+    "English": {
+      "Text": "Overwrite <object=0> with <object=1>?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckcopy_guide_select_deck",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=L1><button=R1> コピー元デッキ切替"
+    },
+    "English": {
+      "Text": "<button=L1>/<button=R1> Toggle Deck to Copy"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckcopy_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "コピー元のデッキを選択してください。"
+    },
+    "English": {
+      "Text": "Select the deck you wish to copy."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_add",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "追加"
+    },
+    "English": {
+      "Text": "Add"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_aquired_cardlist_complete",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "すべてのカードを入手しました。\r\nこれからもクイーンズ・ブラッドをお楽しみください。"
+    },
+    "English": {
+      "Text": "You have collected every Queen's Blood card."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_aquired_cardlist_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "所持カード一覧"
+    },
+    "English": {
+      "Text": "Cards Owned"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_cardlist_cardcount",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<count=0>/<count=1>"
+    },
+    "English": {
+      "Text": "<count=0> / <count=1>"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_cardlist_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カード一覧"
+    },
+    "English": {
+      "Text": "Card List"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_cardlist_sorting_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> ソート／フィルター"
+    },
+    "English": {
+      "Text": "<button=triangle> Sort / Filter"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.1"
+    },
+    "English": {
+      "Text": "Deck #1"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.2"
+    },
+    "English": {
+      "Text": "Deck #2"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.3"
+    },
+    "English": {
+      "Text": "Deck #3"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_4",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.4"
+    },
+    "English": {
+      "Text": "Deck #4"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_5",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.5"
+    },
+    "English": {
+      "Text": "Deck #5"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_decknumber_6",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキNo.6"
+    },
+    "English": {
+      "Text": "Deck #6"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_deckselect_deckcardcount",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<count=0>/15"
+    },
+    "English": {
+      "Text": "<count=0> / 15"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_deckselect_transition_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> デッキ編集"
+    },
+    "English": {
+      "Text": "<button=triangle> Edit Deck"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_delete",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "削除"
+    },
+    "English": {
+      "Text": "Delete"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_editcancel",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "変更内容を保存せず終了する"
+    },
+    "English": {
+      "Text": "Quit Without Saving"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_exit_alert",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "このデッキではカードバウトに参加することができません。\r\nカードバウトするには15枚のカードを編成してください。\r\nデッキの編集を終了してもよろしいですか？"
+    },
+    "English": {
+      "Text": "This deck cannot be used in any matches,\r\nas it does not contain exactly fifteen cards.\r\nFinish building anyway?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_exit_alert_no",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキの編集を続ける"
+    },
+    "English": {
+      "Text": "Continue Deckbuilding"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_exit_alert_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "変更内容を保存して終了する"
+    },
+    "English": {
+      "Text": "Save and Quit"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_nocards",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デッキにカードが編成されていません。"
+    },
+    "English": {
+      "Text": "No cards added."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_over_alert",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "※デッキに編成できるカードは15枚までです。"
+    },
+    "English": {
+      "Text": "You cannot include more than fifteen cards in a deck."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_deckedit_preset_title",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "おすすめデッキ選択"
+    },
+    "English": {
+      "Text": "Prebuilt Decks"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_detail_card_number",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードNo."
+    },
+    "English": {
+      "Text": "Card #"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_guide_deckcopy",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=R3> 別デッキからコピー"
+    },
+    "English": {
+      "Text": "<button=R3> Copy Another Deck"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_new_card_acquisition",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "NEW CARD!"
+    },
+    "English": {
+      "Text": "New Card Obtained!"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_no_hand",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "手札がありません"
+    },
+    "English": {
+      "Text": "You have no hand."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_no_possession",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "未所持"
+    },
+    "English": {
+      "Text": "Unowned"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_no_possession_button_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=square> 未所持カードを表示／非表示"
+    },
+    "English": {
+      "Text": "<button=square> Display / Hide Unowned"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_opening_start",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "START"
+    },
+    "English": {
+      "Text": "Draw Blood!"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_pass_gameend",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "パスするとゲームを終了します"
+    },
+    "English": {
+      "Text": "End Match"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pass_nocard1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "置けるカードがありません"
+    },
+    "English": {
+      "Text": "You cannot play any cards."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pass_nocard2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "置けるカードがありません"
+    },
+    "English": {
+      "Text": "You cannot play any cards."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pass_normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> パス"
+    },
+    "English": {
+      "Text": "<button=triangle> Pass"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pass_roundend",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "パスするとラウンドを終了します"
+    },
+    "English": {
+      "Text": "End Round"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_resume",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ゲームを再開する"
+    },
+    "English": {
+      "Text": "Resume"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "リタイアする"
+    },
+    "English": {
+      "Text": "Give Up"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire_comfirm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "本当にリタイアしますか？"
+    },
+    "English": {
+      "Text": "Forfeit the match?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire_comfirm_lose",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "本当にリタイアしますか？\r\n（再戦なし、敗北します）"
+    },
+    "English": {
+      "Text": "Forfeit and forgo any chance to rematch?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire_lose",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "リタイアする（再戦なし、敗北します）"
+    },
+    "English": {
+      "Text": "Forfeit without Rematch"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire_no",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_pause_retire_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck0_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "クイーンズ・ブラッドのビギナーでも扱いやすいカードで構成されたデッキです。ランクの低いカードで陣地を確保し、切り札となる『マジックポット』を投入し、周囲のカードをまとめてパワーアップして大逆転しましょう。"
+    },
+    "English": {
+      "Text": "This deck contains cards that allow even new players to jump right in and play. Secure positions with your low-rank cards, then place your Magic Pot to power up your other cards for a come-from-behind victory."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck0_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードゲームスターター"
+    },
+    "English": {
+      "Text": "Starter Deck"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck10_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "パワーは低いが陣地を２ランク上げるスキルをもつカードを中心としたデッキです。相手に陣地を奪われるまえに、陣地を制圧し領土を広げていきましょう。空き陣地を広げた後に、切り札となる『シヴァ』をタイミングよく投入すれば自陣をまとめてパワーに変換できます。"
+    },
+    "English": {
+      "Text": "Revolves around cards with low power that raise your positions' ranks by 2. Fill empty positions before your opponent can claim yours and expand your domain as far as possible. Once you feel you have expanded far enough, play Shiva to fill your empty positions and power up your territory."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck10_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ランドランページ"
+    },
+    "English": {
+      "Text": "Turf War"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck11_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "自分が弱体化されたときに強力なスキルを発動するカードを中心としたデッキです。その身を犠牲にしつつ反逆に転じるタイミングが重要になります。切り札となる『ジャバウォック』で仲間のパワーを下げるなどして、強力なスキルを発動させましょう。"
+    },
+    "English": {
+      "Text": "Includes cards that─when enfeebled─trigger game-changing abilities. Find the right moment to sacrifice them, and you can easily turn the tide of battle. To aid you in this endeavor is Jabberwock, which lowers the power of its allies, thereby allowing them to unleash their true potential."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck11_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "デバフデストロイ"
+    },
+    "English": {
+      "Text": "Strength in Weakness"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck2_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "味方を強化するスキルをもつカードを中心にしたデッキです。切り札となる『マジックポット』は配置位置を工夫すると多くのカードを強化できます。『チョコボ＆モーグリ』は自陣にスキルで強化されたカードが多いほどパワーが上がります。"
+    },
+    "English": {
+      "Text": "Composed mainly of cards that enhance their allies, such as: Magic Pot, which can raise the power of up to four allies if placed correctly; and Chocobo & Moogle, whose power grows larger the more enhanced cards you have on the battlefield."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck2_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "バフシナジー"
+    },
+    "English": {
+      "Text": "One for All"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck4_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "パワーは低いですが相手をじわじわと弱体化で追い込むカードを中心にしたデッキです。パワーがゼロになったカードは消滅します。切り札となる『ミドガルズオルム』はカードの消滅によりパワーが大きく上がります。"
+    },
+    "English": {
+      "Text": "Most of the cards in this deck have low power, but in turn gradually lower the power of your opponent's cards until they are destroyed. It also contains Midgardsormr, which grows in power the more cards are destroyed."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck4_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ポイズンキラー"
+    },
+    "English": {
+      "Text": "Blight Idea"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck5_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "味方・相手ともに複数を弱体化・消滅させるカードを中心にしたデッキです。カードが消滅したときに『マンドラゴラ』で手札を増やしつつ陣地を確保し、切り札となる『シーデビル』のパワーを上げていきましょう。"
+    },
+    "English": {
+      "Text": "Composed of cards that either weaken or destroy other cards, regardless of affiliation. Once you've cleared the battlefield, use Mandragoras to add cards to your hand and secure positions for your army, all the while growing your Sea Devil's power."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck5_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ウィークンコンカー"
+    },
+    "English": {
+      "Text": "Wreaking Havoc"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck6_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "消滅するときに強力なスキルが発動するカードを中心にしたデッキです。『キャッパワイヤ』などのパワーダウンスキルを自分のカードに当ててパワーをゼロにして消滅スキルを発動させましょう。切り札となる『トンベリキング』は味方のカードが消滅するとパワーが上がります。"
+    },
+    "English": {
+      "Text": "This deck contains many cards with powerful abilities that activate when destroyed. Make the most of it by lowering your own cards' power to zero with Capparwire, thus destroying them and allowing their abilities to trigger. This strategy works particularly well with the Tonberry King, whose power increases when allied cards are destroyed."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck6_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "イケニエコンボ"
+    },
+    "English": {
+      "Text": "For the Greater Good"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck7_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "自陣に配置済みの味方カードの上に置ける「上書き」配置スキルをもつカードを中心としたデッキです。上書きされたカードは消滅しますが、そのときに消滅スキルを発動します。『グランドホーン』『ギガントード』などを活躍させるトリッキーな戦略で勝負に挑みましょう。"
+    },
+    "English": {
+      "Text": "Composed of cards that can only be played on top of allies, thus \"replacing\" them. Replaced cards are destroyed, but as long as they have abilities that trigger when this happens, it should be a boon rather than a hindrance. Strategize your way to victory by effectively employing Grandhorn and Gigantoad in addition to the rest of your arsenal."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck7_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "オーバーポジション"
+    },
+    "English": {
+      "Text": "Changing Places"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck8_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "自分が強化されたときに、強力なスキルを発動するカードを中心としたデッキです。強化時に発動するスキルは一度しか発動しないので、効果を発動させるためのカードとの配置順が重要になります。切り札となる『ストーンゴーレム』などの投入時期を見極め勝負しましょう。"
+    },
+    "English": {
+      "Text": "Features various cards that, when enhanced, unleash powerful abilities. Beware, as these abilities only activate once, so the order in which you play your cards is vital to your success. Correctly determine when to play Stone Golem, however, and you will gain a rock-hard grip on the match."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck8_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "バフアグレッション"
+    },
+    "English": {
+      "Text": "Roid Rage"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck9_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "「上書き」配置スキルをもち、上書きにより消滅させたカードのパワーを強化・弱体化スキルに活かすカードを中心としたデッキです。消滅によるパワーの移動が勝負のカギを握ります。『グリフォン』『ギ族の亡霊』などを後半戦に投入し、レーンごとの駆け引きを制しましょう。"
+    },
+    "English": {
+      "Text": "This deck employs cards that─when destroyed─enhance or enfeeble other cards. While powerful, they are worthless if poorly placed. Lastly, using cards like Griffon and Gi Specter late in the game will help you take control of lanes and lead you to victory."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck9_name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "オーバーサレンダー"
+    },
+    "English": {
+      "Text": "Aftermath"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck_confirm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<object=0>を『<object=1>』で上書きしてもよろしいですか？"
+    },
+    "English": {
+      "Text": "Overwrite <object=0> with <object=1>?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck_decide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=decide> このデッキで上書き"
+    },
+    "English": {
+      "Text": "<button=decide> Overwrite"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=options> プリセットから作成"
+    },
+    "English": {
+      "Text": "<button=options> Craft Prebuilt Deck"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck_shortage",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "以下のカードが不足しています。"
+    },
+    "English": {
+      "Text": "You lack the following cards required to use this deck:"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_presetdeck_title",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "プリセットデッキ"
+    },
+    "English": {
+      "Text": "Prebuilt Decks"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_prize_received",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "※獲得済み"
+    },
+    "English": {
+      "Text": "Already Owned"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_boss_bouter",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ボスバウターに勝利"
+    },
+    "English": {
+      "Text": "Defeat Keeper of the Cruor"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_defeated_bouter",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "バウター勝利数"
+    },
+    "English": {
+      "Text": "Defeat Players"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_prize",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "PRIZE"
+    },
+    "English": {
+      "Text": "Rewards"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_prize_Earned",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "※獲得済み"
+    },
+    "English": {
+      "Text": "Already Owned"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_prize_all_nothing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "報酬はありません。"
+    },
+    "English": {
+      "Text": "None"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_prize_card_nothing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードの報酬はありません。"
+    },
+    "English": {
+      "Text": "No card rewards offered."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_readymenu_rankup_notice",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "このバウトに勝利すればランクアップ！"
+    },
+    "English": {
+      "Text": "Win and you'll rise in rank!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_ViewMode",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=square> ビューモード"
+    },
+    "English": {
+      "Text": "<button=square> View Battlefield"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_draw",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "DRAW"
+    },
+    "English": {
+      "Text": "Tie"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_result_finish",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "FINISH"
+    },
+    "English": {
+      "Text": "Match Complete"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_result_lose",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "LOSE"
+    },
+    "English": {
+      "Text": "Defeat"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_result_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "再挑戦しますか？"
+    },
+    "English": {
+      "Text": "Rematch this opponent?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_retry_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> 再挑戦する"
+    },
+    "English": {
+      "Text": "<button=triangle> Rematch"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_retry_tutorial",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "チュートリアルに再挑戦しますか？"
+    },
+    "English": {
+      "Text": "Play the tutorial again?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_retry_tutorial_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=triangle> チュートリアルに再挑戦する"
+    },
+    "English": {
+      "Text": "<button=triangle> Play Again"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_result_win",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "WIN"
+    },
+    "English": {
+      "Text": "Victory"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_ability_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "スキル"
+    },
+    "English": {
+      "Text": "Ability"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_cardrank_1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "1"
+    },
+    "English": {
+      "Text": "1"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_cardrank_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "2"
+    },
+    "English": {
+      "Text": "2"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_cardrank_3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "3"
+    },
+    "English": {
+      "Text": "3"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_cardrank_Ex",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "特殊"
+    },
+    "English": {
+      "Text": "Replacement"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_cardrank_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードランク"
+    },
+    "English": {
+      "Text": "Rank"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "フィルター"
+    },
+    "English": {
+      "Text": "Filter"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_nocards",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "現在のフィルター条件に該当するカードはありません。"
+    },
+    "English": {
+      "Text": "No cards correspond to these filters."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_rarity_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "レアリティ"
+    },
+    "English": {
+      "Text": "Rarity"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_rarity_legend",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "レジェンド"
+    },
+    "English": {
+      "Text": "Legendary"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_filter_rarity_nomal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ノーマル"
+    },
+    "English": {
+      "Text": "Standard"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ソート／フィルター"
+    },
+    "English": {
+      "Text": "Sort / Filter"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_acquisition",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "入手順"
+    },
+    "English": {
+      "Text": "Order Obtained"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_ascending",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "昇順"
+    },
+    "English": {
+      "Text": "Ascending"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_cardnumber",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードNo."
+    },
+    "English": {
+      "Text": "Card #"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_cardrank",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "カードランク"
+    },
+    "English": {
+      "Text": "Rank"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_descending",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "降順"
+    },
+    "English": {
+      "Text": "Descending"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_header",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ソート"
+    },
+    "English": {
+      "Text": "Sort"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_new",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "新しい順"
+    },
+    "English": {
+      "Text": "Newest"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_old",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "古い順"
+    },
+    "English": {
+      "Text": "Oldest"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_power",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "パワー"
+    },
+    "English": {
+      "Text": "Power"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_sorting_sort_rarity",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "レアリティ"
+    },
+    "English": {
+      "Text": "Rarity"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_start_tutorial_confirmation",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "チュートリアルを確認しますか？"
+    },
+    "English": {
+      "Text": "Play the Queen's Blood tutorial?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_start_tutorial_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=touch> チュートリアルを確認する"
+    },
+    "English": {
+      "Text": "<button=touch> Play Tutorial"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_startgame_alert",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "選択中のデッキが規定枚数ではないため\r\nゲームを開始できません。"
+    },
+    "English": {
+      "Text": "Your selected deck does not\r\ncontain the legal number of cards."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_startgame_confirmation",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "ゲームを開始しますか？"
+    },
+    "English": {
+      "Text": "Start the match?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_startgame_confirmation_no",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_startgame_confirmation_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_startgame_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=options> 対戦開始"
+    },
+    "English": {
+      "Text": "<button=options> Begin Match"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_tutorial_Check",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "『カードゲーム』のチュートリアルを確認しますか？"
+    },
+    "English": {
+      "Text": "Learn how to play Queen's Blood?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_tutorial_NO",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_tutorial_YES",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_viewboard_guide_end",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=cancel> 手札選択に戻る"
+    },
+    "English": {
+      "Text": "<button=cancel> View Hand"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_viewboard_guide_start",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=up> 盤面のカードを確認する"
+    },
+    "English": {
+      "Text": "<button=up> View Played Cards"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_viewboard_hidedetail",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=square> カード情報表示オフ"
+    },
+    "English": {
+      "Text": "<button=square> Hide Card Info"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_cardgame_viewboard_showdetail",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "queens_blood_UI",
+    "Japanese": {
+      "Text": "<button=square> カード情報表示オン"
+    },
+    "English": {
+      "Text": "<button=square> Display Card Info"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_Awakening_Log",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "クエッ！　チョコボが目を覚ました！"
+    },
+    "English": {
+      "Text": "Kweh!? The chocobo woke up!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_Csmoa_attention1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "トロッコをうまく使って\r\nチョコボの視界をさえぎろう。"
+    },
+    "English": {
+      "Text": "Use the cart to block the chocobo's view."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_Csmoa_attention2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "線路の切り替え器を使ってみよう。"
+    },
+    "English": {
+      "Text": "Flip the switch to change the tracks."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_FeathersGetLog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "『黄金の羽根』×2を入手した。"
+    },
+    "English": {
+      "Text": "Obtained 2 golden plumes."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_GetSupport_Log",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "シレナのおびきよせに成功した。\r\n近づいて捕まえよう。"
+    },
+    "English": {
+      "Text": "Selena has taken the bait.\r\nNow is your chance to approach her."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_Interest_Stone",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボは他のチョコストーンに\r\n興味をひかれている。"
+    },
+    "English": {
+      "Text": "The chocobo shows no interest in the rock."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_Interest_Vegetable",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボは他のおびきよせ野菜に\r\n興味をひかれている。"
+    },
+    "English": {
+      "Text": "The chocobo is already drawn to other bait."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_VegetableLog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "シレナ以外のチョコボは\r\nおびきよせ野菜に興味がないようだ。"
+    },
+    "English": {
+      "Text": "The other chocobos show no interest in the bait."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボの視界に入らないように進もう。"
+    },
+    "English": {
+      "Text": "Approach the target without being spotted."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボの背後にチョコストーンを\r\n投げて注意をそらそう。"
+    },
+    "English": {
+      "Text": "Throw a rock behind the chocobo to distract it."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "スイッチにチョコストーンをぶつけて\r\nスイッチを切り替えよう。"
+    },
+    "English": {
+      "Text": "Throw a rock at the switch to flip it."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention4",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボが見張っていて先に進めない。\r\n崖の上につづくルートを登ってみよう。"
+    },
+    "English": {
+      "Text": "The chocobos refuse to turn away.\r\nTake the trail leading to the top of the cliff."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention5",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "高台の上からおびきよせ野菜を投げて\r\nシレナを入口方面まで誘導しよう。"
+    },
+    "English": {
+      "Text": "Throw bait from a high place to lure Selena towards the entrance."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention6",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボが後ろを向いてるときに\r\n通り抜けよう。"
+    },
+    "English": {
+      "Text": "Proceed when the chocobo's back is turned."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_attention7",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボに見つからないように\r\nピコに近づいて捕まえよう。"
+    },
+    "English": {
+      "Text": "Approach Piko without being spotted by the other chocobos."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_count",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "×"
+    },
+    "English": {
+      "Text": "×"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_count_next",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "移動式車両を動かし隠れながら進もう。"
+    },
+    "English": {
+      "Text": "Use the carts to cover your approach."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_count_next_next",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "<button=field-action> でリトライしよう。"
+    },
+    "English": {
+      "Text": "<button=field-action> Retry"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_count_next_next_next",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコストーンには興味がないようだ。"
+    },
+    "English": {
+      "Text": "The chocobo shows no interest in the rock."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_count_next_next_next_next",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "トロッコを動かし隠れながら進もう。"
+    },
+    "English": {
+      "Text": "Proceed while staying hidden behind the cart."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_throw",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "OK"
+    },
+    "English": {
+      "Text": "Throw"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_throw_keyguide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "<button=attack>"
+    },
+    "English": {
+      "Text": "<button=attack>"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_throw_mode",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "投げる"
+    },
+    "English": {
+      "Text": "Aim"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_commandmenu_throw_mode_keyguide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "<button=show-status-hold>"
+    },
+    "English": {
+      "Text": "<button=show-status-hold>"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_dodge",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ドッジロール"
+    },
+    "English": {
+      "Text": "Roll"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_find",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボに見つかってしまった。"
+    },
+    "English": {
+      "Text": "The chocobo has spotted you."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_find_beg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ベグ盗賊団に見つかってしまった。"
+    },
+    "English": {
+      "Text": "The thugs sense your presence."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_gameover",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボに逃げられた。"
+    },
+    "English": {
+      "Text": "The target has escaped."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_gameover_beg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ベグ盗賊団は逃げ出した。"
+    },
+    "English": {
+      "Text": "Beck's Badasses got away..."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_gauge_text",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "Time Limit"
+    },
+    "English": {
+      "Text": "Time Limit"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_item_stone",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコストーン"
+    },
+    "English": {
+      "Text": "Rocks"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_item_vege1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "おびきよせ野菜"
+    },
+    "English": {
+      "Text": "Chocobo Bait"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_lost",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコボが警戒を解いた。"
+    },
+    "English": {
+      "Text": "The chocobo is no longer on alert."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_lost_beg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ベグ盗賊団は警戒を解いた。"
+    },
+    "English": {
+      "Text": "The thugs are no longer on alert."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_name_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ピコ"
+    },
+    "English": {
+      "Text": "Piko"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_chocobocapture_name_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ベル"
+    },
+    "English": {
+      "Text": "Belle"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_chocobocapture_name_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "アポニ"
+    },
+    "English": {
+      "Text": "Aponi"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_chocobocapture_name_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "シレナ"
+    },
+    "English": {
+      "Text": "Selena"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_resume",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "ゲームを再開する"
+    },
+    "English": {
+      "Text": "Resume"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retire",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リタイアする"
+    },
+    "English": {
+      "Text": "Give Up"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retire_comfirm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "本当にリタイアしますか？"
+    },
+    "English": {
+      "Text": "Quit?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retire_no",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retire_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "やりなおす"
+    },
+    "English": {
+      "Text": "Retry"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry_comfirm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "本当にやりなおしますか？"
+    },
+    "English": {
+      "Text": "Retry?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry_comfirm_next_reset",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "最初からやりなおす"
+    },
+    "English": {
+      "Text": "Retry from Beginning"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry_comfirm_next_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リトライポイントからやりなおす"
+    },
+    "English": {
+      "Text": "Retry from Checkpoint"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry_comfirm_reset",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "最初からやりなおしますか？"
+    },
+    "English": {
+      "Text": "Start over from the beginning?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pause_retry_comfirm_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リトライポイントからやりなおしますか？"
+    },
+    "English": {
+      "Text": "Start over from a minigame checkpoint?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pick_stone",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "チョコストーンを拾った。"
+    },
+    "English": {
+      "Text": "You picked up a rock."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_pick_vege_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "おびきよせ野菜を拾った。"
+    },
+    "English": {
+      "Text": "Obtained some chocobo bait."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リトライ"
+    },
+    "English": {
+      "Text": "Retry"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_retry_keyguide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "<button=field-action>"
+    },
+    "English": {
+      "Text": "<button=field-action>"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_chocobocapture_retrypoint_update",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リトライポイントを更新しました。"
+    },
+    "English": {
+      "Text": "Minigame checkpoint updated."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_select_checkpoint_question",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "再開ポイントを選択してください。"
+    },
+    "English": {
+      "Text": "Select a restart point."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_select_checkpoint_start0",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "最初からプレイする"
+    },
+    "English": {
+      "Text": "Retry from Beginning"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_select_checkpoint_start1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "リトライポイントから再開する"
+    },
+    "English": {
+      "Text": "Retry from Checkpoint"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_chocobocapture_shirena_log",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "chocobo_capture_UI",
+    "Japanese": {
+      "Text": "おびきよせ野菜を投げて\r\nシレナを入口方面まで誘導しよう。"
+    },
+    "English": {
+      "Text": "Lure Selena towards the entrance."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Capture_Children_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モララを捕まえた！"
+    },
+    "English": {
+      "Text": "You rounded up Molala!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Capture_Children_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モルルを捕まえた！"
+    },
+    "English": {
+      "Text": "You rounded up Molulu!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Capture_Children_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モッキーを捕まえた！"
+    },
+    "English": {
+      "Text": "You rounded up Mokey!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Capture_Children_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグを捕まえた！"
+    },
+    "English": {
+      "Text": "You rounded up Moog!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Capture_Children_05",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モッシュを捕まえた！"
+    },
+    "English": {
+      "Text": "You rounded up Mosh!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Clear_Log",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "すべてのモーグリを連れ戻した！"
+    },
+    "English": {
+      "Text": "You rounded up all the moogles!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_CountDown_1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "1"
+    },
+    "English": {
+      "Text": "1"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_CountDown_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "2"
+    },
+    "English": {
+      "Text": "2"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_CountDown_3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "3"
+    },
+    "English": {
+      "Text": "3"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_CountDown_Start",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "START"
+    },
+    "English": {
+      "Text": "Start"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_DoorOpen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリハウスに入りますか？"
+    },
+    "English": {
+      "Text": "Enter the mogstool?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_DoorOpen_EasyMode",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリハウスに入りますか？\r\n（どちらの難易度でもレポートクリアになります）"
+    },
+    "English": {
+      "Text": "Enter the mogstool?\r\nIntel will be gained regardless of difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_DoorOpen_No",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_DoorOpen_Yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Failed",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "FAILED"
+    },
+    "English": {
+      "Text": "Failed"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_Finish",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "CONGRATULATIONS!"
+    },
+    "English": {
+      "Text": "Congratulations!"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Back",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "戻る"
+    },
+    "English": {
+      "Text": "Quit"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Easy",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "イージー（５回当たるとゲームオーバー）"
+    },
+    "English": {
+      "Text": "Easy (4-Hit Limit)"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル１"
+    },
+    "English": {
+      "Text": "Mischief Level 1"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル２"
+    },
+    "English": {
+      "Text": "Mischief Level 2"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル３"
+    },
+    "English": {
+      "Text": "Mischief Level 3"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level4",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル４"
+    },
+    "English": {
+      "Text": "Mischief Level 4"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level5",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル５"
+    },
+    "English": {
+      "Text": "Mischief Level 5"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level6",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル６"
+    },
+    "English": {
+      "Text": "Mischief Level 6"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Level7",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いたずらレベル７"
+    },
+    "English": {
+      "Text": "Mischief Level 7"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "ノーマル（３回当たるとゲームオーバー）"
+    },
+    "English": {
+      "Text": "Normal (2-Hit Limit)"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\nどのレベルを遊ぶクポ？\r\n<color=orange>※クリアするとモーグリメダルを１枚プレゼント！</color>"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nSelect a mischief level.\r\n\r\nComplete the stage to earn <color=orange>a moogle medal</color>."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル１</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>1</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル２</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>2</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル３</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>3</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level4",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル４</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>4</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level5",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル５</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>5</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level6",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル６</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>6</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_Retry_Text_Level7",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "<color=yellow>【モーグリ・コープ】</color>\r\n<color=orange>いたずらレベル７</color>\r\nどの難易度で遊ぶクポ？"
+    },
+    "English": {
+      "Text": "<color=yellow>Moogle Mischief</color>\r\nCurrent Mischief Level: <color=orange>7</color>\r\n\r\nSelect a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク１になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 1."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク２になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 2."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク３になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 3."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク４になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 4."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_05",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク５になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 5."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_06",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランク６になりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached merchant rank 6."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_ShopLevel_07",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリショップが\r\n流通ランクMAXになりました。"
+    },
+    "English": {
+      "Text": "The moogle emporiums have reached the maximum merchant rank."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_dooropen_levelselect",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "どの難易度でモーグリ・コープに挑戦しますか？"
+    },
+    "English": {
+      "Text": "Select a difficulty."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_dooropen_levelselect_easy",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "イージー（５回当たるとゲームオーバー）"
+    },
+    "English": {
+      "Text": "Easy (4-Hit Limit)"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_dooropen_levelselect_normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "ノーマル（３回当たるとゲームオーバー）"
+    },
+    "English": {
+      "Text": "Normal (2-Hit Limit)"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_grab",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "抱える"
+    },
+    "English": {
+      "Text": "Capture"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_hint_cyclone",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリを竜巻に巻き込んで捕まえよう！"
+    },
+    "English": {
+      "Text": "Lure the moogle into a whirlwind!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_hint_cyclone_switch",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "スイッチを起動して竜巻を発生させよう！"
+    },
+    "English": {
+      "Text": "Flip the switch and create a whirlwind!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_leveleasy_select",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグリ・コープの難易度を下げますか？\r\n（５回当たるとゲームオーバー）"
+    },
+    "English": {
+      "Text": "Lower the difficulty?\r\n(4-Hit Limit)"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_leveleasy_select_no",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "いいえ"
+    },
+    "English": {
+      "Text": "No"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_leveleasy_select_yes",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_moogle_medal_reward",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "ごほうび『モーグリメダル』×1を入手した。"
+    },
+    "English": {
+      "Text": "You obtained a moogle medal."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_name_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モララ"
+    },
+    "English": {
+      "Text": "Molala"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_mooglecapture_name_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モルル"
+    },
+    "English": {
+      "Text": "Molulu"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_mooglecapture_name_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モッキー"
+    },
+    "English": {
+      "Text": "Mokey"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_mooglecapture_name_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モーグ"
+    },
+    "English": {
+      "Text": "Moog"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_mooglecapture_name_05",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "モッシュ"
+    },
+    "English": {
+      "Text": "Mosh"
+    },
+    "mode": "english_name"
+  },
+  {
+    "id": "$minigame_mooglecapture_retry_window",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "もういっかい遊ぶクポ？"
+    },
+    "English": {
+      "Text": "Play again, kupo?"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_reward_collection",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "『モーグリ・コープ』コンプリート！\r\nモーグリ店長からプレゼントをもらった。"
+    },
+    "English": {
+      "Text": "You received a reward from the moogle merchant."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_start_title_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "５匹のモーグリをモーグリハウスに連れ戻そう！"
+    },
+    "English": {
+      "Text": "Bring all five moogles back to the mogstool!"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$minigame_mooglecapture_start_title_msg_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "family": "moogle_mischief_UI",
+    "Japanese": {
+      "Text": "制限時間内にモーグリたちをハウスに連れ戻そう！"
+    },
+    "English": {
+      "Text": "Bring all five moogles back to the mogstool within the time limit!"
+    },
+    "mode": "translate"
+  }
+]

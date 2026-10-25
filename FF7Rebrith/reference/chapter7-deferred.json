@@ -1,0 +1,4558 @@
+[
+  {
+    "index": 703,
+    "id": "$CORLE_QST_01_1500_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "わっ　アニキ\r\nなにしてるんですか！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Is that a mirage? I can't believe you're here, bro!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 669,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 704,
+    "id": "$CORLE_QST_01_1500_0200_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おまえこそ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Me neither.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 670,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 705,
+    "id": "$CORLE_QST_01_1500_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "実は　リフォームの目玉として\r\n伝説のモンスター",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Well, I'm glad you are.\r\nY'see, we're renovating the hotel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 671,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 706,
+    "id": "$CORLE_QST_01_1500_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠を\r\nバシッと飾ろうと思ったんですけど",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And I thought a Tonberry King's crown would give the place that palatial feel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 672,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 707,
+    "id": "$CORLE_QST_01_1500_0410_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ここから先　進めなくて",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But it's, uh, somewhere over there.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 673,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 708,
+    "id": "$CORLE_QST_01_1500_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "この先で　トンベリキングを見たって\r\n情報があるんです",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Rumor has it the Tonberry King\r\nlives somewhere nearby.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 674,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 709,
+    "id": "$CORLE_QST_01_1500_0510_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "でも　ここから歩きじゃ無理なんすよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But there's no way your boy Johnny can get through the desert on foot.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 675,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 710,
+    "id": "$CORLE_QST_01_1500_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　もし砂漠へ行くことがあったら\r\n俺の代わりに",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Listen, bro: I dunno if you were planning to check out the dunes, but if you are...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 676,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 711,
+    "id": "$CORLE_QST_01_1500_0700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠を　なるべく傷つけないように\r\n盗んできてもらってもいいですか",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "you'd really be doing me a solid if you brought me back that crown─preferably in the most pristine condition possible.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 677,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 712,
+    "id": "$CORLE_QST_01_1500_0800_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あとは　俺たちにまかせろ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Fine. Just sit tight.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 678,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 713,
+    "id": "$CORLE_QST_01_1500_0900_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "まずは　砂漠に入る方法を探さなきゃ\r\nでも　すぐには無理っぽいね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "I hope <i>you</i> know a way into the desert, Cloud, 'cause I sure don't. Over the mountains? Or something?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 679,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 714,
+    "id": "$CORLE_QST_01_1500_1000_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "珍しいモンスターなら　通信塔で探し出せるよね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Say, I bet one of those towers\r\ncould point us in the king's direction.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 680,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 715,
+    "id": "$CORLE_QST_01_1500_1100_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あとは　俺たちにまかせろ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Fine. Just sit tight.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 678,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 716,
+    "id": "$CORLE_QST_01_1500_1200_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの居場所なら　もうわかってるよね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "We already know where to find the king.\r\nJust gotta pay him a visit.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 681,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 717,
+    "id": "$CORLE_QST_01_1500_1300_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングならもう倒しちゃったよ……ね？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Actually, we already dethroned that royal reject.\r\nDidn't we?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 682,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 718,
+    "id": "$CORLE_QST_01_1500_1400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "くう～　男前がすぎるよアニキ！\r\nちゃちゃっと王冠　盗んできちゃってください",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Your kindness is bringing me to tears, bro!\r\nI eagerly await your safe and fruitful return.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 683,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 719,
+    "id": "$CORLE_QST_01_1500_1500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺　いつまでも待ってますから\r\n忘れちゃうと　干からびちゃいますから",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Just don't keep me waiting too long. We Johnnys are delicate flowers that wilt in the desert heat.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 684,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 720,
+    "id": "$CORLE_QST_01_1510_0100_00_chd",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 685,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 721,
+    "id": "$CORLE_QST_01_1510_0110_00_chd",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリの頂点に君臨する王様　トンベリキングの\r\n居場所らしき情報が見つかりました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Good news. I believe I've ascertained the whereabouts of your royal quarry: the Tonberry King.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 686,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 722,
+    "id": "$CORLE_QST_01_1510_0200_00_chd",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニーさんが　お待ちかねです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Johnny wasn't that far off.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 687,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 723,
+    "id": "$CORLE_QST_01_1510_0300_00_chd",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "彼が干からびてしまう前に\r\n王冠を盗んで　届けてあげましょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Let's not keep your entrepreneurial friend waiting, lest he wither in the heat.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 688,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 724,
+    "id": "$CORLE_QST_01_1600_0100_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリを束ねる　伝説の王様が相手か～",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "This king guy's probably got a horde of tonberries at his command...",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 689,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 725,
+    "id": "$CORLE_QST_01_1600_0110_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ねえ　アタシらも\r\n分身して対抗したほうがよくない？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Which means we'll be outnumbered. Unless...",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 690,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 726,
+    "id": "$CORLE_QST_01_1600_0200_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ほら　バレットを増やして\r\n銃弾の雨あられ作戦とか",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "What if we cloned a bunch of Barrets? They'd blast those baddies into oblivion!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 691,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 727,
+    "id": "$CORLE_QST_01_1600_0300_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "相撃ちになるのがオチだ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "And catch <i>us</i> in the cross fire.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 692,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 728,
+    "id": "$CORLE_QST_01_1600_0400_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "え～　じゃあ　ティファは？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Okay, what about...Tifa?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 693,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 729,
+    "id": "$CORLE_QST_01_1600_0600_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どんな想像した？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Thinking naughty thoughts?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 694,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 730,
+    "id": "$CORLE_QST_01_1600_0700_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "想像しなかった",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Shut up.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 695,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 731,
+    "id": "$CORLE_QST_01_1600_0800_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ふ～～～ん？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Busted!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 696,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 732,
+    "id": "$CORLE_QST_01_1600_0900_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ユフィ　黙ってくれ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "I thought ninjas were supposed to be silent.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 697,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 733,
+    "id": "$CORLE_QST_01_1600_1000_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あっ　ごめんごめん\r\n黙るから　好きなだけ想像して",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Oh, forgive me for interrupting your fantasies. I'll let you get back to being a perv.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 698,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 734,
+    "id": "$CORLE_QST_01_1700_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠は盗めるらしいんすよ\r\n上物　期待してます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I bet you'll just yoink the crown right off the king's head. Can't wait to see it in person!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 699,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 735,
+    "id": "$CORLE_QST_01_1700_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺　いつまでも待ってますから\r\n忘れちゃうと　干からびちゃいますから",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Just don't keep me waiting too long. We Johnnys are delicate flowers that wilt in the desert heat.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 684,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 736,
+    "id": "$CORLE_QST_01_1800_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ～　砂漠へ行けましたか？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Hey, bro! You take a look around the desert yet?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 700,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 737,
+    "id": "$CORLE_QST_01_1800_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "大変お忙しいかと思いますが\r\nトンベリキング探しのほうも頼んます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I'm sure you've got a lot of things on your to-do list, but I hope snagging that crown is still one of 'em!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 701,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 738,
+    "id": "$CORLE_QST_01_1810_0100_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ああ～　王冠傷つけちゃったね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Ouch... Looks like the crown got a little scuffed in the scuffle.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 702,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 739,
+    "id": "$CORLE_QST_01_1810_0200_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どうする　これ　ジョニーに届ける？\r\nもう１回戦って盗んでみる？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Whaddya think? Should we give it to Johnny anyway─see if he even notices? Or should we try for a nicer one instead?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 703,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 740,
+    "id": "$CORLE_QST_01_1810_0300_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠　ゲ～ット！\r\nさっそくジョニーに届けてあげよ",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Another crown snatched by the incomparable Yuffie! Let's hurry up and get this to Johnny!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 704,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 741,
+    "id": "$CORLE_QST_01_1820_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おお　トンベリキングを倒してくれたんですか？\r\nさっすが俺たちのアニキだ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "You took down the Tonberry King─for us!?\r\nThanks, bro! On behalf of all Johnnys!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 705,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 742,
+    "id": "$CORLE_QST_01_1820_0110_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "それで　王冠は？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "So where's the crown?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 706,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 743,
+    "id": "$CORLE_QST_01_1820_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠　手に入りました？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "So where's the king's crown? You got it, right?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 707,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 744,
+    "id": "$CORLE_QST_01_1820_0300_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠を渡しますか？",
+    "MetaData": {},
+    "English": {
+      "Text": "Give the Tonberry King's crown to Johnny?"
+    },
+    "template": 708,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 745,
+    "id": "$CORLE_QST_01_1820_0400_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "キズだらけの王冠を渡す",
+    "MetaData": {},
+    "English": {
+      "Text": "Hand over the marred one."
+    },
+    "template": 709,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 746,
+    "id": "$CORLE_QST_01_1820_0500_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "キレイな王冠を渡す",
+    "MetaData": {},
+    "English": {
+      "Text": "Hand over the pristine one."
+    },
+    "template": 710,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 747,
+    "id": "$CORLE_QST_01_1820_0600_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "王冠の入手方法は？",
+    "MetaData": {},
+    "English": {
+      "Text": "Ask how he thinks you'll get the crown."
+    },
+    "template": 711,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 748,
+    "id": "$CORLE_QST_01_1820_0700_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "渡さない",
+    "MetaData": {},
+    "English": {
+      "Text": "Hold on to it for now."
+    },
+    "template": 567,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 749,
+    "id": "$CORLE_QST_01_1820_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "トンベリキングの王冠は盗めるらしいんすよ\r\n上物　期待してます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I bet you'll just yoink the crown right off the king's head. Can't wait to see it in person!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 699,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 750,
+    "id": "$CORLE_QST_01_1820_0900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "くう～！\r\nアニキ　じらしますねえ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Ohoho! Looks like someone's playing hard to get.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 712,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 751,
+    "id": "$CORLE_QST_01_1820_1000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "なるほど　おあずけっすね\r\n了解です！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But hey, if you wanna hang on to it a little longer, that's cool.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 713,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 752,
+    "id": "$CORLE_QST_01_1830_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "うん？　えっと～これは……\r\nもうアニキったら　またまたご冗談を",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Huh? This is...not exactly what I was... Oh, good one, bro! You almost had me thinking you were serious.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 714,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 753,
+    "id": "$CORLE_QST_01_1830_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "伝説の王冠は\r\nもっとキレイでゴージャスなはずです",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I mean, the Tonberry King's crown is supposed to be regal and resplendent!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 715,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 754,
+    "id": "$CORLE_QST_01_1830_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　本当に\r\nこのキズだらけの王冠であってます？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "There's no way this hunk a' junk is the crown I was lookin' for...right?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 716,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 755,
+    "id": "$CORLE_QST_01_1830_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　本当に\r\nこのキズだらけの王冠であってます？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "There's no way this hunk a' junk is the crown I was lookin' for...right?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 716,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 756,
+    "id": "$CORLE_QST_01_1830_0500_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "本当にキズだらけの王冠であってます？",
+    "MetaData": {},
+    "English": {
+      "Text": "Hand over the marred crown?"
+    },
+    "template": 717,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 757,
+    "id": "$CORLE_QST_01_1830_0600_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "絶対あってる",
+    "MetaData": {},
+    "English": {
+      "Text": "Yes"
+    },
+    "template": 718,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 758,
+    "id": "$CORLE_QST_01_1830_0700_00_sys",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "やっぱり違う",
+    "MetaData": {},
+    "English": {
+      "Text": "No"
+    },
+    "template": 719,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 759,
+    "id": "$CORLE_QST_01_1830_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そうですか　アニキがそこまで言うなら\r\nこれが伝説の王冠なんですね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Huh... Well, uh, if you say so, bro. Guess some legends just don't live up to the hype.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 720,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 760,
+    "id": "$CORLE_QST_01_1830_0900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "まあよく見たら　このオンボロ感が逆に文学的で\r\nインテリアにはちょうどいい気がしてきました",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But y'know, the worse-for-wear look does imbue it with a certain old-school charm─perfect for a rustic centerpiece!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 721,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 761,
+    "id": "$CORLE_QST_01_1830_1000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Thanks again, bro. I owe you one!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 722,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 762,
+    "id": "$CORLE_QST_01_1830_1100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "それじゃあ　俺は先に戻りますね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I'm gonna take this baby back to the hotel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 723,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 763,
+    "id": "$CORLE_QST_01_1830_1200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "時間がある時に　ウチに寄ってください\r\n俺が報酬を用意してると思うんで",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Be sure to swing by when you have the chance! I'm sure one of me'll have somethin' real nice waiting for ya.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 724,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 764,
+    "id": "$CORLE_QST_01_1830_1300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ですよね　その王冠はなにかの間違いですよね\r\nもう　びっくりさせないでくださいよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Whew! For real, I was <i>this</i> close to having a heart attack. The whole deadpan delivery really had me goin'!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 725,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 765,
+    "id": "$CORLE_QST_01_1830_1400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "伝説の名にふさわしい　キレイな王冠を\r\nトンベリキングから盗んできてください",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Now I'm super pumped to see the <i>real</i> crown, in all its shiny and unscuffed glory!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 726,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 766,
+    "id": "$CORLE_QST_01_1900_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "うおお　これが伝説の王冠！\r\nなんて神々しいんだ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Whoa! Get a load of the shine on that baby!\r\nIt is positively legendary!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 727,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 767,
+    "id": "$CORLE_QST_01_1900_0200_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そこそこ大変だったんだから　感謝してよね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "And we went through \"positively legendary\" trouble to get it for you.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 728,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 768,
+    "id": "$CORLE_QST_01_1900_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そりゃもう！\r\nシーサイド・ジョニーのシンボルにします",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Don't worry!\r\nThe fruits of your labor are gonna be on full display.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 729,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 769,
+    "id": "$CORLE_QST_01_1900_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "こうしちゃいられない\r\nはやく帰って　俺に知らせないと",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Man, I can't wait to see the look on my face\r\nwhen I see this!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 730,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 770,
+    "id": "$CORLE_QST_01_1900_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "それじゃあ　俺は先に戻りますね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I'm gonna take this baby back to the hotel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 723,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 771,
+    "id": "$CORLE_QST_01_1900_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "時間がある時に　ウチに寄ってください\r\n俺が報酬を用意してると思うんで",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Be sure to swing by when you have the chance! I'm sure one of me'll have somethin' real nice waitin' for ya.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 724,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 772,
+    "id": "$CORLE_QST_01_2000_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "リフォーム　リフォーム！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Hotel renovation!♪",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 731,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 773,
+    "id": "$CORLE_QST_01_2000_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "丁寧に　丁寧に",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Careful, Johnny, careful...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 732,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 774,
+    "id": "$CORLE_QST_01_2000_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "走れ～\r\n走れ～スタンプ～っと",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Go all out, go all out, go all out li'l Stamp♪",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 733,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 775,
+    "id": "$CORLE_QST_01_2000_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "気をつけろよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Careful up there.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 734,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 776,
+    "id": "$CORLE_QST_01_2000_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そこ　ムラになってんぞ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "You gotta spread it evenly.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 735,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 777,
+    "id": "$CORLE_QST_01_2000_0700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そろそろ代われよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Why don't you just let <i>me</i> do it?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 736,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 778,
+    "id": "$CORLE_QST_01_2000_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おい　ペンキが飛んでんぞ！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Try painting the walls, not me!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 737,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 779,
+    "id": "$CORLE_QST_01_2000_0900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コツをつかんできたぞ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Think I'm gettin' the hang of it!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 738,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 780,
+    "id": "$CORLE_QST_01_2000_1000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "もう　指を叩くのはゴメンだ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Haven't whacked my finger in a minute now!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 739,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 781,
+    "id": "$CORLE_QST_01_2000_1100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コツコツとやっていきますよ～",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "These nails won't know what hit 'em!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 740,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 782,
+    "id": "$CORLE_QST_01_2000_1200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ここが終わったら　次は屋根だな",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "After this, it's time for some roof repairs.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 741,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 783,
+    "id": "$CORLE_QST_01_2000_1300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "お湯よ　出ろ！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Show me the hot water!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 742,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 784,
+    "id": "$CORLE_QST_01_2000_1400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "勢いはよし",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Got a good stream.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 743,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 785,
+    "id": "$CORLE_QST_01_2000_1500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "すこしずつ熱くなってる気が　する？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I <i>think</i> it's getting hotter...kinda...sorta.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 744,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 786,
+    "id": "$CORLE_QST_01_2000_1600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "くそ～　もう１回\r\nボイラーのほうを点検するか",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Better take another look at that stupid boiler...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 745,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 787,
+    "id": "$CORLE_QST_01_2000_1700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ギコギコと",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Chop, chop!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 746,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 788,
+    "id": "$CORLE_QST_01_2000_1800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いい感じ　いい感じ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Not bad if I do <i>saw</i> so!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 747,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 789,
+    "id": "$CORLE_QST_01_2000_1900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "これは床のぶん　次は屋根のぶん",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Floorboards are set; now for some rafters.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 748,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 790,
+    "id": "$CORLE_QST_01_2000_2000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "熱～いシャワーが浴びてえな",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Man, I could go for a hot shower...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 749,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 791,
+    "id": "$CORLE_QST_01_2000_2100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "腹が減っては　リフォームできぬ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Can't renovate on an empty stomach!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 750,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 792,
+    "id": "$CORLE_QST_01_2000_2200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー特製　スタミナスープですよ～",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Whipped up a nice pot of Johnny's special soup!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 751,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 793,
+    "id": "$CORLE_QST_01_2000_2300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "う～ん　このかおり\r\nたまらん！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Mmm, the smell alone's got my mouth watering!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 752,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 794,
+    "id": "$CORLE_QST_01_2000_2400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おっと　ヨダレが落ちるところだった",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Whoops! Almost drooled in the soup.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 753,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 795,
+    "id": "$CORLE_QST_01_2100_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺たちが戻ってきました　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "A couple of me made it back to the hotel, safe and sound.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 754,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 796,
+    "id": "$CORLE_QST_01_2100_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "リフォームは順調ですよ\r\n楽しみにしていてください！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "They're already hard at work on the renovations. It's gonna look awesome!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 755,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 797,
+    "id": "$CORLE_QST_01_2100_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "残りのジョニーのことも　どうかお願いします",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Take care of the rest of me in the meantime, okay bro?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 756,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 798,
+    "id": "$CORLE_QST_01_2200_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　俺たちが全員帰ってきました！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Good news, bro! All of me made it back in one piece!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 757,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 799,
+    "id": "$CORLE_QST_01_2200_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いろいろと助けてもらったみたいで\r\nありがとうございます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And it sounds like I really put you through the wringer. Sorry 'bout that.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 758,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 800,
+    "id": "$CORLE_QST_01_2200_0300_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "で　どうする\r\n忍術といちゃう？",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "No biggie. So...what now? Want me to poof 'em?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 759,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 801,
+    "id": "$CORLE_QST_01_2200_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いや　ちょっとタンマ！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "What? No, not yet!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 760,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 802,
+    "id": "$CORLE_QST_01_2200_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "リフォームはこれからが本番なんで\r\nもうちょっと　働いてもらいます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "We're in the middle of renovating, and I'm gonna need all my hands on deck to finish.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 761,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 803,
+    "id": "$CORLE_QST_01_2200_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シーサイド・ジョニーは\r\n自分の手だけで　生まれ変わらせたいんで",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "At the end of the day, I wanna be able to say I remodeled this place all by myselves.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 762,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 804,
+    "id": "$CORLE_QST_01_2200_0700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "なあ　おまえら！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Right, Johnnys?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 763,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 805,
+    "id": "$CORLE_QST_01_2200_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おう！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Yeah, bro!",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 764,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 806,
+    "id": "$CORLE_QST_01_2200_0900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "というワケで　ババーンと\r\nコスタでいちばんの",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "So yeah, me and mes are set on seein' this through to the end.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 765,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 807,
+    "id": "$CORLE_QST_01_2200_1000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いや　世界一のホテルに\r\nリフォームしちゃいますんで　しばしお待ちを！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But once we're finished, it's gonna be the finest hotel in the whole world─just you wait!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 766,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 808,
+    "id": "$CORLE_QST_01_2400_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ニュー・シーサイドジョニーへ　ようこそ！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Welcome to Johnny's Seaside Inn: Remake!",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 767,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 809,
+    "id": "$CORLE_QST_01_2400_0200_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "わ～お！",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Wow!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 768,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 810,
+    "id": "$CORLE_QST_01_2400_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　どうっすか",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "So? Whaddya think, bro?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 769,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 811,
+    "id": "$CORLE_QST_01_2400_0400_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "見違えた",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "I'm impressed.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 770,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 812,
+    "id": "$CORLE_QST_01_2400_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキたちに　助けてもらったおかげです",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Without you guys, none of this would've been possible.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 771,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 813,
+    "id": "$CORLE_QST_01_2400_0600_00_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "そうそう　アタシの忍術のおかげなんだから\r\n感謝してよね",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "You're absolutely right! You couldn't have done any of this without my incredible ninjutsu.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 772,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 814,
+    "id": "$CORLE_QST_01_2400_0700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おまえたちも　ありがとな",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Couldn't've done it without the J-Squad either.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 773,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 815,
+    "id": "$CORLE_QST_01_2400_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "水くせえな　俺たちの仲だろ　なあ？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Oh, don't go gettin' all sentimental. We were just doin' what you woulda done!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 774,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 816,
+    "id": "$CORLE_QST_01_2400_0900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シーサイド・ジョニーは俺たち全員の家だ　当然さ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "You said it! We all want what's best for this place─it's our home.",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 775,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 817,
+    "id": "$CORLE_QST_01_2400_1000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おまえこそ\r\nこんな俺たちをまとめてくれて　ありがとな",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And none of us would be standing here today if it weren't for you─Johnny Prime!",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 776,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 818,
+    "id": "$CORLE_QST_01_2400_1100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺たちは　おまえが誇らしいよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Truly, you are the realest bro, bro.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 777,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 819,
+    "id": "$CORLE_QST_01_2400_1200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "へへ　これからもジョニー軍団\r\n力を合わせて　がんばっていこうな",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Well, I'm just happy to know that, whatever trials await, we'll face them together.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 778,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 820,
+    "id": "$CORLE_QST_01_2400_1300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いや　それなんだけど",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Uh, yeah, about that...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 779,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 821,
+    "id": "$CORLE_QST_01_2400_1400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ニュー・シーサイドジョニーも完成したし",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Now that all the renovations are complete...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 780,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 822,
+    "id": "$CORLE_QST_01_2400_1500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺たち　そろそろ消えるわ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I think it's time that we...peace out.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 781,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 823,
+    "id": "$CORLE_QST_01_2400_1600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "えっ？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "What?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 782,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 824,
+    "id": "$CORLE_QST_01_2400_1700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー　あとはまかせた",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Don't worry. You got this, Johnny.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 783,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 825,
+    "id": "$CORLE_QST_01_2400_1800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー……",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Johnny?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 784,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 826,
+    "id": "$CORLE_QST_01_2400_1900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー　おまえならひとりでも大丈夫さ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "You don't need us anymore, Johnny. You've got you.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 785,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 827,
+    "id": "$CORLE_QST_01_2400_2000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー……",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Johnny...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 784,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 828,
+    "id": "$CORLE_QST_01_2400_2100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "じゃあな　ジョニー",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Johnny: out!",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 786,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 829,
+    "id": "$CORLE_QST_01_2400_2200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニーーー！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Johnnys!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 787,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 830,
+    "id": "$CORLE_QST_01_2400_2200_08_yfi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニー……",
+    "MetaData": {
+      "ACTOR": "ユフィ"
+    },
+    "English": {
+      "Text": "Johnnys...",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "template": 784,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 831,
+    "id": "$CORLE_QST_01_2400_2300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "最初は口々にわめいて\r\nうるさいだけだったのに",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Y'know...I couldn't stand listening to them bicker...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 788,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 832,
+    "id": "$CORLE_QST_01_2400_2310_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いつしか　あいつらの声に\r\n勇気づけられている俺がいて",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And now I already miss the sound of our melodious voice...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 789,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 833,
+    "id": "$CORLE_QST_01_2400_2400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "くそ　胸にポッカリ穴が開いちまったみたいだ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I lost a part of myself today...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 790,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 834,
+    "id": "$CORLE_QST_01_2400_2500_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "文学的になってる場合か",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "You gonna let that stop you?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 791,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 835,
+    "id": "$CORLE_QST_01_2400_2600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ……",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Hmm?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 792,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 836,
+    "id": "$CORLE_QST_01_2400_2700_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "勝負は　これからだ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "You've got a hotel to run.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 793,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 837,
+    "id": "$CORLE_QST_01_2400_2800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ですよね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "That's true...",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 794,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 838,
+    "id": "$CORLE_QST_01_2400_2900_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "みんなで作った　このニュー・シーサイドジョニー\r\nあいつらのぶんまで　俺が盛りあげていかないと",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I remodeled this place with my own fourteen hands. I owe it to me and my selfs to see that our hard work doesn't go to waste!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 795,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 839,
+    "id": "$CORLE_QST_01_2400_3000_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "うおおお　燃えてきたぜ～！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Oh, yeah! I'm gonna be seven Johnnys in one!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 796,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 840,
+    "id": "$CORLE_QST_01_2400_3100_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "おまえは　ひとりでじゅうぶんだ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Think one of you's more than enough.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 797,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 841,
+    "id": "$CORLE_QST_01_2400_3200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "へへ　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "That means a lot coming from you, bro.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 798,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 842,
+    "id": "$CORLE_QST_01_2400_3300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あっ　そうだ\r\nアニキのコレクションを飾れるようにしたんです",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Oh! Almost forgot. I set up a little space to show off your collection.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 799,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 843,
+    "id": "$CORLE_QST_01_2400_3400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "もし　世界の珍品名品が手に入ったら\r\n声かけてください",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I'd love to showcase any rare or interesting artifacts you happen to come across.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 800,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 844,
+    "id": "$CORLE_QST_01_2400_3410_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "飾らせてもらうかわりに　報酬もはずみますんで",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And rest assured you'll be handsomely rewarded for 'em.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 801,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 845,
+    "id": "$CORLE_QST_01_2400_3500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シーサイド・ジョニーは　これから\r\nホテル界のテッペン目指して　がんばります",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I've got my heart set on becoming the best in the business, so look out, hotel industry!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 802,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 846,
+    "id": "$CORLE_QST_01_2400_3600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いついかなる時でも　極上のおもてなしで\r\nお客様のお帰りをお待ちしています",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "We'll attract guests from far and wide with luxurious lodgings and unbeatable hospitality!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 803,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 847,
+    "id": "$CORLE_QST_01_2400_3700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コスタにお越しの際は\r\nぜひ　シーサイド・ジョニーをご利用ください！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "But you'll <i>always</i> have a room with your name on it, my bro, 'cause when you're here, you're Johnny!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 804,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 848,
+    "id": "$CORLE_QST_01_2500_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "さっそく　なにか飾られますか？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Oh! Already got somethin' you wanna show off?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 805,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 849,
+    "id": "$CORLE_QST_01_2500_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "珍品名品　見つかりました？",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Got anything rare and exotic for me?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 806,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 850,
+    "id": "$CORLE_QST_01_2500_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コレクションのほうは　どんな調子ですか",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "How's the collect-a-thon coming, bro?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 807,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 851,
+    "id": "$CORLE_QST_01_2500_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "珍しいモノが手に入ったら　持ってきてくださいね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "If you come across any cool curios, you know where to bring 'em.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 808,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 852,
+    "id": "$CORLE_QST_01_2500_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "預かったコレクションは\r\n大切に保管させていただきます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "We'll display your donations with pride in our <i>exclusive</i> collection.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 809,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 853,
+    "id": "$CORLE_QST_01_2500_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキのコレクション　お客さんにも評判ですよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Our guests can't stop raving about all the artifacts you've donated!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 810,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 854,
+    "id": "$CORLE_QST_01_2600_0000_05_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "さんはい！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Three, four!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 811,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 855,
+    "id": "$CORLE_QST_01_2600_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ちゃちゃちゃちゃ～ちゃ～\r\nちゃ～ちゃっちゃちゃ～！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Duh-duh-duh duuun duuun duuun dun duh-duuun!♪",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 812,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 856,
+    "id": "$CORLE_QST_01_2600_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　すべてのコレクション\r\nたしかに預からせていただきました",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Thanks to all your hard work, bro, I'm proud to announce our collection is finally complete.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 813,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 857,
+    "id": "$CORLE_QST_01_2600_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "これで　シーサイド・ジョニーは\r\n７つ星のホテルになれたのかもしれません",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "It's only a matter of time till we're certified as a seven-star hotel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 814,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 858,
+    "id": "$CORLE_QST_01_2600_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いや　俺の胸の中では\r\n７つ星がキラキラと輝いてます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And I'll always remember that you're the guy who helped me turn that dream into a reality.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 815,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 859,
+    "id": "$CORLE_QST_01_2600_0410_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ありがとう～　アッニキ～！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Thank you so much, bro, for everything!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 816,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 860,
+    "id": "$CORLE_QST_01_2600_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ありがとう～　アッニキ～！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Thank you so much, bro, for everything!",
+      "MetaData": {
+        "ACTOR": "Johnnys"
+      }
+    },
+    "template": 816,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 861,
+    "id": "$CORLE_QST_01_2600_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ありがとう～　アッニキ～……",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Thank you so much, bro, for everything!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 817,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 862,
+    "id": "$CORLE_QST_01_2700_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキ　遊びにきてくれたんですね\r\nゆっくりしていってください",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Hey, bro! Here to admire the collection? It's become a real tourist attraction.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 818,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 863,
+    "id": "$CORLE_QST_01_2700_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "アニキのコレクションのおかげで\r\nお客さんの予約が　ひっきりなしですよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "I've got guests coming from all over to see the stuff you've donated. We're all booked up!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 819,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 864,
+    "id": "$CORLE_QST_01_2700_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "預かったコレクションは\r\n大切に保管させていただきます",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "We'll display your donations with pride in our exclusive collection.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 809,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 865,
+    "id": "$CORLE_QST_01_2800_0100_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あっ　アニキ！\r\nシーサイド・ジョニーで街のガイドを始めたんすよ",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Hey, bro! Guess what? We just started offering guided tours at the hotel.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 820,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 866,
+    "id": "$CORLE_QST_01_2800_0200_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニーがすばやく　楽しくご案内！\r\nさあ　どちらへ向かわれますか",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Get around town in a flash with Johnny's fast travel service! So─where to?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 821,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 867,
+    "id": "$CORLE_QST_01_2800_0300_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ジョニーが　コスタをご案内しますよ～！",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Your boy Johnny'll get you wherever you wanna go!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 822,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 868,
+    "id": "$CORLE_QST_01_2800_0400_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どちらにご案内しましょう",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Where ya headed, bro?",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 823,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 869,
+    "id": "$CORLE_QST_01_2800_0500_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いつでも　声をかけてくださいね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Feel free to hit me up whenever, bro.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 824,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 870,
+    "id": "$CORLE_QST_01_2800_0600_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コスタのガイドは　ジョニーにおまかせください",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Johnny's here to serve all your fast travel needs.",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 825,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 871,
+    "id": "$CORLE_QST_01_2800_0700_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "とうちゃ～く！\r\nそれでは　コスタを存分に楽しんでくださいね",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "Well, here we are! Now go on and enjoy some good old-fashioned fun in the sun!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 826,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 872,
+    "id": "$CORLE_QST_01_2800_0800_00_jny",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "着きました～！\r\nまたのご利用をお待ちしておりま～す",
+    "MetaData": {
+      "ACTOR": "ジョニー"
+    },
+    "English": {
+      "Text": "And we made it! Thank you for using Johnny's fast travel service!",
+      "MetaData": {
+        "ACTOR": "Johnny"
+      }
+    },
+    "template": 827,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 873,
+    "id": "$CORLE_QST_01_2900_0100_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シーサイド・ジョニーが　コスタをご案内します",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "Welcome to Johnny's Seaside Travel Service!",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 828,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 874,
+    "id": "$CORLE_QST_01_2900_0200_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どちらへご案内いたしましょう",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "Hi! Where are you heading today?",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 829,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 875,
+    "id": "$CORLE_QST_01_2900_0300_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "また　いつでもどうぞ～！",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "Come back anytime.",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 830,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 876,
+    "id": "$CORLE_QST_01_2900_0400_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ご利用の際は　お声がけください",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "I'll be right here if you change your mind!",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 831,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 877,
+    "id": "$CORLE_QST_01_2900_0500_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "到着で～す！\r\nでは　バケーションをお楽しみください",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "Here we are. I hope you have an awesome time in Costa del Sol!",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 832,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 878,
+    "id": "$CORLE_QST_01_2900_0600_00_jen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "到着しました～！\r\nまたのご利用　お待ちしてま～す",
+    "MetaData": {
+      "ACTOR": "ジェニー"
+    },
+    "English": {
+      "Text": "And with that, my work is done. Enjoy your stay, and don't be a stranger!",
+      "MetaData": {
+        "ACTOR": "Jenny"
+      }
+    },
+    "template": 833,
+    "reason": "Johnny desert crown and renovated-inn phases require later access"
+  },
+  {
+    "index": 1000,
+    "id": "$CORLE_QST_02_0900_0800_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "オイラ　駆けっこしたい！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "My time to shine!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 943,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1002,
+    "id": "$CORLE_QST_02_0900_1000_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ナナキにまかせよう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Nanaki's got this.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 945,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1007,
+    "id": "$CORLE_QST_02_1000_0300_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "へへ　まあね～",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Haha! That's me.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 950,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1010,
+    "id": "$CORLE_QST_02_1000_0600_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いいね　やろやろ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Yeah, that <i>does</i> sound fun!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 953,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1013,
+    "id": "$CORLE_QST_02_1000_0900_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "最後　ちょっとバテちゃった",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Could've finished stronger...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 956,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1016,
+    "id": "$CORLE_QST_02_1000_1200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "オイラ　のろまのナナキだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Ugh... I totally screwed that up.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 959,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1020,
+    "id": "$CORLE_QST_02_1000_1600_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "こんな日はいらない　オイラ練習する！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Not anymore it won't─not if I train harder!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 963,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1162,
+    "id": "$CORLE_QST_02_2850_0700_00_frn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ミッドガル進出のために\r\n神羅にコネを作りたかったけど",
+    "MetaData": {
+      "ACTOR": "フレン"
+    },
+    "English": {
+      "Text": "I was hoping to make some connections at Shinra─help get our foot in the door.",
+      "MetaData": {
+        "ACTOR": "Fran"
+      }
+    },
+    "template": 1101,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1163,
+    "id": "$CORLE_QST_02_2850_0710_00_frn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "それどころじゃないかもね",
+    "MetaData": {
+      "ACTOR": "フレン"
+    },
+    "English": {
+      "Text": "But maybe now's not the time...",
+      "MetaData": {
+        "ACTOR": "Fran"
+      }
+    },
+    "template": 1102,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1164,
+    "id": "$CORLE_QST_02_2850_0800_00_frn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どんな状況になっても\r\n私たちは　水着を作り続けるわよ",
+    "MetaData": {
+      "ACTOR": "フレン"
+    },
+    "English": {
+      "Text": "No matter what's going on in the world, we're still committed to our craft.",
+      "MetaData": {
+        "ACTOR": "Fran"
+      }
+    },
+    "template": 1103,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1165,
+    "id": "$CORLE_QST_02_2850_0900_00_nem",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ウータイの水着って　どんな感じなんだろ",
+    "MetaData": {
+      "ACTOR": "ノエミ"
+    },
+    "English": {
+      "Text": "Wonder what kinda swimsuits they wear in Wutai.",
+      "MetaData": {
+        "ACTOR": "Naomi"
+      }
+    },
+    "template": 1104,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1166,
+    "id": "$CORLE_QST_02_2850_1000_00_nem",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シノビをイメージした水着も作ってみたいな",
+    "MetaData": {
+      "ACTOR": "ノエミ"
+    },
+    "English": {
+      "Text": "What about a ninja-kini? That could be cute, right?",
+      "MetaData": {
+        "ACTOR": "Naomi"
+      }
+    },
+    "template": 1105,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1167,
+    "id": "$CORLE_QST_02_2850_1100_00_yld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ウータイの放送があってから\r\n空気がすこし　重くなった気がするよ",
+    "MetaData": {
+      "ACTOR": "ヨルダ"
+    },
+    "English": {
+      "Text": "Things've felt pretty doom-and-gloomy around here ever since that broadcast out of Wutai.",
+      "MetaData": {
+        "ACTOR": "Yorda"
+      }
+    },
+    "template": 1106,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1168,
+    "id": "$CORLE_QST_02_2850_1200_00_yld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "平和じゃないとバケーションも楽しめないからね\r\n戦争なんてカンベンしてほしいよ",
+    "MetaData": {
+      "ACTOR": "ヨルダ"
+    },
+    "English": {
+      "Text": "Hard to enjoy a vacation with the threat of war looming over you... Hard to enjoy much of anything, really.",
+      "MetaData": {
+        "ACTOR": "Yorda"
+      }
+    },
+    "template": 1107,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1337,
+    "id": "$CORLE_QST_03_2000_0700_00_jna",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "殺伐とした世の中になってきたね",
+    "MetaData": {
+      "ACTOR": "ジーナン"
+    },
+    "English": {
+      "Text": "So much doom and gloom these days...",
+      "MetaData": {
+        "ACTOR": "Jules"
+      }
+    },
+    "template": 1270,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1338,
+    "id": "$CORLE_QST_03_2000_0800_00_jna",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いつか筋肉で\r\n世界を繋げられないかって考えてるんだ",
+    "MetaData": {
+      "ACTOR": "ジーナン"
+    },
+    "English": {
+      "Text": "If we all worked out together, I bet we could find a way to overcome our differences.",
+      "MetaData": {
+        "ACTOR": "Jules"
+      }
+    },
+    "template": 1271,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1339,
+    "id": "$CORLE_QST_03_2000_0900_00_zen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "戦争になるなら　さらなる筋肉が必要だ！",
+    "MetaData": {
+      "ACTOR": "ゼン・ワン"
+    },
+    "English": {
+      "Text": "If the whole world's comin' to blows, we're gonna need to bulk up first!",
+      "MetaData": {
+        "ACTOR": "Ronnie"
+      }
+    },
+    "template": 1272,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1340,
+    "id": "$CORLE_QST_03_2000_1000_00_zen",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ウータイのシノビとも　いつか競いたいものだ",
+    "MetaData": {
+      "ACTOR": "ゼン・ワン"
+    },
+    "English": {
+      "Text": "I'd like to see Wutai put their muscles where their mouth is!",
+      "MetaData": {
+        "ACTOR": "Ronnie"
+      }
+    },
+    "template": 1273,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1341,
+    "id": "$CORLE_QST_03_2000_1100_00_san",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "筋肉さえあれば　ウータイなんて怖くない！",
+    "MetaData": {
+      "ACTOR": "サン・トー"
+    },
+    "English": {
+      "Text": "Wutai talks a big game, but my muscles are bigger!",
+      "MetaData": {
+        "ACTOR": "Jay"
+      }
+    },
+    "template": 1274,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1342,
+    "id": "$CORLE_QST_03_2000_1200_00_san",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "こんなときこそ　鍛えねば！",
+    "MetaData": {
+      "ACTOR": "サン・トー"
+    },
+    "English": {
+      "Text": "I say we gotta pump while the iron's hot!",
+      "MetaData": {
+        "ACTOR": "Jay"
+      }
+    },
+    "template": 1275,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1343,
+    "id": "$CORLE_QST_03_2000_1300_00_dmi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "師匠　いっしょに汗を流して\r\n不安を吹き飛ばしましょう！",
+    "MetaData": {
+      "ACTOR": "アミナ"
+    },
+    "English": {
+      "Text": "Hey, coach! Whaddya say we work up a sweat and get those endorphins flowin'?",
+      "MetaData": {
+        "ACTOR": "Amina"
+      }
+    },
+    "template": 1276,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1344,
+    "id": "$CORLE_QST_03_2000_1400_00_dmi",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "師匠　ふさぎこんでる時こそ\r\n筋トレですよね！",
+    "MetaData": {
+      "ACTOR": "アミナ"
+    },
+    "English": {
+      "Text": "Nothing gets me out of a slump like a good workout. You wanna join me?",
+      "MetaData": {
+        "ACTOR": "Amina"
+      }
+    },
+    "template": 1277,
+    "reason": "later Wutai war broadcast reaction"
+  },
+  {
+    "index": 1373,
+    "id": "$CORLE_QST_04_0100_0700_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ゆーかい？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "What's this?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1306,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1378,
+    "id": "$CORLE_QST_04_0100_1020_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ううん",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Haaah...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1311,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1383,
+    "id": "$CORLE_QST_04_0100_1500_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "へへへ　まかせてよ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Hehe... Our guy's as good as found!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1316,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1386,
+    "id": "$CORLE_QST_04_0100_1800_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "なにから調べよっか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "So where should we start?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1319,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1399,
+    "id": "$CORLE_QST_04_0100_3100_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウド　その手紙　嗅がせて",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Hey, lemme give that letter a sniff.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1332,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1401,
+    "id": "$CORLE_QST_04_0100_3300_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ちょっと　いいニオイがする\r\n香水かな？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I'm getting a pretty interesting scent...\r\nSome kind of cologne?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1334,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1407,
+    "id": "$CORLE_QST_04_0300_0060_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウド　行こう",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Just follow me, okay?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1340,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1410,
+    "id": "$CORLE_QST_04_0300_0300_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "まあね　バッチリわかるよ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Oh yeah. Pretty easily, actually!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1343,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1413,
+    "id": "$CORLE_QST_04_0300_0600_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "香水のニオイは　もちろんだけど\r\n犯人自身のニオイもあるからね",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I can pick up a person's body odor in a snap, to say nothing of someone's cologne.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1346,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1415,
+    "id": "$CORLE_QST_04_0300_0800_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ほかにも　いろんなニオイが混ざってるけど\r\nちゃんと嗅ぎ分けられるんだよ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "And I can hone in on any scent I want, even if there are lots of other strong ones.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1348,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1418,
+    "id": "$CORLE_QST_04_0300_1100_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "う～ん　戦う青年のニオイかな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Like...a guy who's seen his fair share of battles,\r\nI guess.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1351,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1421,
+    "id": "$CORLE_QST_04_0300_1400_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "気にしない　気にしない",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I mean, I wouldn't go <i>that</i> far...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1354,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1424,
+    "id": "$CORLE_QST_04_0320_0300_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウド　覚えてる？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "They're really makin' us work for it. Let's go!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1357,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1425,
+    "id": "$CORLE_QST_04_0320_0400_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウド　追跡の途中だったよね",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Cloud, we were tracking some black robe, right?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1358,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1428,
+    "id": "$CORLE_QST_04_0320_0700_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ニオイは　こっちみたい",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Think they're this way.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1361,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1429,
+    "id": "$CORLE_QST_04_0320_0800_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ニオイはバッチリ　オイラにまかせて！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Okay, got their scent. I'll take it from here.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1362,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1431,
+    "id": "$CORLE_QST_04_0400_0200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "犯人は　あそこへ向かったみたいなんだけど\r\n困ったなあ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Well, their scent leads straight there, but...\r\nAh man, why now?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1364,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1434,
+    "id": "$CORLE_QST_04_0400_0500_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ううん　とにかく行ってみよ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "It's nothing... Let's just check it out.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1366,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1436,
+    "id": "$CORLE_QST_04_0400_0700_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "強敵のニオイだよ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Smells like trouble, guys!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1367,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1439,
+    "id": "$CORLE_QST_04_0500_0300_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "この人からは　犯人のニオイはしないよ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Definitely not a kidnapper. My nose can tell.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1370,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1448,
+    "id": "$CORLE_QST_04_0700_0200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あのね　オイラの鼻なんだけど",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "There's, uh, something you should\r\nknow about me and my nose.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1379,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1451,
+    "id": "$CORLE_QST_04_0700_0500_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "食べ物のニオイに　すっごく弱いんだよね",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Whenever I catch a whiff of food,\r\nit's all I can think about.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1382,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1453,
+    "id": "$CORLE_QST_04_0700_0700_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いまも　お肉のニオイで頭がいっぱい\r\nしばらくオイラの鼻には期待しないで",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "And since I can't get the smell of meat outta my nostrils, I...I don't think I'm gonna be a ton of help right now.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1384,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1455,
+    "id": "$CORLE_QST_04_0700_1000_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "笑った？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Hey!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1386,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1457,
+    "id": "$CORLE_QST_04_0700_1200_00_cld",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ナナキから逃げる時は肉を焼こう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Grilled meat is all it takes to throw\r\nyou off your game?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1388,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1461,
+    "id": "$CORLE_QST_04_0800_0200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "クラウド　見て",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Cloud, look.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1392,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1464,
+    "id": "$CORLE_QST_04_0800_0500_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シロン先生にもらったライトを使ってみたら？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Maybe we oughta try the light Doc Sheiran gave us!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1395,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1466,
+    "id": "$CORLE_QST_04_0900_0200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "黒マント　いるかなあ？\r\n犯人もいっしょかな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "So if we find our guy...\r\nwhadda you wanna do about the culprit?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1397,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1469,
+    "id": "$CORLE_QST_04_0900_0500_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "どうする？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "You mean...?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1400,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1472,
+    "id": "$CORLE_QST_04_0900_0800_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "りょーかい！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Copy.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1403,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1474,
+    "id": "$CORLE_QST_04_1000_0200_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "犯人のすみかみたいだね　いないけど",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Place reeks of kidnapper. No sign of 'em, though.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1405,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1476,
+    "id": "$CORLE_QST_04_1000_0400_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "戻ってくるまで　どこかに隠れて待つ？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Could hide till they get back─catch 'em by surprise?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1407,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1493,
+    "id": "$CORLE_QST_04_1000_1600_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "このニオイ\r\nクラウド　そいつらが犯人だよ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "This smell...\r\nCloud─they're the ones we're looking for!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1422,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1524,
+    "id": "$CORLE_QST_04_1200_0400_00_red",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ソルジャーが劣化するって　本当なの？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Is SOLDIER degradation real?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1453,
+    "reason": "post-Cosmo-Canyon young Nanaki alternate voice"
+  },
+  {
+    "index": 1540,
+    "id": "$CORLE_QST_04_1300_0400_00_crn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ウータイの放送の話を聞いたよ",
+    "MetaData": {
+      "ACTOR": "シロン"
+    },
+    "English": {
+      "Text": "That was a wild statement outta Wutai.",
+      "MetaData": {
+        "ACTOR": "Doctor Sheiran"
+      }
+    },
+    "template": 1467,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1541,
+    "id": "$CORLE_QST_04_1300_0500_00_crn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "まあ　神羅に抗おうなんて気合いの入ったヤツは\r\nこの村にはおらんがな",
+    "MetaData": {
+      "ACTOR": "シロン"
+    },
+    "English": {
+      "Text": "Gotta hand it to the SRC, though: no one around these parts has the guts to stand up to Shinra.",
+      "MetaData": {
+        "ACTOR": "Doctor Sheiran"
+      }
+    },
+    "template": 1468,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1542,
+    "id": "$CORLE_QST_04_1300_0600_00_crn",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "反神羅連絡会とかいう組織も\r\nさすがに　この村は勧誘せんだろうな",
+    "MetaData": {
+      "ACTOR": "シロン"
+    },
+    "English": {
+      "Text": "Probably why they haven't come around lookin' for new recruits. Know better than to waste their time with us.",
+      "MetaData": {
+        "ACTOR": "Doctor Sheiran"
+      }
+    },
+    "template": 1469,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1660,
+    "id": "$CORLV_NPC_10_0200_1100_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "文句ばっかじゃ腹が減るだけだ",
+    "MetaData": {},
+    "English": {
+      "Text": "Whatever... Whinin' never got nobody nowhere."
+    },
+    "template": 1586,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1661,
+    "id": "$CORLV_NPC_10_0200_1200_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "バレットに絡んでも仕方ねえ",
+    "MetaData": {},
+    "English": {
+      "Text": "No point pickin' a fight now."
+    },
+    "template": 1587,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1662,
+    "id": "$CORLV_NPC_10_0200_1300_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺らにできることって　なんだろうな",
+    "MetaData": {},
+    "English": {
+      "Text": "There's gotta be somethin' we can do to move forward."
+    },
+    "template": 1588,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1663,
+    "id": "$CORLV_NPC_10_0200_1600_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "私たち　神羅に\r\n利用されただけなのかもね",
+    "MetaData": {},
+    "English": {
+      "Text": "We were only ever tools to Shinra─to be used and thrown away.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1589,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1664,
+    "id": "$CORLV_NPC_10_0200_1700_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ここも　昔は良かったのよ",
+    "MetaData": {},
+    "English": {
+      "Text": "I just...miss what we used to have."
+    },
+    "template": 1590,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1665,
+    "id": "$CORLV_NPC_10_0200_1800_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "魔晄炉がある暮らしに\r\n夢を見ていたんだよね……",
+    "MetaData": {},
+    "English": {
+      "Text": "We weren't askin' for much─just a little more..."
+    },
+    "template": 1591,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1666,
+    "id": "$CORLV_NPC_10_0200_2100_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ひいいっ　すまねえ\r\n次はうまくやるから殴らないでくれ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Sorry! I'm sorry! I promise I'll do it right next time! Just don't hit me!"
+    },
+    "template": 1592,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1667,
+    "id": "$CORLV_NPC_10_0200_2200_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "落ち着け　ボスはもういねえよ\r\n誰もおまえをボコボコにはしねえ",
+    "MetaData": {},
+    "English": {
+      "Text": "Hey, deep breaths. The boss ain't here. No one's gonna hurt you, promise."
+    },
+    "template": 1593,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1668,
+    "id": "$CORLV_NPC_10_0200_2300_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "急に昔のことを思い出すんだ",
+    "MetaData": {},
+    "English": {
+      "Text": "I was...I was there."
+    },
+    "template": 1594,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1669,
+    "id": "$CORLV_NPC_10_0200_2310_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "冷や汗が止まらねえ\r\n頭が真っ白になっちまう",
+    "MetaData": {},
+    "English": {
+      "Text": "God, it just...felt so...real."
+    },
+    "template": 1595,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1670,
+    "id": "$CORLV_NPC_10_0200_2400_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コレルプリズンは生き地獄だったんだ\r\n無理もねえよ",
+    "MetaData": {},
+    "English": {
+      "Text": "I understand. Believe me, I do. We'll get through it together."
+    },
+    "template": 1596,
+    "reason": "post-Barret reflection / post-Corel-Prison boss escape"
+  },
+  {
+    "index": 1701,
+    "id": "$CORLV_NPC_10_0500_0700_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ピヨ子の子供がいなくなったってよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Lil' Chirpie's chick's gone missing.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1627,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1702,
+    "id": "$CORLV_NPC_10_0500_0800_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ピヨ子も砂漠を\r\n探しまわってるんだろうな",
+    "MetaData": {},
+    "English": {
+      "Text": "She's prob'ly lookin' all over the desert for him."
+    },
+    "template": 1628,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1703,
+    "id": "$CORLV_NPC_10_0500_0900_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あいつは　俺たちの守り神だ\r\n無事だといいがな",
+    "MetaData": {},
+    "English": {
+      "Text": "Hope they're alright. Always feel safer when they're around..."
+    },
+    "template": 1629,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1704,
+    "id": "$CORLV_NPC_10_0500_1000_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ピヨ子も子供も　無事だったってよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Lil' Chirpie brought her chick back home.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1630,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1705,
+    "id": "$CORLV_NPC_10_0500_1100_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ああ　よかった",
+    "MetaData": {},
+    "English": {
+      "Text": "Well, that's a relief."
+    },
+    "template": 1631,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1706,
+    "id": "$CORLV_NPC_10_0500_1110_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ビビりで　うまくモンスターから\r\n隠れてたんだろう",
+    "MetaData": {},
+    "English": {
+      "Text": "That sixth sense of hers prob'ly kept 'em safe."
+    },
+    "template": 1632,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1707,
+    "id": "$CORLV_NPC_10_0500_1200_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "村のガキどものアイドルだからな\r\n探してくれたやつに感謝だ",
+    "MetaData": {},
+    "English": {
+      "Text": "Oughta thank whoever found 'em. Kids would've been crushed if those birds were never seen again."
+    },
+    "template": 1633,
+    "reason": "later desert bird-rescue quest outcomes"
+  },
+  {
+    "index": 1755,
+    "id": "$CORLV_NPC_10_0900_10000_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "たくさん噛んでね\r\nお腹いっぱいになるから",
+    "MetaData": {},
+    "English": {
+      "Text": "Keep chewin', okay? It'll make you feel full."
+    },
+    "template": 1681,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1756,
+    "id": "$CORLV_NPC_10_0900_10100_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あっ　ディオの\r\nヒゲキーホルダーの金具付けも\r\nはじめることにしたんだ",
+    "MetaData": {},
+    "English": {
+      "Text": "Oh, we got these keychains shaped like Dio's mustache now too. They're sure to sell."
+    },
+    "template": 1682,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1757,
+    "id": "$CORLV_NPC_10_0900_10200_00_mmk",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "うん　それも手伝う\r\n不良品があったらもらいたいな",
+    "MetaData": {},
+    "English": {
+      "Text": "I'll help with those too! Maybe if there's a broken one I can keep it?"
+    },
+    "template": 1683,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1758,
+    "id": "$CORLV_NPC_10_0900_10300_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "シロン先生の配給で～す！",
+    "MetaData": {},
+    "English": {
+      "Text": "Get your free rations!"
+    },
+    "template": 1684,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1844,
+    "id": "$CORLV_NPC_10_0900_9800_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "急いで　今日中にあと３００個！",
+    "MetaData": {},
+    "English": {
+      "Text": "Pick up the pace. We need three hundred more."
+    },
+    "template": 1770,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1845,
+    "id": "$CORLV_NPC_10_0900_9810_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ディオクッキーの\r\n袋詰めしなきゃならないのよ",
+    "MetaData": {},
+    "English": {
+      "Text": "<i>And</i> we have to pack up these Dio Cookies."
+    },
+    "template": 1771,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1846,
+    "id": "$CORLV_NPC_10_0900_9900_00_mmk",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "うん　ディオシール貼り\r\n手伝うね",
+    "MetaData": {},
+    "English": {
+      "Text": "Okay. I'll help put on the Dio stickers."
+    },
+    "template": 1772,
+    "reason": "later Dio souvenir piecework unlock"
+  },
+  {
+    "index": 1882,
+    "id": "$CORLV_NPC_10_1000_5400_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "ほら　おとなしくしな",
+    "MetaData": {},
+    "English": {
+      "Text": "No funny business!",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1807,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1883,
+    "id": "$CORLV_NPC_10_1000_5500_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "たっぷり　お仕置きしてやるからな！",
+    "MetaData": {},
+    "English": {
+      "Text": "Y'all ain't gonna like what comes next!",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1808,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1884,
+    "id": "$CORLV_NPC_10_1000_5600_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あっ　あんた\r\nバレットの連れの人だよね",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "Oh, y'all the folks who came into town with Barret.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1809,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1885,
+    "id": "$CORLV_NPC_10_1000_5610_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "色々と　すまなかったね",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "Sorry about all...you know.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1810,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1886,
+    "id": "$CORLV_NPC_10_1000_5700_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "バレットが　文句言われても受け止めて\r\n村の子供たちのために頑張ってる姿を見て",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "I know it can't've been easy seein' the way we talked to him, And still you went and helped the youngins...",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1811,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1887,
+    "id": "$CORLV_NPC_10_1000_5710_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺たち　恥ずかしくなってさ",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "Made us realize how foolish we'd been acting.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1812,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1888,
+    "id": "$CORLV_NPC_10_1000_5900_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いつまでも　過去にとらわれてるばかりじゃ\r\nなにも変わらない",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "Thing about the past is, it's gone.\r\nAnd it ain't comin' back.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1813,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1889,
+    "id": "$CORLV_NPC_10_1000_6000_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "この村を　すこしずつでも\r\n変えなきゃって思ったんだ",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "And what really matters now is Corel's future.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1814,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1890,
+    "id": "$CORLV_NPC_10_1000_6100_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "んで　あたしたちにもできること\r\n考えたんだよ",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "So, we asked ourselves what we might could do to work toward a better one.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1815,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1891,
+    "id": "$CORLV_NPC_10_1000_6200_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "コレルプリズンから来てるグリードたち\r\nあんたも気づいたろ？",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "I'm sure you noticed that some boys from the prison set up shop in town.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1816,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1892,
+    "id": "$CORLV_NPC_10_1000_6300_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "俺たちも　見て見ぬフリしてたんだけどな",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "We turned a blind eye to 'em at first, but...",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1817,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1893,
+    "id": "$CORLV_NPC_10_1000_6400_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "あたしたちを食いものにしてるコイツらを\r\nまずこらしめてやろうってね　決めたわけよ",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "No longer. It's high time they learned what happens when folks try to take advantage of us.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1818,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1894,
+    "id": "$CORLV_NPC_10_1000_6500_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "店の中で　きっちりお仕置きしてるから\r\n見てってくれよ",
+    "MetaData": {
+      "ACTOR": "北コレル住民"
+    },
+    "English": {
+      "Text": "You're welcome to watch their \"education\" in the bar if you want.",
+      "MetaData": {
+        "ACTOR": "North Corel Resident"
+      }
+    },
+    "template": 1819,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1895,
+    "id": "$CORLV_NPC_10_1000_6600_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "詐欺グループのグリードたちを\r\n捕まえたんだ",
+    "MetaData": {},
+    "English": {
+      "Text": "We caught those hustlers out of Corel Prison.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1820,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1896,
+    "id": "$CORLV_NPC_10_1000_6610_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いまは順番にお仕置き中だよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Folks're linin' up to say hello.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1821,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1897,
+    "id": "$CORLV_NPC_10_1000_6700_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "グリードの連中にも　同郷のヤツがいる",
+    "MetaData": {},
+    "English": {
+      "Text": "Some of them came up around here, believe it or not.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1822,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1898,
+    "id": "$CORLV_NPC_10_1000_6710_00_mfa",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "いつか仲良く　昔のコレル村みたいに\r\n暮らせるといいな",
+    "MetaData": {},
+    "English": {
+      "Text": "Maybe one day they'll get their shit together and do right by their kin.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1823,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  },
+  {
+    "index": 1899,
+    "id": "$CORLV_NPC_10_1000_6800_00_mma",
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "Text": "まあ　すぐには変わらないだろうけどよ\r\nすこしずつやっていくさ",
+    "MetaData": {},
+    "English": {
+      "Text": "Change doesn't happen overnight. Just gotta keep chippin' away at it. Bit by bit.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1824,
+    "reason": "post-bird-rescue Barret village reconciliation"
+  }
+]

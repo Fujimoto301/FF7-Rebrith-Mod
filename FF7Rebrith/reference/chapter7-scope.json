@@ -1,0 +1,15 @@
+{
+  "chapter": 7,
+  "title": "Those Left Behind",
+  "records": 1966,
+  "templates": 1891,
+  "already_translated": [],
+  "source_sha256": "f67b0fdbf86564eb107cbdcf97e3cb12a05117afb31317566d415fff594762cb",
+  "scope": "Corel mountain climb, Turks, Yuffie mine adventure, North Corel and ropeway departure; coastal quests1–3 and Dr.Sheiran quest4 plus North Corel NPCs and Navalan QB. Later-return branches inventoried for individual deferral.",
+  "excluded": "Gold Saucer arrival begins Chapter8; desert odd jobs5/6, Johnny crown/renovation endgame and later North Corel NPC states remain deferred. Preserve Ch.1–6 and all shared UI rechecks.",
+  "counts": {
+    "End/Content/Text/JP/8300-CORLE_TxtRes.uasset": 1927,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 39
+  },
+  "reuse_policy": "Exact JP matches from previously translated dialogue, unique Thai wording, no gendered particles/pronouns or English names. Recheck context before assembly."
+}

@@ -1,0 +1,19 @@
+{
+  "chapter": 4,
+  "title": "Dawn of a New Era",
+  "records": 3256,
+  "templates": 3081,
+  "already_translated": [],
+  "source_sha256": "227531f4aa8207d70bf1ae7bfd1ac34fa393fe79f35310fa56c9d905e9b3b6b1",
+  "scope": "Junon approach, Under Junon and parade main story, all phase-10 Junon NPC speech including actorless ambient lines, five initial odd jobs, Fort Condor protorelic, Terror of the Deep battle, local Queen’s Blood, Junon Chadley/MAI and second Moogle shop.",
+  "excluded": "C2310/C2320 and ferry dialogue are Chapter5; JUNOE_QST06/07 are later return quests; later named-region research remains outside this chapter.",
+  "counts": {
+    "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset": 2974,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 282
+  },
+  "reuse_policy": "Exact JP matches from previously translated dialogue, unique Thai wording, no gendered particles/pronouns or English names. Recheck context before assembly.",
+  "release_records": 3206,
+  "deferred_records": 50,
+  "deferred_manifest": "reference/chapter4-deferred.json",
+  "selection_note": "Prepared scope includes later-return NPC state variants; assembler excludes all 50 recorded deferred rows. 3,206 records are released."
+}

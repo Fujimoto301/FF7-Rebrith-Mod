@@ -1,0 +1,484 @@
+{
+  "source": "Supplied PlearnGaming Remake JP-except-UI mod",
+  "names_in_actor_labels_and_ui": "English, per latest user instruction",
+  "terms": [
+    {
+      "source_name": "Cloud",
+      "thai": "คลาวด์",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0070_0020_big_3",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0090_0030_wed_1",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0220_0010_tif_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Barret",
+      "thai": "บาร์เร็ต",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0405_0010_jec_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$pv_mako1_0330_0020_jec_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$tk_mako1_7120_0020_jec_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Aerith",
+      "thai": "เอริธ",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/030-SLUM7_TxtRes.uexp",
+          "entry_id": "$ev_slum7_4040_0040_cld_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/030-SLUM7_TxtRes.uexp",
+          "entry_id": "$ev_slum7_4180_0100_tif_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/030-SLUM7_TxtRes.uexp",
+          "entry_id": "$ev_slum7_4195_0110_wed_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Sephiroth",
+      "thai": "เซฟิรอธ",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/040-TOWN7_TxtRes.uexp",
+          "entry_id": "$ev_town7_2250_0050_cld_2",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/040-TOWN7_TxtRes.uexp",
+          "entry_id": "$ev_town7_2250_0060_tif_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/070-MAKO5_TxtRes.uexp",
+          "entry_id": "$ev_mako5_0070_0010_tif_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Mako",
+      "thai": "มาโก้",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0160_0030_blt_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0250_0010_blt_2",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0250_0010_blt_5",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Midgar",
+      "thai": "มิดการ์",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$ev_town8_0760_0080_jec_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_3393_0010_wm12_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_4304_0010_mn12_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Shinra",
+      "thai": "ชินระ",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0160_0040_blt_2",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$ev_town8_0100_0010_ana_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$ev_town8_0550_0390_jec_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Avalanche",
+      "thai": "อวาแลนช์",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0240_0010_hyd_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$ev_town8_0710_0002_snk_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$ev_town8_0710_0010_blt_1",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Lifestream",
+      "thai": "ไลฟ์สตรีม",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/030-SLUM7_TxtRes.uexp",
+          "entry_id": "$tk_slum7_6623_0020_dh20_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/030-SLUM7_TxtRes.uexp",
+          "entry_id": "$tk_slum7_6623_0030_dh53_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/070-MAKO5_TxtRes.uexp",
+          "entry_id": "$ev_mako5_8010_0140_blt_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Jenova",
+      "thai": "เจโนวา",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_4010_0020_art_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$pv_sbil0_4170_0020_red_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$pv_sbil0_4170_0070_red_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Cetra",
+      "thai": "เซทรา",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2830_0050_art_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Whispers",
+      "thai": "วิสเปอร์",
+      "scope": "general",
+      "evidence": [
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2830_0220_red_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2830_0290_blt_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2830_0340_red_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Tifa",
+      "thai": "ทีฟ่า",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0210_0020_jec_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0230_0010_cld_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0340_0040_blt_2",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Hojo",
+      "thai": "โฮโจ",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/080-SLU5B_TxtRes.uexp",
+          "entry_id": "$ev_slu5b_4500_0090_cld_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_0650_0090_tif_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2470_0190_pre_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "SOLDIER",
+      "thai": "โซลเจอร์",
+      "scope": "dialogue",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ba_mako1_0020_0020_0010_kb06_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ba_mako1_0090_0050_0000_blt_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ba_mako1_5010_2085_0040_blt_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Stamp",
+      "thai": "แสตมป์",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0160_0040_blt_3",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ev_mako1_0340_0020_blt_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_3401_0010_mn50_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Red XIII",
+      "thai": "เรด XIII",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/140-SBIL0_TxtRes.uexp",
+          "entry_id": "$ev_sbil0_2751_0120_red_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/Resident_TxtRes.uexp",
+          "entry_id": "$level_safe_save_sbil0_140_70_030",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/Resident_TxtRes.uexp",
+          "entry_id": "$menu_Loading_Character_Red13_Text",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Wutai",
+      "source_japanese": "ウータイ",
+      "thai": "อู่ไถ",
+      "scope": "location_name_in_translated_text",
+      "evidence": [
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_3016_0010_mn28_0",
+          "field": "text"
+        },
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_3192_0010_wm23_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Chadley",
+      "thai": "แชดลี่ย์",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/000-COMON_TxtRes.uexp",
+          "entry_id": "$ev_comon_0100_0000_chd_0",
+          "field": "additional"
+        }
+      ]
+    },
+    {
+      "source_name": "Kyrie",
+      "thai": "คิริเอะ",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/020-TOWN8_TxtRes.uexp",
+          "entry_id": "$tk_town8_7271_0010_kre_0",
+          "field": "additional"
+        }
+      ]
+    },
+    {
+      "source_name": "Chocobo",
+      "thai": "โจโกโบะ",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/080-SLU5B_TxtRes.uexp",
+          "entry_id": "$tk_slu5b_45_0252_0010_mbn_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Moogle",
+      "thai": "มูเกิ้ล",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/080-SLU5B_TxtRes.uexp",
+          "entry_id": "$tk_slu5b_45_0252_0010_mbn_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Seventh Heaven",
+      "thai": "เซเว่นเฮฟเว่น",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/070-MAKO5_TxtRes.uexp",
+          "entry_id": "$ev_mako5_0320_0010_blt_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Materia",
+      "thai": "แมทีเรีย",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/010-MAKO1_TxtRes.uexp",
+          "entry_id": "$ba_mako1_0020_0030_0010_kb06_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Potion",
+      "thai": "โพชั่น",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/080-SLU5B_TxtRes.uexp",
+          "entry_id": "$tk_slu5b_11_0672_0010_mbn_0",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "source_name": "Moogle Medal",
+      "thai": "เหรียญมูเกิ้ล",
+      "scope": "dialogue_only",
+      "evidence": [
+        {
+          "asset": "Text/US/080-SLU5B_TxtRes.uexp",
+          "entry_id": "$tk_slu5b_20_5310_0120_5m27_0",
+          "field": "text"
+        }
+      ]
+    }
+  ]
+}

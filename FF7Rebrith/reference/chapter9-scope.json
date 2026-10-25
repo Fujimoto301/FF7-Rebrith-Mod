@@ -1,0 +1,13 @@
+{
+  "source_sha256": "dd90f2f487064164fdde7f27bd434cbd88611e579719b4da3d9ed2468198dfcf",
+  "records": 2455,
+  "templates": 2262,
+  "selected": 2203,
+  "deferred": 252,
+  "groups": {
+    "speech": 1911,
+    "system": 72,
+    "UI": 220
+  },
+  "base": "translations/working-through-chapter8-th.json"
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EB2150_00_LostNumber_Standard",
+    "Japanese": {
+      "Text": "神羅屋敷の地下に保管されていた実験体。変身能力を研究する中で生み出された失敗作。敵の攻撃方法に合わせて体を変化させるが、徐々に内部崩壊を起こしていく。"
+    },
+    "English": {
+      "Text": "The result of a failed experiment aimed at creating a life-form capable of shape-shifting. It alters its body composition based on enemy attacks, but doing so causes the creature to gradually break down from the inside."
+    },
+    "template": "recheck-0",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EB2160_00_VincentValentine_Standard",
+    "Japanese": {
+      "Text": "棺に眠りし謎の男。自称警備員。それ以外の詳細は不明。混沌の獣となり、侵入者を排除する。"
+    },
+    "English": {
+      "Text": "An enigmatic man who sleeps in a coffin. Shrouded in mystery aside from his alleged profession of \"security guard,\" he has transformed into a creature of chaos in an effort to ward off intruders."
+    },
+    "template": "recheck-1",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2000_08_GuardHound_NibelWolfEnd2",
+    "Japanese": {
+      "Text": "荒野に生息する獣。非常に警戒心が強く、人前に現れることは滅多にないが、縄張りに人間が入ってくると敵意をむき出しにし、襲いかかる。"
+    },
+    "English": {
+      "Text": "Lupine beasts that stalk the peaks and valleys of the region. Cautious by nature and preferring isolation, they are rarely sighted near populated areas or well-trodden roads. However, they will not hesitate to attack should someone wander into their territory."
+    },
+    "template": "recheck-2",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2000_09_GuardHound_NibelWolfRareEnd2",
+    "Japanese": {
+      "Text": "ニブルウルフの希少種。青い炎を宿し、群れを統率するリーダー。窮地になると、遠吠えで仲間を呼び寄せる。"
+    },
+    "English": {
+      "Text": "A rare Nibel wolf variant. Its azure flame designates it as the pack leader. When threatened, it will howl to summon its pack."
+    },
+    "template": "recheck-3",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2101_05_HereticRayleigh_SubspeciesEnd2",
+    "Japanese": {
+      "Text": "神羅の科学部門によって生み出された人造生物。あまりに凶悪で人間に従わなかったため廃棄処分となったが、一部の個体のみ研究施設から逃れ、独自の進化をとげる。"
+    },
+    "English": {
+      "Text": "A man-made monstrosity created by Shinra's R&D Division. It has since been disposed of for its disobedient and cannibalic nature, but some specimens escaped the research facility and have undergone a unique evolution in the wild."
+    },
+    "template": "recheck-4",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2200_00_Zuu_StandardEnd2",
+    "Japanese": {
+      "Text": "山岳地帯に生息する鳥型モンスター。人間を恐れず、大きな爪で子供をさらうこともあり、住人たちに恐れられている。"
+    },
+    "English": {
+      "Text": "Avian creatures that live in mountainous regions. They are unafraid of people, going so far as to abduct children and terrorize the locals."
+    },
+    "template": "recheck-5",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2200_04_Zuu_KingEnd2",
+    "Japanese": {
+      "Text": "ニブルの空を支配する鳥型モンスター。血のような赤い羽が特徴。卓越した狩猟能力を持つ。不気味な叫び声をあげ、獲物を死に至らしめる。"
+    },
+    "English": {
+      "Text": "An avian creature with bloodred feathers that rules the skies above the Nibel region. Boasting excellent hunting skills, it descends on its prey with a mighty shriek."
+    },
+    "template": "recheck-6",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2202_00_Dragon_StandardEnd2",
+    "Japanese": {
+      "Text": "山岳地帯に生息する肉食生物。強固なウロコに覆われ、鋭い爪を持つ。巨体ゆえに大量のエネルギーを必要とし、一日の大半を餌探しに費やす。"
+    },
+    "English": {
+      "Text": "A carnivorous creature that conceals itself in mountainous regions. Its scales are as tough as nails, and its claws just as sharp. Given its gargantuan size, it requires vast amounts of energy to live, and thus spends the better part of each day hunting for food."
+    },
+    "template": "recheck-7",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2203_00_Kyuvilduns_StandardEnd2",
+    "Japanese": {
+      "Text": "山岳地帯に生息する大型昆虫。食欲旺盛で植物や動物の死骸、他の昆虫など、なんでも食べる。強靭な脚を持ち、動くものを見ると飛びかかる。"
+    },
+    "English": {
+      "Text": "Large insects with voracious appetites found in mountainous regions. True omnivores, they eat everything, from plants to carrion─even other insects. They possess strong legs and use them to pounce at anything that moves."
+    },
+    "template": "recheck-8",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2203_01_Kyuvilduns_RareEnd2",
+    "Japanese": {
+      "Text": "キュビルデュヌスの希少種。餌が見つからず共食いを繰り返し変異した個体。狂暴な性格で、どんな相手でもひるまず襲いかかる。"
+    },
+    "English": {
+      "Text": "A rare kyuvildun variant that resorted to cannibalism after being unable to find any other food. It is extremely aggressive, not hesitating to attack anything it views as a potential threat."
+    },
+    "template": "recheck-9",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2222_01_SearchCrown_BatteryCapEnd2",
+    "Japanese": {
+      "Text": "複数の口を持つ菌糸モンスター。有毒の胞子を飛ばし近くにいる動物を弱らせると、そのまま寄生して繁殖する。"
+    },
+    "English": {
+      "Text": "Fungal creatures with multiple mouths. They spew poisonous spores to weaken nearby animals, then turn said creatures into new parasitic hosts."
+    },
+    "template": "recheck-10",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2246_00_Valron_StandardEnd2",
+    "Japanese": {
+      "Text": "人間のような四肢を持つ飛翔生物。大きな翼で羽ばたきながら素早く移動し、空中から体重を乗せた打撃を繰り出す。"
+    },
+    "English": {
+      "Text": "Aerial creatures with four humanlike limbs. They swoop through the air on enormous wings, putting the full force of their weight into devastating body slams."
+    },
+    "template": "recheck-11",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2246_01_Valron_RareEnd2",
+    "Japanese": {
+      "Text": "バルロンの希少種。凶暴ではあるが高い知能を有し、奇襲とカウンターを織り交ぜた独自の体術を使い、獲物をいたぶり、もてあそぶ。"
+    },
+    "English": {
+      "Text": "A rare valron variant whose aggressive nature belies a keen intelligence. Utilizing a unique combination of sneak attacks and counterstrikes, it makes a mockery of its prey before dealing the fatal blow."
+    },
+    "template": "recheck-12",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2247_00_VelcherTask_StandardEnd2",
+    "Japanese": {
+      "Text": "毒液を溜め込んだ袋状の器官を持つドラゴン。戦闘になると袋を膨らませ、口から毒を吐き出す。背中にある羽は退化しており、飛ぶことはできない。"
+    },
+    "English": {
+      "Text": "Dragons that possess venom sacs in their cheeks and jaws. They will inflate these organs when threatened, spewing the toxic substance secreted therein as a means of self-defense. The wings on their backs have atrophied to the point that they can no longer support flight."
+    },
+    "template": "recheck-13",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2247_01_VelcherTask_RareEnd2",
+    "Japanese": {
+      "Text": "ベルチャータスクの希少種。複数の分泌液を生成できる個体。毒液で敵を弱体化させるだけでなく、薬液で自らの能力を引き上げる。"
+    },
+    "English": {
+      "Text": "A rare disgorgon variant that secretes a variety of substances, from a debilitating venom to a self-empowering serum."
+    },
+    "template": "recheck-14",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN2250_00_BlackBat_StandardEnd2",
+    "Japanese": {
+      "Text": "翼状の前肢を持つ吸血生物。おもに洞窟や廃墟などに生息する。超音波を発生させ、暗闇の中でも獲物の位置を特定することができる。"
+    },
+    "English": {
+      "Text": "Bloodsucking creatures with winged forelimbs that tend to live in caves and ruins. They navigate using ultrasonic waves, allowing them to locate prey even in the dark."
+    },
+    "template": "recheck-15",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3001_03_VagidPolice_TwinBrainEnd2",
+    "Japanese": {
+      "Text": "ニブル山に生息する異形の生物。魔晄炉が異常動作を繰り返すようになってから目撃され始める。危険を察すると、耳をつんざく奇声を発する。"
+    },
+    "English": {
+      "Text": "Grotesque creatures that make their home on Mt. Nibel. Previously unseen in the region, sightings began after the local reactor started malfunctioning. When they sense danger, they let out an earsplitting screech."
+    },
+    "template": "recheck-16",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3007_01_DeepGroundMonster_FusionEnd2",
+    "Japanese": {
+      "Text": "黒マントとの融合反応により突然変異した個体。完全に自我を失い、凶暴化している。恐ろしい咆哮をあげ、敵をひるませる。"
+    },
+    "English": {
+      "Text": "Mutated beings that somehow fused with the people in black robes. They have completely lost all sense of self and attack anything in sight, letting out horrifying howls to intimidate their enemies."
+    },
+    "template": "recheck-17",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3200_00_Screamer_StandardEnd2",
+    "Japanese": {
+      "Text": "ニブル山に生息する人型モンスター。魔晄炉が異常動作を繰り返すようになってから目撃され始める。鉄球がついた伸縮自在の腕を豪快に振り回す。"
+    },
+    "English": {
+      "Text": "Humanoid fiends that make their home on Mt. Nibel. Previously unseen in the region, sightings began after the local reactor started malfunctioning. They brandish an iron mace at the end of one arm, which they swing around with ease."
+    },
+    "template": "recheck-18",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3201_00_Fusant_StandardEnd2",
+    "Japanese": {
+      "Text": "黒マントと人造生物の融合体。強固な外骨格で覆われ、奇妙な触手と爪を持つ。ゆっくりと接近し、鋭い斬撃を繰り出す。"
+    },
+    "English": {
+      "Text": "Mutated beings that somehow fused with the people in black robes. Protected by a tough exoskeleton and myriad appendages, they stalk toward their prey, slashing as they go."
+    },
+    "template": "recheck-19",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3202_00_Bioweapon_StandardEnd2",
+    "Japanese": {
+      "Text": "神羅の科学部門によって生み出された実験体。様々な有毒植物や菌類を移植され、モンスター化してしまった元兵士。異常な生命力を持つ。"
+    },
+    "English": {
+      "Text": "Experimental specimens created by Shinra's R&D Division. Though originally human, countless cellular transplants from various poisonous plants and fungi have altered their genetic composition, turning them into monsters boasting impressive vitality."
+    },
+    "template": "recheck-20",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3204_00_YingYang_StandardEnd2",
+    "Japanese": {
+      "Text": "異形の人造生物。インとヤンはふたりでひとつ。ひとつの体にふたつの頭。インがよろこぶと、ヤンはがっかりし、ヤンがおこると、インはわらう。"
+    },
+    "English": {
+      "Text": "An artificial abomination that combines two opposing elements into a single body. When Yin is happy, Yang is filled with disappointment; when Yang is angry, Yin cannot help but laugh."
+    },
+    "template": "recheck-21",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3205_00_Jersey_StandardEnd2",
+    "Japanese": {
+      "Text": "神羅の科学部門が製造した自律型実験装置。人造生物や実験体の能力を測定するために生み出された。あらゆる攻撃に対応する。"
+    },
+    "English": {
+      "Text": "Autonomous, experimental devices built by Shinra's R&D Division to gauge the capabilities of other artificial creations and test subjects. They are equipped to handle any incoming assault."
+    },
+    "template": "recheck-22",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EB2150_00_LostNumber_Standard",
+    "Japanese": {
+      "Text": "物理攻撃で一定ダメージを与えると物理耐性強化状態へ変身する。魔法攻撃で一定ダメージを与えると魔法耐性強化状態に変身する。変身を繰り返し行うとHEAT状態になる。リフレクは物理攻撃で、シールドは魔法攻撃で一定ダメージを与えると解除できる。"
+    },
+    "English": {
+      "Text": "Inflicting enough physical damage will make it resistant to physical attacks, while magic damage will make it resistant to magic attacks. Forcing it to switch resistances multiple times will pressure it. Physical damage will dispel Reflect, while magic damage will dispel Shield."
+    },
+    "template": "recheck-23",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EB2160_00_VincentValentine_Standard",
+    "Japanese": {
+      "Text": "一定のダメージを与えるとHEAT状態にできる。『混沌の鼓動』や『混沌の侵食』中にひるませると復帰するまでの間はHEATさせやすくなる。"
+    },
+    "English": {
+      "Text": "Inflicting enough damage will pressure him. Making him flinch during Inner Turmoil or Chaotic Consumption will make him easier to pressure until he recovers."
+    },
+    "template": "recheck-24",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2000_08_GuardHound_NibelWolfEnd2",
+    "Japanese": {
+      "Text": "特定の技をガードや回避すると、HEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Blocking or evading certain attacks will pressure them."
+    },
+    "template": "recheck-25",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2000_09_GuardHound_NibelWolfRareEnd2",
+    "Japanese": {
+      "Text": "青い炎をまとっているときに弱点属性で一定のダメージを与えると、青い炎を消しHEAT状態にできる。青い炎をまとっていないときは、特定の技をガードや回避すると、HEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Dealing enough damage while it is enshrouded in blue fire will quench the flames and pressure it. While it is not bathed in fire, dodging or guarding against certain attacks will pressure it."
+    },
+    "template": "recheck-26",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2101_05_HereticRayleigh_SubspeciesEnd2",
+    "Japanese": {
+      "Text": "右腕の触手を破壊するとHEAT状態にできる。一定のダメージを与えると分身を召喚する。"
+    },
+    "English": {
+      "Text": "Destroying the tentacles on its right arm will pressure it. It will summon a clone once it has taken enough damage."
+    },
+    "template": "recheck-27",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2200_00_Zuu_StandardEnd2",
+    "Japanese": {
+      "Text": "弱点属性で攻撃するか、一定のダメージを与えるとHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting their weakness or inflicting enough damage will pressure them."
+    },
+    "template": "recheck-28",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2200_04_Zuu_KingEnd2",
+    "Japanese": {
+      "Text": "必殺技『ラストソング』が発動完了すると、一撃で全滅するほどの強大なダメージを受けてしまう。『ラストソング』の発動中に左右の羽根を破壊すれば、技を中断させHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "When it finishes performing its Swan Song, a single attack against it will deal lethal damage. Destroying its wings in the middle of its Swan Song will interrupt the attack and pressure it."
+    },
+    "template": "recheck-29",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2202_00_Dragon_StandardEnd2",
+    "Japanese": {
+      "Text": "一定のダメージを与えると『咆哮』を使用してくるが、その後HEAT状態になる。"
+    },
+    "English": {
+      "Text": "Inflicting enough damage will cause it to Roar, then become pressured afterward."
+    },
+    "template": "recheck-30",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2203_00_Kyuvilduns_StandardEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting their elemental weakness will pressure them."
+    },
+    "template": "recheck-31",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2203_01_Kyuvilduns_RareEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting its elemental weakness will pressure it."
+    },
+    "template": "recheck-32",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2222_01_SearchCrown_BatteryCapEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting their elemental weakness will pressure them."
+    },
+    "template": "recheck-33",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2246_00_Valron_StandardEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting their elemental weakness will pressure them."
+    },
+    "template": "recheck-34",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2246_01_Valron_RareEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting its elemental weakness will pressure it."
+    },
+    "template": "recheck-35",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2247_00_VelcherTask_StandardEnd2",
+    "Japanese": {
+      "Text": "『ポイズンミスト』の発動を『あご』を破壊して阻止するとHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Destroying their jaws when they use Poisonous Haze will interrupt the attack and pressure them."
+    },
+    "template": "recheck-36",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2247_01_VelcherTask_RareEnd2",
+    "Japanese": {
+      "Text": "『ストーンミスト』の発動開始時のみターゲットできる『あご』を破壊して阻止するとHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Destroying its jaw when it uses Petrifying Mist will interrupt the attack and pressure it."
+    },
+    "template": "recheck-37",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN2250_00_BlackBat_StandardEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Exploiting their elemental weakness will pressure them."
+    },
+    "template": "recheck-38",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3001_03_VagidPolice_TwinBrainEnd2",
+    "Japanese": {
+      "Text": "『絶叫』発動中はHEAT状態になる。"
+    },
+    "English": {
+      "Text": "They become pressured during Screech."
+    },
+    "template": "recheck-39",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3007_01_DeepGroundMonster_FusionEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態になる。背後からの攻撃でひるみやすい。"
+    },
+    "English": {
+      "Text": "Exploiting their elemental weakness will pressure them. They will flinch when attacked from behind."
+    },
+    "template": "recheck-40",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3200_00_Screamer_StandardEnd2",
+    "Japanese": {
+      "Text": "一定のダメージを与えるとHEAT状態にできる。鉄球を振り回してるときは、正面からの近接攻撃を弾く。"
+    },
+    "English": {
+      "Text": "Inflicting enough damage will pressure them. Frontal melee attacks will be ineffective while they swing their maces."
+    },
+    "template": "recheck-41",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3201_00_Fusant_StandardEnd2",
+    "Japanese": {
+      "Text": "魔法詠唱中に強力なアビリティ攻撃をあてるとHEAT状態にできる。『闇の斬撃』を回避するか『ダーククロー』発動中に攻撃をあてることでもHEAT状態にできる。"
+    },
+    "English": {
+      "Text": "Hitting them with powerful offensive abilities while they are casting a spell will pressure them. Evading Onslaught or attacking them during Subastral Fury will also pressure them."
+    },
+    "template": "recheck-42",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3202_00_Bioweapon_StandardEnd2",
+    "Japanese": {
+      "Text": "炎属性の攻撃で隙が生まれる。倒しても２度までは復活するが、燃えている間は復活しない。"
+    },
+    "English": {
+      "Text": "Inflicting fire damage will leave them open to attack. They will revive themselves up to two times after being defeated unless they are burning."
+    },
+    "template": "recheck-43",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3204_00_YingYang_StandardEnd2",
+    "Japanese": {
+      "Text": "『イン』と『ヤン』のどちらかが死亡するとHEAT状態になるが、残った方が凶暴化する。"
+    },
+    "English": {
+      "Text": "Becomes pressured when either head is incapacitated, but the remaining head will go berserk."
+    },
+    "template": "recheck-44",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3205_00_Jersey_StandardEnd2",
+    "Japanese": {
+      "Text": "一定のダメージを与えるとHEAT状態にできる。物理ダメージでHEATさせると物理攻撃を、魔法ダメージでHEATさせると魔法攻撃を無効化するようになる。"
+    },
+    "English": {
+      "Text": "Inflicting enough damage will pressure them. Pressuring them with physical damage will render physical attacks ineffective, while pressuring them with magic damage will render magic attacks ineffective."
+    },
+    "template": "recheck-45",
+    "reason": "Enemy Intel biography or Assess instructions for Ch11 route, regional encounters/protorelic, or Odin. Whole per-enemy Text+Tips families; not new dialogue."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN0007_01_Soldier3rd_LoccheEnd2",
+    "Japanese": {
+      "Text": "マイフレンドを追いかけてミッドガルを飛び出した異端のソルジャー３ｒｄ。任務に縛られず、自由奔放に暴れ回る姿に、多くの兵士が羨望の眼差しを向ける。"
+    },
+    "English": {
+      "Text": "A 3-C SOLDIER maverick who left Midgar in order to reunite with his dear friend. His freewheeling, reckless, and altogether bombastic nature has earned him both envy and scorn in equal measure."
+    },
+    "template": "recheck-46",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN0007_02_Soldier3rd_LoccheEnd2",
+    "Japanese": {
+      "Text": "宝条博士の細胞投与手術を受けたローチェ。ソルジャー能力が飛躍的に向上したが、副作用として劣化が急激に進んでいる。実験体となった証として腕に『ＳＣ４』という文字が刻まれている。"
+    },
+    "English": {
+      "Text": "The self-proclaimed \"speed demon,\" after having undergone Hojo's experimental cellular modification surgery. While his capabilities have been greatly enhanced, his degradation has also been accelerated. He bears a \"SC4\" tattoo on his shoulder as proof of his test subject status."
+    },
+    "template": "recheck-47",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_EN3201_01_Screamer_FusionEnd2",
+    "Japanese": {
+      "Text": "黒マントとの融合反応により突然変異した個体。伸縮自在の四肢を持つ。鉄球のついた腕を伸ばして攻撃し、脚をバネのように使い、瞬時に移動する。"
+    },
+    "English": {
+      "Text": "Mutated beings that somehow fused with the people in black robes. One of their four elastic limbs boasts an iron mace on its end, which they swing to attack while bounding around on their springlike legs."
+    },
+    "template": "recheck-48",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_SU2010_01_Odin_Boss",
+    "Japanese": {
+      "Text": "仮想空間上に再現された高潔な召喚獣。戦争と死を司る騎士を具現化した。愛馬スレイプニルにまたがり、あらゆるものを断ち切る。"
+    },
+    "English": {
+      "Text": "A noble summon recreated in virtual reality. This knight claims war and death as his domain, and atop his faithful steed Sleipnir, he rides into battle and rends his foes asunder."
+    },
+    "template": "recheck-49",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookText_SU2015_01_Sleipnir_Boss",
+    "Japanese": {
+      "Text": "オーディンの愛馬。８本のたくましい脚で戦場を駆け抜ける。"
+    },
+    "English": {
+      "Text": "Odin's faithful steed, it gallops into battle on its eight sturdy legs."
+    },
+    "template": "recheck-50",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN0007_01_Soldier3rd_LoccheEnd2",
+    "Japanese": {
+      "Text": "弱点属性の攻撃でHEAT状態にできる。壁走り中にHEATさせると、反撃技を出しつつ地上に降りてくる。HEAT中の攻撃の隙にヒットさせると、クラッシュダメージが蓄積されて、一定量を超えるとクラッシュする。"
+    },
+    "English": {
+      "Text": "Exploiting his elemental weakness can pressure him. If Roche is pressured while riding the walls, he will drop to the ground and counterattack. Inflicting enough damage while he is pressured will cause him to spin out."
+    },
+    "template": "recheck-51",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN0007_02_Soldier3rd_LoccheEnd2",
+    "Japanese": {
+      "Text": "『飛龍撃』『エグゾーストソード』『断魂斬』『ダークスラッシュ』の攻撃後にダメージを与えるとHEAT状態になる。"
+    },
+    "English": {
+      "Text": "Inflicting damage after he performs special attacks will pressure him."
+    },
+    "template": "recheck-52",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_EN3201_01_Screamer_FusionEnd2",
+    "Japanese": {
+      "Text": "一定のダメージを与えるとHEAT状態にできる。鉄球を振り回してるときは、正面からの近接攻撃を弾く。"
+    },
+    "English": {
+      "Text": "Inflicting enough damage will pressure them. Frontal melee attacks will be ineffective while they swing their maces."
+    },
+    "template": "recheck-53",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_SU2010_01_Odin_Boss",
+    "Japanese": {
+      "Text": "ＡＴＢコマンドをあてる、攻撃を回避する、状態異常に陥らせるなど、オーディンを追い込んでいくと高揚し自らHEAT状態になる。逆にオーディンの攻撃をくらうなど無様な戦いをすると興醒めしていき『終焉の警鐘』の後に『斬鉄剣』を放つ。"
+    },
+    "English": {
+      "Text": "Landing ATB commands, evading attacks, or inflicting detrimental status effects will put Odin on the backfoot, both thrilling and pressuring him. Conversely, taking too many of his attacks will leave him disheartened, leading him to sound Gjallarhorn's Warning and unleash his Zantetsuken."
+    },
+    "template": "recheck-54",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_EnemyBookTipsText_SU2015_01_Sleipnir_Boss",
+    "Japanese": {
+      "Text": "ＡＴＢコマンドをあてる、攻撃を回避する、状態異常に陥らせるなど、オーディンを追い込んでいくと高揚し自らHEAT状態になる。逆にオーディンの攻撃をくらうなど無様な戦いをすると興醒めしていき『終焉の警鐘』の後に『斬鉄剣』を放つ。"
+    },
+    "English": {
+      "Text": "Landing ATB commands, evading attacks, or inflicting detrimental status effects will put Odin on the backfoot, both thrilling and pressuring him. Conversely, taking too many of his attacks will leave him disheartened, leading him to sound Gjallarhorn's Warning and unleash his Zantetsuken."
+    },
+    "template": "recheck-55",
+    "reason": "Complete Ch11 enemy families: enhanced Roche, fusion specimen and Odin/Sleipnir. Retain earlier Roche bio as same-character UI."
+  }
+]

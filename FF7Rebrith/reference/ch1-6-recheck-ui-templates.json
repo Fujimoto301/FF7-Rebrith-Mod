@@ -1,0 +1,1801 @@
+[
+  {
+    "index": 0,
+    "jp": "カームはグラスランドの交通網を管理する拠点として発展した街で、特徴的な外壁も元々は人や物資の出入りを管理するために建てられたものでした。\r\nその堅牢な構造に目をつけ、軍事拠点として占拠したのが、共和国と戦争をしていた神羅カンパニーです。\r\n\r\n以降、神羅による支配が続くカームには魔晄炉がなく、パイプを通してミッドガルから送られてきた魔晄をタンクに貯蔵し、使用しています。そのシステムのおかげで、カームは豊かな自然を保ちつつ安定した生活を送れる街として知られ、年々、移住者を増やしています。\r\n\r\n１０年ほど前に街が甚大な被害を受け、神羅による修繕工事が行われたようですが、詳しい情報はわかっていません。",
+    "examples": [
+      "$AreaReport_GRASA_01_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 1,
+    "jp": "グラスランドの周辺は、魔晄汚染が深刻なミッドガルと対照的に、今も自然が残っています。中央に連なる山脈がもたらす水源によって緑が生い茂り、多種多様な野生動物が生息しています。また、グラスランドには牧場が多く、広大な草原地帯で育成された畜産物は質が高いことで有名です。\r\n\r\n南部には湿地帯が広がっており、かつては多くの渡し船やチョコボ荷車が行き来していましたが、輸送の主流が海路や空路になるにつれ、湿地帯を渡る人々の数は徐々に減少していきました。\r\n\r\n現在、湿地帯はミドガルズオルムと呼ばれる人食い蛇の巣窟となっており、誰も近づこうとしません。不用意に足を踏み入れると底なし沼に引きずりこまれますので、くれぐれもご注意ください。",
+    "examples": [
+      "$AreaReport_GRASA_02_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 2,
+    "jp": "グラスランドとジュノンを隔てる山は、昔からミスリル鉱石の採掘地として有名でした。光を当てると美しく輝くミスリル鉱石は高い硬度を誇り、武器や防具などの材料として重宝されていましたが、神羅が開発した人工素材にその座を奪われてしまいます。\r\n\r\n鉱山としての役目を終えたミスリルマインは、共和国によってグラスランドとジュノンを結ぶ国営トンネルとして整備され、一時は光り輝く洞窟として注目を浴び、観光地としても人気を博しました。\r\n\r\nしかし、共和国との戦争に勝利した神羅によってトンネルは閉鎖され、現在は設備の老朽化が進み、非常に危険な状態になっています。",
+    "examples": [
+      "$AreaReport_GRASA_03_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 3,
+    "jp": "ジュノンの民は元々、船を家とし、海を放浪しながら海産物を採り、陸の人々に売って生活をしていました。まだまだ交通網が発達していなかった世界で、海を自由に行き来できる彼らは、おのずと集落を繋ぎ、取りまとめる存在となっていきます。\r\n\r\nジュノン共和国はやがて、幾つもの大型船を連結させた海上都市を建設し、そこを中心として世界中に交通網を整備していきました。彼らはインフラの重要性を理解しており、人々や街を繋げることで世界全体を発展させようと考えていました。\r\n\r\n世界を牽引し、一時代を築いたジュノンでしたが、魔晄を発見した神羅によって滅ぼされてしまい、栄華を極めた海上都市も、今は海の底で静かに眠っています。",
+    "examples": [
+      "$AreaReport_JUNOA_01_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 4,
+    "jp": "共和国との戦争に勝利した神羅は、ジュノンの地に難攻不落の要塞都市を建設しました。世界で唯一の海底魔晄炉や、ウータイまでをも射程におさめる魔晄キャノン砲を中心に、まるで海底から現れた超巨大戦艦のような外観を持つこの軍事施設は、東の大陸を敵対組織から防衛する砦として造られました。\r\n\r\n階段状の市街地には統一規格の建物が並び、軍の関係者を中心に効率よく共同生活を送れるようになっています。ウータイとの戦争が終結してからは、居住区をホテルや商店にリフォームし、港やエアポートを利用する人々で賑わう街へと変わりつつあります。\r\n\r\nしかしながら、現在でも定期的に軍事演習を行っており、有事の際には防壁を展開することで瞬く間に要塞化し、いつでも敵を迎え撃てるようになっています。",
+    "examples": [
+      "$AreaReport_JUNOA_02_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 5,
+    "jp": "足場から落ちないように生き延びよう！",
+    "examples": [
+      "$MiniGame_FrogFlap_StartLog"
+    ],
+    "family": "Dolphin_and_frog"
+  },
+  {
+    "index": 6,
+    "jp": "フォーカスに撮影スポットの報告を行いますか？",
+    "examples": [
+      "$TravelCameraman_TalkCheck"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 7,
+    "jp": "いいえ",
+    "examples": [
+      "$TravelCameraman_TalkCheck_No",
+      "$menu_condor_0002_0001",
+      "$menu_condor_pause_retire_confirm_no",
+      "$minigame_common_Retired_no"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 8,
+    "jp": "はい",
+    "examples": [
+      "$TravelCameraman_TalkCheck_Yes",
+      "$menu_condor_0002_0000",
+      "$menu_condor_pause_retire_confirm_yes",
+      "$minigame_common_Retired_yes"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 9,
+    "jp": "エリア",
+    "examples": [
+      "$TravelCameraman_Window_Area"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 10,
+    "jp": "報告済み",
+    "examples": [
+      "$TravelCameraman_Window_Clear"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 11,
+    "jp": "達成状況",
+    "examples": [
+      "$TravelCameraman_Window_ClearStatus"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 12,
+    "jp": "未踏破",
+    "examples": [
+      "$TravelCameraman_Window_NotClear"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 13,
+    "jp": "<color=red>未発見</color>",
+    "examples": [
+      "$TravelCameraman_Window_NotDisvover"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 14,
+    "jp": "踏破済み＆未報告",
+    "examples": [
+      "$TravelCameraman_Window_Report"
+    ],
+    "family": "photographer_UI"
+  },
+  {
+    "index": 15,
+    "jp": "通信塔を起動する",
+    "examples": [
+      "$menu_WorldReport_Condition_010"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 16,
+    "jp": "討伐拠点内のエネミーをすべて倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_020"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 17,
+    "jp": "ライフスポットを解析し、未知の情報を得る",
+    "examples": [
+      "$menu_WorldReport_Condition_030"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 18,
+    "jp": "エンシェントマターの手がかりを見つける",
+    "examples": [
+      "$menu_WorldReport_Condition_040"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 19,
+    "jp": "ジュノンエリア　コンドルフォート",
+    "examples": [
+      "$menu_WorldReport_Condition_041"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 20,
+    "jp": "コレルエリア　サボテン・ノック",
+    "examples": [
+      "$menu_WorldReport_Condition_042"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 21,
+    "jp": "コスモエリア　ガンビットギアーズ",
+    "examples": [
+      "$menu_WorldReport_Condition_043"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 22,
+    "jp": "チョコボを捕まえる",
+    "examples": [
+      "$menu_WorldReport_Condition_050"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 23,
+    "jp": "モーグリの子供たちをモーグリハウスに帰す",
+    "examples": [
+      "$menu_WorldReport_Condition_060"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 24,
+    "jp": "クリスタルを解析し、召喚獣の知識を集める",
+    "examples": [
+      "$menu_WorldReport_Condition_070"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 25,
+    "jp": "チョコボの嗅覚で、すべてのアイテムを発掘する",
+    "examples": [
+      "$menu_WorldReport_Condition_080"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 26,
+    "jp": "ケツァルコアトルを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_090"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 27,
+    "jp": "マインドフレアを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_091"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 28,
+    "jp": "トンベリキングを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_092"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 29,
+    "jp": "モルボルグレートを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_093"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 30,
+    "jp": "ジャバウォックを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_094"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 31,
+    "jp": "キングズーを倒す",
+    "examples": [
+      "$menu_WorldReport_Condition_095"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 32,
+    "jp": "通信塔を発見しました。起動をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_01_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 33,
+    "jp": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_01_Detail_Clear",
+      "$menu_WorldReport_GRASA_06_Detail_Clear",
+      "$menu_WorldReport_GRASA_11_Detail_Clear",
+      "$menu_WorldReport_GRASA_16_Detail_Clear",
+      "$menu_WorldReport_GRASA_21_Detail_Clear",
+      "$menu_WorldReport_GRASA_26_Detail_Clear",
+      "$menu_WorldReport_JUNOA_01_Detail_Clear",
+      "$menu_WorldReport_JUNOA_06_Detail_Clear",
+      "$menu_WorldReport_JUNOA_11_Detail_Clear",
+      "$menu_WorldReport_JUNOA_16_Detail_Clear",
+      "$menu_WorldReport_JUNOA_21_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 34,
+    "jp": "新たなモンスターを感知しました。討伐調査をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_02_Detail",
+      "$menu_WorldReport_GRASA_02_Detail_NA",
+      "$menu_WorldReport_GRASA_09_Detail",
+      "$menu_WorldReport_GRASA_09_Detail_NA",
+      "$menu_WorldReport_GRASA_14_Detail",
+      "$menu_WorldReport_GRASA_14_Detail_NA",
+      "$menu_WorldReport_GRASA_17_Detail",
+      "$menu_WorldReport_GRASA_17_Detail_NA",
+      "$menu_WorldReport_GRASA_24_Detail",
+      "$menu_WorldReport_GRASA_24_Detail_NA",
+      "$menu_WorldReport_GRASA_29_Detail",
+      "$menu_WorldReport_GRASA_29_Detail_NA",
+      "$menu_WorldReport_JUNOA_04_Detail",
+      "$menu_WorldReport_JUNOA_04_Detail_NA",
+      "$menu_WorldReport_JUNOA_13_Detail",
+      "$menu_WorldReport_JUNOA_13_Detail_NA",
+      "$menu_WorldReport_JUNOA_20_Detail",
+      "$menu_WorldReport_JUNOA_20_Detail_NA",
+      "$menu_WorldReport_JUNOA_25_Detail",
+      "$menu_WorldReport_JUNOA_25_Detail_NA"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 35,
+    "jp": "バイオラットの希少種である『ベノムラット』の討伐を確認。集団で行動し、ときにはエレファダンクをも倒すと言われる毒ネズミの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_02_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 36,
+    "jp": "ライフストリーム反応を感知しました。探索をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_03_Detail",
+      "$menu_WorldReport_GRASA_03_Detail_NA",
+      "$menu_WorldReport_GRASA_12_Detail",
+      "$menu_WorldReport_GRASA_12_Detail_NA",
+      "$menu_WorldReport_GRASA_15_Detail",
+      "$menu_WorldReport_GRASA_15_Detail_NA",
+      "$menu_WorldReport_GRASA_18_Detail",
+      "$menu_WorldReport_GRASA_18_Detail_NA",
+      "$menu_WorldReport_GRASA_25_Detail",
+      "$menu_WorldReport_GRASA_25_Detail_NA",
+      "$menu_WorldReport_GRASA_28_Detail",
+      "$menu_WorldReport_GRASA_28_Detail_NA",
+      "$menu_WorldReport_JUNOA_03_Detail",
+      "$menu_WorldReport_JUNOA_03_Detail_NA",
+      "$menu_WorldReport_JUNOA_14_Detail",
+      "$menu_WorldReport_JUNOA_14_Detail_NA",
+      "$menu_WorldReport_JUNOA_19_Detail",
+      "$menu_WorldReport_JUNOA_19_Detail_NA",
+      "$menu_WorldReport_JUNOA_24_Detail",
+      "$menu_WorldReport_JUNOA_24_Detail_NA"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 37,
+    "jp": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_03_Detail_Clear",
+      "$menu_WorldReport_GRASA_12_Detail_Clear",
+      "$menu_WorldReport_GRASA_15_Detail_Clear",
+      "$menu_WorldReport_GRASA_18_Detail_Clear",
+      "$menu_WorldReport_GRASA_25_Detail_Clear",
+      "$menu_WorldReport_GRASA_28_Detail_Clear",
+      "$menu_WorldReport_JUNOA_03_Detail_Clear",
+      "$menu_WorldReport_JUNOA_14_Detail_Clear",
+      "$menu_WorldReport_JUNOA_19_Detail_Clear",
+      "$menu_WorldReport_JUNOA_24_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 38,
+    "jp": "チョコボの足跡を発見しました。チョコボの捕獲をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_05_Detail",
+      "$menu_WorldReport_JUNOA_02_Detail",
+      "$menu_WorldReport_JUNOA_02_Detail_NA"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 39,
+    "jp": "グリン牧場から逃げ出したチョコボ『ピコ』の捕獲を確認しました。グラスランドのチョコボは世界中で活躍しているスタンダードな品種です。とても従順で扱いやすく、あらゆる場面で助けてくれます。",
+    "examples": [
+      "$menu_WorldReport_GRASA_05_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 40,
+    "jp": "新たな通信塔を発見しました。起動をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_06_Detail",
+      "$menu_WorldReport_GRASA_11_Detail",
+      "$menu_WorldReport_GRASA_16_Detail",
+      "$menu_WorldReport_GRASA_21_Detail",
+      "$menu_WorldReport_GRASA_26_Detail",
+      "$menu_WorldReport_JUNOA_01_Detail",
+      "$menu_WorldReport_JUNOA_06_Detail",
+      "$menu_WorldReport_JUNOA_11_Detail",
+      "$menu_WorldReport_JUNOA_16_Detail",
+      "$menu_WorldReport_JUNOA_21_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 41,
+    "jp": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_07_Detail",
+      "$menu_WorldReport_GRASA_07_Detail_NA",
+      "$menu_WorldReport_GRASA_13_Detail",
+      "$menu_WorldReport_GRASA_13_Detail_NA",
+      "$menu_WorldReport_GRASA_27_Detail",
+      "$menu_WorldReport_GRASA_27_Detail_NA",
+      "$menu_WorldReport_JUNOA_05_Detail",
+      "$menu_WorldReport_JUNOA_05_Detail_NA",
+      "$menu_WorldReport_JUNOA_17_Detail",
+      "$menu_WorldReport_JUNOA_17_Detail_NA",
+      "$menu_WorldReport_JUNOA_23_Detail",
+      "$menu_WorldReport_JUNOA_23_Detail_NA"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 42,
+    "jp": "召喚獣タイタンのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_07_Detail_Clear",
+      "$menu_WorldReport_GRASA_13_Detail_Clear",
+      "$menu_WorldReport_GRASA_27_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 43,
+    "jp": "未知のエネルギー反応を感知しました。エネルギーの発生源である正体不明の遺物『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_08_Detail",
+      "$menu_WorldReport_GRASA_08_Detail_NA",
+      "$menu_WorldReport_JUNOA_09_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 44,
+    "jp": "『エンシェントマター』を求めて物見やぐらへ向かうと、そこにはベグ盗賊団の姿が。因縁の相手であるクラウドさんと再会したベグ盗賊団は、見つけたお宝を持って一目散に逃げてしまいました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_08_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 45,
+    "jp": "調査レポート１：盗賊団の宝探し",
+    "examples": [
+      "$menu_WorldReport_GRASA_08_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 46,
+    "jp": "エレファダンクの希少種である『フューリーダンク』の討伐を確認。近年になって凶暴化が進み、害獣となりつつある大型草食生物の貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_09_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 47,
+    "jp": "モーグリハウスを発見。モーグリ店長のＳＯＳを感知したクポ。",
+    "examples": [
+      "$menu_WorldReport_GRASA_10_Detail",
+      "$menu_WorldReport_GRASA_10_Detail_NA",
+      "$menu_WorldReport_JUNOA_15_Detail",
+      "$menu_WorldReport_JUNOA_15_Detail_NA"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 48,
+    "jp": "むかしむかし、モーグリの子供はグラスランドで飛ぶ練習をしていたそうです。うっかり落ちてもフカフカの草原なので安全で安心。そのまま眠ってしまう子も多かったといいます。",
+    "examples": [
+      "$menu_WorldReport_GRASA_10_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 49,
+    "jp": "ムーの希少種である『ラムー』の討伐を確認。地中に張り巡らされた巣穴を使って情報を収集する、愛らしいモンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_14_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 50,
+    "jp": "マンドラゴラの希少種である『マンドレイク』の討伐を確認。進化した根によって移動することができる、珍しい植物系モンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_17_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 51,
+    "jp": "クラフトチップが埋まっている場所を特定しました。チョコボの嗅覚を使い、発掘調査をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_19_Detail",
+      "$menu_WorldReport_GRASA_23_Detail",
+      "$menu_WorldReport_JUNOA_10_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 52,
+    "jp": "クラフトチップの発掘を確認。新たに入手したレシピ情報を端末にインストールしました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_19_Detail_Clear",
+      "$menu_WorldReport_GRASA_23_Detail_Clear",
+      "$menu_WorldReport_JUNOA_10_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 53,
+    "jp": "『エンシェントマター』を所持したベグ盗賊団は、魔晄パイプの管理棟に身を隠したようです。見つからないように近づき、『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_20_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 54,
+    "jp": "いい匂いを漂わせてバーベキューをしていたベグ盗賊団。見つからないように、コッソリと慎重に近づきましたが、あと一歩のところで、またもや逃げられてしまいました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_20_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 55,
+    "jp": "調査レポート２：盗賊団のバーベキュー",
+    "examples": [
+      "$menu_WorldReport_GRASA_20_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 56,
+    "jp": "『エンシェントマター』を所持したベグ盗賊団は岬にあるアジトへ帰ってしまいました。掘り出したアジトの合鍵を使って、『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_22_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 57,
+    "jp": "コテンパンに負けた盗賊団は粘り強く交渉し、クラウドさんに『エンシェントマター』を売りつけることに成功します。商売に目覚めたベグ盗賊団は、カンパニーとして新たな道を進み始めました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_22_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 58,
+    "jp": "調査レポート４：ベグカンパニーの誕生",
+    "examples": [
+      "$menu_WorldReport_GRASA_22_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 59,
+    "jp": "レブリコンの希少種である『レブリコンプテラ』の討伐を確認。唾液によって獲物をカエルに変えて捕食する偏食なモンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_24_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 60,
+    "jp": "カームファングの希少種である『ボルトファング』の討伐を確認。パイプから漏れ出た魔晄の影響によって帯電するようになったモンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_29_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 61,
+    "jp": "『エンシェントマター』を所持したベグ盗賊団は工場跡地に潜伏しているようです。これ以上、かく乱されないよう『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_30_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 62,
+    "jp": "廃工場で追い詰められたベグ盗賊団は、満を持して、とっておきの『カクラン作戦』を決行します。作戦は不発でしたが、盗賊団は呆れるクラウドさんたちの隙をつき、またまた逃げてしまいました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_30_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 63,
+    "jp": "調査レポート３：盗賊団のカクラン作戦",
+    "examples": [
+      "$menu_WorldReport_GRASA_30_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 64,
+    "jp": "強力なモンスターの生体反応を感知しました。しっかりと準備をして討伐調査をお願いします。",
+    "examples": [
+      "$menu_WorldReport_GRASA_31_Detail",
+      "$menu_WorldReport_JUNOA_26_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 65,
+    "jp": "幻の大型飛翔生物である『ケツァルコアトル』の討伐を確認。人々に神として崇められ、恐れられてきた雷竜の貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_GRASA_31_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 66,
+    "jp": "周辺の調査",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie01_01",
+      "$menu_WorldReport_GRASA_Chadlie03_01",
+      "$menu_WorldReport_GRASA_Chadlie04_01",
+      "$menu_WorldReport_JUNOA_Chadlie01_01"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 67,
+    "jp": "オトリを倒す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie01_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 68,
+    "jp": "ベグ盗賊団の潜伏先",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie02_00"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 69,
+    "jp": "見つからないように進む",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie02_01"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 70,
+    "jp": "侵入経路を探す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie02_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 71,
+    "jp": "イケニエを倒す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie02_03"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 72,
+    "jp": "バグラーを倒す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie03_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 73,
+    "jp": "チョコボの嗅覚で調査",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie03_03"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 74,
+    "jp": "合鍵を掘り出す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie03_04"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 75,
+    "jp": "ベグ盗賊団のアジト入口",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie04_00"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 76,
+    "jp": "ベグ盗賊団を叩き起こす",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie04_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 77,
+    "jp": "ベグ盗賊団を倒す",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie04_03"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 78,
+    "jp": "２０００ギルで交渉",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie04_04"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 79,
+    "jp": "クレーン操作台",
+    "examples": [
+      "$menu_WorldReport_GRASA_Chadlie04_Lever"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 80,
+    "jp": "ジュノンエリアに生息する山チョコボの捕獲を確認しました。山チョコボは非常に足腰が強い品種です。山登りに特化しており、急な斜面も軽々と登ってくれます。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_02_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 81,
+    "jp": "トーンアドゥの希少種である『フォーンアドゥ』の討伐を確認。繁殖期になると海を渡り、つがいで子育てをする鳥型モンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_04_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 82,
+    "jp": "討伐拠点１：復讐の暴走獣",
+    "examples": [
+      "$menu_WorldReport_JUNOA_04_Title_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 83,
+    "jp": "討伐拠点１：？？？？",
+    "examples": [
+      "$menu_WorldReport_JUNOA_04_Title_NA_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 84,
+    "jp": "召喚獣フェニックスのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_05_Detail_Clear",
+      "$menu_WorldReport_JUNOA_17_Detail_Clear",
+      "$menu_WorldReport_JUNOA_23_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 85,
+    "jp": "『エンシェントマター』の調査中に、コンドルフォートに取り込まれてしまったクラウドさん。ゲーム内で神羅軍の撃退に成功したものの、『エンシェントマター』は奪われてしまいました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_09_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 86,
+    "jp": "調査レポート１：コンドルフォートの世界",
+    "examples": [
+      "$menu_WorldReport_JUNOA_09_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 87,
+    "jp": "『エンシェントマター』のエネルギーを感知。コンドルフォートの世界に入るポータルが再び出現しているようです。『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_12_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 88,
+    "jp": "クラウドさんはコンドルフォートの世界へ戻り、隊長たちと再会します。援軍として戦いに参加し、見事に神羅軍を退けたものの、今度は隊長と『エンシェントマター』を奪われてしまいました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_12_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 89,
+    "jp": "調査レポート２：騒がしい隊長",
+    "examples": [
+      "$menu_WorldReport_JUNOA_12_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 90,
+    "jp": "ゼムゼレットの希少種である『ワイズレット』の討伐を確認。知能が非常に高く、風を操る美しい羽を持つ鳥型モンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_13_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 91,
+    "jp": "討伐拠点２：響く渡鳥の声",
+    "examples": [
+      "$menu_WorldReport_JUNOA_13_Title_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 92,
+    "jp": "討伐拠点２：？？？？",
+    "examples": [
+      "$menu_WorldReport_JUNOA_13_Title_NA_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 93,
+    "jp": "むかしむかし、釣り好きの年老いたモーグリがいたそうです。ただし、魚を釣りあげたことは一度もなく、水平線をぼんやりとながめながら、やってくるモーグリたちの悩みを聞いていたといいます。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_15_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 94,
+    "jp": "『エンシェントマター』のエネルギーを感知。隊長たちがコンドルフォートの中で待っています。『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_18_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 95,
+    "jp": "魔王となった隊長を倒し、『エンシェントマター』を入手しました。その結果、コンドルフォートの世界が消滅するところでしたが、システムをアップデートすることで再構築に成功しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_18_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 96,
+    "jp": "調査レポート４：異世界の魔王",
+    "examples": [
+      "$menu_WorldReport_JUNOA_18_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 97,
+    "jp": "ネロスフェロスの希少種である『カウトスフェロス』の討伐を確認。独自の体温調節器官を持ち、放熱して外敵から身を守る変温生物の貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_20_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 98,
+    "jp": "討伐拠点３：風の賢者",
+    "examples": [
+      "$menu_WorldReport_JUNOA_20_Title_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 99,
+    "jp": "討伐拠点３：？？？？",
+    "examples": [
+      "$menu_WorldReport_JUNOA_20_Title_NA_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 100,
+    "jp": "『エンシェントマター』のエネルギーを感知。コンドルフォートの世界に入り、『エンシェントマター』の調査および収集をお願いします。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_22_Detail"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 101,
+    "jp": "神羅軍に囚われていたお姫様姿の隊長を救出したクラウドさんでしたが、助けた隊長に裏切られてしまいます。隊長は『エンシェントマター』を所持し、部下と共に逃げてしまいました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_22_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 102,
+    "jp": "調査レポート３：囚われたお姫様",
+    "examples": [
+      "$menu_WorldReport_JUNOA_22_Title_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 103,
+    "jp": "フォーミュラの希少種である『ストーミュラ』の討伐を確認。滑空能力に優れ、上空から急降下して狡猾に狩りを行う鳥型モンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_25_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 104,
+    "jp": "討伐拠点４：混じりあった獣",
+    "examples": [
+      "$menu_WorldReport_JUNOA_25_Title_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 105,
+    "jp": "討伐拠点４：？？？？",
+    "examples": [
+      "$menu_WorldReport_JUNOA_25_Title_NA_Demo"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 106,
+    "jp": "邪悪な怪人『マインドフレア』の討伐を確認。念力と触手を操り、捕らえた獲物の脳を味わう恐るべき人型モンスターの貴重な生体データを入手しました。",
+    "examples": [
+      "$menu_WorldReport_JUNOA_26_Detail_Clear"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 107,
+    "jp": "コンドルフォートをクリア",
+    "examples": [
+      "$menu_WorldReport_JUNOA_Chadlie01_02",
+      "$menu_WorldReport_JUNOA_Chadlie02_02",
+      "$menu_WorldReport_JUNOA_Chadlie03_02",
+      "$menu_WorldReport_JUNOA_Chadlie04_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 108,
+    "jp": "ボードを調べる",
+    "examples": [
+      "$menu_WorldReport_JUNOA_Chadlie02_01",
+      "$menu_WorldReport_JUNOA_Chadlie03_01",
+      "$menu_WorldReport_JUNOA_Chadlie04_01"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 109,
+    "jp": "ミッションモードをクリア",
+    "examples": [
+      "$menu_WorldReport_JUNOA_Hard_01_01",
+      "$menu_WorldReport_JUNOA_Hard_02_01",
+      "$menu_WorldReport_JUNOA_Hard_03_01",
+      "$menu_WorldReport_JUNOA_Hard_04_01"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 110,
+    "jp": "モーグリハウスの調査",
+    "examples": [
+      "$menu_WorldReport_Moogle_01"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 111,
+    "jp": "コモーグリを連れ戻す",
+    "examples": [
+      "$menu_WorldReport_Moogle_02"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 112,
+    "jp": "モーグリに協力する",
+    "examples": [
+      "$menu_WorldReport_Moogle_03"
+    ],
+    "family": "Grasslands_Junon_intel_UI"
+  },
+  {
+    "index": 113,
+    "jp": "<button=decide> ゲーム終了",
+    "examples": [
+      "$menu_condor_0000_0001"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 114,
+    "jp": "ユニット",
+    "examples": [
+      "$menu_condor_0005_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 115,
+    "jp": "<button=square> マテリア詳細情報",
+    "examples": [
+      "$menu_condor_0011_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 116,
+    "jp": "<button=square> ユニット情報",
+    "examples": [
+      "$menu_condor_0011_0001"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 117,
+    "jp": "<button=L2>ユニット詳細",
+    "examples": [
+      "$menu_condor_0018_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 118,
+    "jp": "ユニット詳細<button=R2>",
+    "examples": [
+      "$menu_condor_0018_0001"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 119,
+    "jp": "<button=decide> 配置",
+    "examples": [
+      "$menu_condor_0018_0002"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 120,
+    "jp": "<button=decide> 使用",
+    "examples": [
+      "$menu_condor_0018_0003"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 121,
+    "jp": "<button=L3> 難易度EASY <button=toggle-on>",
+    "examples": [
+      "$menu_condor_0019_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 122,
+    "jp": "<button=L3> 難易度EASY <button=toggle-off>",
+    "examples": [
+      "$menu_condor_0020_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 123,
+    "jp": "<button=L1> ヒーローユニット詳細",
+    "examples": [
+      "$menu_condor_0021_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 124,
+    "jp": "<button=L1> <color=yellow>ヒーローユニット出撃</color>",
+    "examples": [
+      "$menu_condor_0021_0010"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 125,
+    "jp": "<button=L2> 部隊ユニット詳細",
+    "examples": [
+      "$menu_condor_0022_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 126,
+    "jp": "<button=L1> ヒーローユニットに切替",
+    "examples": [
+      "$menu_condor_0023_0000"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 127,
+    "jp": "<button=L1> 部隊ユニットに切替",
+    "examples": [
+      "$menu_condor_0023_0001"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 128,
+    "jp": "コンドルフォートをやめますか？",
+    "examples": [
+      "$menu_condor_cancel_confirm"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 129,
+    "jp": "有利に戦えます",
+    "examples": [
+      "$menu_condor_congeniality"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 130,
+    "jp": "<button=decide-hold> 詳細情報表示　<button=options> ゲーム開始",
+    "examples": [
+      "$menu_condor_enemy_unit_detail_guide"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 131,
+    "jp": "残り時間",
+    "examples": [
+      "$menu_condor_left_time"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 132,
+    "jp": "やりなおす",
+    "examples": [
+      "$menu_condor_pause_retry",
+      "$minigame_common_pause_retry"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 133,
+    "jp": "<button=decide-hold> 詳細情報表示　<button=L1><button=R1> ヒーローユニットの出撃メンバー切替　<button=L2><button=R2> 部隊ユニットのフォーメーション切替 <button=options> ゲーム開始",
+    "examples": [
+      "$menu_condor_player_unit_detail_guide"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 134,
+    "jp": "<color=yellow>フォーメーション：攻防バランス</color>",
+    "examples": [
+      "$menu_condor_preset_detail_00"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 135,
+    "jp": "<color=yellow>フォーメーション：攻撃陣形</color>",
+    "examples": [
+      "$menu_condor_preset_detail_01"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 136,
+    "jp": "<color=yellow>フォーメーション：防御陣形</color>",
+    "examples": [
+      "$menu_condor_preset_detail_02"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 137,
+    "jp": "<color=yellow>フォーメーション：籠城戦法</color>",
+    "examples": [
+      "$menu_condor_preset_detail_03"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 138,
+    "jp": "秒",
+    "examples": [
+      "$menu_condor_seconds"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 139,
+    "jp": "コンドルフォートを開始しますか？",
+    "examples": [
+      "$menu_condor_start_confirm"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 140,
+    "jp": "ボスユニット",
+    "examples": [
+      "$menu_condor_title_enemy_commander"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 141,
+    "jp": "神羅軍",
+    "examples": [
+      "$menu_condor_title_enemy_force"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 142,
+    "jp": "部隊ユニット",
+    "examples": [
+      "$menu_condor_title_enemy_normal_unit",
+      "$menu_condor_title_player_nomal_unit"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 143,
+    "jp": "コンドル軍",
+    "examples": [
+      "$menu_condor_title_player_force"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 144,
+    "jp": "ヒーローユニット",
+    "examples": [
+      "$menu_condor_title_player_unique_unit"
+    ],
+    "family": "Fort_Condor"
+  },
+  {
+    "index": 145,
+    "jp": "アレクサンダーの知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Alexander"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 146,
+    "jp": "クジャタの知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Kjata"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 147,
+    "jp": "やめる",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_NO"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 148,
+    "jp": "バハムート改の知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_NeoBahamut"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 149,
+    "jp": "オーディンの知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Odin"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 150,
+    "jp": "フェニックスの知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Phoenix"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 151,
+    "jp": "タイタンの知識の解析を行いますか？",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Titan"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 152,
+    "jp": "解析を行う",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_Yes"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 153,
+    "jp": "<button=options> 解析終了",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_button_guide_finish",
+      "$minigame_CrystalAnalysis_GameEnd"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 154,
+    "jp": "<button=decide> 解析開始",
+    "examples": [
+      "$minigame_CrystalAnalysis_Check_button_guide_start"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 155,
+    "jp": "<button=decide> リトライ",
+    "examples": [
+      "$minigame_CrystalAnalysis_ERROR_CLEAR"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 156,
+    "jp": "アレクサンダーの知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_Alexander"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 157,
+    "jp": "クジャタの知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_Kjata"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 158,
+    "jp": "バハムート改の知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_NeoBahamut"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 159,
+    "jp": "オーディンの知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_Odin"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 160,
+    "jp": "フェニックスの知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_Phoenix"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 161,
+    "jp": "タイタンの知識を解析した。",
+    "examples": [
+      "$minigame_CrystalAnalysis_Get_Item_Titan"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 162,
+    "jp": "<button=L2> リトライ",
+    "examples": [
+      "$minigame_CrystalAnalysis_Retry"
+    ],
+    "family": "summon_crystal_analysis"
+  },
+  {
+    "index": 163,
+    "jp": "ドルフィンジャンプをスキップ",
+    "examples": [
+      "$minigame_DolphinJump_KeyGuide2"
+    ],
+    "family": "Dolphin_and_frog"
+  },
+  {
+    "index": 164,
+    "jp": "ジャンプのタイミングが合わなかった。",
+    "examples": [
+      "$minigame_DolphinJump_Syslog_JumpFailure"
+    ],
+    "family": "Dolphin_and_frog"
+  },
+  {
+    "index": 165,
+    "jp": "イルカが疲れてしまった。",
+    "examples": [
+      "$minigame_DolphinJump_Syslog_TimeOver"
+    ],
+    "family": "Dolphin_and_frog"
+  },
+  {
+    "index": 166,
+    "jp": "チョコボがいないと発掘調査はできません。",
+    "examples": [
+      "$minigame_chocobocraft_Not_Chocobo"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 167,
+    "jp": "なにも見つからなかった……。",
+    "examples": [
+      "$minigame_chocobocraft_dig_notfound"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 168,
+    "jp": "近くにはなにもないようだ。",
+    "examples": [
+      "$minigame_chocobocraft_smell_notfound"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 169,
+    "jp": "チョコボはなにかを感じている。",
+    "examples": [
+      "$minigame_chocobocraft_smell_something_found"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 170,
+    "jp": "<button=decide> 閉じる",
+    "examples": [
+      "$minigame_common_Close"
+    ],
+    "family": "common_activity_dialogs"
+  },
+  {
+    "index": 171,
+    "jp": "<button=LS> 操作中",
+    "examples": [
+      "$minigame_common_motionsensor_stick_enabled"
+    ],
+    "family": "common_activity_dialogs"
+  },
+  {
+    "index": 172,
+    "jp": "『<object=0>』 × <count>個",
+    "examples": [
+      "$minigame_reward01",
+      "$minigame_reward02",
+      "$minigame_reward03",
+      "$minigame_reward04"
+    ],
+    "family": "common_activity_dialogs"
+  },
+  {
+    "index": 173,
+    "jp": "『<object=0>』マテリア × <count>個",
+    "examples": [
+      "$minigame_reward01_materia",
+      "$minigame_reward02_materia",
+      "$minigame_reward03_materia",
+      "$minigame_reward04_materia"
+    ],
+    "family": "common_activity_dialogs"
+  },
+  {
+    "index": 174,
+    "jp": "青色の六角形ガイドマーカーは\r\nボタンを長押しで入力しよう。",
+    "examples": [
+      "$minigame_soldierformation_Button_Long"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 175,
+    "jp": "黄色の五角形ガイドマーカーは\r\nボタンを連打で入力しよう。",
+    "examples": [
+      "$minigame_soldierformation_Button_Rush"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 176,
+    "jp": "赤色の四角形ガイドマーカーは\r\nボタンを単発で入力しよう。",
+    "examples": [
+      "$minigame_soldierformation_Button_Single"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 177,
+    "jp": "難易度",
+    "examples": [
+      "$minigame_soldierformation_Level"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 178,
+    "jp": "第１演舞",
+    "examples": [
+      "$minigame_soldierformation_act_01"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 179,
+    "jp": "第２演舞",
+    "examples": [
+      "$minigame_soldierformation_act_02"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 180,
+    "jp": "第３演舞",
+    "examples": [
+      "$minigame_soldierformation_act_03"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 181,
+    "jp": "５部隊を編成しないと\r\nパレードに出場できません。",
+    "examples": [
+      "$minigame_soldierformation_alert"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 182,
+    "jp": "烈火のごとく闘志が奮い立つ演舞です。\r\n入力回数：少　ボタン：<button=minigame-A><button=minigame-B>",
+    "examples": [
+      "$minigame_soldierformation_form_02_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 183,
+    "jp": "昇竜のごとく乱舞する難度が高い演舞です。\r\n入力回数：中　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n連打、長押し入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_03_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 184,
+    "jp": "老雷のごとく刺激と抑揚のある演舞です。\r\n入力回数：少　ボタン：<button=minigame-X><button=minigame-A><button=minigame-B>\r\n連打入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_04_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 185,
+    "jp": "氷花のごとく麗しく魅せる演舞です。\r\n入力回数：少　ボタン：<button=minigame-Y><button=minigame-A><button=minigame-B>\r\n長押し入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_05_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 186,
+    "jp": "烈火のごとく闘志が奮い立つ演舞です。\r\n入力回数：中　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>",
+    "examples": [
+      "$minigame_soldierformation_form_06_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 187,
+    "jp": "烈火のごとく闘志が奮い立つ演舞です。\r\n入力回数：多　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>",
+    "examples": [
+      "$minigame_soldierformation_form_07_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 188,
+    "jp": "昇竜のごとく乱舞する難度が高い演舞です。\r\n入力回数：多　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n連打、長押し入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_08_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 189,
+    "jp": "老雷のごとく刺激と抑揚のある演舞です。\r\n入力回数：中　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n連打入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_09_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 190,
+    "jp": "老雷のごとく刺激と抑揚のある演舞です。\r\n入力回数：多　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n連打入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_10_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 191,
+    "jp": "氷花のごとく麗しく魅せる演舞です。\r\n入力回数：中　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n長押し入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_11_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 192,
+    "jp": "氷花のごとく麗しく魅せる演舞です。\r\n入力回数：多　ボタン：<button=minigame-Y><button=minigame-X><button=minigame-A><button=minigame-B>\r\n長押し入力あり",
+    "examples": [
+      "$minigame_soldierformation_form_12_help"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 193,
+    "jp": "<button=decide> 部隊入替（出場する部隊によりフォームが変わります） <button=dir> 部隊選択",
+    "examples": [
+      "$minigame_soldierformation_guide_edit_mode"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 194,
+    "jp": "<button=decide> 入替　<button=dir> 部隊選択",
+    "examples": [
+      "$minigame_soldierformation_guide_swap"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 195,
+    "jp": "新しい部隊が合流した。",
+    "examples": [
+      "$minigame_soldierformation_join"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 196,
+    "jp": "隊列編成",
+    "examples": [
+      "$minigame_soldierformation_menu"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 197,
+    "jp": "出場する部隊",
+    "examples": [
+      "$minigame_soldierformation_menu_01"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 198,
+    "jp": "リザーブ部隊",
+    "examples": [
+      "$minigame_soldierformation_menu_02"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 199,
+    "jp": "部隊を探そう",
+    "examples": [
+      "$minigame_soldierformation_total"
+    ],
+    "family": "Junon_parade"
+  },
+  {
+    "index": 200,
+    "jp": "チョコボに乗って調べてみよう。",
+    "examples": [
+      "$minigame_subquest_chocoboccraft_raid_request"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 201,
+    "jp": "チョコボがニオイを覚えた。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_SerchRootOpen"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 202,
+    "jp": "ニオイの痕跡をたどろう。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_Serchrequest"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 203,
+    "jp": "地面を調べる",
+    "examples": [
+      "$minigame_subquest_chocobocraft_dig_ui"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 204,
+    "jp": "いまはゴンガガ魔晄炉へ急ごう。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_CraftLog_Off"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 205,
+    "jp": "新しいニオイの痕跡を見つけた。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_PointClear"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 206,
+    "jp": "すべてのアイテムを発掘した。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_PointConplete"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 207,
+    "jp": "モンスターのニオイの痕跡を見つけた。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_found"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 208,
+    "jp": "近くにはニオイの痕跡がないようだ。",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_notfound"
+    ],
+    "family": "chocobo_excavation"
+  },
+  {
+    "index": 209,
+    "jp": "ニオイをかぐ",
+    "examples": [
+      "$minigame_subquest_chocobocraft_smell_ui"
+    ],
+    "family": "chocobo_excavation"
+  }
+]

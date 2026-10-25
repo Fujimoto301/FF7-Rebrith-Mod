@@ -1,0 +1,15 @@
+{
+  "chapter": 8,
+  "title": "All That Glitters",
+  "records": 2701,
+  "templates": 2557,
+  "already_translated": [],
+  "source_sha256": "2dddd3049be2b8f54278f9e87a26aff769246660a8868aaa9d3c3de327fc246c",
+  "scope": "Gold Saucer first visit and all Ch8 companion branches, Corel Prison feeding/race/Dyne/Palmer/escape, local NPCs and activity dialogue; Zack Midgar interludes include32 previously omitted Ch7 shared-asset lines for catch-up.",
+  "excluded": "Chapter12 return scenes, regional late odd jobs and endgame NPC states remain separately inventoried/deferred; preserve Ch1–7. Chapter9 begins after escape.",
+  "counts": {
+    "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset": 59,
+    "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset": 2642
+  },
+  "reuse_policy": "Exact JP matches from previously translated dialogue, unique Thai wording, no gendered particles/pronouns or English names. Recheck context before assembly."
+}

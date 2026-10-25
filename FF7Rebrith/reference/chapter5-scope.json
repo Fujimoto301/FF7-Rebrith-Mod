@@ -1,0 +1,20 @@
+{
+  "chapter": 5,
+  "title": "Blood in the Water",
+  "records": 1316,
+  "templates": 1284,
+  "already_translated": [],
+  "source_sha256": "d1f47ddf367f4a0b9331648c5835ea6030092308e900e318653a8dd27c915d5c",
+  "scope": "Shinra-8 voyage, all Queen’s Blood tournament dialogue/branches, ship emergency/Jenova story and battle dialogue, all ferry phase-10 NPC speech including actorless ambient lines.",
+  "excluded": "Costa del Sol landing and later regional dialogue begin Chapter 6. No additional Ch.6 dialogue selected.",
+  "counts": {
+    "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset": 1316
+  },
+  "reuse_policy": "Exact JP matches from previously translated dialogue, unique Thai wording, no gendered particles/pronouns or English names. Recheck context before assembly.",
+  "supplemental_UI": {
+    "records": 7,
+    "source": "reference/chapter5-ui-source.json",
+    "translation": "translations/chapter5-ui-th.json",
+    "scope": "Three vending-machine labels, one Queen's Blood vendor label and three Maghnata Automat shop labels in Resident. Previously omitted shop names, not item effects. Existing other 92 ship UI records preserved."
+  }
+}

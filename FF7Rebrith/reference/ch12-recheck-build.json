@@ -1,0 +1,8 @@
+{
+  "stage": "staging/ThaiJP_Ch12_Recheck_Working",
+  "qa": "qa/ch12-recheck",
+  "source": "translations/working-ch12-recheck-th.json",
+  "cluster_map": "reference/ch12-recheck-cluster-map.json",
+  "cluster_seed": "reference/through-chapter6-cluster-map.json",
+  "punctuation_policy": "reference/dialogue-punctuation-policy.json"
+}

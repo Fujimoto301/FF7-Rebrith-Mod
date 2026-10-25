@@ -1,0 +1,222 @@
+[
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_CLOSET_001",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　ウェア更衣室"
+    },
+    "English": {
+      "Text": "Changing Booth"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Happytender01",
+    "Japanese": {
+      "Text": "ハッピーテンダー"
+    },
+    "English": {
+      "Text": "Hidden Cactuar"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Happytender02",
+    "Japanese": {
+      "Text": "ハッピーテンダー"
+    },
+    "English": {
+      "Text": "Hidden Cactuar"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Happytender03",
+    "Japanese": {
+      "Text": "ハッピーテンダー"
+    },
+    "English": {
+      "Text": "Hidden Cactuar"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Happytender04",
+    "Japanese": {
+      "Text": "ハッピーテンダー"
+    },
+    "English": {
+      "Text": "Hidden Cactuar"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_000",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　アイテム屋"
+    },
+    "English": {
+      "Text": "Items Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_001",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　アイテム屋"
+    },
+    "English": {
+      "Text": "Items Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_002",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　マテリア屋"
+    },
+    "English": {
+      "Text": "Materia Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_003",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　アクセサリ屋"
+    },
+    "English": {
+      "Text": "Accessories Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_004",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_005",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　ビーチショップ"
+    },
+    "English": {
+      "Text": "Beachwear Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_006",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　カードショップ"
+    },
+    "English": {
+      "Text": "Queen's Blood Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_ITEM_007",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　アイテム屋"
+    },
+    "English": {
+      "Text": "Items Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_MAGIC_000",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　魔導書店"
+    },
+    "English": {
+      "Text": "Maghnata Books"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_MAGIC_001",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_SPITEM_000",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　リゾートウェア交換所"
+    },
+    "English": {
+      "Text": "Beachwear Exchange"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_SPITEM_001",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　リゾートウェア交換所"
+    },
+    "English": {
+      "Text": "Beachwear Exchange"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_SPITEM_002",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　リゾートウェア交換所"
+    },
+    "English": {
+      "Text": "Beachwear Exchange"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Select_DummyBattle",
+    "Japanese": {
+      "Text": "<button=RS> 救援するパーティを選ぼう"
+    },
+    "English": {
+      "Text": "<button=RS> Select a Team to Assist"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Select_DummyBattle_Aerith",
+    "Japanese": {
+      "Text": "エアリスとバレットを救援"
+    },
+    "English": {
+      "Text": "Help Aerith and Barret"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_Select_DummyBattle_Tifa",
+    "Japanese": {
+      "Text": "ティファとレッドXIIIを救援"
+    },
+    "English": {
+      "Text": "Help Tifa and Red XIII"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$COSTT_WEAPON_000",
+    "Japanese": {
+      "Text": "コスタ・デル・ソル　武器屋"
+    },
+    "English": {
+      "Text": "Weapons Vendor"
+    }
+  }
+]

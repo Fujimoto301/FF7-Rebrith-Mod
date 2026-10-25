@@ -1,0 +1,16 @@
+{
+  "description": "First-visit Costa activity HUD, generic menus, introductory Card Carnival puzzles 01–03, tickets, camera and six beach outfits. Shared HUD labels may also appear in later difficulty variants.",
+  "excluded_specific_keys": [
+    "$card_challenge_category_special_rule_1",
+    "$card_challenge_category_special_rule_2",
+    "$card_challenge_header_GS"
+  ],
+  "excluded_categories": [
+    "Gold Saucer ShootingCoaster and CardChallenge_GS",
+    "CardChallenge 11+ later-return puzzles",
+    "Later-state NPC dialogue and regional quests"
+  ],
+  "inventory_records": 164,
+  "patch_records": 131,
+  "unchanged_policy": "Preserve existing translations and original English/number/symbol-only records. Challenge/course/license proper names use same-ID US."
+}

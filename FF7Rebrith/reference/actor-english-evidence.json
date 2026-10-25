@@ -1,0 +1,1120 @@
+{
+  "セフィロス": {
+    "Sephiroth": 285
+  },
+  "レポーター": {
+    "Reporter": 52
+  },
+  "キリエ": {
+    "Kyrie": 165
+  },
+  "スラム住民": {
+    "Undercity Resident": 18
+  },
+  "<i>レポーター</i>": {
+    "<i>Reporter</i>": 4
+  },
+  "警備兵": {
+    "Security Officer": 72
+  },
+  "<i>警備兵</i>": {
+    "<i>Security Officer</i>": 1
+  },
+  "ザックス": {
+    "Zack": 214
+  },
+  "神羅ヘリ": {
+    "Helicopter Pilot": 17,
+    "Trooper": 3
+  },
+  "？？？？": {
+    "???": 196
+  },
+  "エルミナ": {
+    "Elmyra": 46
+  },
+  "ムギ": {
+    "Oates": 5
+  },
+  "マリン": {
+    "Marlene": 38
+  },
+  "ビッグス": {
+    "Biggs": 85
+  },
+  "<i>ビッグス</i>": {
+    "<i>Biggs</i>": 7
+  },
+  "ルード": {
+    "Rude": 133
+  },
+  "宝条": {
+    "Hojo": 155
+  },
+  "ルーファウス": {
+    "Rufus": 142
+  },
+  "クラウド": {
+    "Cloud": 2080
+  },
+  "エアリス": {
+    "Aerith": 1239,
+    "Tifa & Aerith": 1
+  },
+  "店員": {
+    "Stall Owner": 6
+  },
+  "店主": {
+    "Stall Owner": 10
+  },
+  "<i>セフィロス</i>": {
+    "<i>Sephiroth</i>": 11
+  },
+  "カメラマン": {
+    "Photographer": 10
+  },
+  "アナウンサー": {
+    "Newscaster": 75,
+    "Reporter": 108
+  },
+  "フォリア先生": {
+    "Ms. Folia": 2
+  },
+  "バレット": {
+    "Barret": 1378
+  },
+  "ティファ": {
+    "Tifa": 1077,
+    "Tifa & Aerith": 1
+  },
+  "ホテル支配人": {
+    "Innkeeper": 5
+  },
+  "レッドXIII": {
+    "Red XIII": 898
+  },
+  "<i>ホテル支配人</i>": {
+    "<i>Innkeeper</i>": 2
+  },
+  "ブロード": {
+    "Broden": 97
+  },
+  "魔導書店員": {
+    "Bookstore Employee": 45
+  },
+  "武器屋": {
+    "Weapons Vendor": 46
+  },
+  "係員": {
+    "Docent": 4,
+    "Racing Attendant": 3
+  },
+  "捜索兵": {
+    "Trooper": 25
+  },
+  "アイテム屋": {
+    "Item Vendor": 32
+  },
+  "カーム住民": {
+    "Kalm Resident": 2,
+    "Kalm Citizen": 1
+  },
+  "農場主": {
+    "Farmer": 10
+  },
+  "トラック運転手": {
+    "Bill": 3
+  },
+  "グリン": {
+    "Bill": 65
+  },
+  "牧場主": {
+    "Ranch Owner": 6
+  },
+  "ティファ＆エアリス": {
+    "Tifa & Aerith": 6
+  },
+  "グリングリン": {
+    "Billy": 233
+  },
+  "クリン": {
+    "Chloe": 80
+  },
+  "ピコ": {
+    "Piko": 14
+  },
+  "チャドリー": {
+    "Chadley": 1321
+  },
+  "イリーナ": {
+    "Elena": 191
+  },
+  "ツォン": {
+    "Tseng": 131
+  },
+  "ベグ": {
+    "Beck": 178
+  },
+  "バド": {
+    "Burke": 59
+  },
+  "ブッチョ": {
+    "Butch": 68
+  },
+  "ボンザ": {
+    "Burt": 24
+  },
+  "バグラー": {
+    "Thug": 94,
+    "Thugs": 1
+  },
+  "牧場スタッフ": {
+    "Ranch Hand": 24
+  },
+  "マスター": {
+    "Bartender": 23
+  },
+  "ヴァル": {
+    "Vash": 52
+  },
+  "ビルゴ": {
+    "Virgil": 25
+  },
+  "トゥロン": {
+    "Thorin": 29
+  },
+  "カーム町長": {
+    "Mayor of Kalm": 34
+  },
+  "フラット": {
+    "Fritz": 38
+  },
+  "ぬいぐるみ": {
+    "Plushie": 13,
+    "Stuffed Animal": 3
+  },
+  "オリバー": {
+    "Oliver": 33
+  },
+  "ミルド": {
+    "Mildred": 54
+  },
+  "ＭＡＩ": {
+    "MAI": 409
+  },
+  "スタッフ": {
+    "Inn Employee": 25,
+    "Attendant": 9,
+    "Tournament Organizer": 4,
+    "Elevator Operator": 10,
+    "Park Employee": 2,
+    "Colosseum Receptionist": 14,
+    "Skywheel Attendant": 57,
+    "Cast Member": 11,
+    "Barker": 34,
+    "Hotel Employee": 2,
+    "Usher": 19,
+    "Welcoming Committee": 9,
+    "Chocobo Handler": 3,
+    "Crew Member": 7,
+    "Ticket Clerk": 8,
+    "Gift Shop Employee": 5
+  },
+  "バド＆ブッチョ": {
+    "Burke & Butch": 1,
+    "Burke": 1
+  },
+  "フロント": {
+    "Innkeeper": 4,
+    "Concierge": 25,
+    "Front Desk": 2
+  },
+  "アキラ": {
+    "Akira": 22
+  },
+  "ロドナー": {
+    "Rhonda": 79
+  },
+  "宿屋": {
+    "Innkeeper": 34,
+    "Concierge": 4
+  },
+  "プリシラ": {
+    "Priscilla": 84
+  },
+  "村人": {
+    "Villager": 43
+  },
+  "ユフィ": {
+    "Yuffie": 1097
+  },
+  "<i>ナヨ</i>": {
+    "<i>Nayo</i>": 3
+  },
+  "<i>ユフィ</i>": {
+    "<i>Yuffie</i>": 1
+  },
+  "ローチェ": {
+    "Roche": 59
+  },
+  "イルカ": {
+    "Dolphin": 2
+  },
+  "隊長": {
+    "Captain": 19
+  },
+  "グレン": {
+    "Glenn": 55,
+    "Glenn & Sephiroth": 1
+  },
+  "指揮官": {
+    "Commander": 58
+  },
+  "隊員": {
+    "Troopers": 21,
+    "Trooper": 130,
+    "Seventh Infantry": 9,
+    "7th Infantry Trooper": 3,
+    "Resistance Fighters": 1,
+    "Resistance Fighter": 1
+  },
+  "副官": {
+    "Commander Adjutant": 43
+  },
+  "会員": {
+    "Member": 1
+  },
+  "神羅課長": {
+    "Shinra Middle Manager": 139
+  },
+  "砲兵": {
+    "Cannoneer": 2,
+    "Trooper": 1
+  },
+  "ハイデッカー": {
+    "Heidegger": 30
+  },
+  "<i>ルーファウス</i>": {
+    "<i>Rufus</i>": 1
+  },
+  "アナウンス": {
+    "Announcement": 72,
+    "Captain Titov": 10,
+    "User Interface System": 13,
+    "Drainage System": 1,
+    "System": 3,
+    "Security System": 11,
+    "Elevator System": 18,
+    "Console": 1,
+    "Conductor": 1
+  },
+  "チトフ": {
+    "Captain Titov": 222
+  },
+  "船員": {
+    "Crew Member": 18
+  },
+  "マム": {
+    "Madam M": 59
+  },
+  "アニヤン": {
+    "Andrea": 46
+  },
+  "黒マントの男": {
+    "Robed Man": 111,
+    "Robed Men": 4,
+    "Black Robe": 1,
+    "Black Robes": 5
+  },
+  "受付": {
+    "Receptionist": 53,
+    "Crew Member": 1,
+    "Gatekeeper": 17
+  },
+  "カードショップ": {
+    "Card Shop Employee": 4
+  },
+  "ワイズ": {
+    "Wize": 65
+  },
+  "フレッサー": {
+    "Felix": 19
+  },
+  "レジー": {
+    "Regina": 127
+  },
+  "カードスタッフ": {
+    "Tournament Receptionist": 8,
+    "Amusement Attendant": 14,
+    "Tournament Organizer": 1,
+    "Receptionst": 3
+  },
+  "少年": {
+    "Boy": 40,
+    "Little Boy": 4
+  },
+  "乗客": {
+    "Passenger": 1,
+    "Visitor": 2
+  },
+  "コンドル兵": {
+    "Fort Condor Trooper": 35,
+    "Fort Condor Troopers": 2
+  },
+  "姫君": {
+    "Princess": 4
+  },
+  "魔王": {
+    "Warlock": 5
+  },
+  "マテリア屋": {
+    "Materia Vendor": 16
+  },
+  "マグナタガールズ": {
+    "Maghnata Girls": 2,
+    "Maghnata Girl": 17
+  },
+  "アクセサリ屋": {
+    "Accessory Vendor": 12,
+    "Barker": 2
+  },
+  "よろず屋": {
+    "General Store Employee": 8,
+    "General Store Clerk": 5,
+    "General Store Owner": 4
+  },
+  "港スタッフ": {
+    "Ferry Attendant": 18
+  },
+  "ガボン": {
+    "Gabe": 51
+  },
+  "ベル": {
+    "Belle": 5
+  },
+  "荷車職人": {
+    "Wainwright": 17
+  },
+  "ブレディ": {
+    "Freddie": 25
+  },
+  "チョコボ": {
+    "Chocobo": 13
+  },
+  "コハダ": {
+    "Salmon": 13
+  },
+  "門番": {
+    "Guard": 16,
+    "Youth Coalition Member": 4
+  },
+  "ディラン": {
+    "Dillan": 21
+  },
+  "クレア": {
+    "Claire": 9
+  },
+  "トビー": {
+    "Toby": 49
+  },
+  "<i>キリエ</i>": {
+    "<i>Kyrie</i>": 2
+  },
+  "コリン": {
+    "Colin": 39
+  },
+  "観察隊員": {
+    "Bird-watcher": 12
+  },
+  "写真係": {
+    "Photographer": 7
+  },
+  "カエル": {
+    "Frog": 1
+  },
+  "フィン": {
+    "Finn": 23
+  },
+  "子供たち": {
+    "Children": 1
+  },
+  "<i>ティファ</i>": {
+    "<i>Tifa</i>": 37
+  },
+  "<i>クラウド</i>": {
+    "<i>Cloud</i>": 40
+  },
+  "<i>フィン</i>": {
+    "<i>Finn</i>": 17
+  },
+  "少女": {
+    "Girl": 23,
+    "Little Girl": 4
+  },
+  "カポノ": {
+    "Mayor Kapono": 42
+  },
+  "観光スタッフ": {
+    "Travel Bureau Employee": 20
+  },
+  "ホテルスタッフ": {
+    "Concierge": 5,
+    "Receptionist": 4,
+    "Hotel Employee": 2,
+    "Concert MC": 12
+  },
+  "あやしげな男": {
+    "Shady Guy": 9
+  },
+  "ジョニー": {
+    "Johnny": 335,
+    "Johnnys": 36
+  },
+  "フラダンサー": {
+    "Dancer": 40,
+    "Dancers": 4
+  },
+  "ビーチスタッフ": {
+    "Resort Employee": 5
+  },
+  "観光客": {
+    "Beachgoer": 4,
+    "Guest": 1
+  },
+  "おもてなしガールズ": {
+    "Swimsuit Girl": 14,
+    "Swimsuit Girls": 1
+  },
+  "登山者": {
+    "Hiker": 11
+  },
+  "スカーレット": {
+    "Scarlet": 73
+  },
+  "リーブ": {
+    "Reeve": 11
+  },
+  "ヒナ": {
+    "Chicks": 2
+  },
+  "クラピヨ": {
+    "Cloud Jr.": 11
+  },
+  "シロン": {
+    "Doctor Sheiran": 70
+  },
+  "<i>バレット</i>": {
+    "<i>Barret</i>": 17
+  },
+  "村長": {
+    "Mayor": 6
+  },
+  "ダイン": {
+    "Dyne": 78
+  },
+  "砂の巨人": {
+    "Sand Giant": 22
+  },
+  "キッドＧ": {
+    "Kid G": 70
+  },
+  "サボテンダー": {
+    "Cactuars": 12,
+    "Cactuar": 3
+  },
+  "コルネオ": {
+    "Don Corneo": 30
+  },
+  "コルテンダー": {
+    "Cacneos": 4
+  },
+  "ソッチ": {
+    "Scotch": 213
+  },
+  "コッチ": {
+    "Kotch": 223,
+    "Scotch & Kotch": 3,
+    "Kotch & Scotch": 1
+  },
+  "コッチ＆ソッチ": {
+    "Kotch & Scotch": 4
+  },
+  "ジェニー": {
+    "Jenny": 38
+  },
+  "フレン": {
+    "Fran": 37
+  },
+  "ノエミ": {
+    "Naomi": 33
+  },
+  "ヨルダ": {
+    "Yorda": 49
+  },
+  "キュマ": {
+    "Kyma": 1
+  },
+  "ジーナン": {
+    "Jules": 65
+  },
+  "アミナ": {
+    "Amina": 45
+  },
+  "ゼン・ワン＆サン・トー": {
+    "Ronnie & Jay": 2
+  },
+  "ゼン・ワン": {
+    "Ronnie": 24
+  },
+  "サン・トー": {
+    "Jay": 24
+  },
+  "キャンパー": {
+    "Outdoorsman": 7
+  },
+  "おびえた女性": {
+    "Terrified Woman": 6
+  },
+  "エリー": {
+    "Ellie": 7
+  },
+  "バロウ": {
+    "Barry": 10
+  },
+  "ミレイユ": {
+    "Mireille": 20
+  },
+  "部下": {
+    "Underling": 4,
+    "Security Officer": 2,
+    "Resistance Fighter": 3
+  },
+  "北コレル住民": {
+    "North Corel Resident": 11
+  },
+  "ヘリポートスタッフ": {
+    "Heliport Employee": 4,
+    "Heliport Attendant": 6
+  },
+  "ウィリースタッフ": {
+    "Wheelie Store Employee": 47
+  },
+  "チョコボスタッフ": {
+    "Barker": 3,
+    "Chocobo Handler": 7
+  },
+  "アモール案内所": {
+    "Infodesk Attendant": 13
+  },
+  "交換所": {
+    "Companion Card Shop Attendant": 12
+  },
+  "射的スタッフ": {
+    "Amusement Attendant": 14
+  },
+  "ブリーダー": {
+    "Animal Handler": 14
+  },
+  "店長": {
+    "Manager": 9
+  },
+  "写真館スタッフ": {
+    "Studio Barker": 2,
+    "Studio Employee": 17
+  },
+  "ディオ": {
+    "Dio": 140
+  },
+  "キャスト": {
+    "Cast Member": 44
+  },
+  "ゲートスタッフ": {
+    "Welcoming Committee": 1
+  },
+  "パルマー": {
+    "Palmer": 41
+  },
+  "ケット・シー": {
+    "Cait Sith": 484
+  },
+  "トンベリロボ": {
+    "Tonberry Robot": 5
+  },
+  "<i>？？？？</i>": {
+    "<i>???</i>": 24
+  },
+  "Ｇモーグリ": {
+    "Guide Moogle": 26
+  },
+  "観客": {
+    "Spectator": 2,
+    "Audience Member": 5
+  },
+  "宇宙騎士": {
+    "Space Ranger": 51
+  },
+  "<i>ジェシー</i>": {
+    "<i>Jessie</i>": 4
+  },
+  "警備員": {
+    "Security Guard": 13
+  },
+  "<i>ケット・シー</i>": {
+    "<i>Cait Sith</i>": 2,
+    "</i>Cait Sith</i>": 1
+  },
+  "ブラザー・ガス": {
+    "Garth": 37
+  },
+  "ロンリー・ゲス": {
+    "Gus": 89
+  },
+  "エスト": {
+    "Esther": 65
+  },
+  "見張り番": {
+    "Guard": 37
+  },
+  "ジョー": {
+    "Joe": 9
+  },
+  "レーサー": {
+    "Jockey": 8
+  },
+  "<i>イリーナ</i>": {
+    "<i>Elena</i>": 3
+  },
+  "<i>ルード</i>": {
+    "<i>Rude</i>": 2
+  },
+  "ハゲタカ": {
+    "Vulture": 2
+  },
+  "<i>無線</i>": {
+    "<i>Radio</i>": 3,
+    "<i>Transmission</i>": 3
+  },
+  "追跡兵": {
+    "Mobile Officer": 11
+  },
+  "シド": {
+    "Cid": 180
+  },
+  "ヴィンセント": {
+    "Vincent": 120
+  },
+  "道化師": {
+    "Fool": 55
+  },
+  "アルフリード": {
+    "Alphreid": 19
+  },
+  "ルーザ": {
+    "Rosa": 42
+  },
+  "ヴァルヴァドス": {
+    "Varvados": 15
+  },
+  "ガルム": {
+    "Garm": 6
+  },
+  "<i>エアリス</i>": {
+    "<i>Aerith</i>": 21
+  },
+  "レズリー": {
+    "Leslie": 47
+  },
+  "サム": {
+    "Sam": 48
+  },
+  "実況アナウンス": {
+    "Commentator": 20
+  },
+  "ダンサー": {
+    "Dancer": 1
+  },
+  "バギースタッフ": {
+    "Parking Attendant": 5
+  },
+  "騎手": {
+    "Jockey": 6
+  },
+  "ポイント交換所": {
+    "GP Trader": 30
+  },
+  "チョコボショップ": {
+    "Chocobo Tack Vendor": 12,
+    "Tack Shop Clerk": 4
+  },
+  "司会": {
+    "Auctioneer": 20,
+    "Mentor": 17
+  },
+  "不審な男": {
+    "Suspicious Man": 43
+  },
+  "詐欺師のカリオス": {
+    "Conniving Caglio": 45
+  },
+  "酒浸りのウサン": {
+    "Thirsty Usain": 8
+  },
+  "百戦錬磨のトロイ": {
+    "Knucklehead Toya": 8
+  },
+  "悪書家のソウ": {
+    "Sloppy Shawn": 6
+  },
+  "近視眼のラホ": {
+    "Squinty Rachel": 8
+  },
+  "大言壮語のキョギ": {
+    "Blowhard Georgie": 6
+  },
+  "受講者": {
+    "Participants": 1
+  },
+  "カードコレクター": {
+    "Card Collector": 38
+  },
+  "秘書": {
+    "Secretary": 1
+  },
+  "シスネ": {
+    "Cissnei": 171
+  },
+  "青年団": {
+    "Youth Coalition Members": 1,
+    "Youth Coalition Member": 22
+  },
+  "ザックスの母": {
+    "Zack's Mother": 11
+  },
+  "ザックスの父": {
+    "Zack's Father": 10
+  },
+  "ザンガン": {
+    "Zangan": 63,
+    "???": 1
+  },
+  "ファンゴ": {
+    "Fango": 1
+  },
+  "黒紅の女王": {
+    "The Shadowblood Queen": 19
+  },
+  "首謀者": {
+    "Leader": 1
+  },
+  "武器職人": {
+    "Weaponsmith": 12
+  },
+  "イゾー": {
+    "Izo": 57
+  },
+  "ソテツ": {
+    "Sotetsu": 61
+  },
+  "ゴーヤ": {
+    "Melon": 9
+  },
+  "トーガン": {
+    "Torgan": 33
+  },
+  "カズラ": {
+    "Kazhra": 37
+  },
+  "ニワトリ": {
+    "Chicken": 1
+  },
+  "ピッピ": {
+    "Pippily": 5,
+    "Chickens": 2
+  },
+  "ミーベ": {
+    "Maeve": 44
+  },
+  "案内人": {
+    "Guide": 20,
+    "Attendant": 5
+  },
+  "ブーゲンハーゲン": {
+    "Bugenhagen": 322
+  },
+  "助手": {
+    "Assistant": 32
+  },
+  "星命学者": {
+    "Planetologist": 13
+  },
+  "<i>ギ族</i>": {
+    "<i>The Gi</i>": 26
+  },
+  "ギ族の亡霊": {
+    "Gi Specter": 43
+  },
+  "ギ・ナタタク": {
+    "Gi Nattak": 45
+  },
+  "ポルコ": {
+    "Polk": 24
+  },
+  "ナヨ": {
+    "Nayo": 28
+  },
+  "ビリー・ボー": {
+    "Billy Bob": 24
+  },
+  "<i>ポルコ</i>": {
+    "<i>Polk</i>": 1
+  },
+  "ウェッジ": {
+    "Wedge": 26
+  },
+  "<i>ビリー・ボー</i>": {
+    "<i>Billy Bob</i>": 4
+  },
+  "チャドリーＪｒ": {
+    "Robochad": 7
+  },
+  "調査隊": {
+    "Survey Team Member": 4
+  },
+  "ジェシー": {
+    "Jessie": 18
+  },
+  "一同": {
+    "Everyone": 1
+  },
+  "アポニ": {
+    "Aponi": 23
+  },
+  "キママ": {
+    "Kamaria": 31
+  },
+  "シシカ": {
+    "Shani": 41
+  },
+  "セサル": {
+    "Caesar": 31
+  },
+  "ジージェ": {
+    "Zhijie": 37
+  },
+  "運転手": {
+    "Driver": 1
+  },
+  "ゾンダー": {
+    "Mayor Zander": 13
+  },
+  "写真屋": {
+    "Photographer": 12
+  },
+  "クラウディア": {
+    "Claudia": 21
+  },
+  "<i>ティファ＆エアリス</i>": {
+    "<i>Tifa & Aerith</i>": 1
+  },
+  "ティファの父": {
+    "Tifa's Dad": 5
+  },
+  "自警団": {
+    "Militiaman": 16,
+    "Militia Member": 1
+  },
+  "管理人": {
+    "Supervisor": 54
+  },
+  "料理長": {
+    "Head Chef": 40
+  },
+  "<i>ローチェ</i>": {
+    "<i>Roche</i>": 1
+  },
+  "謎の剣豪": {
+    "Eccentric Swordsman": 54
+  },
+  "チョコボ仙人": {
+    "Chocobo Sage": 120
+  },
+  "シレナ": {
+    "Selena": 1
+  },
+  "ダーエ": {
+    "Christine": 40
+  },
+  "マル": {
+    "Fluffy": 10
+  },
+  "子猫": {
+    "Kittens": 3
+  },
+  "レノ": {
+    "Reno": 20
+  },
+  "<i>ツォン</i>": {
+    "<i>Tseng</i>": 1
+  },
+  "特殊作戦兵": {
+    "Special Forces Operator": 25,
+    "Shinra Trooper": 1
+  },
+  "<i>ソノン</i>": {
+    "<i>Sonon</i>": 3
+  },
+  "ネロ": {
+    "Nero": 1
+  },
+  "ミーナ": {
+    "Myrna": 4
+  },
+  "イファルナ": {
+    "Ifalna": 6
+  },
+  "<i>イファルナ</i>": {
+    "<i>Ifalna</i>": 4
+  },
+  "研究員": {
+    "Researcher": 1
+  },
+  "<i>セトラの声</i>": {
+    "<i>The Cetra</i>": 30
+  },
+  "操縦士": {
+    "Pilot": 1
+  },
+  "ザックス＆クラウド": {
+    "Zack & Cloud": 4
+  },
+  "グレン＆セフィロス": {
+    "Glenn & Sephiroth": 2
+  },
+  "ギルガメッシュ": {
+    "Gilgamesh": 90
+  },
+  "<i>ギルガメッシュ</i>": {
+    "<i>Gilgamesh</i>": 5
+  },
+  "カマロ": {
+    "Cameron": 29
+  },
+  "ナバラ": {
+    "Navalan": 28
+  },
+  "リドラル": {
+    "Lidrehl": 69
+  },
+  "<i>記者</i>": {
+    "<i>Reporter</i>": 9
+  },
+  "ゴーストバウター": {
+    "Specter of the Cards": 5
+  },
+  "シェド": {
+    "Ned": 22
+  },
+  "ヘモヘモ": {
+    "Mr. Cuddlesworth": 20
+  },
+  "ネネ": {
+    "Nene": 5
+  },
+  "ジーヴル": {
+    "Zahira": 23
+  },
+  "デ・ムーア": {
+    "Devin": 10
+  },
+  "ダ・ムーア": {
+    "Darren": 20
+  },
+  "イザベラ": {
+    "Isabelle": 22
+  },
+  "ゾガン": {
+    "Zogan": 22
+  },
+  "ニール": {
+    "Neil": 31
+  },
+  "ミザリー": {
+    "Michaela": 30
+  },
+  "モア": {
+    "Moa": 9
+  },
+  "リアナ": {
+    "Riana": 21
+  },
+  "ドカッチャ": {
+    "Dokaccha": 23
+  },
+  "マコイ": {
+    "Maahir": 20
+  },
+  "ロルフ": {
+    "Rolf": 7
+  },
+  "ロコ": {
+    "Rocco": 20
+  },
+  "ビーガ": {
+    "Biff": 26
+  },
+  "ポピーノ": {
+    "Pietro": 22
+  },
+  "ラム": {
+    "Mary": 27
+  },
+  "バウター・ダス": {
+    "Dax": 28
+  },
+  "ザジ": {
+    "Zhijun": 21
+  },
+  "オスカー": {
+    "Oscar": 5
+  },
+  "ラナン": {
+    "Landon": 24
+  },
+  "<i>ロビン</i>": {
+    "<i>Robin</i>": 14
+  },
+  "バーンズ": {
+    "Bernard": 29
+  },
+  "カディナ": {
+    "Ka'dina": 24
+  },
+  "デイル": {
+    "Dale": 8
+  },
+  "パルラ": {
+    "Paleera": 15
+  },
+  "ターナー": {
+    "Turner": 29
+  },
+  "モーグリ店長": {
+    "Moogle Merchant": 62
+  },
+  "コモーグリ": {
+    "Mooglets": 2,
+    "Mooglet": 43
+  },
+  "黒マントの女": {
+    "Robed Woman": 32
+  },
+  "フォーカス": {
+    "Snaps": 185
+  },
+  "ピアソラ": {
+    "Dorian": 30
+  },
+  "<i>海賊王の言葉</i>": {
+    "<i>The Pirate King's Words</i>": 9
+  }
+}

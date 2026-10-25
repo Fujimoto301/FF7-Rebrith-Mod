@@ -1,0 +1,1036 @@
+{
+  "video": "https://www.youtube.com/watch?v=i4gD0mmj5vc",
+  "video_title": "Final Fantasy 7 Rebirth | FULL GAME 100% Walkthrough | 88 Hour Gameplay",
+  "user_timestamps": {
+    "chapter1_start": "00:14:13",
+    "chapter2_start": "02:06:42"
+  },
+  "review_scope": "Opening story and Chapter 1 only",
+  "method": "Match on-screen speaker and scene with asset record ID. Actor code alone is not visual verification.",
+  "limitation": "YouTube browser repeatedly timed out when seeking further scenes. Full NPC review is incomplete. No subtitle or mod archive was changed by this audit.",
+  "entries": 71,
+  "status_counts": {
+    "pending": 68,
+    "identity_observed": 3
+  },
+  "all_video_verified": false,
+  "rows": [
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C1910_MAIN_0100_0070_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "レポーター",
+      "actor_en": "Reporter",
+      "original_jp": "ミッドガル・ハイウェイから中継です",
+      "translation": "รายงานสดจากทางด่วนมิดการ์ครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C1910_MAIN_0100_0080_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "レポーター",
+      "actor_en": "Reporter",
+      "original_jp": "ご覧いただけますでしょうか\r\nビルが完全に倒壊し　道路が崩落しております",
+      "translation": "ท่านผู้ชมเห็นไหมครับ\r\nอาคารพังถล่มลงมาทั้งหลัง ถนนก็ทรุดตัวลง",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C1910_MAIN_0200_0405_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "<i>レポーター</i>",
+      "actor_en": "<i>Reporter</i>",
+      "original_jp": "<i>引き続き　現場から生中継でお送りします</i>",
+      "translation": "<i>เราจะรายงานสดจากที่เกิดเหตุต่อไปครับ</i>",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C1910_MAIN_0200_0442_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "レポーター",
+      "actor_en": "Reporter",
+      "original_jp": "あれは　救助された方でしょうか",
+      "translation": "นั่นใช่ผู้ที่ได้รับการช่วยเหลือหรือเปล่าครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$C1910_MAIN_0200_0620_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "レポーター",
+      "actor_en": "Reporter",
+      "original_jp": "いま　ヘリが飛び立ちます",
+      "translation": "ตอนนี้เฮลิคอปเตอร์กำลังขึ้นบินครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_0700_2400_00_skm",
+      "speaker_code": "skm",
+      "actor_jp": "運転手",
+      "actor_en": "Driver",
+      "original_jp": "進行方向に　モンスターです！",
+      "translation": "มีมอนสเตอร์ขวางทางครับ!",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_1000_0900_00_znd",
+      "speaker_code": "znd",
+      "actor_jp": "ゾンダー",
+      "actor_en": "Mayor Zander",
+      "original_jp": "お待ちしておりました！",
+      "translation": "พวกเรารอท่านอยู่ครับ!",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "identity_observed",
+      "stutter_not_female_particle": false,
+      "video_evidence": {
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "timestamp": "00:20:25",
+        "observation": "Screenshot shows Mayor Zander speaking with his English actor label. This verifies speaker identity for the znd group; it is not a frame-by-frame check of every line.",
+        "appropriate_particle": "ครับ",
+        "audio_reviewed": false
+      }
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_1000_0910_00_znd",
+      "speaker_code": "znd",
+      "actor_jp": "ゾンダー",
+      "actor_en": "Mayor Zander",
+      "original_jp": "私は　村長のゾンダー",
+      "translation": "ผมซอนเดอร์ เป็นผู้ใหญ่บ้านครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "identity_observed",
+      "stutter_not_female_particle": false,
+      "video_evidence": {
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "timestamp": "00:20:25",
+        "observation": "Screenshot shows Mayor Zander speaking with his English actor label. This verifies speaker identity for the znd group; it is not a frame-by-frame check of every line.",
+        "appropriate_particle": "ครับ",
+        "audio_reviewed": false
+      }
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_1000_1100_00_znd",
+      "speaker_code": "znd",
+      "actor_jp": "ゾンダー",
+      "actor_en": "Mayor Zander",
+      "original_jp": "では　早速こちらへ",
+      "translation": "ถ้าอย่างนั้น เชิญทางนี้เลยครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "identity_observed",
+      "stutter_not_female_particle": false,
+      "video_evidence": {
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "timestamp": "00:20:25",
+        "observation": "Screenshot shows Mayor Zander speaking with his English actor label. This verifies speaker identity for the znd group; it is not a frame-by-frame check of every line.",
+        "appropriate_particle": "ครับ",
+        "audio_reviewed": false
+      }
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_1600_0100_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "よろず屋",
+      "actor_en": "General Store Clerk",
+      "original_jp": "神羅の方ですね　ご苦労さまです",
+      "translation": "มาจากชินระสินะคะ ขอบคุณที่เหนื่อยเพื่อพวกเรา",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_1810_0500_00_cld",
+      "speaker_code": "cld",
+      "actor_jp": "クラウド",
+      "actor_en": "Cloud",
+      "original_jp": "ただいま",
+      "translation": "กลับมาแล้วครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_2400_0100_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "宿屋",
+      "actor_en": "Innkeeper",
+      "original_jp": "いらっしゃい\r\n本日は　神羅カンパニーさんの貸し切りですよ",
+      "translation": "ยินดีต้อนรับค่ะ\r\nวันนี้บริษัทชินระจองเหมาทั้งโรงแรมไว้แล้ว",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_3000_1500_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "おはようございます\r\nよろしくお願いしま～す",
+      "translation": "อรุณสวัสดิ์ค่ะ\r\nฝากเนื้อฝากตัวด้วยนะคะ",
+      "particles": {
+        "ค่ะ": 1,
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_3000_1900_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "この村で　いちばんのガイドといえば\r\n私のことでしょうね",
+      "translation": "ถ้าพูดถึงไกด์ที่เก่งที่สุดในหมู่บ้านนี้\r\nก็ต้องฉันนี่แหละค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_3000_2600_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "セフィロスさん　お願いします",
+      "translation": "คุณเซฟิรอธ ขอร้องนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_3000_2900_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "写真屋",
+      "actor_en": "Photographer",
+      "original_jp": "撮りまーす！",
+      "translation": "จะถ่ายแล้วนะครับ!",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_3110_0100_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "ニブル山は　最初の魔晄炉が建てられた場所として\r\nその頃は有名だったそうです",
+      "translation": "ได้ยินว่าภูเขานีเบิลเคยมีชื่อเสียง\r\nเพราะเป็นที่ตั้งเตาปฏิกรณ์มาโก้แห่งแรกค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_4200_0300_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "はい",
+      "translation": "ได้ค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_4200_0400_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "川沿いを下流に行けば　村です",
+      "translation": "ถ้าเดินเลียบแม่น้ำไปตามน้ำ ก็จะถึงหมู่บ้านค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_4200_0600_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "ごめんなさい　わかりません",
+      "translation": "ขอโทษค่ะ ฉันไม่รู้ทาง",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_4200_0800_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "はい",
+      "translation": "ค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_4910_0200_00_tif",
+      "speaker_code": "tif",
+      "actor_jp": "ティファ",
+      "actor_en": "Tifa",
+      "original_jp": "この人　ぜんぜん話してくれないんですけど",
+      "translation": "คนนี้ไม่ยอมคุยกับฉันเลยค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_7150_0500_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "自警団",
+      "actor_en": "Militiaman",
+      "original_jp": "はっ……はい！",
+      "translation": "คะ…ครับ!",
+      "particles": {
+        "ครับ": 1,
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": true
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_1200_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "やっと来てくれたのね\r\nありがとうございます！",
+      "translation": "ในที่สุดก็มาแล้ว\r\nขอบคุณมากค่ะ!",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_1400_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "お疲れさまです\r\nここまで遠かったでしょう",
+      "translation": "เหนื่อยหน่อยนะคะ\r\nกว่าจะมาถึงที่นี่คงไกลน่าดู",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_1500_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "がんばってください！",
+      "translation": "สู้ ๆ นะคะ!",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_4900_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "もうすこしで終わります",
+      "translation": "อีกนิดก็เสร็จแล้วครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_5100_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "先輩　俺ミッドガルに出て\r\n軍に入ろうと思ってます",
+      "translation": "รุ่นพี่ ผมคิดว่าจะไปมิดการ์\r\nแล้วเข้ากองทัพครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_5200_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "なにか　手伝えることないですか？",
+      "translation": "มีอะไรให้ช่วยไหมครับ?",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_7300_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ごくろうさまです",
+      "translation": "ขอบคุณที่ทำงานหนักนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0100_7600_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "長旅の疲れがあるかもですけど\r\n明日の調査　がんばってくださいよ",
+      "translation": "อาจจะเหนื่อยจากการเดินทางไกล\r\nแต่การสำรวจพรุ่งนี้ก็สู้ ๆ นะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0200_5700_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ソルジャーさん　お疲れさまです",
+      "translation": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนักครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0200_5800_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "モンスターの気配は　ありません！",
+      "translation": "ไม่พบร่องรอยมอนสเตอร์ครับ!",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0200_6100_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ニブルヘイム自警団　警備中です",
+      "translation": "กองอาสานีเบิลไฮม์ กำลังเฝ้าระวังค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0200_6200_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "異状なしでありますよ",
+      "translation": "ไม่มีอะไรผิดปกติครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10000_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ソルジャーさん　お疲れさまです！",
+      "translation": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนักครับ!",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10010_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ここは俺たちが守ってますんで\r\n安心してください",
+      "translation": "พวกเราคอยเฝ้าที่นี่อยู่\r\nสบายใจได้เลยครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10110_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ありがとうございます\r\n村を守ってください",
+      "translation": "ขอบคุณมากครับ\r\nช่วยปกป้องหมู่บ้านด้วยนะ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10200_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ソルジャーさん\r\n調査は　明朝出発のはずです",
+      "translation": "คุณโซลเจอร์\r\nการสำรวจจะเริ่มแต่เช้าพรุ่งนี้ครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10210_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "今日は　ゆっくり休んでください",
+      "translation": "วันนี้พักให้เต็มที่นะครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10300_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ソルジャーさん\r\n山は　ひとりじゃ危険です",
+      "translation": "คุณโซลเจอร์\r\nขึ้นเขาคนเดียวมันอันตรายครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_10310_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "明日に備えて\r\n宿屋でゆっくり休んでください",
+      "translation": "ไปพักผ่อนที่โรงแรม\r\nเตรียมตัวสำหรับพรุ่งนี้เถอะครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_5000_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "あっ　お疲れ様です！",
+      "translation": "อ๊ะ ขอบคุณที่ทำงานหนักค่ะ!",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_5300_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "村人",
+      "actor_en": "Villager",
+      "original_jp": "私だって\r\nセフィロスさんと話したいんですよ？",
+      "translation": "ผมเอง\r\nก็อยากคุยกับคุณเซฟิรอธนะครับ?",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0300_5800_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "調査隊のみなさんの荷物を\r\n運んでるんですよ",
+      "translation": "กำลังขนสัมภาระ\r\nของหน่วยสำรวจอยู่ครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_0200_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　両手の指先を\r\n天に向かって突き出しま～す",
+      "translation": "ชูปลายนิ้วทั้งสองมือ\r\nขึ้นสู่ท้องฟ้านะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_0300_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "まっすぐ　指先まで\r\nピンと伸ばしてくださ～い",
+      "translation": "เหยียดให้ตรง\r\nตึงไปจนถึงปลายนิ้วเลยค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_0600_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "つづけますよ\r\nザンガン体操　第２の型\r\nよ～い！",
+      "translation": "ต่อไปนะคะ\r\nกายบริหารซันกัน ท่าที่สอง\r\nเตรียม!",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_0700_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　また両手を上へ\r\n腕は耳につけま～す",
+      "translation": "ยกมือทั้งสองขึ้นอีกครั้ง\r\nแขนแนบหูค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_1000_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　グラグラしな～い",
+      "translation": "อย่าโงนเงนนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_1300_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "は～い　息止めないで\r\n１０かぞえたら　脱力",
+      "translation": "อย่ากลั้นหายใจนะคะ\r\nนับถึงสิบแล้วผ่อนคลาย",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_1400_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "つづけますよ\r\nザンガン体操　第３の型\r\nよ～い！",
+      "translation": "ต่อไปนะคะ\r\nกายบริหารซันกัน ท่าที่สาม\r\nเตรียม!",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_1500_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　両手を上へ\r\n腕は耳につけま～す",
+      "translation": "ยกมือทั้งสองขึ้น\r\nแขนแนบหูค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_1710_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　両手は\r\nまっすぐ伸ばして",
+      "translation": "เหยียดแขนทั้งสอง\r\nให้ตรงนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_2100_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "は～い　よくできました！\r\nじゃあすこし休憩",
+      "translation": "ดีมากค่ะ!\r\nพักกันสักหน่อย",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_2300_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "はい　もういちどいきますよ",
+      "translation": "เอาล่ะ อีกรอบนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_2700_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "ザンガン先生の\r\n長生き体操っていうんですよ",
+      "translation": "นี่คือกายบริหารอายุยืน\r\nของอาจารย์ซันกันค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_2900_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "普段は　村いちばんの運動神経の\r\nティファちゃんが教えてくれるんです",
+      "translation": "ปกติทีฟ่าที่คล่องแคล่วที่สุดในหมู่บ้าน\r\nจะเป็นคนสอนค่ะ",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0400_3100_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "どうぞどうぞ　ご指導ください",
+      "translation": "เชิญเลยค่ะ ช่วยสอนพวกเราด้วย",
+      "particles": {
+        "ค่ะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1100_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "自警団",
+      "actor_en": "Militiaman",
+      "original_jp": "セフィロスさんの様子\r\n見てきてください",
+      "translation": "ช่วยไปดู\r\nคุณเซฟิรอธให้หน่อยครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1200_00_mfa",
+      "speaker_code": "mfa",
+      "actor_jp": "自警団",
+      "actor_en": "Militia Member",
+      "original_jp": "よろしくお願いします",
+      "translation": "ฝากด้วยนะคะ",
+      "particles": {
+        "คะ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1500_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "あれ　今夜はもう休んでくださいよ",
+      "translation": "อ้าว คืนนี้ไปพักได้แล้วนะครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1600_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "あはは　まさか夜遊びですか？",
+      "translation": "ฮ่า ๆ จะออกเที่ยวกลางคืนเหรอครับ?",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1800_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "もしかして　逃げ出そうなんて\r\n思ってないですよね",
+      "translation": "คงไม่ได้คิด\r\nจะหนีไปหรอกใช่ไหมครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1810_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "なんかあったんですか？",
+      "translation": "มีอะไรเกิดขึ้นหรือเปล่าครับ?",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_1900_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "魔晄炉の調査　お疲れさまでした\r\n夜の警備は俺たちにまかせてください",
+      "translation": "เหนื่อยกับการสำรวจเตาปฏิกรณ์แล้ว\r\nการเฝ้าระวังคืนนี้ฝากพวกเราได้เลยครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_2100_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "村の見まわりですか？\r\nご苦労さまです",
+      "translation": "ออกตรวจหมู่บ้านเหรอครับ?\r\nขอบคุณที่ทำงานหนักนะ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$NIBLT_NPC_10_0500_2110_00_mma",
+      "speaker_code": "mma",
+      "actor_jp": "",
+      "actor_en": "",
+      "original_jp": "セフィロスさんは\r\nこっちには来てませんよ",
+      "translation": "คุณเซฟิรอธ\r\nไม่ได้มาทางนี้นะครับ",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$C1910_MAIN_8700_0100_00_brd",
+      "speaker_code": "brd",
+      "actor_jp": "ホテル支配人",
+      "actor_en": "Innkeeper",
+      "original_jp": "顔色が　すぐれないようですね\r\n戦場の古傷でも痛みますか？",
+      "translation": "ดูสีหน้าไม่ค่อยดีเลยนะครับ\r\nบาดแผลเก่าจากสนามรบเจ็บขึ้นมาหรือครับ?",
+      "particles": {
+        "ครับ": 2
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$C1910_MAIN_8700_0300_00_brd",
+      "speaker_code": "brd",
+      "actor_jp": "ホテル支配人",
+      "actor_en": "Innkeeper",
+      "original_jp": "まあ　私が神羅にいたのは\r\nずいぶんと前のことですが……",
+      "translation": "แต่ก็อยู่ชินระ\r\nมานานมากแล้วล่ะครับ…",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    },
+    {
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$C1910_MAIN_8700_0400_00_brd",
+      "speaker_code": "brd",
+      "actor_jp": "ホテル支配人",
+      "actor_en": "Innkeeper",
+      "original_jp": "部屋で　お休みになられたほうが\r\nよろしいのでは？",
+      "translation": "กลับไปพักผ่อนในห้อง\r\nน่าจะดีกว่าไหมครับ?",
+      "particles": {
+        "ครับ": 1
+      },
+      "video_speaker_status": "pending",
+      "stutter_not_female_particle": false
+    }
+  ]
+}

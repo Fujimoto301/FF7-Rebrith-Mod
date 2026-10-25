@@ -1,0 +1,1842 @@
+[
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$Bronze_reward_runwild_score",
+    "Japanese": {
+      "Text": "２位"
+    },
+    "English": {
+      "Text": "2nd"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$Bronze_reward_runwild_score_amor1",
+    "Japanese": {
+      "Text": "単独１位"
+    },
+    "English": {
+      "Text": "1st"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_01_Detail",
+    "Japanese": {
+      "Text": "コスタでアモール開催日限定チャレンジ！\r\n３枚のカードのみで挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\nカードの配置位置と順番が決め手になります。\r\n相手のレーンと自分のカードをよく見て勝利しましょう。\r\n\r\n<color=yellow-black>※ペアのレジーはすでにクリアしています。\r\n　クラウドがこのチャレンジを突破すれば勝ち抜けます。</color>"
+    },
+    "English": {
+      "Text": "What's <i>amor</i> fun than a game of Queen's Blood? A puzzle!\r\nYour opponent has laid their cards on the table. Place yours in the right spot at the right time to emerge victorious!\r\n\r\n<color=yellow-black>Your partner, Regina, has already completed this challenge. If you complete it as well, the two of you will proceed.</color>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_01_Detail_AfterAmor",
+    "Japanese": {
+      "Text": "３枚のカードのみで挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\nカードの配置位置と順番が決め手になります。\r\n相手のレーンと自分のカードをよく見て勝利しましょう。\r\n\r\n<color=red>※カード選択時にカーソルをボード上に動かすと\r\n　ボードに配置されたカードのスキルを確認できます。</color>"
+    },
+    "English": {
+      "Text": "In this three-card challenge, your opponent has laid their cards on the table. Place yours in the right spot at the right time to emerge victorious!\r\n\r\n<color=red>Check a placed card's skill by moving your cursor to its position on the board.</color>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_01_Jenre",
+    "Japanese": {
+      "Text": "カードパズル初級"
+    },
+    "English": {
+      "Text": "Card Puzzle (Easy)"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_01_Title",
+    "Japanese": {
+      "Text": "【期間限定】コスタでアモール１回戦"
+    },
+    "English": {
+      "Text": "Cards del Amor Challenge - Round 1"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_01_Title_AfterAmor",
+    "Japanese": {
+      "Text": "スリーカード・オンリー"
+    },
+    "English": {
+      "Text": "Three-Card Stud"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Condition",
+    "Japanese": {
+      "Text": "コスタでアモール１回戦に勝利"
+    },
+    "English": {
+      "Text": "Win Round 1 of the Cards del Amor Challenge"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Condition_AfterAmor",
+    "Japanese": {
+      "Text": "『スリーカード・オンリー』をクリア"
+    },
+    "English": {
+      "Text": "Complete \"Three-Card Stud\""
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Detail",
+    "Japanese": {
+      "Text": "コスタでアモール開催日限定チャレンジ！\r\n３枚のカードと盤面の１枚で挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\n勝利レーンがひとつだけでもスコアが高ければ勝てます。\r\nチョコボカードをひとつのレーンに集中させて\r\nスコアをできるだけ上げる方法を考えて勝利しましょう。\r\n\r\n<color=yellow-black>※ペアのレジーはすでにクリアしています。\r\n　クラウドがこのチャレンジを突破すれば勝ち抜けます。</color>"
+    },
+    "English": {
+      "Text": "What's <i>amor</i> fun than a game of Queen's Blood? A puzzle!\r\nYour opponent has laid their cards on the table. Herd your chocobos into a single lane to boost your score and find the path to victory!\r\n\r\n<color=yellow-black>Your partner, Regina, has already completed this challenge. If you complete it as well, the two of you will proceed.</color>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Detail_AfterAmor",
+    "Japanese": {
+      "Text": "３枚のカードと盤面の１枚で挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\n勝利レーンがひとつだけでもスコアが高ければ勝てます。\r\nチョコボカードをひとつのレーンに集中させて\r\nスコアをできるだけ上げる方法を考えて勝利しましょう。"
+    },
+    "English": {
+      "Text": "In this three-card challenge, your opponent has laid their cards on the table. Herd your chocobos into a single lane to boost your score and find the path to victory!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Jenre",
+    "Japanese": {
+      "Text": "カードパズル初級"
+    },
+    "English": {
+      "Text": "Card Puzzle (Easy)"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Title",
+    "Japanese": {
+      "Text": "【期間限定】コスタでアモール２回戦"
+    },
+    "English": {
+      "Text": "Cards del Amor Challenge - Round 2"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_02_Title_AfterAmor",
+    "Japanese": {
+      "Text": "チョコボでスコアオールイン"
+    },
+    "English": {
+      "Text": "Go for Choco-Broke"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Condition",
+    "Japanese": {
+      "Text": "コスタでアモール２回戦に勝利"
+    },
+    "English": {
+      "Text": "Win Round 2 of the Cards del Amor Challenge"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Condition_AfterAmor",
+    "Japanese": {
+      "Text": "『チョコボでスコアオールイン』をクリア"
+    },
+    "English": {
+      "Text": "Complete \"Go for Choco-Broke\""
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Detail",
+    "Japanese": {
+      "Text": "コスタでアモール開催日限定チャレンジ！\r\n専用のカードデッキで挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\n切り札『モーグリーズ』は『２号』と『３号』を\r\n手札に追加するスキルをもっています。\r\nそれぞれの能力を活かせる配置を考え、勝利しましょう。\r\n\r\n<color=yellow-black>※ペアのレジーはすでにクリアしています。\r\n　クラウドがこのチャレンジを突破すれば勝ち抜けます。</color>"
+    },
+    "English": {
+      "Text": "What's <i>amor</i> fun than a game of Queen's Blood? A puzzle!\r\nYour opponent has laid their cards on the table. Have the Moogle Trio summon the Mage and Bard to your hand, then use their unique abilities to come out on top!\r\n\r\n<color=yellow-black>Your partner, Regina, has already completed this challenge. If you complete it as well, the two of you will proceed.</color>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Detail_AfterAmor",
+    "Japanese": {
+      "Text": "専用のカードデッキで挑戦するカードチャレンジです。\r\n相手のカードは盤面にオープンされています。\r\n\r\n切り札『モーグリーズ』は『２号』と『３号』を\r\n手札に追加するスキルをもっています。\r\nそれぞれの能力を活かせる配置を考えて勝利しましょう。"
+    },
+    "English": {
+      "Text": "In this limited-deck challenge, your opponent has laid their cards on the table. Have the Moogle Trio summon the Mage and Bard to your hand, then use their unique abilities to come out on top!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Jenre",
+    "Japanese": {
+      "Text": "カードパズル初級"
+    },
+    "English": {
+      "Text": "Card Puzzle (Easy)"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Title",
+    "Japanese": {
+      "Text": "【期間限定】コスタでアモール３回戦"
+    },
+    "English": {
+      "Text": "Cards del Amor Challenge - Round 3"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CardChallenge_03_Title_AfterAmor",
+    "Japanese": {
+      "Text": "モーグリーズのいたずら大作戦"
+    },
+    "English": {
+      "Text": "Mischief-Making Moogles"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$Gold_reward_runwild_score",
+    "Japanese": {
+      "Text": "単独１位"
+    },
+    "English": {
+      "Text": "1st"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$RunWild_reward_header",
+    "Japanese": {
+      "Text": "順位"
+    },
+    "English": {
+      "Text": "Rank / Place"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$Silver_reward_runwild_score",
+    "Japanese": {
+      "Text": "同点１位"
+    },
+    "English": {
+      "Text": "1st - Tie"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$TravelCameraman_Window_COSTA",
+    "Japanese": {
+      "Text": "コレルエリア（海岸）"
+    },
+    "English": {
+      "Text": "Corel Coastline"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_MenuLog_Appeared_COSTT",
+    "Japanese": {
+      "Text": "コスタ・デル・ソルに\r\n新たなカードバウターが現れた。"
+    },
+    "English": {
+      "Text": "New Queen's Blood players await your challenge in Costa del Sol."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_bronze_condition",
+    "Japanese": {
+      "Text": "銅賞 <count=0>点"
+    },
+    "English": {
+      "Text": "Bronze: <count=0> Pts."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_CharacterCard",
+    "Japanese": {
+      "Text": "メモリアル"
+    },
+    "English": {
+      "Text": "Collection Challenges"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_QBproblem",
+    "Japanese": {
+      "Text": "パズル上級"
+    },
+    "English": {
+      "Text": "Advanced Card Puzzles"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_SkillTutorial",
+    "Japanese": {
+      "Text": "スキルリドル"
+    },
+    "English": {
+      "Text": "Skill Drills"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_all",
+    "Japanese": {
+      "Text": "ALL"
+    },
+    "English": {
+      "Text": "All"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_highscore_challange",
+    "Japanese": {
+      "Text": "サバイバル"
+    },
+    "English": {
+      "Text": "Survival"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_category_structured_deck",
+    "Japanese": {
+      "Text": "パズル初級"
+    },
+    "English": {
+      "Text": "Easy Card Puzzles"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_course",
+    "Japanese": {
+      "Text": "チャレンジコース"
+    },
+    "English": {
+      "Text": "Challenges"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_gold_condition",
+    "Japanese": {
+      "Text": "金賞 <count=0>点"
+    },
+    "English": {
+      "Text": "Gold: <count=0> Pts."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_header",
+    "Japanese": {
+      "Text": "CARD CARNIVAL"
+    },
+    "English": {
+      "Text": "Card Carnival"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_high_score",
+    "Japanese": {
+      "Text": "BEST SCORE"
+    },
+    "English": {
+      "Text": "Personal Best"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_hiscore",
+    "Japanese": {
+      "Text": "TARGET SCORE"
+    },
+    "English": {
+      "Text": "Target Score"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_open4",
+    "Japanese": {
+      "Text": "カード・カーニバルにおひとりさま用\r\nチャレンジコースが解放されました。"
+    },
+    "English": {
+      "Text": "Single-player Card Carnival\r\nchallenge unlocked."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_open_advanced",
+    "Japanese": {
+      "Text": "カード・カーニバルに\r\n新しいチャレンジコースが追加されました。"
+    },
+    "English": {
+      "Text": "New Card Carnival\r\nchallenge unlocked."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_opponent_deck_header",
+    "Japanese": {
+      "Text": "カード・カーニバル専用デッキ"
+    },
+    "English": {
+      "Text": "Card Carnival Deck"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_opponent_deck_return_guide",
+    "Japanese": {
+      "Text": "<button=cancel> 戻る"
+    },
+    "English": {
+      "Text": "<button=cancel> Back"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_prize_1",
+    "Japanese": {
+      "Text": "初回報酬"
+    },
+    "English": {
+      "Text": "First-Time Reward"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_prize_2",
+    "Japanese": {
+      "Text": "通常報酬"
+    },
+    "English": {
+      "Text": "Standard Reward"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_prize_hiscore_1",
+    "Japanese": {
+      "Text": "景品"
+    },
+    "English": {
+      "Text": "Rewards"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_prize_hiscore_2",
+    "Japanese": {
+      "Text": "初回"
+    },
+    "English": {
+      "Text": "First-Time"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_release_condition",
+    "Japanese": {
+      "Text": "解放条件"
+    },
+    "English": {
+      "Text": "Requirements"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_silver_condition",
+    "Japanese": {
+      "Text": "銀賞 <count=0>点"
+    },
+    "English": {
+      "Text": "Silver: <count=0> Pts."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$card_challenge_view_opponent_deck_guide",
+    "Japanese": {
+      "Text": "<button=square> カード・カーニバル専用デッキを確認"
+    },
+    "English": {
+      "Text": "<button=square> View Card Carnival Deck"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_HappytenderCamera_help",
+    "Japanese": {
+      "Text": "『ハッピーテンダーチャレンジ』用のレンタルカメラです。"
+    },
+    "English": {
+      "Text": "A special camera for use in Costa del Amor's Cactuar Caper event."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_HappytenderMemo_help",
+    "Japanese": {
+      "Text": "ハッピーテンダーの場所がしるされた地図です。\r\n撮影するときのカメラのズームの値も書かれています。"
+    },
+    "English": {
+      "Text": "A map detailing the locations of the capering cactuars, as well as the zoom percentage needed for each photograph."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaAmorNoCard77_help",
+    "Japanese": {
+      "Text": "コスタでアモールの以下のイベントに参加できるチケットです。\r\n<color=orange>\r\n『ラン・ワイルド』\r\n『ハッピーテンダーチャレンジ』\r\n『ウィリーでランデブー』\r\n『ロイヤルコンサート』\r\n</color>"
+    },
+    "English": {
+      "Text": "A couple's ticket that allows its owners to participate in the following events:\r\n<color=orange>\r\nRun Wild\r\nCactuar Caper\r\nWheelie Rendezvous\r\nRoyal Coast Concert\r\n</color>\r\nIncludes a bonus ticket for one pet."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaAmorNoCard7_help",
+    "Japanese": {
+      "Text": "コスタでアモールの以下のイベントに参加できるチケットです。\r\n<color=orange>\r\n『パイレーツ・ランページ』\r\n『カード・カーニバル』\r\n</color>"
+    },
+    "English": {
+      "Text": "A ticket that allows its owner to participate in the following Costa del Amor events:\r\n<color=orange>\r\nPirate's Rampage\r\nCard Carnival</color>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_bike",
+    "Japanese": {
+      "Text": "グラマラスホエール"
+    },
+    "English": {
+      "Text": "Majestic Glamour",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "majestic glamour beachwear",
+        "SINGULAR": "majestic glamour beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_bike_help",
+    "Japanese": {
+      "Text": "ぼぼ～んとバケーションを盛り上げるリゾートウェアです。\r\n※このウェアにすると装備武器のヴィジュアルが反映されません。"
+    },
+    "English": {
+      "Text": "A stylish ensemble for those who want to strut their stuff on the beach.\r\n*Weapons will not be displayed while wearing this outfit."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_card",
+    "Japanese": {
+      "Text": "オーシャンチョコボ"
+    },
+    "English": {
+      "Text": "Ocean Chocobo",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "ocean chocobo beachwear",
+        "SINGULAR": "ocean chocobo beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_card_help",
+    "Japanese": {
+      "Text": "海を駆けぬけるチョコボのようにさわやかなリゾートウェアです。"
+    },
+    "English": {
+      "Text": "A casual ensemble for those who want to go with the flow like a bird in their element."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_detective",
+    "Japanese": {
+      "Text": "ピンキーマーメイド"
+    },
+    "English": {
+      "Text": "Pink Mermaid",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "pink mermaid beachwear",
+        "SINGULAR": "pink mermaid beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_detective_help",
+    "Japanese": {
+      "Text": "ちょっと勇気がわいてトロピカル気分になるリゾートウェアです。"
+    },
+    "English": {
+      "Text": "A bold ensemble for those who want to live it up in paradise."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_dribble",
+    "Japanese": {
+      "Text": "フローラルソレイユ"
+    },
+    "English": {
+      "Text": "Floral Delight",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "floral delight beachwear",
+        "SINGULAR": "floral delight beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_dribble_help",
+    "Japanese": {
+      "Text": "太陽を浴びて咲き誇る花の香りが漂ってくるリゾートウェアです。"
+    },
+    "English": {
+      "Text": "A breezy ensemble for those who want to bask in the tropical sun."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_photo",
+    "Japanese": {
+      "Text": "シャインフリッパー"
+    },
+    "English": {
+      "Text": "Shining Spirit",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "shining spirit beachwear",
+        "SINGULAR": "shining spirit beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_photo_help",
+    "Japanese": {
+      "Text": "きらめく波にのってもっと冒険したくなるリゾートウェアです。\r\n※このウェアにすると装備武器のヴィジュアルが反映されません。"
+    },
+    "English": {
+      "Text": "An adventurous ensemble for those who want to frolic in the shimmering sea.\r\n*Weapons will not be displayed while wearing this outfit."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_shooting",
+    "Japanese": {
+      "Text": "ワイルドサーフ"
+    },
+    "English": {
+      "Text": "Wild Surf",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "wild surf beachwear",
+        "SINGULAR": "wild surf beachwear"
+      }
+    },
+    "action": "existing_translation"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$keyitem_CostaClothes_shooting_help",
+    "Japanese": {
+      "Text": "野性を解き放ち、どんな波でも乗りこなせるリゾートウェアです。"
+    },
+    "English": {
+      "Text": "A simple ensemble for those who want to cut loose and ride the biggest waves."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_BaseScore",
+    "Japanese": {
+      "Text": "射的スコア"
+    },
+    "English": {
+      "Text": "Target Score"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_FinalPhase",
+    "Japanese": {
+      "Text": "FINAL ROUND"
+    },
+    "English": {
+      "Text": "Final Round"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_GetReady",
+    "Japanese": {
+      "Text": "GET READY"
+    },
+    "English": {
+      "Text": "Ready..."
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRate",
+    "Japanese": {
+      "Text": "命中率"
+    },
+    "English": {
+      "Text": "Accuracy"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_Excellent",
+    "Japanese": {
+      "Text": "命中率 <count=0>％ Perfect!"
+    },
+    "English": {
+      "Text": "100% Accurate!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_Great",
+    "Japanese": {
+      "Text": "命中率 <count=0>％ Great!"
+    },
+    "English": {
+      "Text": "Great! <count=0>% Accuracy!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_Nice",
+    "Japanese": {
+      "Text": "命中率 <count=0>％ Nice!"
+    },
+    "English": {
+      "Text": "Nice! <count=0>% Accuracy!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_None",
+    "Japanese": {
+      "Text": "命中率 <count=0>％"
+    },
+    "English": {
+      "Text": "<count=0>% Accuracy"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_Over",
+    "Japanese": {
+      "Text": "命中率 Over <count=0>％"
+    },
+    "English": {
+      "Text": "Accuracy Over <count=0>%"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_HitRateNotificationUI_Under",
+    "Japanese": {
+      "Text": "命中率 Under <count=0>％"
+    },
+    "English": {
+      "Text": "Accuracy Under <count=0>%"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_LeftParenthesis",
+    "Japanese": {
+      "Text": "（"
+    },
+    "English": {
+      "Text": "("
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Log_MotionSensor",
+    "Japanese": {
+      "Text": "モーションセンサー照準操作に切り替えた。"
+    },
+    "English": {
+      "Text": "Motion sensor function aiming enabled."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Log_Stick",
+    "Japanese": {
+      "Text": "スティック照準操作に切り替えた。"
+    },
+    "English": {
+      "Text": "Stick aiming enabled."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Multiply",
+    "Japanese": {
+      "Text": "×"
+    },
+    "English": {
+      "Text": "×"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide",
+    "Japanese": {
+      "Text": "<button=shooting-shoot-R> 撃つ"
+    },
+    "English": {
+      "Text": "<button=shooting-shoot-R> Fire"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide02",
+    "Japanese": {
+      "Text": "<button=shooting-shoot-L> 撃つ"
+    },
+    "English": {
+      "Text": "<button=shooting-shoot-L> Fire"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide03",
+    "Japanese": {
+      "Text": "<button=decide> 射撃トリガー重さ"
+    },
+    "English": {
+      "Text": "<button=decide> Adaptive Triggers"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide04",
+    "Japanese": {
+      "Text": "<button=square> 射撃トリガー＆照準の操作スティック切替"
+    },
+    "English": {
+      "Text": "<button=square> Switch Aim & Fire Controls"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide05",
+    "Japanese": {
+      "Text": "<button=square> 破壊したマト得点表の表示／非表示"
+    },
+    "English": {
+      "Text": "<button=square> Toggle Score Display"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide06",
+    "Japanese": {
+      "Text": "<button=shooting-target-R> 照準"
+    },
+    "English": {
+      "Text": "<button=shooting-target-R> Aim"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide07",
+    "Japanese": {
+      "Text": "<button=shooting-target-L> 照準"
+    },
+    "English": {
+      "Text": "<button=shooting-target-L> Aim"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide08",
+    "Japanese": {
+      "Text": "照準のスピード"
+    },
+    "English": {
+      "Text": "Aim Speed"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide09",
+    "Japanese": {
+      "Text": "ＯＮ"
+    },
+    "English": {
+      "Text": "On"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide10",
+    "Japanese": {
+      "Text": "ＯＦＦ"
+    },
+    "English": {
+      "Text": "Off"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide11",
+    "Japanese": {
+      "Text": "<button=triangle> リトライ"
+    },
+    "English": {
+      "Text": "<button=triangle> Retry"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_OperationGuide12",
+    "Japanese": {
+      "Text": "リトライする"
+    },
+    "English": {
+      "Text": "Retry"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Percent",
+    "Japanese": {
+      "Text": "％"
+    },
+    "English": {
+      "Text": "%"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Phase1",
+    "Japanese": {
+      "Text": "ROUND 1"
+    },
+    "English": {
+      "Text": "Round 1"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Phase2",
+    "Japanese": {
+      "Text": "ROUND 2"
+    },
+    "English": {
+      "Text": "Round 2"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Phase3",
+    "Japanese": {
+      "Text": "ROUND 3"
+    },
+    "English": {
+      "Text": "Round 3"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Results_UserHighScore",
+    "Japanese": {
+      "Text": "BEST SCORE"
+    },
+    "English": {
+      "Text": "High Score"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Results_UserScore",
+    "Japanese": {
+      "Text": "SCORE"
+    },
+    "English": {
+      "Text": "Score"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_RightParenthesis",
+    "Japanese": {
+      "Text": "）"
+    },
+    "English": {
+      "Text": ")"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_RoundBestScoreEverUI",
+    "Japanese": {
+      "Text": "最高記録：ROUND <count=0>"
+    },
+    "English": {
+      "Text": "Highest Score: Round <count=0>"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_RoundBestScoreEverUI_Record",
+    "Japanese": {
+      "Text": "最高記録更新！"
+    },
+    "English": {
+      "Text": "New High Score!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Score",
+    "Japanese": {
+      "Text": "SCORE"
+    },
+    "English": {
+      "Text": "Score"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_Start",
+    "Japanese": {
+      "Text": "START"
+    },
+    "English": {
+      "Text": "Avast!"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_TargetScore",
+    "Japanese": {
+      "Text": "TARGET SCORE"
+    },
+    "English": {
+      "Text": "Target Score"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_ShootingGame_TimeUp",
+    "Japanese": {
+      "Text": "TIME UP"
+    },
+    "English": {
+      "Text": "Time's Up!"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_ScoreLost",
+    "Japanese": {
+      "Text": "LOSE"
+    },
+    "English": {
+      "Text": "You Lose..."
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_ScoreWin",
+    "Japanese": {
+      "Text": "WIN"
+    },
+    "English": {
+      "Text": "You Win!"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_ball_add",
+    "Japanese": {
+      "Text": "ニューボールが追加された！"
+    },
+    "English": {
+      "Text": "Another ball is now in play!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamB_retire",
+    "Japanese": {
+      "Text": "ブルーチーム……やる気を失った！"
+    },
+    "English": {
+      "Text": "The Blue Team is feeling discouraged..."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamB_wildend",
+    "Japanese": {
+      "Text": "ブルーチーム……クールダウン！"
+    },
+    "English": {
+      "Text": "The Blue Team is taking a breather!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamB_wildstart",
+    "Japanese": {
+      "Text": "ブルーチームが野性を解き放つ。\r\nワイルドドッグモード発動！"
+    },
+    "English": {
+      "Text": "The Blue Team is running wild!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamC_retire",
+    "Japanese": {
+      "Text": "ブラックチーム……やる気を失った！"
+    },
+    "English": {
+      "Text": "The Black Team is feeling discouraged..."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamC_wildend",
+    "Japanese": {
+      "Text": "ブラックチーム……クールダウン！"
+    },
+    "English": {
+      "Text": "The Black Team is taking a breather!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamC_wildstart",
+    "Japanese": {
+      "Text": "ブラックチームが野性を解き放つ。\r\nファンタジスタハウンドモード発動！"
+    },
+    "English": {
+      "Text": "The Black Team is running wild!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamD_retire",
+    "Japanese": {
+      "Text": "イエローチーム……やる気を失った！"
+    },
+    "English": {
+      "Text": "The Yellow Team is feeling discouraged..."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamD_wildend",
+    "Japanese": {
+      "Text": "イエローチーム……クールダウン！"
+    },
+    "English": {
+      "Text": "The Yellow Team is taking a breather!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_announce_teamD_wildstart",
+    "Japanese": {
+      "Text": "イエローチームが野性を解き放つ。\r\nチョコボストライカーモード発動！"
+    },
+    "English": {
+      "Text": "The Yellow Team is running wild!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_battle_rank1",
+    "Japanese": {
+      "Text": "1st"
+    },
+    "English": {
+      "Text": "1st"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_battle_rank2",
+    "Japanese": {
+      "Text": "2nd"
+    },
+    "English": {
+      "Text": "2nd"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_battle_rank3",
+    "Japanese": {
+      "Text": "3rd"
+    },
+    "English": {
+      "Text": "3rd"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_battle_rank4",
+    "Japanese": {
+      "Text": "4th"
+    },
+    "English": {
+      "Text": "4th"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide1",
+    "Japanese": {
+      "Text": "ダッシュ"
+    },
+    "English": {
+      "Text": "Dash"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide2",
+    "Japanese": {
+      "Text": "猛ダッシュ"
+    },
+    "English": {
+      "Text": "Sprint"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide3",
+    "Japanese": {
+      "Text": "シュート"
+    },
+    "English": {
+      "Text": "Shoot"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide4",
+    "Japanese": {
+      "Text": "ループシュート"
+    },
+    "English": {
+      "Text": "Lob Shot"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide5",
+    "Japanese": {
+      "Text": "ジャンプ"
+    },
+    "English": {
+      "Text": "Jump"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide6",
+    "Japanese": {
+      "Text": "ジャンプシュート"
+    },
+    "English": {
+      "Text": "Jump Shot"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_keyguide7",
+    "Japanese": {
+      "Text": "オーバーヘッドシュート"
+    },
+    "English": {
+      "Text": "Spike"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_modename_battle",
+    "Japanese": {
+      "Text": "BATTLE ROYAL"
+    },
+    "English": {
+      "Text": "Free-For-All"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_modename_target",
+    "Japanese": {
+      "Text": "TIME ATTACK"
+    },
+    "English": {
+      "Text": "Time Trial"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_score_retry",
+    "Japanese": {
+      "Text": "再挑戦しますか？"
+    },
+    "English": {
+      "Text": "Try again?"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_target",
+    "Japanese": {
+      "Text": "【ターゲットナンバー】"
+    },
+    "English": {
+      "Text": "Target Number"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_target_explain",
+    "Japanese": {
+      "Text": "ナンバーボールを同じナンバーのゴールにシュート！"
+    },
+    "English": {
+      "Text": "Shoot the ball into its corresponding goal!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_teamA",
+    "Japanese": {
+      "Text": "レッドチーム"
+    },
+    "English": {
+      "Text": "Red Team"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_teamB",
+    "Japanese": {
+      "Text": "ブルーチーム"
+    },
+    "English": {
+      "Text": "Blue Team"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_teamC",
+    "Japanese": {
+      "Text": "ブラックチーム"
+    },
+    "English": {
+      "Text": "Black Team"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_runwild_teamD",
+    "Japanese": {
+      "Text": "イエローチーム"
+    },
+    "English": {
+      "Text": "Yellow Team"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_clear_rank1",
+    "Japanese": {
+      "Text": "ウィリー ルーキーライセンス"
+    },
+    "English": {
+      "Text": "Wheelie Rookie License"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_clear_rank2",
+    "Japanese": {
+      "Text": "ウィリー ベテランライセンス"
+    },
+    "English": {
+      "Text": "Wheelie Veteran License"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_clear_rank3",
+    "Japanese": {
+      "Text": "ウィリー エキスパートライセンス"
+    },
+    "English": {
+      "Text": "Wheelie Expert License"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_clear_rank4",
+    "Japanese": {
+      "Text": "ウィリー マスターライセンス"
+    },
+    "English": {
+      "Text": "Wheelie Master License"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Mileage",
+    "Japanese": {
+      "Text": "総走行距離"
+    },
+    "English": {
+      "Text": "Distance Traveled"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Mileage_Cmn",
+    "Japanese": {
+      "Text": "総走行距離"
+    },
+    "English": {
+      "Text": "Distance Traveled"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Mileage_tail",
+    "Japanese": {
+      "Text": "m"
+    },
+    "English": {
+      "Text": "<nbsp>m"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Mileage_tail_Cmn",
+    "Japanese": {
+      "Text": "m"
+    },
+    "English": {
+      "Text": "<nbsp>m"
+    },
+    "action": "preserve_English_or_symbol"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_BlueInfo",
+    "Japanese": {
+      "Text": "青色ウィリー"
+    },
+    "English": {
+      "Text": "Blue Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_BlueInfo_Cmn",
+    "Japanese": {
+      "Text": "青色ウィリー"
+    },
+    "English": {
+      "Text": "Blue Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_CountUp",
+    "Japanese": {
+      "Text": "赤色ウィリーを回収した。"
+    },
+    "English": {
+      "Text": "You returned a red wheelie."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_CountUp_Blue",
+    "Japanese": {
+      "Text": "青色ウィリーを回収した。"
+    },
+    "English": {
+      "Text": "You returned a blue wheelie."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_CountUp_Yellow",
+    "Japanese": {
+      "Text": "黄色ウィリーを回収した。"
+    },
+    "English": {
+      "Text": "You returned a yellow wheelie."
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_Head",
+    "Japanese": {
+      "Text": "納車数"
+    },
+    "English": {
+      "Text": "Vehicles Parked"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_Head_Cmn",
+    "Japanese": {
+      "Text": "納車数"
+    },
+    "English": {
+      "Text": "Wheelies Returned"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_RedInfo",
+    "Japanese": {
+      "Text": "赤色ウィリー"
+    },
+    "English": {
+      "Text": "Red Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_RedInfo_Cmn",
+    "Japanese": {
+      "Text": "赤色ウィリー"
+    },
+    "English": {
+      "Text": "Red Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_Story",
+    "Japanese": {
+      "Text": "ウィリーを回収しよう"
+    },
+    "English": {
+      "Text": "Collect the Unreturned Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_YellowInfo",
+    "Japanese": {
+      "Text": "黄色ウィリー"
+    },
+    "English": {
+      "Text": "Yellow Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_hud_Minigame_YellowInfo_Cmn",
+    "Japanese": {
+      "Text": "黄色ウィリー"
+    },
+    "English": {
+      "Text": "Yellow Wheelies"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_log_Minigame_1st",
+    "Japanese": {
+      "Text": "ウィリー200mの景品を受け取った！"
+    },
+    "English": {
+      "Text": "You received a prize for traveling 200 meters!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_log_Minigame_2nd",
+    "Japanese": {
+      "Text": "ウィリー1000mの景品を受け取った！"
+    },
+    "English": {
+      "Text": "You received a prize for traveling 1,000 meters!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_log_Minigame_3rd",
+    "Japanese": {
+      "Text": "ウィリー2000mの景品を受け取った！"
+    },
+    "English": {
+      "Text": "You received a prize for traveling 2,000 meters!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_log_Minigame_4th",
+    "Japanese": {
+      "Text": "ウィリー4000mの景品を受け取った！"
+    },
+    "English": {
+      "Text": "You received a prize for traveling 4,000 meters!"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_rewardui_advanced",
+    "Japanese": {
+      "Text": "上級"
+    },
+    "English": {
+      "Text": "Rank III"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_rewardui_beginer",
+    "Japanese": {
+      "Text": "入門"
+    },
+    "English": {
+      "Text": "Basic"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_rewardui_elementary",
+    "Japanese": {
+      "Text": "初級"
+    },
+    "English": {
+      "Text": "Rank I"
+    },
+    "action": "translate"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$wheelie_rewardui_intermediate",
+    "Japanese": {
+      "Text": "中級"
+    },
+    "English": {
+      "Text": "Rank II"
+    },
+    "action": "translate"
+  }
+]

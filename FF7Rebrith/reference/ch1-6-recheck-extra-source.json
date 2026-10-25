@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "$CF_Materia_Buff_Barrier",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "バリア"
+    },
+    "English": {
+      "Text": "Barrier"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Buff_Barrier_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "味方の受けるダメージを抑える魔法陣を設置します。"
+    },
+    "English": {
+      "Text": "Conjures a ward that reduces the damage taken by allies that enter it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Buff_Haste",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヘイスト"
+    },
+    "English": {
+      "Text": "Haste"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Buff_Haste_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "味方の攻撃間隔・移動速度を上げる魔法陣を設置します。"
+    },
+    "English": {
+      "Text": "Conjures a ward that increases the movement and attack speed of allies that enter it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Poison",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ポイズン"
+    },
+    "English": {
+      "Text": "Poison"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Poison_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "敵に継続ダメージを与える魔法陣を設置します。"
+    },
+    "English": {
+      "Text": "Conjures a ward that continuously damages enemies that enter it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Slow",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "スロウ"
+    },
+    "English": {
+      "Text": "Slow"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Slow_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "敵の攻撃間隔・移動速度を下げる魔法陣を設置します。"
+    },
+    "English": {
+      "Text": "Conjures a ward that decreases the movement and attack speed of enemies that enter it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Stop",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ストップ"
+    },
+    "English": {
+      "Text": "Stop"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Debuff_Stop_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "敵の時間を止める魔法陣を設置します。"
+    },
+    "English": {
+      "Text": "Conjures a ward that stops time for enemies that enter it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Heal1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ケアル"
+    },
+    "English": {
+      "Text": "Cure"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Materia_Heal1_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "範囲内の味方のＨＰを回復します。"
+    },
+    "English": {
+      "Text": "Heals allies within a certain area."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_UI_Finish",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "BATTLE FINISHED"
+    },
+    "English": {
+      "Text": "Battle Finished"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$CF_UI_Ready",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "GET READY"
+    },
+    "English": {
+      "Text": "Get Ready"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$CF_UI_SuddenDeath",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "SUDDEN DEATH"
+    },
+    "English": {
+      "Text": "Sudden Death"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$CF_UI_WaitMode",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "WAIT MODE"
+    },
+    "English": {
+      "Text": "Tactical Mode"
+    },
+    "mode": "unchanged"
+  },
+  {
+    "id": "$CF_Unit_ATK_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "警備兵"
+    },
+    "English": {
+      "Text": "Security Officer"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_01_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "マシンガンで離れた位置から攻撃します。敵アタッカーの中で最も弱いユニットです。"
+    },
+    "English": {
+      "Text": "A weak vanguard unit that attacks from a distance."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "特殊空中兵"
+    },
+    "English": {
+      "Text": "Elite Helitrooper"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_04_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "前方を貫通する火炎放射で攻撃します。敵アタッカーの中でそこそこの強さを持つユニットです。"
+    },
+    "English": {
+      "Text": "A powerful airborne vanguard unit that douses enemies in flame."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_06",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "カッターマシン"
+    },
+    "English": {
+      "Text": "Cutter"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_06_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "周囲を回転のこぎりで攻撃します。敵アタッカーの中で最も強力なユニットです。"
+    },
+    "English": {
+      "Text": "A very powerful vanguard unit that strikes enemies in its immediate vicinity with its saw blades."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アタッカー"
+    },
+    "English": {
+      "Text": "Vanguard"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_CondorOpp",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヴィランアタッカー"
+    },
+    "English": {
+      "Text": "Villainous Vanguard"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_CondorOpp_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "元コンドル軍エース、近接攻撃で近い位置の敵を攻撃します。移動が速く攻撃間隔の短い歩兵ユニットです。"
+    },
+    "English": {
+      "Text": "An elite close-combat unit capable of striking and moving quickly."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_ATK_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近接攻撃で近い位置の敵を攻撃します。移動が速く攻撃間隔も短い、オーソドックスなユニットです。"
+    },
+    "English": {
+      "Text": "A standard close-combat unit capable of striking and moving quickly."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_BASE_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "メインベース"
+    },
+    "English": {
+      "Text": "Headquarters"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_BASE_01_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近づいた敵ユニットに対して、火の玉を吐いて範囲攻撃します。メインベースが破壊されると敗戦になります。"
+    },
+    "English": {
+      "Text": "Spews fireballs over a wide area when enemies approach. You will lose the match if this unit falls."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_BASE_02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "サブベース"
+    },
+    "English": {
+      "Text": "Outpost"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_BASE_02_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近づいた敵ユニットに対して、羽を飛ばして単体攻撃をします。サブベースが破壊されても勝敗には影響しません。"
+    },
+    "English": {
+      "Text": "Flings piercing pinions at approaching enemies. Losing this unit will not affect your chances at victory."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Ballista_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "バリスタ"
+    },
+    "English": {
+      "Text": "Ballista"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Ballista_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "前方にユニットを貫通する直線的な攻撃をします。強力な反面、攻撃範囲が限られ、移動はできない固定配置ユニットです。"
+    },
+    "English": {
+      "Text": "A powerful static melee unit that strikes enemies directly in front of it with piercing blows."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Barbarian_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "バーバリアン"
+    },
+    "English": {
+      "Text": "Warlord"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Barbarian_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "強力なステータスを有する司令官ボスユニットです。腕を振り回して攻撃するほか、離れた敵に対しては岩を投げてきます。撃破すると勝利になります。"
+    },
+    "English": {
+      "Text": "An immensely powerful boss unit that is capable of both melee and ranged attacks. Destroy this unit to win the match."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Barbarian_Condor_help2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "とても高い耐久力を誇る、ロール相性を持たないジェネラルユニットです。移動速度はとても遅いため、戦力を集めて撃破することが重要です。"
+    },
+    "English": {
+      "Text": "An extremely powerful unit with a large amount of HP and no role affiliation. Despite its strength, it is incredibly slow, which allows hostile units to gang up on it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Beast_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ビースト"
+    },
+    "English": {
+      "Text": "Archfiend"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Beast_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ユニットを無視してベース拠点を狙う、ロール相性を持たないジェネラルユニットです。移動速度と攻撃力に優れる一方で、ＨＰは低いです。"
+    },
+    "English": {
+      "Text": "A unit with no role affiliation, whose only goal is to strike at a stronghold. While it is both incredibly fast and powerful, it has a small amount of HP."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Catapult_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "投石器"
+    },
+    "English": {
+      "Text": "Trebuchet"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Catapult_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "前方の離れた位置に広範囲の攻撃をします。強力な反面、攻撃範囲が限られ、移動はできない固定配置ユニットです。"
+    },
+    "English": {
+      "Text": "A powerful long-ranged static unit capable of striking a wide, but fixed, area."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "鎮圧兵"
+    },
+    "English": {
+      "Text": "Riot Trooper"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_01_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "シールドバッシュで前方を攻撃します。移動は遅いが、高いＨＰで耐久力があります。敵ディフェンダーの中で最も弱いユニットです。"
+    },
+    "English": {
+      "Text": "A weak defense unit that uses Shield Bash to attack enemies in front of it. While slow, it has a large amount of HP."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "グレネードソーサー"
+    },
+    "English": {
+      "Text": "Blast-Ray"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_03_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "爆発するグレネードで離れた場所から攻撃します。敵ディフェンダーの中でそこそこの強さを持つユニットです。"
+    },
+    "English": {
+      "Text": "A powerful defense unit that fires explosive grenades from range."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_09",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "モススラッシャー"
+    },
+    "English": {
+      "Text": "M.O.T.H. Unit"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_09_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "カッターストームで全方位を攻撃します。敵ディフェンダーの中で最も強力なユニットです。"
+    },
+    "English": {
+      "Text": "A very powerful defense unit that attacks in all directions with spinning blades."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ディフェンダー"
+    },
+    "English": {
+      "Text": "Enforcer"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_CondorOpp",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヴィランディフェンダー"
+    },
+    "English": {
+      "Text": "Evil Enforcer"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_CondorOpp_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "元コンドル軍エース、近接攻撃で近くの敵を攻撃します。ＨＰが高く戦闘の最前線を支える防衛ユニットです。"
+    },
+    "English": {
+      "Text": "An elite close-combat unit with a large amount of HP designed to defend the front lines."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DEF_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近接攻撃で近くの敵を攻撃します。ＨＰが高く堅い守りで前線を支える、オーソドックスなユニットです。"
+    },
+    "English": {
+      "Text": "A standard close-combat unit with a large amount of HP designed to defend the front lines."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "魔王"
+    },
+    "English": {
+      "Text": "Warlock"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor_Ability01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アタッカー変身！"
+    },
+    "English": {
+      "Text": "Vanguard Assault!"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor_Ability02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "シューター変身！"
+    },
+    "English": {
+      "Text": "Ranged Strike!"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor_Ability03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ディフェンダー変身！"
+    },
+    "English": {
+      "Text": "Defensive Maneuvers!"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor_Ability04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ちょっとストップ！"
+    },
+    "English": {
+      "Text": "Hold It!"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_DevilGilgamesh_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "神羅軍に寝返った隊長さんが変身した魔王ボスユニットです。３つの武器を持ち変えてどのユニットにも有利に戦いを挑んできます。撃破すると勝利になります。"
+    },
+    "English": {
+      "Text": "The erstwhile captain who defected to Shinra. A boss unit capable of altering his role at a moment's notice. Defeat this unit to win the match."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteATK_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "エースアタッカー"
+    },
+    "English": {
+      "Text": "Elite Vanguard"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteATK_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近接攻撃で近い位置の敵を攻撃します。移動が速く攻撃間隔も短い、エースユニットです。性能は高いですが、配置コストも上がります。"
+    },
+    "English": {
+      "Text": "A close-combat unit capable of striking and moving quickly. More expensive than a standard unit, but also more powerful."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteDEF_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "エースディフェンダー"
+    },
+    "English": {
+      "Text": "Elite Enforcer"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteDEF_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近接攻撃で近くの敵を攻撃します。ＨＰが高く堅い守りで前線を支える、エースユニットです。性能は高いですが、配置コストも上がります。"
+    },
+    "English": {
+      "Text": "A close-combat unit with a large amount of HP designed to defend the front lines. More expensive than a standard unit, but also more powerful."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteSHT_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "エースシューター"
+    },
+    "English": {
+      "Text": "Elite Ranger"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_EliteSHT_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "遠隔攻撃で離れた位置の敵を攻撃します。攻撃の射程が長く後方での支援に向いた、エースユニットです。性能は高いですが、配置コストも上がります。"
+    },
+    "English": {
+      "Text": "A unit that supports the front lines from the rear with ranged attacks. More expensive than a standard unit, but also more powerful."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Enemy_SubBase",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "サブベース"
+    },
+    "English": {
+      "Text": "Outpost"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Enemy_SubBase_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "近づいた敵ユニットに対して、羽を飛ばして単体攻撃をします。サブベースを破壊しても勝敗には影響しません。"
+    },
+    "English": {
+      "Text": "Flings piercing pinions at approaching hostile units. Destroying this unit will not affect your chances at victory."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Healer_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヒーラー"
+    },
+    "English": {
+      "Text": "Cleric"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Healer_CondorOpp",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヴィランヒーラー"
+    },
+    "English": {
+      "Text": "Callous Cleric"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Healer_CondorOpp_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "元コンドル軍エース、魔法で少し離れた位置の敵を攻撃します。攻撃するときに自身の周囲に回復効果を発動させます。"
+    },
+    "English": {
+      "Text": "An elite support unit capable of firing magic attacks from a short distance. Heals nearby units when unleashing spells."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Healer_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "魔法で少し離れた位置の敵を攻撃します。攻撃するときに自身の周囲にＨＰ回復効果を発動させる、サポートユニットです。"
+    },
+    "English": {
+      "Text": "A support unit capable of firing magic attacks from a short distance. Heals nearby units when unleashing spells."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "擲弾兵"
+    },
+    "English": {
+      "Text": "Grenadier"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_01_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "爆発するグレネードで離れた位置から攻撃します。敵シューターの中で最も弱いユニットです。"
+    },
+    "English": {
+      "Text": "A weak ranged unit that fires grenades from a distance."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_03",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "特殊戦闘員"
+    },
+    "English": {
+      "Text": "E. Shock Trooper"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_03_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "波動で離れた位置から攻撃します。敵シューターの中でそこそこの強さを持つユニットです。"
+    },
+    "English": {
+      "Text": "A powerful ranged unit that fires shockwaves from a distance."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_04",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "スイーパー"
+    },
+    "English": {
+      "Text": "Sweeper"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_04_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "スモークショットで前方の範囲を貫通して攻撃します。敵シューターの中で最も強力なユニットです。"
+    },
+    "English": {
+      "Text": "A very powerful ranged unit that shoots flames at enemies in front of it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "シューター"
+    },
+    "English": {
+      "Text": "Ranger"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_CondorOpp",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ヴィランシューター"
+    },
+    "English": {
+      "Text": "Rotten Ranger"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_CondorOpp_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "元コンドル軍エース、遠隔攻撃で離れた位置の敵を攻撃します。巧みな腕前で射貫く射撃ユニットです。"
+    },
+    "English": {
+      "Text": "An elite unit designed to support the front lines from the rear with ranged attacks."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_SHT_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "遠隔攻撃で離れた位置の敵を攻撃します。攻撃の射程が長く後方での支援に向いた、オーソドックスなユニットです。"
+    },
+    "English": {
+      "Text": "A standard unit that supports the front lines from the rear with ranged attacks."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Tower_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ギガキャノンタワー"
+    },
+    "English": {
+      "Text": "Gilgacannon Tower"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Tower_Condor_Ability01",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ユニット増援！"
+    },
+    "English": {
+      "Text": "Reinforcements!"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_Tower_Condor_Ability02",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "最後のあがき！"
+    },
+    "English": {
+      "Text": "Death Throes"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$CF_Unit_Tower_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ナゾのお姫様が鎮座する砲塔ボスユニットです。遠くから威力の高い砲撃を繰り出してくる非常に迷惑な固定配置ユニットです。撃破すると勝利になります。"
+    },
+    "English": {
+      "Text": "A fortified turret which holds the captured \"princess.\" A static unit capable of firing concussive blasts from range. Defeat this unit to win the match."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Transporter_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アームドコマンダー"
+    },
+    "English": {
+      "Text": "Armored Commander"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Transporter_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "グレネードソーサーが強化された重装甲ボスユニットです。重い荷物を運ぶための高い出力性能を有しています。撃破すると勝利になります。"
+    },
+    "English": {
+      "Text": "A well-fortified boss unit. Designed to carry heavy artillery, it is equipped with an impressive propulsion engine. Destroy this unit to win the match."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Barret",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "バレット"
+    },
+    "English": {
+      "Text": "Barret"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Barret_Spawn",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "フュエルバースト"
+    },
+    "English": {
+      "Text": "Focused Shot"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Barret_Spawn_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "配置された場所の正面に威力の高い攻撃をし、周囲の味方のＨＰを大きく回復します。"
+    },
+    "English": {
+      "Text": "Unleashes a high-powered attack straight ahead when the unit is placed on the field. Heals nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Barret_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "攻撃の射程が長く、後方から前線を支えるシューターユニットです。必殺技『フュエルバースト』は攻撃しつつ、味方のＨＰを大きく回復します。"
+    },
+    "English": {
+      "Text": "A ranged unit able to attack frontline units from the rear. His Focused Shot skill deals devastating damage and heals nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Cloud",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "クラウド"
+    },
+    "English": {
+      "Text": "Cloud"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Cloud_Spawn",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ブレイバー"
+    },
+    "English": {
+      "Text": "Braver"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Cloud_Spawn_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "配置された場所の周囲に威力の高い攻撃をし、周囲の味方に対してバリアを付与します。"
+    },
+    "English": {
+      "Text": "Delivers a high-powered attack when the unit is placed on the field. Applies Barrier to all nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Cloud_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ＨＰが高く、最前線で高い戦闘力を発揮するディフェンダーユニットです。必殺技『ブレイバー』は攻撃をしつつ、味方にバリアを付与します。"
+    },
+    "English": {
+      "Text": "A very powerful defense unit with a large amount of HP─perfect for the front lines. His Braver skill deals devastating damage and applies Barrier to nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Tifa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ティファ"
+    },
+    "English": {
+      "Text": "Tifa"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Tifa_Spawn",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "かかと落とし"
+    },
+    "English": {
+      "Text": "Divekick"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Tifa_Spawn_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "配置された場所の周囲に威力の高い攻撃をし、周囲の味方に対してヘイストを付与します。"
+    },
+    "English": {
+      "Text": "Delivers a high-powered attack when the unit is placed on the field. Applies Haste to all nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Unique_Tifa_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "移動が速く、高い攻撃力を誇るアタッカーユニットです。必殺技『かかと落とし』は攻撃しつつ、味方にヘイストを付与します。"
+    },
+    "English": {
+      "Text": "A quick-footed and powerful vanguard unit. Her Divekick skill deals devastating damage and applies Haste to nearby ally units."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Wyvern_Condor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ワイバーン"
+    },
+    "English": {
+      "Text": "Wyvern"
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_Unit_Wyvern_Condor_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "空中を移動する、ロール相性を持たないジェネラルユニットです。シューターなど空中の敵を攻撃できる能力を持ったユニットでないと、応戦することができません。"
+    },
+    "English": {
+      "Text": "A flying unit with no role affiliation. Only units capable of striking airborne enemies can attack it."
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$CF_minigame_birdview_button_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "<button=decide> ウェイトモード　<button=L3> ダイナミックカメラに切替"
+    },
+    "English": {
+      "Text": "<button=decide> Tactical Mode <button=L3> Dynamic View"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$CF_minigame_dynamicview_button_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "<button=decide> ウェイトモード　<button=L3> 上空からの戦況カメラに切替"
+    },
+    "English": {
+      "Text": "<button=decide> Tactical Mode <button=L3> Bird's-Eye View"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$CF_minigame_result_button_guide_cancel",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "<button=decide> 戻る"
+    },
+    "English": {
+      "Text": "<button=decide> Back"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$CF_minigame_result_button_guide_retry",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "<button=triangle> リトライ"
+    },
+    "English": {
+      "Text": "<button=triangle> Retry"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$CF_minigame_waitmode_button_guide",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "<button=decide> ユニット召喚　<button=cancel> 戻る"
+    },
+    "English": {
+      "Text": "<button=decide> Place Unit <button=cancel> Back"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$MYTHM_ITEM_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_ITEM_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_ITEM_002",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_ITEM_003",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_MAGIC_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_MAGIC_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_MAGIC_002",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$MYTHM_MAGIC_003",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ミスリルマイン　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLM_ITEM_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLM_ITEM_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブル魔晄炉　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLM_MAGIC_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLM_MAGIC_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブル魔晄炉　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLT_ITEM_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブルヘイム　よろず屋"
+    },
+    "English": {
+      "Text": "General Store"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLT_ITEM_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブルヘイム　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLT_MAGIC_000",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブルヘイム　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$NIBLT_MAGIC_001",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ニブルヘイム　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$key_CostaClothes_yuffie",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "サマーオレンジ"
+    },
+    "English": {
+      "Text": "Summer Orange",
+      "MetaData": {
+        "ARTICLE": "a set of",
+        "ARTICLE2": "sets of",
+        "PLURAL": "summer orange beachwear",
+        "SINGULAR": "summer orange beachwear"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CartParts_Bad",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "荷車の車輪"
+    },
+    "English": {
+      "Text": "Carriage Wheel",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "carriage wheels",
+        "SINGULAR": "carriage wheel"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CartParts_Bad_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "職人が寝ぼけながら作ったガタガタの部品です。"
+    },
+    "English": {
+      "Text": "A rickety part crafted by a half-asleep wainwright."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst07_CartParts_Good",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "荷車の補強パーツ"
+    },
+    "English": {
+      "Text": "Carriage Brace",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "carriage braces",
+        "SINGULAR": "carriage brace"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CartParts_Good_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "職人が気合いを入れて作製した頑丈な部品です。"
+    },
+    "English": {
+      "Text": "A part crafted with great care by a seasoned wainwright."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst07_CartParts_Normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "荷車の荷台"
+    },
+    "English": {
+      "Text": "Carriage Bed",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "carriage beds",
+        "SINGULAR": "carriage bed"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CartParts_Normal_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "職人が手早く作りあげた、まずまずの部品です。"
+    },
+    "English": {
+      "Text": "A well-constructed part expeditiously crafted by a curmudgeonly wainwright."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst07_CollectionItem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "埋もれた材木"
+    },
+    "English": {
+      "Text": "Dried Driftwood",
+      "MetaData": {
+        "ARTICLE": "a piece of",
+        "ARTICLE2": "pieces of",
+        "PLURAL": "dried driftwood",
+        "SINGULAR": "dried driftwood"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CollectionItem_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "荷車職人ブレディに頼まれた荷車部品の材料です。"
+    },
+    "English": {
+      "Text": "Wood for crafting the parts necessary to fix Gabe's carriage."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst07_CollectionMemo",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ぐうたらブレディのメモ"
+    },
+    "English": {
+      "Text": "Wainwright's Note",
+      "MetaData": {
+        "ARTICLE": "the",
+        "SINGULAR": "wainwright's note"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst07_CollectionMemo_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "荷車職人ブレディを起こすために必要な物のメモです。\r\n個数によって評価ランクが分かれています。\r\n<color=orange>\r\nたくさん：『埋もれた材木』×3\r\nまあまあ：『埋もれた材木』×2\r\nすくなめ：『埋もれた材木』×1\r\n</color>"
+    },
+    "English": {
+      "Text": "A list of materials required to get the lazy wainwright out of bed and back to work. The number of items determines the quality of the finished product.\r\n<color=orange>\r\nGreat: Three pieces of dried driftwood\r\nAlright: Two pieces of dried driftwood\r\nMeh: One piece of dried driftwood</color>"
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst08_PrizeMoney",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ロドナーの手切れ金"
+    },
+    "English": {
+      "Text": "Rhonda's Money",
+      "MetaData": {
+        "ARTICLE": "a sack containing",
+        "PLURAL": "Rhonda's money",
+        "SINGULAR": "Rhonda's money"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst08_PrizeMoney_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アンダージュノンを出ていった息子への仕送りです。"
+    },
+    "English": {
+      "Text": "A remittance for Rhonda's son who decamped Under Junon for the Crow's Nest."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Bad",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ナゾの野菜"
+    },
+    "English": {
+      "Text": "Peculiar Greens",
+      "MetaData": {
+        "ARTICLE": "a tuft of",
+        "ARTICLE2": "tufts of",
+        "PLURAL": "peculiar greens",
+        "SINGULAR": "peculiar greens"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Bad_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そのへんに埋まっていた見たことのない野菜です。"
+    },
+    "English": {
+      "Text": "Vegetables found in the Junon region, the likes of which none have ever seen."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Good",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "動物の肉"
+    },
+    "English": {
+      "Text": "Bovine Meat",
+      "MetaData": {
+        "ARTICLE": "hunks of",
+        "ARTICLE2": "hunks of",
+        "PLURAL": "bovine meat",
+        "SINGULAR": "bovine meat"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Good_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "自然の中で育った牛の新鮮で柔らかそうな肉です。"
+    },
+    "English": {
+      "Text": "Supple meat from an animal raised in the wilds of the Junon region."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "モンスターの肉"
+    },
+    "English": {
+      "Text": "Monster Flesh",
+      "MetaData": {
+        "ARTICLE": "hunks of",
+        "ARTICLE2": "hunks of",
+        "PLURAL": "monster flesh",
+        "SINGULAR": "monster flesh"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorFeed_Normal_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "あきらかに危険な色合いと匂いがする肉です。"
+    },
+    "English": {
+      "Text": "An odd-colored and foul-smelling strip of fiend flesh."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Bad",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルのぴんぼけ記念写真"
+    },
+    "English": {
+      "Text": "Blurry Condor Photograph",
+      "MetaData": {
+        "ARTICLE": "a",
+        "SINGULAR": "blurry condor photograph"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Bad_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルを辛うじてとらえているボケボケな写真です。"
+    },
+    "English": {
+      "Text": "A photograph of a dark smudge─presumably the great condor."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Good",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルのバッチリ記念写真"
+    },
+    "English": {
+      "Text": "Well-Composed Condor Photograph",
+      "MetaData": {
+        "ARTICLE": "a",
+        "SINGULAR": "well-composed condor photograph"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Good_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルを完璧におさめた非常に貴重な写真です。"
+    },
+    "English": {
+      "Text": "An exceptional shot of both the great condor and her admirers."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Normal",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルのくっきり記念写真"
+    },
+    "English": {
+      "Text": "Nice Condor Photograph",
+      "MetaData": {
+        "ARTICLE": "a",
+        "SINGULAR": "nice condor photograph"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$key_qst10_CondorPhoto_Normal_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "コンドルをしっかりとらえている良い写真です。"
+    },
+    "English": {
+      "Text": "A photograph that captures the great condor in all her glory."
+    },
+    "mode": "translate"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_aerith",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アモールカード：エアリス"
+    },
+    "English": {
+      "Text": "Companion Card for Aerith",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "companion cards for Aerith",
+        "SINGULAR": "companion card for Aerith"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_aerith_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "リゾートウェアと交換できる景品です。"
+    },
+    "English": {
+      "Text": "A prize won during Costa del Amor that can be exchanged for beachwear."
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_cloud",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アモールカード：クラウド"
+    },
+    "English": {
+      "Text": "Companion Card for Cloud",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "companion cards for Cloud",
+        "SINGULAR": "companion card for Cloud"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_cloud_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "リゾートウェアと交換できる景品です。"
+    },
+    "English": {
+      "Text": "A prize won during Costa del Amor that can be exchanged for beachwear."
+    },
+    "mode": "English_name"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_tifa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アモールカード：ティファ"
+    },
+    "English": {
+      "Text": "Companion Card for Tifa",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "companion cards for Tifa",
+        "SINGULAR": "companion card for Tifa"
+      }
+    },
+    "mode": "existing"
+  },
+  {
+    "id": "$keyitem_CostameetUpCard_tifa_help",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Japanese": {
+      "Text": "リゾートウェアと交換できる景品です。"
+    },
+    "English": {
+      "Text": "A prize won during Costa del Amor that can be exchanged for beachwear."
+    },
+    "mode": "English_name"
+  }
+]

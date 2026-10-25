@@ -1,0 +1,7327 @@
+[
+  {
+    "index": 0,
+    "jp": "じゃあ　復唱して",
+    "us": "'Kay, gimme a readback.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0100_00_eln"
+    ]
+  },
+  {
+    "index": 1,
+    "jp": "\r\n<i>エリア７　２０５　２４６</i>\r\n",
+    "us": "<i>7-205-246.</i>",
+    "actor": "<i>Radio</i>",
+    "examples": [
+      "$C3310_MAIN_0300_0105_00_skm"
+    ]
+  },
+  {
+    "index": 2,
+    "jp": "あーそうそう　『北の大陸』",
+    "us": "Confirmed. Those are the correct coordinates.\r\nSee you up north.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0110_00_eln"
+    ]
+  },
+  {
+    "index": 3,
+    "jp": "\r\n<i>了解</i>\r\n",
+    "us": "<i>Roger.</i>",
+    "actor": "<i>Radio</i>",
+    "examples": [
+      "$C3310_MAIN_0300_0120_00_skm"
+    ]
+  },
+  {
+    "index": 4,
+    "jp": "全機　神殿の座標共有しました！",
+    "us": "All units have been apprised of the temple's location.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0200_00_eln"
+    ]
+  },
+  {
+    "index": 5,
+    "jp": "あの……調べたんですけど",
+    "us": "So...I did some digging.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0300_00_eln"
+    ]
+  },
+  {
+    "index": 6,
+    "jp": "キーストーンの呪いって\r\nけっこう　信憑性高いですよ",
+    "us": "This keystone curse stuff?\r\nIt sounds like it might be the real deal.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0310_00_eln"
+    ]
+  },
+  {
+    "index": 7,
+    "jp": "使った人は死んじゃうんです",
+    "us": "Everyone who's ever used it has ended up dead.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0400_00_eln"
+    ]
+  },
+  {
+    "index": 8,
+    "jp": "ちがう",
+    "us": "Close.",
+    "actor": "Rude",
+    "examples": [
+      "$C3310_MAIN_0300_0500_00_lud"
+    ]
+  },
+  {
+    "index": 9,
+    "jp": "文献にあるのは『キーストーンを使って神殿に入り\r\n出てきた者はいない』だ",
+    "us": "To be precise, those who enter the temple are never seen again. \"Vanished\" doesn't mean \"dead.\"",
+    "actor": "Rude",
+    "examples": [
+      "$C3310_MAIN_0300_0600_00_lud"
+    ]
+  },
+  {
+    "index": 10,
+    "jp": "同じですよ！",
+    "us": "And that's better how!?",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0700_00_eln"
+    ]
+  },
+  {
+    "index": 11,
+    "jp": "それなのに　社長はみんなを行かせるんですよ",
+    "us": "Either way, the president's sending us to our deaths.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0710_00_eln"
+    ]
+  },
+  {
+    "index": 12,
+    "jp": "ひどくないですか？",
+    "us": "Isn't that messed up?",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_0800_00_eln"
+    ]
+  },
+  {
+    "index": 13,
+    "jp": "社長も行くそうだ",
+    "us": "He'll be on-site.",
+    "actor": "Rude",
+    "examples": [
+      "$C3310_MAIN_0300_0900_00_lud"
+    ]
+  },
+  {
+    "index": 14,
+    "jp": "どういう神経",
+    "us": "I'm sorry─<i>what</i>?",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_1000_00_eln"
+    ]
+  },
+  {
+    "index": 15,
+    "jp": "さすがだぞ　と",
+    "us": "And you're surprised why?",
+    "actor": "Reno",
+    "examples": [
+      "$C3310_MAIN_0300_1100_00_ren"
+    ]
+  },
+  {
+    "index": 16,
+    "jp": "さすがっていうか　無謀ですよ！\r\nまあ　嫌いじゃないですけど",
+    "us": "Uh, I dunno. Maybe because it's a terrible idea? Although, that's kinda on-brand for him.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0300_1200_00_eln"
+    ]
+  },
+  {
+    "index": 17,
+    "jp": "出発だ",
+    "us": "Wheels up.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_0300_1300_00_tsu"
+    ]
+  },
+  {
+    "index": 18,
+    "jp": "我々が先行し　神殿の門を開く",
+    "us": "We'll arrive first and roll out the welcome mat.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_0300_1310_00_tsu"
+    ]
+  },
+  {
+    "index": 19,
+    "jp": "了解",
+    "us": "Understood.",
+    "actor": "Rude",
+    "examples": [
+      "$C3310_MAIN_0300_1400_00_lud"
+    ]
+  },
+  {
+    "index": 20,
+    "jp": "連中は　北の大陸に飛ぶようだ",
+    "us": "Got 'em. They're headed for the northern continent.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_0400_0100_00_vin"
+    ]
+  },
+  {
+    "index": 21,
+    "jp": "あ～　あっちか……",
+    "us": "North, huh? Tricky.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0400_0200_00_cid"
+    ]
+  },
+  {
+    "index": 22,
+    "jp": "行けそう？",
+    "us": "Can you get there?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_0400_0300_00_art"
+    ]
+  },
+  {
+    "index": 23,
+    "jp": "だいじょーぶ　オレ様の腕は特がつく上だ！",
+    "us": "Can I get there?\r\nOnly with one arm tied behind my back!",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0400_0400_00_cid"
+    ]
+  },
+  {
+    "index": 24,
+    "jp": "たとえ　翼をもがれようとも\r\n大波かきわけて　渡ってやろうじゃねえか",
+    "us": "Girl might be missin' her wings,\r\nbut long as you got me, it'll be smooth sailin'.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0400_0500_00_cid"
+    ]
+  },
+  {
+    "index": 25,
+    "jp": "それって　揺れるってことだよね？",
+    "us": "Oh, man...this is gonna be rough.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_0400_0600_00_yfi"
+    ]
+  },
+  {
+    "index": 26,
+    "jp": "そりゃあな\r\nまあ　人生に荒波はつきもんだ",
+    "us": "What can I say? Life is full of ups and downs.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0400_0700_00_cid"
+    ]
+  },
+  {
+    "index": 27,
+    "jp": "神羅はタークスと軍が動く",
+    "us": "They've mobilized the Turks and the military.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_0400_0800_00_vin"
+    ]
+  },
+  {
+    "index": 28,
+    "jp": "身辺整理をしておくんだな",
+    "us": "Hope you're ready for a fight.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_0400_0900_00_vin"
+    ]
+  },
+  {
+    "index": 29,
+    "jp": "まもなくだな",
+    "us": "Not long now.",
+    "actor": "Rufus",
+    "examples": [
+      "$C3310_MAIN_0800_0100_00_ruf"
+    ]
+  },
+  {
+    "index": 30,
+    "jp": "思うに　目指す神殿は\r\n約束の地ではないと思うねえ",
+    "us": "I hope you realize, this \"temple\" of yours\r\nis not, in fact, the promised land.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_0800_0200_00_hjo"
+    ]
+  },
+  {
+    "index": 31,
+    "jp": "では　博士の見立ては？",
+    "us": "No? Then what is it?",
+    "actor": "Rufus",
+    "examples": [
+      "$C3310_MAIN_0800_0300_00_ruf"
+    ]
+  },
+  {
+    "index": 32,
+    "jp": "予言者の降臨　しもべたちの祝福",
+    "us": "The beginning of the end.\r\nThe celebration of the faithful.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_0800_0400_00_hjo"
+    ]
+  },
+  {
+    "index": 33,
+    "jp": "言わば　歴史のターニングポイント",
+    "us": "A watershed moment for all mankind.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_0800_0500_00_hjo"
+    ]
+  },
+  {
+    "index": 34,
+    "jp": "神殿は　その舞台とでも言っておこうか",
+    "us": "But the temple itself? Merely the stage.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_0800_0510_00_hjo"
+    ]
+  },
+  {
+    "index": 35,
+    "jp": "<i>目標を発見しました</i>",
+    "us": "<i>Objective sighted.</i>",
+    "actor": "<i>Tseng</i>",
+    "examples": [
+      "$C3310_MAIN_0800_0600_00_tsu"
+    ]
+  },
+  {
+    "index": 36,
+    "jp": "本当に　ここですか？",
+    "us": "Are you sure this is the place?",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_0900_0100_00_eln"
+    ]
+  },
+  {
+    "index": 37,
+    "jp": "確かめよう",
+    "us": "Quite.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_0900_0200_00_tsu"
+    ]
+  },
+  {
+    "index": 38,
+    "jp": "見て　見てよ！",
+    "us": "Hey, guys! Look!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_1000_0100_00_red"
+    ]
+  },
+  {
+    "index": 39,
+    "jp": "見てる……",
+    "us": "I'm looking...",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_1000_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 40,
+    "jp": "よっしゃ　野郎ども　帆をあげろ！",
+    "us": "Alright, mateys. Time to hoist the sails!",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1000_0300_00_cid"
+    ]
+  },
+  {
+    "index": 41,
+    "jp": "そんなのありませ～ん",
+    "us": "This thing doesn't have any!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_1000_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 42,
+    "jp": "あと　野郎じゃありませ～ん！",
+    "us": "And I'm not your \"matey\" either!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_1000_0410_00_yfi"
+    ]
+  },
+  {
+    "index": 43,
+    "jp": "雰囲気だ　雰囲気！",
+    "us": "Just roll with it, kid!",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1000_0500_00_cid"
+    ]
+  },
+  {
+    "index": 44,
+    "jp": "よっしゃあ　大海原へと漕ぎだすぜ！",
+    "us": "Y'all ready?\r\nThen batten down the hatches and hold on tight!",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1000_0600_00_cid"
+    ]
+  },
+  {
+    "index": 45,
+    "jp": "アイアイサー！",
+    "us": "Aye aye!",
+    "actor": "Tifa & Aerith",
+    "examples": [
+      "$C3310_MAIN_1000_0700_00_art"
+    ]
+  },
+  {
+    "index": 46,
+    "jp": "空気　ざわざわしてる",
+    "us": "There's so much...so much tension...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1100_0100_00_art"
+    ]
+  },
+  {
+    "index": 47,
+    "jp": "ちょこっと無理させちまったから\r\nこいつの整備をしておきてえ",
+    "us": "Waves did a number on the ol' gal.\r\nGonna give 'er a once-over.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1100_0200_00_cid"
+    ]
+  },
+  {
+    "index": 48,
+    "jp": "先　行っててくれ",
+    "us": "You go on ahead.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1100_0300_00_cid"
+    ]
+  },
+  {
+    "index": 49,
+    "jp": "大丈夫なのか",
+    "us": "Sure about that?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_1100_0400_00_cld"
+    ]
+  },
+  {
+    "index": 50,
+    "jp": "オレ様だぜ？",
+    "us": "I'm a big boy.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1100_0500_00_cid"
+    ]
+  },
+  {
+    "index": 51,
+    "jp": "さくっと直して　追いかけっからよ",
+    "us": "I'll catch up─just gotta tend to her first.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1150_0100_00_cid"
+    ]
+  },
+  {
+    "index": 52,
+    "jp": "ぼちぼち　翼も直してやりてえな",
+    "us": "Can't wait to get some wings on my baby again...",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1150_0200_00_cid"
+    ]
+  },
+  {
+    "index": 53,
+    "jp": "外出は久しぶりだ　疲れる",
+    "us": "Being outside is exhausting... I hate it.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_1160_0100_00_vin"
+    ]
+  },
+  {
+    "index": 54,
+    "jp": "自然は強敵だな……",
+    "us": "What is man in the face of the natural world?",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_1160_0200_00_vin"
+    ]
+  },
+  {
+    "index": 55,
+    "jp": "古代種ってのは　すげえな",
+    "us": "The Ancients built all this? Damn.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_1200_0100_00_blt"
+    ]
+  },
+  {
+    "index": 56,
+    "jp": "正しくは　セトラだよ",
+    "us": "The <i>Cetra</i>, yes.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_1200_0200_00_red"
+    ]
+  },
+  {
+    "index": 57,
+    "jp": "ただいま",
+    "us": "Finally...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_0500_00_art"
+    ]
+  },
+  {
+    "index": 58,
+    "jp": "『星より生まれ　星と語り　星を開く』",
+    "us": "\"We who are born of the planet, with her we speak. Her flesh we shape.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_1200_0600_00_blt"
+    ]
+  },
+  {
+    "index": 59,
+    "jp": "『そして　約束の地へ帰る』",
+    "us": "\"Unto her promised land shall we one day return.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_1200_0610_00_blt"
+    ]
+  },
+  {
+    "index": 60,
+    "jp": "『至上の幸福　星が与えし定めの地』",
+    "us": "\"By her loving grace and providence\r\nmay we take our place in paradise.\"",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_1200_0700_00_blt"
+    ]
+  },
+  {
+    "index": 61,
+    "jp": "ううん　ちがう\r\n約束の地じゃない",
+    "us": "Oh... No. This isn't the promised land.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_0800_00_art"
+    ]
+  },
+  {
+    "index": 62,
+    "jp": "だって　ここにあるのは……",
+    "us": "I mean...just look around.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_0900_00_art"
+    ]
+  },
+  {
+    "index": 63,
+    "jp": "悲しみ",
+    "us": "It can't be.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_1000_00_art"
+    ]
+  },
+  {
+    "index": 64,
+    "jp": "そして　怒り",
+    "us": "Not with all this sadness...and anger.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_1100_00_art"
+    ]
+  },
+  {
+    "index": 65,
+    "jp": "呼んでる？",
+    "us": "We good?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_1200_1200_00_tif"
+    ]
+  },
+  {
+    "index": 66,
+    "jp": "うん",
+    "us": "Yeah.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1200_1300_00_art"
+    ]
+  },
+  {
+    "index": 67,
+    "jp": "まったく　強欲な連中だぜ",
+    "us": "They didn't waste any time, the greedy sons of bitches.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_1300_0100_00_blt"
+    ]
+  },
+  {
+    "index": 68,
+    "jp": "クソ　どうなってんだよ",
+    "us": "What the hell's wrong with this place!?",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_1400_0100_00_skm"
+    ]
+  },
+  {
+    "index": 69,
+    "jp": "古代種の呪いかもな",
+    "us": "Maybe it's the curse.",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_1400_0200_00_skm"
+    ]
+  },
+  {
+    "index": 70,
+    "jp": "怖いこと言うなよ",
+    "us": "Don't say shit like that!",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_1400_0300_00_skm"
+    ]
+  },
+  {
+    "index": 71,
+    "jp": "なんだ　貴様ら",
+    "us": "Who are you!?",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_1500_0100_00_skm"
+    ]
+  },
+  {
+    "index": 72,
+    "jp": "動くな！",
+    "us": "Don't move!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_1500_0200_00_skm"
+    ]
+  },
+  {
+    "index": 73,
+    "jp": "やつらだ　タークスに連絡しろ！",
+    "us": "It's them. Call the Turks!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_1600_0100_00_skm"
+    ]
+  },
+  {
+    "index": 74,
+    "jp": "アバランチ発見！",
+    "us": "It's Avalanche!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_1700_0100_00_skm"
+    ]
+  },
+  {
+    "index": 75,
+    "jp": "古代種は殺すな",
+    "us": "Spare the Ancient!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_1700_0200_00_skm"
+    ]
+  },
+  {
+    "index": 76,
+    "jp": "モンスターの仕業だな",
+    "us": "Fiends killed these men.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_1900_0100_00_vin"
+    ]
+  },
+  {
+    "index": 77,
+    "jp": "こりゃ　ひっでえな",
+    "us": "This is one hell of a mess.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_0200_00_cid"
+    ]
+  },
+  {
+    "index": 78,
+    "jp": "ねえねえ　エアリスと仲間たちは\r\n特別ご招待だよね？",
+    "us": "Yeah, but...they didn't have Aerith!\r\nWe get a free pass, right!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_1900_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 79,
+    "jp": "そうか　わたし　半分ちがうから……",
+    "us": "But...half of me...<i>is</i> Cetra, right?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1900_0500_00_art"
+    ]
+  },
+  {
+    "index": 80,
+    "jp": "ごめん　特別待遇ないって",
+    "us": "I tried, but...no free pass for us.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1900_0600_00_art"
+    ]
+  },
+  {
+    "index": 81,
+    "jp": "勢いできちまったが\r\n正直　こんなかに入るのは気が進まねえ",
+    "us": "Now, I know I came with y'all this far,\r\nbut I ain't about to go in there.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_0700_00_cid"
+    ]
+  },
+  {
+    "index": 82,
+    "jp": "オレは　残るぜ",
+    "us": "Sorry, folks.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_0800_00_cid"
+    ]
+  },
+  {
+    "index": 83,
+    "jp": "うん　わかった",
+    "us": "No, don't apologize.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1900_0900_00_art"
+    ]
+  },
+  {
+    "index": 84,
+    "jp": "これまで　ありがとう\r\nほんとうに助かっちゃった",
+    "us": "You've done so much for us already.\r\nWe'll always be grateful, Cid.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_1900_1000_00_art"
+    ]
+  },
+  {
+    "index": 85,
+    "jp": "いや　お別れってわけじゃねえ",
+    "us": "Wait. Don't misunderstand.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_1100_00_cid"
+    ]
+  },
+  {
+    "index": 86,
+    "jp": "帰りの足がいるだろ？",
+    "us": "You'll need a way home.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_1200_00_cid"
+    ]
+  },
+  {
+    "index": 87,
+    "jp": "待ってっから　ちゃんと帰ってこい",
+    "us": "So when you're ready, I'll be here.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_1900_1300_00_cid"
+    ]
+  },
+  {
+    "index": 88,
+    "jp": "帰りは心配すんな\r\nしっかり整備しといたからよ",
+    "us": "Find me when you're done. Bronco's ready when you are.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_2000_0100_00_cid"
+    ]
+  },
+  {
+    "index": 89,
+    "jp": "悪いな　中はオレのテリトリーって気がしねえんだ",
+    "us": "Sorry, but there ain't nothin' in the world that could make me go in there.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_2000_0200_00_cid"
+    ]
+  },
+  {
+    "index": 90,
+    "jp": "なにも出ないぞ",
+    "us": "I've got nothing.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_2100_0100_00_vin"
+    ]
+  },
+  {
+    "index": 91,
+    "jp": "期待しなければ失望しない",
+    "us": "Expectations often lead to disappointment.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_2100_0200_00_vin"
+    ]
+  },
+  {
+    "index": 92,
+    "jp": "古代種が神殿に入った",
+    "us": "The Ancient has entered the temple.",
+    "actor": "Rufus",
+    "examples": [
+      "$C3310_MAIN_2200_0200_00_ruf"
+    ]
+  },
+  {
+    "index": 93,
+    "jp": "となると　あいつも一緒だな",
+    "us": "And <i>he</i> is doubtless close behind.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_2200_0300_00_hjo"
+    ]
+  },
+  {
+    "index": 94,
+    "jp": "そうか　それはおもしろい",
+    "us": "This is going to be interesting.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_2200_0310_00_hjo"
+    ]
+  },
+  {
+    "index": 95,
+    "jp": "いいぞ",
+    "us": "Oh, yes...",
+    "actor": "Hojo",
+    "examples": [
+      "$C3310_MAIN_2200_0400_00_hjo"
+    ]
+  },
+  {
+    "index": 96,
+    "jp": "どうだ　オヤジ",
+    "us": "I hope you're watching, Dad.",
+    "actor": "Rufus",
+    "examples": [
+      "$C3310_MAIN_2200_0500_00_ruf"
+    ]
+  },
+  {
+    "index": 97,
+    "jp": "くろ……まてりあ……",
+    "us": "The black...materia...",
+    "actor": "Robed Man",
+    "examples": [
+      "$C3310_MAIN_2300_0200_00_rch",
+      "$C3310_MAIN_2400_0300_00_rch"
+    ]
+  },
+  {
+    "index": 98,
+    "jp": "セフィ……ロス……",
+    "us": "Sephi...roth...",
+    "actor": "Robed Man",
+    "examples": [
+      "$C3310_MAIN_2300_0300_00_rch"
+    ]
+  },
+  {
+    "index": 99,
+    "jp": "ねえ　あの人って……",
+    "us": "Cloud... Do you know who─",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_2300_0400_00_tif"
+    ]
+  },
+  {
+    "index": 100,
+    "jp": "セフィロスがもう来ている",
+    "us": "Sephiroth's beat us to the punch.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_2300_0500_00_cld"
+    ]
+  },
+  {
+    "index": 101,
+    "jp": "まずいな　はやく行こう",
+    "us": "C'mon. We don't have much time.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_2300_0600_00_cld"
+    ]
+  },
+  {
+    "index": 102,
+    "jp": "マイ……フレ……",
+    "us": "My...fri...en...",
+    "actor": "Robed Man",
+    "examples": [
+      "$C3310_MAIN_2400_0100_00_rch"
+    ]
+  },
+  {
+    "index": 103,
+    "jp": "セフィ……ロ……ス",
+    "us": "Sephi...roth...",
+    "actor": "Robed Man",
+    "examples": [
+      "$C3310_MAIN_2400_0200_00_rch"
+    ]
+  },
+  {
+    "index": 104,
+    "jp": "侵入者だ　捕まえろ！",
+    "us": "Contact! Engage!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_2450_0100_00_skm"
+    ]
+  },
+  {
+    "index": 105,
+    "jp": "古代種は　黒マテリアを隠すために\r\nここを作ったってこと？",
+    "us": "Look at it!\r\nThe Ancients built all this just to hide something?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_2600_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 106,
+    "jp": "黒マテリアの価値って　どんだけ！",
+    "us": "That black materia's gotta be worth a fortune!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_2600_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 107,
+    "jp": "黒マテリアのことは　ナイショ\r\n神羅は　きっと知らないから",
+    "us": "Not another word about the black materia.\r\nWe can't let Shinra find out.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_2600_0500_00_art"
+    ]
+  },
+  {
+    "index": 108,
+    "jp": "ケット・シーがしゃべってるよ",
+    "us": "Like Cait hasn't already told 'em.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_2600_0600_00_red"
+    ]
+  },
+  {
+    "index": 109,
+    "jp": "とにかく　はやく見つけよう\r\nあれは俺たちがもらう",
+    "us": "Doesn't matter if they know or not.\r\nWe just need to find it first.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_2600_0700_00_cld"
+    ]
+  },
+  {
+    "index": 110,
+    "jp": "おいおい　どうなってんだ？",
+    "us": "Hold up... What the hell!?",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_2600_0800_00_blt"
+    ]
+  },
+  {
+    "index": 111,
+    "jp": "オイラたちの常識　通用しないかも",
+    "us": "I could be wrong, but I'm starting to think\r\nwe checked our sanity at the door.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_2600_0900_00_red"
+    ]
+  },
+  {
+    "index": 112,
+    "jp": "急げ　急げ！",
+    "us": "Move, move!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_2700_0200_00_skm"
+    ]
+  },
+  {
+    "index": 113,
+    "jp": "約束の地というより　終末の地？",
+    "us": "The only \"promised\" thing here is death for us all.",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_2700_0300_00_eln"
+    ]
+  },
+  {
+    "index": 114,
+    "jp": "余計なことを考えるな",
+    "us": "Elena, cut the chatter.",
+    "actor": "Rude",
+    "examples": [
+      "$C3310_MAIN_2700_0400_00_lud"
+    ]
+  },
+  {
+    "index": 115,
+    "jp": "無理ですよ～",
+    "us": "Hey, you know I'm right!",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_2700_0500_00_eln"
+    ]
+  },
+  {
+    "index": 116,
+    "jp": "ツォン主任\r\n古代種とアバランチが侵入しています",
+    "us": "Sir. Avalanche and the Ancient─they're here.",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_2700_0600_00_skm"
+    ]
+  },
+  {
+    "index": 117,
+    "jp": "待ち伏せして　やっちゃいますか",
+    "us": "I say we set an ambush and take 'em out!",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_2700_0700_00_eln"
+    ]
+  },
+  {
+    "index": 118,
+    "jp": "いや　任務を優先する",
+    "us": "No, we focus on the mission.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_2700_0800_00_tsu"
+    ]
+  },
+  {
+    "index": 119,
+    "jp": "二手に分かれて　ここが約束の地である\r\nまたは　違うという確証を探そう",
+    "us": "Our orders were to find proof that this is indeed the promised land─so we will split up and search.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_2700_0900_00_tsu"
+    ]
+  },
+  {
+    "index": 120,
+    "jp": "レノはルードと組め\r\nあとは　私といっしょだ",
+    "us": "Reno, Rude, pair off. Elena, you're with me.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_2700_1000_00_tsu"
+    ]
+  },
+  {
+    "index": 121,
+    "jp": "はい！",
+    "us": "Sir!",
+    "actor": "Elena",
+    "examples": [
+      "$C3310_MAIN_2700_1010_00_eln"
+    ]
+  },
+  {
+    "index": 122,
+    "jp": "レノ",
+    "us": "Reno.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_2700_1100_00_tsu"
+    ]
+  },
+  {
+    "index": 123,
+    "jp": "任務が優先だ　いいな",
+    "us": "See you keep your priorities straight.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3310_MAIN_2700_1300_00_tsu"
+    ]
+  },
+  {
+    "index": 124,
+    "jp": "はいよ　と",
+    "us": "Copy that, Boss.",
+    "actor": "Reno",
+    "examples": [
+      "$C3310_MAIN_2700_1310_00_ren"
+    ]
+  },
+  {
+    "index": 125,
+    "jp": "ややこしい神殿には\r\n神羅どもと黒マントがうようよ",
+    "us": "This temple's daunting enough without Shinra and the black robes complicatin' things.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_2800_0100_00_blt"
+    ]
+  },
+  {
+    "index": 126,
+    "jp": "こりゃ　忙しくなりそうだ",
+    "us": "Gonna be tough goin', folks.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_2800_0200_00_blt"
+    ]
+  },
+  {
+    "index": 127,
+    "jp": "セフィロスもいるんだよね？",
+    "us": "You think Sephiroth's here too?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_2800_0300_00_red"
+    ]
+  },
+  {
+    "index": 128,
+    "jp": "ああ　確実だ",
+    "us": "No─I <i>know</i> he is.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_2800_0400_00_cld"
+    ]
+  },
+  {
+    "index": 129,
+    "jp": "嫌な予感しかしねえな",
+    "us": "Got a real bad feelin' 'bout all this.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_2800_0500_00_blt"
+    ]
+  },
+  {
+    "index": 130,
+    "jp": "そこをなんとか",
+    "us": "We shouldn't think like that.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_2800_0600_00_art"
+    ]
+  },
+  {
+    "index": 131,
+    "jp": "元気出して　行こう",
+    "us": "Stay positive, okay?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_2800_0700_00_art"
+    ]
+  },
+  {
+    "index": 132,
+    "jp": "じゃないと　ここ\r\n気持ち　ふさいじゃうから",
+    "us": "This place can sense our emotions─turn 'em against us.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_2800_0800_00_art"
+    ]
+  },
+  {
+    "index": 133,
+    "jp": "了解！",
+    "us": "Okey doke.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_2800_0900_00_tif"
+    ]
+  },
+  {
+    "index": 134,
+    "jp": "なにがあったんだろう",
+    "us": "What could've happened here?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_3000_0100_00_red"
+    ]
+  },
+  {
+    "index": 135,
+    "jp": "血……",
+    "us": "Ah...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3000_0200_00_art"
+    ]
+  },
+  {
+    "index": 136,
+    "jp": "血が　たくさん流れた",
+    "us": "The blood... I can almost smell it.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3000_0210_00_art"
+    ]
+  },
+  {
+    "index": 137,
+    "jp": "大昔　戦争……みたい",
+    "us": "There was a great battle here long ago. So many lives lost...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3000_0300_00_art"
+    ]
+  },
+  {
+    "index": 138,
+    "jp": "神殿に入って　生きて帰った者はいない",
+    "us": "Well, legend says no one who enters the temple ever comes out.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3100_0200_00_cld"
+    ]
+  },
+  {
+    "index": 139,
+    "jp": "ケット・シーから聞いた",
+    "us": "According to the cat.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3100_0210_00_cld"
+    ]
+  },
+  {
+    "index": 140,
+    "jp": "それを　いま言うか！",
+    "us": "Why am I only hearing this <i>now</i>!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3100_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 141,
+    "jp": "どうせデマカセだ　気にすんな",
+    "us": "Asshole was prob'ly lyin' through his teeth. Don't pay it no mind.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3100_0400_00_blt"
+    ]
+  },
+  {
+    "index": 142,
+    "jp": "わたしたち　逆さま？",
+    "us": "We just get turned upside down!?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3200_0200_00_art"
+    ]
+  },
+  {
+    "index": 143,
+    "jp": "いや　考え方次第だ",
+    "us": "Or the temple did. Depends how you look at it.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3200_0300_00_cld"
+    ]
+  },
+  {
+    "index": 144,
+    "jp": "うわあああ！",
+    "us": "Aaah!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_3210_0100_00_skm"
+    ]
+  },
+  {
+    "index": 145,
+    "jp": "いまのなに？",
+    "us": "<i>Please</i> tell me you saw that.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3210_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 146,
+    "jp": "知るか",
+    "us": "No comment.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3210_0300_00_blt"
+    ]
+  },
+  {
+    "index": 147,
+    "jp": "あれって　さっき神羅兵が流れた滝？",
+    "us": "Uh, wasn't that waterfall going sideways just a second ago?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3220_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 148,
+    "jp": "うん　そうだね\r\nどこまで続くんだろう",
+    "us": "It was─at least I think it was. Wonder where it goes.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3220_0200_00_art"
+    ]
+  },
+  {
+    "index": 149,
+    "jp": "試そうなんて思うなよ～？",
+    "us": "Wonder all you want, but I don't care to find out.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3220_0300_00_blt"
+    ]
+  },
+  {
+    "index": 150,
+    "jp": "ははは　思っちゃう～！",
+    "us": "Aww, what's wrong? You <i>scared</i>?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3220_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 151,
+    "jp": "このままでは　部隊に合流できんぞ\r\nさっさと飛び込め！",
+    "us": "This is the only way we can catch up to the others! Now jump, goddammit!",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_3230_0100_00_skm"
+    ]
+  },
+  {
+    "index": 152,
+    "jp": "自分のタイミングで行かせてください！",
+    "us": "Okay, just...give me a moment, sir!",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_3230_0200_00_skm"
+    ]
+  },
+  {
+    "index": 153,
+    "jp": "ひいいいい！",
+    "us": "Aaah!",
+    "actor": "",
+    "examples": [
+      "$C3310_MAIN_3230_0300_00_skm"
+    ]
+  },
+  {
+    "index": 154,
+    "jp": "いたぞ　これ以上先に行かせるな！",
+    "us": "We've got company! Hold 'em here!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_3235_0100_00_skm"
+    ]
+  },
+  {
+    "index": 155,
+    "jp": "飛ぶしかなさそうだな",
+    "us": "No way to go but down.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3240_0100_00_cld"
+    ]
+  },
+  {
+    "index": 156,
+    "jp": "ウソでしょ？",
+    "us": "You mean jump!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3240_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 157,
+    "jp": "結局　そうなんのかよ",
+    "us": "I can't believe we're doin' this.",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3240_0300_00_blt"
+    ]
+  },
+  {
+    "index": 158,
+    "jp": "ひえ～～～！",
+    "us": "Aaah!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3250_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 159,
+    "jp": "だいじょうぶ　だいじょうぶ～！",
+    "us": "Don't look down don't look down don't look down!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3250_0200_00_art"
+    ]
+  },
+  {
+    "index": 160,
+    "jp": "うおおおお！",
+    "us": "Aaah!",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3250_0300_00_blt",
+      "$C3330_MAIN_2500_0600_00_blt"
+    ]
+  },
+  {
+    "index": 161,
+    "jp": "うわーーー！",
+    "us": "Aaah!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_3250_0400_00_red"
+    ]
+  },
+  {
+    "index": 162,
+    "jp": "タークスの指示があるまでここで待機！\r\n出発に備えて　各自準備を怠るな",
+    "us": "We hold this position until the Turks send word. Check your gear and be ready to depart at a moment's notice.",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_3260_0050_00_skm"
+    ]
+  },
+  {
+    "index": 163,
+    "jp": "敵襲　全員でかかれ！",
+    "us": "Contact! Weapons free!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3310_MAIN_3260_0100_00_skm"
+    ]
+  },
+  {
+    "index": 164,
+    "jp": "どうなってやがる……",
+    "us": "Well, this ain't good...",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3300_0100_00_blt"
+    ]
+  },
+  {
+    "index": 165,
+    "jp": "あぶねえ！",
+    "us": "Look out!",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3300_0210_00_blt"
+    ]
+  },
+  {
+    "index": 166,
+    "jp": "迷宮の主って感じだね",
+    "us": "Wouldn't be a labyrinth without a guardian, right?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_3300_0300_00_red"
+    ]
+  },
+  {
+    "index": 167,
+    "jp": "ダチャオ豆　食べる？",
+    "us": "Want a Da-chao bean, girl?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3300_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 168,
+    "jp": "刺激してどうするよ！",
+    "us": "Don't piss it off more!",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3300_0500_00_blt"
+    ]
+  },
+  {
+    "index": 169,
+    "jp": "ねえ　集中！",
+    "us": "Focus, guys!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_3300_0600_00_tif"
+    ]
+  },
+  {
+    "index": 170,
+    "jp": "また　ひっくり返んの？",
+    "us": "What!? Not again!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3310_MAIN_3350_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 171,
+    "jp": "おかえりなさいってか！",
+    "us": "Move, move, move!",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3350_0200_00_blt"
+    ]
+  },
+  {
+    "index": 172,
+    "jp": "逃げて！",
+    "us": "Run!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3310_MAIN_3350_0300_00_red"
+    ]
+  },
+  {
+    "index": 173,
+    "jp": "みんな　だいじょうぶ？",
+    "us": "Is everyone okay?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3350_0400_00_art"
+    ]
+  },
+  {
+    "index": 174,
+    "jp": "行くぞ！",
+    "us": "Don't let up!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3350_0500_00_cld"
+    ]
+  },
+  {
+    "index": 175,
+    "jp": "そうはいかねえ！",
+    "us": "That's not happenin'!",
+    "actor": "Barret",
+    "examples": [
+      "$C3310_MAIN_3400_0100_00_blt"
+    ]
+  },
+  {
+    "index": 176,
+    "jp": "クラウド！",
+    "us": "Cloud!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_3400_0300_00_tif",
+      "$C3320_MAIN_2350_0600_00_tif"
+    ]
+  },
+  {
+    "index": 177,
+    "jp": "すごい！",
+    "us": "Nice!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3310_MAIN_3400_0500_00_art"
+    ]
+  },
+  {
+    "index": 178,
+    "jp": "スカッと決まっちゃった",
+    "us": "Oh, that old trick?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3310_MAIN_3400_0600_00_tif"
+    ]
+  },
+  {
+    "index": 179,
+    "jp": "急ごう",
+    "us": "C'mon.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3310_MAIN_3400_0700_00_cld"
+    ]
+  },
+  {
+    "index": 180,
+    "jp": "なんじゃこりゃ～！",
+    "us": "Wait, what in the what!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0100_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 181,
+    "jp": "見てらんねえぜ",
+    "us": "Almost pity them.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0100_0300_00_blt"
+    ]
+  },
+  {
+    "index": 182,
+    "jp": "ライフストリーム　怒ってる",
+    "us": "I think the lifestream's...angry.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0100_0400_00_art"
+    ]
+  },
+  {
+    "index": 183,
+    "jp": "なんとなく　だけど",
+    "us": "At least, that's how it feels.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0100_0500_00_art"
+    ]
+  },
+  {
+    "index": 184,
+    "jp": "ねえ　エアリス\r\n私たちの気持ち　伝えられないの？",
+    "us": "Hey, Aerith. Do you think you could explain that we don't mean any harm?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0100_0600_00_tif"
+    ]
+  },
+  {
+    "index": 185,
+    "jp": "どうかな",
+    "us": "I dunno...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0100_0700_00_art"
+    ]
+  },
+  {
+    "index": 186,
+    "jp": "ううん　やってみる",
+    "us": "I mean...I'll try.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0100_0710_00_art"
+    ]
+  },
+  {
+    "index": 187,
+    "jp": "イメージ　浮かんだ",
+    "us": "I think...I've got this.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0100_0900_00_art"
+    ]
+  },
+  {
+    "index": 188,
+    "jp": "おい　どうする？",
+    "us": "We're goin' after 'em, right?",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0100_1200_00_blt"
+    ]
+  },
+  {
+    "index": 189,
+    "jp": "黒マテリアが最優先だ　誰にも渡せない",
+    "us": "The materia's our priority. We have to get to it first.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0100_1300_00_cld"
+    ]
+  },
+  {
+    "index": 190,
+    "jp": "先を急ごう",
+    "us": "Let's move.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0100_1400_00_cld",
+      "$C3320_MAIN_0500_0300_00_cld"
+    ]
+  },
+  {
+    "index": 191,
+    "jp": "でも……",
+    "us": "Cloud...",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0100_1500_00_tif"
+    ]
+  },
+  {
+    "index": 192,
+    "jp": "エアリスがいれば　大丈夫だ",
+    "us": "They're with Aerith. They'll be fine.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0100_1600_00_cld"
+    ]
+  },
+  {
+    "index": 193,
+    "jp": "助けてくれ！",
+    "us": "Help!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0200_0100_00_skm"
+    ]
+  },
+  {
+    "index": 194,
+    "jp": "クソ　どうなってんだよ",
+    "us": "We're all gonna die!",
+    "actor": "Shinra Trooper",
+    "examples": [
+      "$C3320_MAIN_0200_0200_00_skm"
+    ]
+  },
+  {
+    "index": 195,
+    "jp": "警戒を怠るな！",
+    "us": "Hey! Get your shit together!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0200_0300_00_skm"
+    ]
+  },
+  {
+    "index": 196,
+    "jp": "敵だ　取り押さえろ！",
+    "us": "Hostiles! Get 'em!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0205_0100_00_skm"
+    ]
+  },
+  {
+    "index": 197,
+    "jp": "ちっくしょう！",
+    "us": "Dammit.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0210_0100_00_blt"
+    ]
+  },
+  {
+    "index": 198,
+    "jp": "慌てんな",
+    "us": "Easy!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0210_0200_00_blt"
+    ]
+  },
+  {
+    "index": 199,
+    "jp": "落ちついてけ",
+    "us": "Nice 'n' slow!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0210_0300_00_blt"
+    ]
+  },
+  {
+    "index": 200,
+    "jp": "大丈夫？",
+    "us": "You alright!?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0210_0400_00_tif"
+    ]
+  },
+  {
+    "index": 201,
+    "jp": "ゆっくり行こう",
+    "us": "Don't rush it!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0210_0500_00_tif"
+    ]
+  },
+  {
+    "index": 202,
+    "jp": "タイミングをみて",
+    "us": "Gotta pay attention.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0210_0600_00_tif"
+    ]
+  },
+  {
+    "index": 203,
+    "jp": "こりゃ　進めねえぞ",
+    "us": "No gettin' past this.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0220_0100_00_blt"
+    ]
+  },
+  {
+    "index": 204,
+    "jp": "なにかで　せき止められないかな",
+    "us": "Maybe we can block it with something nearby?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0220_0200_00_tif"
+    ]
+  },
+  {
+    "index": 205,
+    "jp": "あれ　使えない？",
+    "us": "Hey, that might work.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0220_0300_00_tif"
+    ]
+  },
+  {
+    "index": 206,
+    "jp": "走れ！",
+    "us": "Run!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0230_0100_00_cld"
+    ]
+  },
+  {
+    "index": 207,
+    "jp": "急げ　急げ　急げ！",
+    "us": "Don't gotta tell me twice!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0230_0200_00_blt"
+    ]
+  },
+  {
+    "index": 208,
+    "jp": "クソ　どっから湧いてきやがった！",
+    "us": "How the─? Enemy contact!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0235_0100_00_skm"
+    ]
+  },
+  {
+    "index": 209,
+    "jp": "ちきしょう　なんて場所だよ",
+    "us": "Goddamn... This place is a death trap!",
+    "actor": "",
+    "examples": [
+      "$C3320_MAIN_0240_0100_00_skm"
+    ]
+  },
+  {
+    "index": 210,
+    "jp": "よく生きてるよ　まったく",
+    "us": "We're lucky we managed to survive this long!",
+    "actor": "",
+    "examples": [
+      "$C3320_MAIN_0240_0200_00_skm"
+    ]
+  },
+  {
+    "index": 211,
+    "jp": "おい　無駄口をたたかず設置しろ",
+    "us": "Don't jinx it! Just shut up and get to work.",
+    "actor": "",
+    "examples": [
+      "$C3320_MAIN_0240_0300_00_skm"
+    ]
+  },
+  {
+    "index": 212,
+    "jp": "はい　急ぎます",
+    "us": "We're goin' as fast as we can!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0400_0050_00_skm"
+    ]
+  },
+  {
+    "index": 213,
+    "jp": "準備できました！",
+    "us": "Okay, it's good!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0400_0060_00_skm"
+    ]
+  },
+  {
+    "index": 214,
+    "jp": "侵入者発見！",
+    "us": "Hostiles!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0400_0100_00_skm"
+    ]
+  },
+  {
+    "index": 215,
+    "jp": "アバランチだ！",
+    "us": "It's Avalanche!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0400_0200_00_skm"
+    ]
+  },
+  {
+    "index": 216,
+    "jp": "許してくれ　頼む",
+    "us": "I don't wanna die! Please!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_0500_0100_00_skm"
+    ]
+  },
+  {
+    "index": 217,
+    "jp": "心配するな",
+    "us": "It's not death.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0500_0200_00_cld"
+    ]
+  },
+  {
+    "index": 218,
+    "jp": "星に帰るだけだ",
+    "us": "It's a homecoming.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_0500_0210_00_cld"
+    ]
+  },
+  {
+    "index": 219,
+    "jp": "邪魔するぞ　と",
+    "us": "Hey, kids. Sorry we're late.",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_0500_0400_00_ren"
+    ]
+  },
+  {
+    "index": 220,
+    "jp": "ちょうどいい",
+    "us": "Better late than never.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0500_0500_00_blt"
+    ]
+  },
+  {
+    "index": 221,
+    "jp": "でっけえ借り　返してもらうぜ！",
+    "us": "Still owe you both for Sector 7.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0500_0600_00_blt"
+    ]
+  },
+  {
+    "index": 222,
+    "jp": "貸しているのは　こっちだ",
+    "us": "Could say the same for you.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_0500_0700_00_lud"
+    ]
+  },
+  {
+    "index": 223,
+    "jp": "だが　返済は後日でいい",
+    "us": "It's a shame we'll have to settle up later.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_0500_0800_00_lud"
+    ]
+  },
+  {
+    "index": 224,
+    "jp": "今日は残業なしだぞ　と",
+    "us": "Guess we'll just have to pick this up next time.",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_0500_1000_00_ren"
+    ]
+  },
+  {
+    "index": 225,
+    "jp": "待ちやがれ！",
+    "us": "Get back here!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_0500_1100_00_blt"
+    ]
+  },
+  {
+    "index": 226,
+    "jp": "そんな……",
+    "us": "Dammit...",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_0500_1300_00_tif",
+      "$C3330_MAIN_1200_0100_00_tif"
+    ]
+  },
+  {
+    "index": 227,
+    "jp": "あっ　起きた！",
+    "us": "Oh! You're awake!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0600_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 228,
+    "jp": "みんなは？",
+    "us": "Did it work?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0600_0300_00_art"
+    ]
+  },
+  {
+    "index": 229,
+    "jp": "失敗しちゃった",
+    "us": "I really screwed up...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0600_0400_00_art"
+    ]
+  },
+  {
+    "index": 230,
+    "jp": "はじめてでしょ？\r\nじゃあ　仕方ないよ",
+    "us": "Don't beat yourself up. First time and all that.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0600_0500_00_yfi"
+    ]
+  },
+  {
+    "index": 231,
+    "jp": "失敗したら　修行あるのみ！",
+    "us": "Just gotta keep at it. Starting right now.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0600_0600_00_yfi"
+    ]
+  },
+  {
+    "index": 232,
+    "jp": "オイラたちも手伝うよ　がんばろ",
+    "us": "We'll get through this, Aerith─together.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0600_0700_00_red"
+    ]
+  },
+  {
+    "index": 233,
+    "jp": "うん　そうだね　修行だね",
+    "us": "Yeah... Yeah, you're right. Can't give up now.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0600_0800_00_art"
+    ]
+  },
+  {
+    "index": 234,
+    "jp": "クラウドたち　大丈夫だよね",
+    "us": "You don't think anything bad'll happen to them...do you?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0700_0100_00_art"
+    ]
+  },
+  {
+    "index": 235,
+    "jp": "クラウドが　しっかりしていればね",
+    "us": "So long as Cloud can keep it together.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0700_0200_00_red"
+    ]
+  },
+  {
+    "index": 236,
+    "jp": "ティファが　もっと叱ればいいんだよ",
+    "us": "Tifa's just gotta crack the whip a little.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0700_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 237,
+    "jp": "しっかりしろ～って！",
+    "us": "Tell him to snap out of it!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0700_0310_00_yfi"
+    ]
+  },
+  {
+    "index": 238,
+    "jp": "なんだろ？",
+    "us": "What's this?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0800_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 239,
+    "jp": "これって……",
+    "us": "What's happening?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0800_0300_00_red"
+    ]
+  },
+  {
+    "index": 240,
+    "jp": "ライフストリームと仲良くなる方法\r\n教えてくれるみたい",
+    "us": "I think they're gonna teach me how to be at one with the lifestream─attuned to its flow.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0800_0400_00_art"
+    ]
+  },
+  {
+    "index": 241,
+    "jp": "ありがとう",
+    "us": "Thank you.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_0800_0500_00_art",
+      "$C3340_MAIN_1200_2300_00_art"
+    ]
+  },
+  {
+    "index": 242,
+    "jp": "おお～！",
+    "us": "So cool...",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0910_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 243,
+    "jp": "ありゃ　ライフストリームが足りない？",
+    "us": "Maybe you're...\"low on lifestream\" or something?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0920_0700_00_yfi"
+    ]
+  },
+  {
+    "index": 244,
+    "jp": "星の力　もっと集めないと",
+    "us": "Gonna need a bit more of that planet power!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0920_0800_00_yfi"
+    ]
+  },
+  {
+    "index": 245,
+    "jp": "もっと溜めないと　ダメだね",
+    "us": "Think we're gonna need to \"top up.\"",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_0920_0900_00_yfi"
+    ]
+  },
+  {
+    "index": 246,
+    "jp": "もっと　精神エネルギーが必要だね",
+    "us": "I think you might need more spiritual energy.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0920_1000_00_red"
+    ]
+  },
+  {
+    "index": 247,
+    "jp": "ライフストリームを探そう",
+    "us": "Reach out for the energy.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0920_1100_00_red"
+    ]
+  },
+  {
+    "index": 248,
+    "jp": "これじゃあ　足りないみたい",
+    "us": "Looks like this isn't enough.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_0920_1200_00_red"
+    ]
+  },
+  {
+    "index": 249,
+    "jp": "すっご～い",
+    "us": "Holy crap...",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_1000_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 250,
+    "jp": "ちょっと休んだほうがいいかもね",
+    "us": "How 'bout we take a quick breather?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_1000_0300_00_red"
+    ]
+  },
+  {
+    "index": 251,
+    "jp": "そうそう",
+    "us": "Good idea.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_1000_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 252,
+    "jp": "おねーさまだけが頼りなんだから～！",
+    "us": "Can't go lettin' our girl wear herself out!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_1000_0500_00_yfi"
+    ]
+  },
+  {
+    "index": 253,
+    "jp": "じゃあ　ちょっとだけ",
+    "us": "Okay. But just for a bit.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_1000_0600_00_art"
+    ]
+  },
+  {
+    "index": 254,
+    "jp": "なんだ？",
+    "us": "Wha...?",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1200_0200_00_blt",
+      "$C3320_MAIN_1243_0150_00_blt"
+    ]
+  },
+  {
+    "index": 255,
+    "jp": "落ち着かねえ場所だな",
+    "us": "I'm gettin' tired of this place.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1200_0300_00_blt"
+    ]
+  },
+  {
+    "index": 256,
+    "jp": "でも　道ができたね",
+    "us": "Well, at least we have a way out.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1200_0400_00_tif"
+    ]
+  },
+  {
+    "index": 257,
+    "jp": "今度はなんだよ！",
+    "us": "Oh what now!?",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1200_0500_00_blt"
+    ]
+  },
+  {
+    "index": 258,
+    "jp": "なんだろうが　倒す",
+    "us": "Does it matter at this point?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_1200_0600_00_cld"
+    ]
+  },
+  {
+    "index": 259,
+    "jp": "道がないより　ずっといい",
+    "us": "Something gets in our way...we kill it.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_1200_0610_00_cld"
+    ]
+  },
+  {
+    "index": 260,
+    "jp": "行こう",
+    "us": "Let's go.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_1210_0100_00_cld",
+      "$C3330_MAIN_4500_0400_00_cld"
+    ]
+  },
+  {
+    "index": 261,
+    "jp": "こりゃまた　大荒れだな",
+    "us": "Man, this thing is intense!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1220_0100_00_blt"
+    ]
+  },
+  {
+    "index": 262,
+    "jp": "あそこ！",
+    "us": "Look.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1220_0200_00_tif"
+    ]
+  },
+  {
+    "index": 263,
+    "jp": "あいつら……！",
+    "us": "I see 'em...",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1220_0300_00_blt"
+    ]
+  },
+  {
+    "index": 264,
+    "jp": "我々は　ここで待機だ",
+    "us": "Go check the path.",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_1225_0090_00_skm"
+    ]
+  },
+  {
+    "index": 265,
+    "jp": "足場の確保を急げ！",
+    "us": "Make sure it's stable!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_1225_0100_00_skm"
+    ]
+  },
+  {
+    "index": 266,
+    "jp": "あれを！",
+    "us": "Oh god!",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_1225_0200_00_skm"
+    ]
+  },
+  {
+    "index": 267,
+    "jp": "とんでもねえな　こりゃ……",
+    "us": "I get the feelin' we're not welcome here.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1225_0400_00_blt"
+    ]
+  },
+  {
+    "index": 268,
+    "jp": "どうするよ？",
+    "us": "Well, ain't this some shit.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1230_0100_00_blt"
+    ]
+  },
+  {
+    "index": 269,
+    "jp": "あれを落として　渡れないかな",
+    "us": "Could try using that to bridge the gap.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1230_0200_00_tif"
+    ]
+  },
+  {
+    "index": 270,
+    "jp": "ここは危険だ　先行部隊と合流するぞ",
+    "us": "Double time. Need to link up with the advance team.",
+    "actor": "Special Forces Operator",
+    "examples": [
+      "$C3320_MAIN_1235_0100_00_skm"
+    ]
+  },
+  {
+    "index": 271,
+    "jp": "またかよ",
+    "us": "Not again...",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1240_0100_00_blt"
+    ]
+  },
+  {
+    "index": 272,
+    "jp": "まだ足りねえな",
+    "us": "That still ain't enough.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1241_0100_00_blt"
+    ]
+  },
+  {
+    "index": 273,
+    "jp": "あれ　使えんじゃねえか？",
+    "us": "We could try usin' that.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1242_0100_00_blt"
+    ]
+  },
+  {
+    "index": 274,
+    "jp": "どうにかできないかな　調べてみよう",
+    "us": "Gotta be a way to get it down. Let's take a look.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1242_0200_00_tif"
+    ]
+  },
+  {
+    "index": 275,
+    "jp": "あれ　なんとか壊せないかな",
+    "us": "Tower doesn't look too sturdy.\r\nThink we could knock it over?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1243_0100_00_tif"
+    ]
+  },
+  {
+    "index": 276,
+    "jp": "こいつに　ぶっ壊させようぜ！",
+    "us": "Hmph... I say we put this big asshole to work!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1243_0200_00_blt"
+    ]
+  },
+  {
+    "index": 277,
+    "jp": "ちょろいもんだ！",
+    "us": "And that's that!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1244_0100_00_blt"
+    ]
+  },
+  {
+    "index": 278,
+    "jp": "でもあれ　壊さないと",
+    "us": "Not quite─tower's still standing.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1244_0200_00_tif"
+    ]
+  },
+  {
+    "index": 279,
+    "jp": "仕方ねえ　やり直しだ！",
+    "us": "...Fine. One more time!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1244_0300_00_blt"
+    ]
+  },
+  {
+    "index": 280,
+    "jp": "とにかく　この野郎を\r\nフラフラにしちまえばいいんだよな？",
+    "us": "Like I said, still think we're better off having him do the heavy liftin'.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1244_0400_00_blt"
+    ]
+  },
+  {
+    "index": 281,
+    "jp": "うまくいったぜ！",
+    "us": "...Worked out pretty good, huh?",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1245_0100_00_blt"
+    ]
+  },
+  {
+    "index": 282,
+    "jp": "よーし　さっさと落としちまおうぜ",
+    "us": "Alright! It's time to get pushin', people.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1246_0100_00_blt"
+    ]
+  },
+  {
+    "index": 283,
+    "jp": "あん？",
+    "us": "Oops.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_1250_0100_00_blt"
+    ]
+  },
+  {
+    "index": 284,
+    "jp": "結果オーライかな",
+    "us": "Dunno about you, but I'll take it.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_1250_0200_00_tif"
+    ]
+  },
+  {
+    "index": 285,
+    "jp": "キリがない",
+    "us": "Not good.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2100_0300_00_lud"
+    ]
+  },
+  {
+    "index": 286,
+    "jp": "おまえらしつこいぞ　と",
+    "us": "Less talkin', more punchin'!",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2100_0400_00_ren"
+    ]
+  },
+  {
+    "index": 287,
+    "jp": "こりゃいい　高みの見物といくか",
+    "us": "Let's hang back─get ourselves some popcorn!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2200_0100_00_blt"
+    ]
+  },
+  {
+    "index": 288,
+    "jp": "時間が惜しい　まとめて倒そう",
+    "us": "No time for that. Just take 'em out.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_2200_0200_00_cld"
+    ]
+  },
+  {
+    "index": 289,
+    "jp": "あん？　しゃあねえな",
+    "us": "Man, I swear, you are no fun at all today.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2200_0300_00_blt"
+    ]
+  },
+  {
+    "index": 290,
+    "jp": "アバランチ……",
+    "us": "Avalanche...",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2250_0050_00_lud"
+    ]
+  },
+  {
+    "index": 291,
+    "jp": "てめえらは　あとだ！",
+    "us": "Y'all're next!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2250_0100_00_blt"
+    ]
+  },
+  {
+    "index": 292,
+    "jp": "ああ　前菜から片付けるとしよう",
+    "us": "Unless the monsters get you first.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2250_0200_00_lud"
+    ]
+  },
+  {
+    "index": 293,
+    "jp": "ありがとう",
+    "us": "Thanks.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_2300_0100_00_tif"
+    ]
+  },
+  {
+    "index": 294,
+    "jp": "ルード　かっこいい～！",
+    "us": "Hey! Get a room, will ya?",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2300_0200_00_ren"
+    ]
+  },
+  {
+    "index": 295,
+    "jp": "邪魔だ！",
+    "us": "Shut up.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_2300_0300_00_cld"
+    ]
+  },
+  {
+    "index": 296,
+    "jp": "たいしたもんだ",
+    "us": "Not too shabby.",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2300_0500_00_ren"
+    ]
+  },
+  {
+    "index": 297,
+    "jp": "相棒　いつもの頼む",
+    "us": "Reno. You know what to do.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2300_0600_00_lud"
+    ]
+  },
+  {
+    "index": 298,
+    "jp": "タークス　なめんなよ",
+    "us": "Kick ass, take names.",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2300_0700_00_ren"
+    ]
+  },
+  {
+    "index": 299,
+    "jp": "こいつは誤算だぞ　と",
+    "us": "These assholes are better than I remember.",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2350_0100_00_ren"
+    ]
+  },
+  {
+    "index": 300,
+    "jp": "見せてやるぞ　と",
+    "us": "But still not good enough!",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2350_0500_00_ren"
+    ]
+  },
+  {
+    "index": 301,
+    "jp": "よう　相棒",
+    "us": "Back to Plan A, then?",
+    "actor": "Reno",
+    "examples": [
+      "$C3320_MAIN_2350_0700_00_ren"
+    ]
+  },
+  {
+    "index": 302,
+    "jp": "タークスを　なめるなよ",
+    "us": "We kick ass and take names.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2350_0800_00_lud"
+    ]
+  },
+  {
+    "index": 303,
+    "jp": "てめえは一発　ぶん殴っておかねえとな",
+    "us": "You ready to settle up?\r\n'Cause I've been waitin' for this.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2400_0200_00_blt"
+    ]
+  },
+  {
+    "index": 304,
+    "jp": "一発でいいのか？",
+    "us": "You mean for <i>this</i>?",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2400_0300_00_lud"
+    ]
+  },
+  {
+    "index": 305,
+    "jp": "おうよ",
+    "us": "Yeah.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2400_0400_00_blt"
+    ]
+  },
+  {
+    "index": 306,
+    "jp": "一発で終わりだ！",
+    "us": "This is for Sector 7!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2400_0500_00_blt"
+    ]
+  },
+  {
+    "index": 307,
+    "jp": "ナイスキャッチ",
+    "us": "Nice save.",
+    "actor": "Rude",
+    "examples": [
+      "$C3320_MAIN_2400_0900_00_lud"
+    ]
+  },
+  {
+    "index": 308,
+    "jp": "うわああああ！",
+    "us": "",
+    "actor": "",
+    "examples": [
+      "$C3320_MAIN_2400_1100_00_blt"
+    ]
+  },
+  {
+    "index": 309,
+    "jp": "みんな！",
+    "us": "It's them!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2400_1200_00_art",
+      "$C3320_MAIN_2800_0900_00_art"
+    ]
+  },
+  {
+    "index": 310,
+    "jp": "会えた～",
+    "us": "I'm so glad you're all okay!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2400_1300_00_art",
+      "$C3320_MAIN_2800_1000_00_art"
+    ]
+  },
+  {
+    "index": 311,
+    "jp": "よくぞ　ご無事で",
+    "us": "Right back atcha.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_2400_1400_00_tif",
+      "$C3320_MAIN_2800_1100_00_tif"
+    ]
+  },
+  {
+    "index": 312,
+    "jp": "ホント　大変だったんだから",
+    "us": "Hmph! We're lucky you didn't crush us!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2400_1500_00_yfi",
+      "$C3320_MAIN_2800_1200_00_yfi"
+    ]
+  },
+  {
+    "index": 313,
+    "jp": "休憩　おしまい",
+    "us": "Whew... Well then, shall we?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2500_0100_00_art"
+    ]
+  },
+  {
+    "index": 314,
+    "jp": "もういいの？",
+    "us": "You sure?",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_2500_0200_00_red"
+    ]
+  },
+  {
+    "index": 315,
+    "jp": "うん　クラウドたち　心配だし",
+    "us": "Yep! Can't keep Cloud and the others waiting.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2500_0300_00_art"
+    ]
+  },
+  {
+    "index": 316,
+    "jp": "修行の成果　見てて",
+    "us": "I've got it this time. You'll see.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2510_0200_00_art"
+    ]
+  },
+  {
+    "index": 317,
+    "jp": "えっ　なんで？",
+    "us": "Wh-what happened?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2520_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 318,
+    "jp": "アイツらのせいか～　ひっぺがしてやる！",
+    "us": "So it's <i>their</i> fault. Let's make 'em pay!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2520_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 319,
+    "jp": "よ～し　そんじゃあ　戻ってやり直しだね",
+    "us": "I think we're done here! Now, let's get back to it, shall we?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2525_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 320,
+    "jp": "見て！",
+    "us": "Look!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_2540_0100_00_red"
+    ]
+  },
+  {
+    "index": 321,
+    "jp": "クラウド！",
+    "us": "Cloud!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2540_0200_00_art",
+      "$C3320_MAIN_2800_1300_00_art"
+    ]
+  },
+  {
+    "index": 322,
+    "jp": "クラウド　ティファ！",
+    "us": "Hold on! We're coming!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2540_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 323,
+    "jp": "だいじょうぶ　つながってるよ",
+    "us": "It's okay. We'll get to them.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2540_0400_00_art"
+    ]
+  },
+  {
+    "index": 324,
+    "jp": "道　探そう",
+    "us": "Just need to find the path.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3320_MAIN_2540_0500_00_art"
+    ]
+  },
+  {
+    "index": 325,
+    "jp": "先輩たち　遅いですね",
+    "us": "They should've been here by now. What's the holdup?",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0100_00_eln"
+    ]
+  },
+  {
+    "index": 326,
+    "jp": "ああ　だがもう行くぞ",
+    "us": "I don't know...but time's wasting.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2600_0200_00_tsu"
+    ]
+  },
+  {
+    "index": 327,
+    "jp": "えっ？",
+    "us": "Huh?",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0300_00_eln"
+    ]
+  },
+  {
+    "index": 328,
+    "jp": "私だけでは不安か",
+    "us": "Don't like our chances?",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2600_0400_00_tsu"
+    ]
+  },
+  {
+    "index": 329,
+    "jp": "とんでもありません",
+    "us": "What!? No!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0500_00_eln"
+    ]
+  },
+  {
+    "index": 330,
+    "jp": "不安も不満もなくて\r\nなんなら　ファンです！",
+    "us": "I'm sure we'll be fine! I have the utmost faith in you, sir!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0510_00_eln"
+    ]
+  },
+  {
+    "index": 331,
+    "jp": "光栄です　うれしいです！",
+    "us": "It's been the honor of a lifetime to work with─",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0600_00_eln"
+    ]
+  },
+  {
+    "index": 332,
+    "jp": "あっ　待ってくださーい！",
+    "us": "Hey! Wait for me!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2600_0700_00_eln"
+    ]
+  },
+  {
+    "index": 333,
+    "jp": "構うな　行くぞ",
+    "us": "Don't. C'mon.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2700_0100_00_tsu"
+    ]
+  },
+  {
+    "index": 334,
+    "jp": "待ちやがれい！",
+    "us": "You chickens!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2700_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 335,
+    "jp": "卑怯者が逃げていく～！",
+    "us": "Look at 'em go! Bwok bwok bwok!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2700_0300_00_yfi"
+    ]
+  },
+  {
+    "index": 336,
+    "jp": "主任　逃げたらナメられます",
+    "us": "Sir. It's time we made a stand.",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_0400_00_eln"
+    ]
+  },
+  {
+    "index": 337,
+    "jp": "そうこなくっちゃ！",
+    "us": "Now we're talkin'!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2700_0500_00_yfi"
+    ]
+  },
+  {
+    "index": 338,
+    "jp": "入口の旗　見なかった？",
+    "us": "You saw the flags outside, didn't you?",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_0600_00_eln"
+    ]
+  },
+  {
+    "index": 339,
+    "jp": "約束の地は　神羅が管理するから",
+    "us": "The promised land belongs to Shinra now.",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_0610_00_eln"
+    ]
+  },
+  {
+    "index": 340,
+    "jp": "たとえ古代種でも従ってもらわなくちゃ",
+    "us": "Sorry, Ancient. Ya snooze, ya lose!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_0700_00_eln"
+    ]
+  },
+  {
+    "index": 341,
+    "jp": "ほかの連中はどこだ？",
+    "us": "I thought there were six.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2700_0800_00_tsu"
+    ]
+  },
+  {
+    "index": 342,
+    "jp": "はぐれた？　迷子？",
+    "us": "Oh dear. Did you three get lost?",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_0900_00_eln"
+    ]
+  },
+  {
+    "index": 343,
+    "jp": "頭数なら　こっちが多い",
+    "us": "Three is still greater than two, you know.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3320_MAIN_2700_1000_00_red"
+    ]
+  },
+  {
+    "index": 344,
+    "jp": "あら　ご存知ない？\r\n主任とわたしが最強コンビだってこと！",
+    "us": "And? So what if it is? Between me and Tseng, we got the strength of an army!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_1100_00_eln"
+    ]
+  },
+  {
+    "index": 345,
+    "jp": "古代種は殺すな",
+    "us": "Spare the Ancient.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2700_1200_00_tsu"
+    ]
+  },
+  {
+    "index": 346,
+    "jp": "努力します",
+    "us": "I'll try.",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2700_1300_00_eln"
+    ]
+  },
+  {
+    "index": 347,
+    "jp": "イリーナ　やれるな？",
+    "us": "Elena, with me.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3320_MAIN_2750_0100_00_tsu",
+      "$TEMPL_BOS_21_1100_3200_00_tsu"
+    ]
+  },
+  {
+    "index": 348,
+    "jp": "いけます！",
+    "us": "Okay!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2750_0200_00_eln",
+      "$TEMPL_BOS_21_1100_3500_00_eln"
+    ]
+  },
+  {
+    "index": 349,
+    "jp": "観念しろい！",
+    "us": "And stay down!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3320_MAIN_2800_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 350,
+    "jp": "主任！",
+    "us": "Sir!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2800_0300_00_eln",
+      "$TEMPL_BOS_21_1100_2600_00_eln"
+    ]
+  },
+  {
+    "index": 351,
+    "jp": "行ってください",
+    "us": "Go on without me.",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2800_0400_00_eln"
+    ]
+  },
+  {
+    "index": 352,
+    "jp": "おすわり！",
+    "us": "Sit!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2800_0500_00_eln"
+    ]
+  },
+  {
+    "index": 353,
+    "jp": "タークスの名にかけて\r\n通さない　絶対！",
+    "us": "You're not getting past me... I'm a Turk, goddammit!",
+    "actor": "Elena",
+    "examples": [
+      "$C3320_MAIN_2800_0700_00_eln"
+    ]
+  },
+  {
+    "index": 354,
+    "jp": "うわああああ！",
+    "us": "Aaah!",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2800_0800_00_blt"
+    ]
+  },
+  {
+    "index": 355,
+    "jp": "悲しむことはない",
+    "us": "Don't be afraid.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_2800_1500_00_cld"
+    ]
+  },
+  {
+    "index": 356,
+    "jp": "ただ　星に帰るだけだ",
+    "us": "It's not death─it's a homecoming.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_2800_1600_00_cld"
+    ]
+  },
+  {
+    "index": 357,
+    "jp": "もう　やめよう？",
+    "us": "Stop. Please.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3320_MAIN_2800_1700_00_tif"
+    ]
+  },
+  {
+    "index": 358,
+    "jp": "タークスがひとり　先行してやがる\r\nオレたちも急ごうぜ",
+    "us": "There's no time for this─like you said.\r\nOne of 'em's still ahead of us.",
+    "actor": "Barret",
+    "examples": [
+      "$C3320_MAIN_2800_1800_00_blt"
+    ]
+  },
+  {
+    "index": 359,
+    "jp": "ああ　そうだな",
+    "us": "Right. No time.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3320_MAIN_2800_1900_00_cld"
+    ]
+  },
+  {
+    "index": 360,
+    "jp": "生きてこその　タークスだ",
+    "us": "Death doesn't suit a Turk.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3320_MAIN_2800_2000_00_vin"
+    ]
+  },
+  {
+    "index": 361,
+    "jp": "構造からして　この遺跡は砦だ",
+    "us": "Built like a maze...remnants of battle...",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0100_0100_00_tsu"
+    ]
+  },
+  {
+    "index": 362,
+    "jp": "散見される戦闘の痕跡",
+    "us": "It's not a temple─it's a fortress.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0100_0200_00_tsu"
+    ]
+  },
+  {
+    "index": 363,
+    "jp": "古代種の敵は誰だ　モンスターか？",
+    "us": "To defend against what, though? Fiends?",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0100_0210_00_tsu"
+    ]
+  },
+  {
+    "index": 364,
+    "jp": "いや　愚かな人類だ",
+    "us": "Worse─humans.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_0100_0300_00_sep"
+    ]
+  },
+  {
+    "index": 365,
+    "jp": "古代種の力を恐れ\r\n妬んだ人類が　古代種を虐殺した",
+    "us": "Humans feared and coveted the power of the Ancients. And so they slaughtered them.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_0100_0400_00_sep"
+    ]
+  },
+  {
+    "index": 366,
+    "jp": "セフィロス……",
+    "us": "Sephiroth...",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0100_0600_00_cld",
+      "$C3330_MAIN_4200_0600_00_cld"
+    ]
+  },
+  {
+    "index": 367,
+    "jp": "ツォン！",
+    "us": "Tseng!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0100_0700_00_art",
+      "$C3330_MAIN_0200_0100_00_art"
+    ]
+  },
+  {
+    "index": 368,
+    "jp": "悲しむことはない",
+    "us": "Don't be afraid.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_0100_0800_00_sep"
+    ]
+  },
+  {
+    "index": 369,
+    "jp": "ただ　星に帰るだけだ",
+    "us": "It's not death─it's a homecoming.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_0100_0810_00_sep"
+    ]
+  },
+  {
+    "index": 370,
+    "jp": "また　会える",
+    "us": "You'll see him soon enough.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_0100_0900_00_sep"
+    ]
+  },
+  {
+    "index": 371,
+    "jp": "無事か？",
+    "us": "You okay?",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_0200_00_tsu"
+    ]
+  },
+  {
+    "index": 372,
+    "jp": "わたしの心配してる場合？",
+    "us": "It's not me you should be worried about!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0200_0300_00_art"
+    ]
+  },
+  {
+    "index": 373,
+    "jp": "ひとつ──",
+    "us": "Just tell me─",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_0400_00_tsu"
+    ]
+  },
+  {
+    "index": 374,
+    "jp": "教えてくれ",
+    "us": "This place...",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_0500_00_tsu"
+    ]
+  },
+  {
+    "index": 375,
+    "jp": "ここは　約束の地なのか？",
+    "us": "Is it...the promised land?",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_0510_00_tsu"
+    ]
+  },
+  {
+    "index": 376,
+    "jp": "ちがう　きっとちがう",
+    "us": "I'm sorry...but I don't think it is.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0200_0600_00_art"
+    ]
+  },
+  {
+    "index": 377,
+    "jp": "そうか　ちがうか",
+    "us": "'Course. Figures.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_0700_00_tsu"
+    ]
+  },
+  {
+    "index": 378,
+    "jp": "すぐ　信じるね",
+    "us": "Always did take my word for it.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0200_0800_00_art"
+    ]
+  },
+  {
+    "index": 379,
+    "jp": "ときどき　やさしかったよね",
+    "us": "I never hated you, you know.\r\n",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0200_1000_00_art"
+    ]
+  },
+  {
+    "index": 380,
+    "jp": "この台座が鍵だ……\r\n古代種でなければ反応しない",
+    "us": "This pedestal's a key. One only an Ancient can use.",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_1100_00_tsu"
+    ]
+  },
+  {
+    "index": 381,
+    "jp": "動かないで！",
+    "us": "Where are you going!?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0200_1200_00_art"
+    ]
+  },
+  {
+    "index": 382,
+    "jp": "社に……報告だ",
+    "us": "Got...a report to make...",
+    "actor": "Tseng",
+    "examples": [
+      "$C3330_MAIN_0200_1300_00_tsu"
+    ]
+  },
+  {
+    "index": 383,
+    "jp": "エアリス　見てくれ",
+    "us": "Aerith. I need you.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0200_1400_00_cld"
+    ]
+  },
+  {
+    "index": 384,
+    "jp": "読めるか？",
+    "us": "What's it say?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0300_0100_00_cld"
+    ]
+  },
+  {
+    "index": 385,
+    "jp": "『穏やかなる戦士たちよ\r\n　いまいちど　己を見つめよ』",
+    "us": "\"O warrior...weary though thou art...\r\ninward must thou now turn.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0300_0200_00_art"
+    ]
+  },
+  {
+    "index": 386,
+    "jp": "『刻みし轍は　赤く染まり\r\n　そなたの糧とならん』",
+    "us": "\"Reflect on thy long and bloody path...\r\nand kindle life's fire anew.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0300_0210_00_art"
+    ]
+  },
+  {
+    "index": 387,
+    "jp": "『ゆめゆめ　怒りを忘れることなかれ』",
+    "us": "\"Forget not thine ire, for it shall...remake thee.\"",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0300_0300_00_art"
+    ]
+  },
+  {
+    "index": 388,
+    "jp": "あそこに入れってことか？",
+    "us": "Rollin' out the red carpet for us?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_0300_0400_00_blt"
+    ]
+  },
+  {
+    "index": 389,
+    "jp": "うん　ひとりずつ\r\n試練を受けるの",
+    "us": "Sorta.\r\nWe're each supposed to face some kind of trial.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0300_0500_00_art"
+    ]
+  },
+  {
+    "index": 390,
+    "jp": "クラウドは　行かなくていいみたい",
+    "us": "I guess you...get to sit this one out.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_0300_0600_00_tif"
+    ]
+  },
+  {
+    "index": 391,
+    "jp": "ズルい！",
+    "us": "Typical.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_0300_0700_00_yfi"
+    ]
+  },
+  {
+    "index": 392,
+    "jp": "俺はここで待つ　急いでくれ",
+    "us": "I'll wait out here. But make it quick.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0300_0800_00_cld"
+    ]
+  },
+  {
+    "index": 393,
+    "jp": "行くしかねえなら　さっさと行くぜ",
+    "us": "Well, no point delayin' the inevitable.",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_0300_0900_00_blt"
+    ]
+  },
+  {
+    "index": 394,
+    "jp": "そんじゃあ　あとでな",
+    "us": "Seeya on the other side.",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_0300_1000_00_blt"
+    ]
+  },
+  {
+    "index": 395,
+    "jp": "怒りを忘れるなって？\r\nそんなの　言われるまでもねえ",
+    "us": "Don't forget my anger, huh? I'm gonna take that shit to the grave.",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_0310_0100_00_blt"
+    ]
+  },
+  {
+    "index": 396,
+    "jp": "オレの怒りを試すなんて　なめられたもんだぜ",
+    "us": "If the Cetra think I ain't pissed off enough, they are in for a rude awakening.",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_0310_0200_00_blt"
+    ]
+  },
+  {
+    "index": 397,
+    "jp": "クラウド……\r\n神殿に来てから　変だよね",
+    "us": "Hey, about Cloud... He's been acting kinda weird since we got here.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_0310_0300_00_tif"
+    ]
+  },
+  {
+    "index": 398,
+    "jp": "なんだか……\r\nううん　なんでもない",
+    "us": "It's almost like he's... Actually, forget it.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_0310_0400_00_tif"
+    ]
+  },
+  {
+    "index": 399,
+    "jp": "こっからは別々だね",
+    "us": "We gotta go it alone from here.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3330_MAIN_0310_0500_00_red"
+    ]
+  },
+  {
+    "index": 400,
+    "jp": "ちょっと心細いかも",
+    "us": "Really wish we didn't have to, though.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3330_MAIN_0310_0600_00_red"
+    ]
+  },
+  {
+    "index": 401,
+    "jp": "シノビの修行に比べたら　こんなのラクショ～！",
+    "us": "Compared to the training we ninjas go through, this'll be a cakewalk.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_0310_0700_00_yfi"
+    ]
+  },
+  {
+    "index": 402,
+    "jp": "だれが最初に帰ってくるか　マテリア賭けない？",
+    "us": "Wanna bet a couple orbs of materia on who'll make it back first?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_0310_0800_00_yfi"
+    ]
+  },
+  {
+    "index": 403,
+    "jp": "俺に試練は必要ない",
+    "us": "I don't have anything to prove.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0310_0900_00_cld"
+    ]
+  },
+  {
+    "index": 404,
+    "jp": "早くしてくれ",
+    "us": "Get going.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_0310_1000_00_cld"
+    ]
+  },
+  {
+    "index": 405,
+    "jp": "これって……",
+    "us": "What <i>is</i> this?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_0320_0100_00_art"
+    ]
+  },
+  {
+    "index": 406,
+    "jp": "ただの幻覚じゃないや",
+    "us": "It <i>can't</i> be real.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3330_MAIN_0400_0200_00_red"
+    ]
+  },
+  {
+    "index": 407,
+    "jp": "実験体　発見！",
+    "us": "Subject located!",
+    "actor": "Security Officer",
+    "examples": [
+      "$C3330_MAIN_0450_0100_00_skm"
+    ]
+  },
+  {
+    "index": 408,
+    "jp": "こっちだ",
+    "us": "Over here!",
+    "actor": "Security Officer",
+    "examples": [
+      "$C3330_MAIN_0450_0200_00_skm"
+    ]
+  },
+  {
+    "index": 409,
+    "jp": "捕獲する！",
+    "us": "Grab 'im!",
+    "actor": "Security Officer",
+    "examples": [
+      "$C3330_MAIN_0450_0300_00_skm"
+    ]
+  },
+  {
+    "index": 410,
+    "jp": "ここは……",
+    "us": "This is...",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3330_MAIN_0600_0100_00_red"
+    ]
+  },
+  {
+    "index": 411,
+    "jp": "おとなしくしろ！",
+    "us": "Hold still!",
+    "actor": "Security Officer",
+    "examples": [
+      "$C3330_MAIN_0700_0090_00_skm"
+    ]
+  },
+  {
+    "index": 412,
+    "jp": "おいおい　貴重なサンプルだ\r\n丁寧に扱ってくれよ",
+    "us": "Easy now... That is a valuable specimen;\r\nit must be handled with the utmost care.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0700_0200_00_hjo"
+    ]
+  },
+  {
+    "index": 413,
+    "jp": "さあ　１３番　こっちだ",
+    "us": "Come along, Number Thirteen. Don't be shy.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0800_0100_00_hjo"
+    ]
+  },
+  {
+    "index": 414,
+    "jp": "よし　いいぞ！\r\nしっかり押さえてろよ",
+    "us": "That's a good boy.\r\nMake sure he's strapped down tight.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0100_00_hjo"
+    ]
+  },
+  {
+    "index": 415,
+    "jp": "赤い体毛　１３番目の稀少種実験体",
+    "us": "Such a fine red coat...\r\nA rare specimen for my lucky thirteenth test.",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0300_00_hjo"
+    ]
+  },
+  {
+    "index": 416,
+    "jp": "そうだな",
+    "us": "That's it!",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0400_00_hjo"
+    ]
+  },
+  {
+    "index": 417,
+    "jp": "おまえは今日から『レッドXIII』だ",
+    "us": "Henceforth, you shall be \"Red XIII.\"",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0410_00_hjo"
+    ]
+  },
+  {
+    "index": 418,
+    "jp": "始めようか",
+    "us": "Shall we then?",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0500_00_hjo"
+    ]
+  },
+  {
+    "index": 419,
+    "jp": "動くと失敗するぞ",
+    "us": "Hold still, my pet!",
+    "actor": "Hojo",
+    "examples": [
+      "$C3330_MAIN_0900_0700_00_hjo"
+    ]
+  },
+  {
+    "index": 420,
+    "jp": "クラウド？",
+    "us": "Cloud?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1100_0100_00_tif"
+    ]
+  },
+  {
+    "index": 421,
+    "jp": "待って！",
+    "us": "Wait!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1210_0100_00_tif"
+    ]
+  },
+  {
+    "index": 422,
+    "jp": "パパ……？",
+    "us": "Dad?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1300_0100_00_tif"
+    ]
+  },
+  {
+    "index": 423,
+    "jp": "ダメ　山はダメ！",
+    "us": "No... Don't go that way!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1300_0200_00_tif"
+    ]
+  },
+  {
+    "index": 424,
+    "jp": "パパ！",
+    "us": "Dad!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1600_0100_00_tif"
+    ]
+  },
+  {
+    "index": 425,
+    "jp": "許さない",
+    "us": "Monsters.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1600_0300_00_tif"
+    ]
+  },
+  {
+    "index": 426,
+    "jp": "セフィロス　ソルジャー……",
+    "us": "Sephiroth... SOLDIERs...",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1600_0400_00_tif"
+    ]
+  },
+  {
+    "index": 427,
+    "jp": "魔晄炉　神羅　ぜんぶ……",
+    "us": "Mako... Shinra... I'm sick of this.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1600_0410_00_tif"
+    ]
+  },
+  {
+    "index": 428,
+    "jp": "ぜんぶ　大キライ！",
+    "us": "I'm sick of all of this!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_1600_0500_00_tif"
+    ]
+  },
+  {
+    "index": 429,
+    "jp": "こわくない　こわくない……",
+    "us": "This is fine... Not scary at all.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_1800_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 430,
+    "jp": "<i>ユフィ先輩　『他人の家では猫かぶれ』だよ</i>",
+    "us": "<i>Put the claws away, Boss.\r\nLeast while we're in Shinra territory.</i>",
+    "actor": "<i>???</i>",
+    "examples": [
+      "$C3330_MAIN_2000_0100_00_snn"
+    ]
+  },
+  {
+    "index": 431,
+    "jp": "ソノン……",
+    "us": "Sonon?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_2000_0150_00_yfi"
+    ]
+  },
+  {
+    "index": 432,
+    "jp": "<i>先輩　今度こそ慎重に\r\n無用な戦いは避けたい</i>",
+    "us": "<i>Hey, Boss. Wanna try treading a little lighter this time? No point fighting if we don't have to.</i>",
+    "actor": "<i>Sonon</i>",
+    "examples": [
+      "$C3330_MAIN_2000_0200_00_snn"
+    ]
+  },
+  {
+    "index": 433,
+    "jp": "<i>先輩　やり残したことはないか？\r\nもう後戻りはできないぞ</i>",
+    "us": "<i>Boss, I don't think we'll be back here anytime soon, so make sure you're ready for anything, okay?</i>",
+    "actor": "<i>Sonon</i>",
+    "examples": [
+      "$C3330_MAIN_2000_0300_00_snn"
+    ]
+  },
+  {
+    "index": 434,
+    "jp": "<i>先輩　生き延びて　戦え――</i>",
+    "us": "<i>Yuffie... You gotta keep going...for us...</i>",
+    "actor": "<i>Sonon</i>",
+    "examples": [
+      "$C3330_MAIN_2000_0400_00_snn"
+    ]
+  },
+  {
+    "index": 435,
+    "jp": "負けないから！",
+    "us": "You got this.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_2000_0500_00_yfi"
+    ]
+  },
+  {
+    "index": 436,
+    "jp": "先輩",
+    "us": "Boss!",
+    "actor": "???",
+    "examples": [
+      "$C3330_MAIN_2100_0100_00_snn"
+    ]
+  },
+  {
+    "index": 437,
+    "jp": "ソノン？",
+    "us": "Sonon?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3330_MAIN_2100_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 438,
+    "jp": "君が迎えに来ないから\r\nボクが遊んであげてるんだ",
+    "us": "If you won't come and claim him...\r\nI can always keep him for myself.",
+    "actor": "Nero",
+    "examples": [
+      "$C3330_MAIN_2100_0400_00_ner"
+    ]
+  },
+  {
+    "index": 439,
+    "jp": "どうなってんだ　こりゃ？",
+    "us": "What in the hell...?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2200_0100_00_blt"
+    ]
+  },
+  {
+    "index": 440,
+    "jp": "コレルか",
+    "us": "I'm home...",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2250_0100_00_blt"
+    ]
+  },
+  {
+    "index": 441,
+    "jp": "ってことは　この先は……",
+    "us": "Almost...home.",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2250_0200_00_blt"
+    ]
+  },
+  {
+    "index": 442,
+    "jp": "よう　バレット帰ったのか？",
+    "us": "Hey, Barret! Welcome home.",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0100_00_mma"
+    ]
+  },
+  {
+    "index": 443,
+    "jp": "魔晄炉の調子はどうだった？",
+    "us": "How's the reactor looking?",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0200_00_mma"
+    ]
+  },
+  {
+    "index": 444,
+    "jp": "ミーナが待ってるぜ",
+    "us": "Myrna's been waiting for ya.",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0300_00_mma"
+    ]
+  },
+  {
+    "index": 445,
+    "jp": "はやく家に帰って　汗流しな",
+    "us": "Bet you're aching for a nice, hot shower.",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0400_00_mma"
+    ]
+  },
+  {
+    "index": 446,
+    "jp": "バレット　おつかれさま",
+    "us": "Thanks for looking out, Barret.",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0500_00_mfa",
+      "$C3330_MAIN_2280_0800_00_mfa"
+    ]
+  },
+  {
+    "index": 447,
+    "jp": "あんたのおかげで　村が豊かになるよ",
+    "us": "This place is gonna thrive thanks to you!",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0600_00_mfa"
+    ]
+  },
+  {
+    "index": 448,
+    "jp": "魔晄炉がある暮らしってのは\r\nいいもんだねえ",
+    "us": "Everything's gotten so much easier thanks to that reactor.",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_2280_0700_00_mfa"
+    ]
+  },
+  {
+    "index": 449,
+    "jp": "おかえりなさい",
+    "us": "Oh, there you are!",
+    "actor": "Myrna",
+    "examples": [
+      "$C3330_MAIN_2300_0100_00_min"
+    ]
+  },
+  {
+    "index": 450,
+    "jp": "どうしたの　変な顔して",
+    "us": "What's wrong, baby? You okay?",
+    "actor": "Myrna",
+    "examples": [
+      "$C3330_MAIN_2300_0200_00_min"
+    ]
+  },
+  {
+    "index": 451,
+    "jp": "ミーナ！",
+    "us": "Myrna!?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2300_0300_00_blt",
+      "$C3330_MAIN_2400_0200_00_blt",
+      "$C3330_MAIN_2500_0100_00_blt",
+      "$C3330_MAIN_2600_0100_00_blt"
+    ]
+  },
+  {
+    "index": 452,
+    "jp": "いきなり　なに？",
+    "us": "What's gotten into you?",
+    "actor": "Myrna",
+    "examples": [
+      "$C3330_MAIN_2300_0400_00_min"
+    ]
+  },
+  {
+    "index": 453,
+    "jp": "ほら疲れたでしょ　入って",
+    "us": "Alright, let's get you inside.\r\nSomeone's clearly had a long day.",
+    "actor": "Myrna",
+    "examples": [
+      "$C3330_MAIN_2300_0500_00_min"
+    ]
+  },
+  {
+    "index": 454,
+    "jp": "ああ",
+    "us": "Okay...",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2300_0600_00_blt"
+    ]
+  },
+  {
+    "index": 455,
+    "jp": "ミーナ？",
+    "us": "Myrna?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2400_0100_00_blt"
+    ]
+  },
+  {
+    "index": 456,
+    "jp": "ミーナ……",
+    "us": "Myrna!",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2400_0110_00_blt",
+      "$C3330_MAIN_2500_0300_00_blt"
+    ]
+  },
+  {
+    "index": 457,
+    "jp": "ミーナ　どこだ！",
+    "us": "Where are you, baby?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2500_0200_00_blt"
+    ]
+  },
+  {
+    "index": 458,
+    "jp": "くっそ……！",
+    "us": "Outta my way!",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2500_0500_00_blt"
+    ]
+  },
+  {
+    "index": 459,
+    "jp": "そんな……ダメだ　いくな！",
+    "us": "Wake up, baby... Wake up!",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2600_0200_00_blt"
+    ]
+  },
+  {
+    "index": 460,
+    "jp": "ミーナ　いかないでくれ",
+    "us": "Don't leave me... Not again...",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_2600_0210_00_blt"
+    ]
+  },
+  {
+    "index": 461,
+    "jp": "次は四番街スラム　四番街スラムです",
+    "us": "Stopping at Sector 4 Undercity. Sector 4 Undercity.",
+    "actor": "Conductor",
+    "examples": [
+      "$C3330_MAIN_2800_0100_00_mma"
+    ]
+  },
+  {
+    "index": 462,
+    "jp": "大丈夫だからね",
+    "us": "It's going to be okay.",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_2800_0300_00_efa"
+    ]
+  },
+  {
+    "index": 463,
+    "jp": "うん……",
+    "us": "Okay...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_2800_0400_00_art",
+      "$C3330_MAIN_4500_0500_00_art",
+      "$C3340_MAIN_1300_0400_00_art"
+    ]
+  },
+  {
+    "index": 464,
+    "jp": "お母さん……",
+    "us": "Mom?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_2800_0500_00_art",
+      "$C3330_MAIN_3400_0700_00_art"
+    ]
+  },
+  {
+    "index": 465,
+    "jp": "<i>エアリス　ちょっと冒険してみない？</i>",
+    "us": "<i>What if... What if we went on an adventure?</i>",
+    "actor": "<i>Ifalna</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0100_00_efa"
+    ]
+  },
+  {
+    "index": 466,
+    "jp": "<i>なにをするの？</i>",
+    "us": "<i>An adventure?</i>",
+    "actor": "<i>Aerith</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0200_00_art"
+    ]
+  },
+  {
+    "index": 467,
+    "jp": "<i>ここから　出るの</i>",
+    "us": "<i>A big one.</i>",
+    "actor": "<i>Ifalna</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0300_00_efa"
+    ]
+  },
+  {
+    "index": 468,
+    "jp": "<i>出て　外の空気を吸いに行くの</i>",
+    "us": "<i>To somewhere far, far away.</i>",
+    "actor": "<i>Ifalna</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0310_00_efa"
+    ]
+  },
+  {
+    "index": 469,
+    "jp": "<i>外の空気を吸ったら　お母さんは元気になる？\r\n注射もしない？</i>",
+    "us": "<i>Without the men in white? And the needles? Would you get better there?</i>",
+    "actor": "<i>Aerith</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0400_00_art"
+    ]
+  },
+  {
+    "index": 470,
+    "jp": "<i>そうね　そうなれると思う</i>",
+    "us": "<i>Yes, sweetheart. I think I would.</i>",
+    "actor": "<i>Ifalna</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0500_00_efa"
+    ]
+  },
+  {
+    "index": 471,
+    "jp": "<i>やった！</i>",
+    "us": "<i>Then let's go!</i>",
+    "actor": "<i>Aerith</i>",
+    "examples": [
+      "$C3330_MAIN_2900_0600_00_art"
+    ]
+  },
+  {
+    "index": 472,
+    "jp": "だいじょうぶ？　お母さん",
+    "us": "Mommy...? Does it hurt?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3000_0100_00_art"
+    ]
+  },
+  {
+    "index": 473,
+    "jp": "ごめんね……\r\n冒険　途中なのに",
+    "us": "I'm sorry, sweetie... I'm...spoiling our adventure...",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_3000_0200_00_efa"
+    ]
+  },
+  {
+    "index": 474,
+    "jp": "お母さん　待っててね\r\nお医者さん呼んでくる",
+    "us": "Just wait here, alright? I'm gonna find a doctor.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3000_0300_00_art"
+    ]
+  },
+  {
+    "index": 475,
+    "jp": "だれ……？",
+    "us": "Hello?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3000_0400_00_art"
+    ]
+  },
+  {
+    "index": 476,
+    "jp": "がんばって",
+    "us": "Go on.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3000_0500_00_art"
+    ]
+  },
+  {
+    "index": 477,
+    "jp": "お医者さんを知りませんか！",
+    "us": "Is there a doctor here?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0100_00_art"
+    ]
+  },
+  {
+    "index": 478,
+    "jp": "だれか　お願いします！",
+    "us": "Please, I need help!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0200_00_art"
+    ]
+  },
+  {
+    "index": 479,
+    "jp": "お母さんを助けて！",
+    "us": "My mom is sick!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0300_00_art"
+    ]
+  },
+  {
+    "index": 480,
+    "jp": "助けてください！",
+    "us": "Can you help me?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0310_00_art"
+    ]
+  },
+  {
+    "index": 481,
+    "jp": "お医者さん　いませんか！",
+    "us": "Do you know a doctor?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0320_00_art"
+    ]
+  },
+  {
+    "index": 482,
+    "jp": "お母さん　大変なの！",
+    "us": "My mom's really sick!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3100_0330_00_art"
+    ]
+  },
+  {
+    "index": 483,
+    "jp": "悪いね　わからないよ",
+    "us": "Sorry, kid. Can't help ya.",
+    "actor": "Undercity Resident",
+    "examples": [
+      "$C3330_MAIN_3150_0100_00_mma"
+    ]
+  },
+  {
+    "index": 484,
+    "jp": "ほかをあたってくれ",
+    "us": "Bug someone else.",
+    "actor": "Undercity Resident",
+    "examples": [
+      "$C3330_MAIN_3150_0200_00_mma"
+    ]
+  },
+  {
+    "index": 485,
+    "jp": "うるさいね　どっかいきな",
+    "us": "Can't you find somewhere else to beg?",
+    "actor": "Undercity Resident",
+    "examples": [
+      "$C3330_MAIN_3150_0300_00_mfa"
+    ]
+  },
+  {
+    "index": 486,
+    "jp": "助けなんか来ないよ",
+    "us": "Good luck finding help around here.",
+    "actor": "Undercity Resident",
+    "examples": [
+      "$C3330_MAIN_3150_0400_00_mfa"
+    ]
+  },
+  {
+    "index": 487,
+    "jp": "ガキは　家帰って寝てろ！",
+    "us": "And stay down, brat.",
+    "actor": "Undercity Resident",
+    "examples": [
+      "$C3330_MAIN_3200_0100_00_mma"
+    ]
+  },
+  {
+    "index": 488,
+    "jp": "大丈夫かい？",
+    "us": "Are you okay?",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3200_0300_00_elm"
+    ]
+  },
+  {
+    "index": 489,
+    "jp": "大丈夫です",
+    "us": "I'm fine.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3200_0400_00_art"
+    ]
+  },
+  {
+    "index": 490,
+    "jp": "お医者さん　知りませんか？",
+    "us": "Is there a doctor around here?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3200_0410_00_art"
+    ]
+  },
+  {
+    "index": 491,
+    "jp": "うちは　はずれのほうでね\r\nこのあたりの医者は知らないんだ",
+    "us": "I'm sorry, honey, but I don't know.\r\nI'm not from this part of town.",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3200_0500_00_elm"
+    ]
+  },
+  {
+    "index": 492,
+    "jp": "そうですか……",
+    "us": "Oh... Okay...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3200_0600_00_art"
+    ]
+  },
+  {
+    "index": 493,
+    "jp": "よかったら　詳しく",
+    "us": "I could help you look─",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3200_0700_00_elm"
+    ]
+  },
+  {
+    "index": 494,
+    "jp": "ありがとうございます",
+    "us": "No, thank you.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3200_0800_00_art"
+    ]
+  },
+  {
+    "index": 495,
+    "jp": "わたし　お母さんのとこ　戻ります",
+    "us": "I have to go...\r\nI don't wanna leave my mom alone too long.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3200_0810_00_art"
+    ]
+  },
+  {
+    "index": 496,
+    "jp": "そうかい？",
+    "us": "Your mother?",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3200_0900_00_elm"
+    ]
+  },
+  {
+    "index": 497,
+    "jp": "お母さん　ごめんね",
+    "us": "...I'm sorry, Mommy... I tried...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3300_0100_00_art"
+    ]
+  },
+  {
+    "index": 498,
+    "jp": "いま　戻るからね",
+    "us": "...I really, really tried...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3300_0300_00_art"
+    ]
+  },
+  {
+    "index": 499,
+    "jp": "お母さん",
+    "us": "Mom!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3400_0050_00_art"
+    ]
+  },
+  {
+    "index": 500,
+    "jp": "エアリス……",
+    "us": "Aerith.",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_3400_0060_00_efa"
+    ]
+  },
+  {
+    "index": 501,
+    "jp": "私はもう　星に帰るよ",
+    "us": "Mommy has to...return to the planet.",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_3400_0070_00_efa"
+    ]
+  },
+  {
+    "index": 502,
+    "jp": "悲しまないで\r\nこれからも　あなたのそばにいるから",
+    "us": "Don't cry, sweetie. I'll always be with you.\r\nAlways and forever.",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_3400_0100_00_efa"
+    ]
+  },
+  {
+    "index": 503,
+    "jp": "お母さん　やだよ",
+    "us": "But you can't go!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3400_0110_00_art"
+    ]
+  },
+  {
+    "index": 504,
+    "jp": "冒険は……？",
+    "us": "You can't!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3400_0120_00_art"
+    ]
+  },
+  {
+    "index": 505,
+    "jp": "いっしょに　冒険するんだよね？",
+    "us": "What about our adventure!?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3400_0130_00_art"
+    ]
+  },
+  {
+    "index": 506,
+    "jp": "うん……",
+    "us": "",
+    "actor": "",
+    "examples": [
+      "$C3330_MAIN_3400_0140_00_efa"
+    ]
+  },
+  {
+    "index": 507,
+    "jp": "あんた　大丈夫かい",
+    "us": "Miss... Do you need help?",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3400_0200_00_elm"
+    ]
+  },
+  {
+    "index": 508,
+    "jp": "この子を……エアリスを　安全なところへ",
+    "us": "Please. Take Aerith somewhere safe.",
+    "actor": "Ifalna",
+    "examples": [
+      "$C3330_MAIN_3400_0300_00_efa"
+    ]
+  },
+  {
+    "index": 509,
+    "jp": "ここを　離れよう",
+    "us": "We need to go.",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3400_0400_00_elm"
+    ]
+  },
+  {
+    "index": 510,
+    "jp": "お母さん！",
+    "us": "Mom!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3400_0450_00_art",
+      "$C3330_MAIN_3400_0600_00_art"
+    ]
+  },
+  {
+    "index": 511,
+    "jp": "嫌な予感がする",
+    "us": "It's not safe here.",
+    "actor": "Elmyra",
+    "examples": [
+      "$C3330_MAIN_3400_0500_00_elm"
+    ]
+  },
+  {
+    "index": 512,
+    "jp": "おい　いたぞ　こっちだ！",
+    "us": "Hey, she's over here!",
+    "actor": "Researcher",
+    "examples": [
+      "$C3330_MAIN_3400_0650_00_mma"
+    ]
+  },
+  {
+    "index": 513,
+    "jp": "あのね",
+    "us": "Y'know...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0100_00_art"
+    ]
+  },
+  {
+    "index": 514,
+    "jp": "死は……命のひとつの状態",
+    "us": "If you think about it, life and death\r\nare just two sides of the same coin.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0200_00_art"
+    ]
+  },
+  {
+    "index": 515,
+    "jp": "死んで体が消えても\r\n命が消えるわけじゃない",
+    "us": "Our bodies may disappear when we die,\r\nbut our spirits still live on.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0300_00_art"
+    ]
+  },
+  {
+    "index": 516,
+    "jp": "ライフストリームに溶けて\r\n星を巡って　新たな命を育む",
+    "us": "We return to the planet, rejoin the lifestream,\r\nand─in time─give rise to new life.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0400_00_art"
+    ]
+  },
+  {
+    "index": 517,
+    "jp": "いまさら　いいって",
+    "us": "\"In time,\" yeah...",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_3600_0500_00_blt"
+    ]
+  },
+  {
+    "index": 518,
+    "jp": "命は死んでも消えない",
+    "us": "I get it. I really do.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0600_00_art"
+    ]
+  },
+  {
+    "index": 519,
+    "jp": "そんなの　頭でわかっても\r\nおわかれは　悲しいよね",
+    "us": "Knowing that the people we love aren't really gone? It doesn't make it any easier to let them go.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0700_00_art"
+    ]
+  },
+  {
+    "index": 520,
+    "jp": "だから　星に帰るだけなんて\r\nそんなふうに言わないで",
+    "us": "It still hurts. So we can't just think of it as a \"homecoming.\" 'Cause it's not that simple.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0800_00_art"
+    ]
+  },
+  {
+    "index": 521,
+    "jp": "どんなに悲しい過去も　理不尽なできごとも",
+    "us": "We've all experienced pain. We all have our regrets.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_0900_00_art"
+    ]
+  },
+  {
+    "index": 522,
+    "jp": "したこと　されたこと……\r\n過去を消すことは　もうできない",
+    "us": "What we've done─what's been done to us─\r\nthat's set in stone. The past is forever.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1000_00_art"
+    ]
+  },
+  {
+    "index": 523,
+    "jp": "でもね　これからのことは変えられる",
+    "us": "But the future─even if it has been written─\r\ncan be changed.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1100_00_art"
+    ]
+  },
+  {
+    "index": 524,
+    "jp": "悲しみや怒りは　わたしたちを強くする",
+    "us": "It's true that the pain and the anger\r\nwe carry can make us stronger.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1200_00_art"
+    ]
+  },
+  {
+    "index": 525,
+    "jp": "けど　わたしたちを変えてしまう",
+    "us": "But at what cost? What toll does it take?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1300_00_art"
+    ]
+  },
+  {
+    "index": 526,
+    "jp": "本当の強さは　ちがうと思う",
+    "us": "I believe true strength doesn't come from any of that.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1400_00_art"
+    ]
+  },
+  {
+    "index": 527,
+    "jp": "それは　いつも心にあって\r\nやわらかくて　こわれない",
+    "us": "True strength comes from our ability to forgive─\r\nto forge ahead in the hope of making things right.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1500_00_art"
+    ]
+  },
+  {
+    "index": 528,
+    "jp": "そう　思うんだ",
+    "us": "It comes from ourselves.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1600_00_art"
+    ]
+  },
+  {
+    "index": 529,
+    "jp": "過去じゃなくて　未来を思えば",
+    "us": "So focus on the future─not the past.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1700_00_art"
+    ]
+  },
+  {
+    "index": 530,
+    "jp": "わたしたち　セフィロスより強くなれる",
+    "us": "Do that, and not even Sephiroth\r\nwill be able to stand in our way.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1800_00_art"
+    ]
+  },
+  {
+    "index": 531,
+    "jp": "ずっと強く",
+    "us": "Not even him.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_1810_00_art"
+    ]
+  },
+  {
+    "index": 532,
+    "jp": "話は終わったか？",
+    "us": "Are you finished?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_3600_1900_00_cld"
+    ]
+  },
+  {
+    "index": 533,
+    "jp": "時間がない　急ごう",
+    "us": "Clock's ticking. C'mon.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_3600_1910_00_cld"
+    ]
+  },
+  {
+    "index": 534,
+    "jp": "うん　そうだね",
+    "us": "Yeah. I know.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3330_MAIN_3600_2000_00_art"
+    ]
+  },
+  {
+    "index": 535,
+    "jp": "どうした？",
+    "us": "What's wrong?",
+    "actor": "Barret",
+    "examples": [
+      "$C3330_MAIN_3800_0100_00_blt"
+    ]
+  },
+  {
+    "index": 536,
+    "jp": "問題ない",
+    "us": "I'm fine.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_3800_0200_00_cld"
+    ]
+  },
+  {
+    "index": 537,
+    "jp": "楽しそうだな　クラウド",
+    "us": "Oh, what fun you had.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_3800_0300_00_sep"
+    ]
+  },
+  {
+    "index": 538,
+    "jp": "その結果　どうなった？",
+    "us": "Tell me, though... Was it worth it?",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_3800_0310_00_sep"
+    ]
+  },
+  {
+    "index": 539,
+    "jp": "おまえの爆弾のせいで　大勢が死んだ",
+    "us": "All those lives cut short...at your hand.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_3900_0100_00_sep"
+    ]
+  },
+  {
+    "index": 540,
+    "jp": "ビッグス？",
+    "us": "Biggs?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_3900_0200_00_cld"
+    ]
+  },
+  {
+    "index": 541,
+    "jp": "その感情は本物だろうか？",
+    "us": "Is what you're feeling even real?",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4100_0100_00_sep"
+    ]
+  },
+  {
+    "index": 542,
+    "jp": "悲しむふりはやめろ　クラウド",
+    "us": "It's time you stopped pretending, Cloud.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4100_0200_00_sep"
+    ]
+  },
+  {
+    "index": 543,
+    "jp": "ジェシー……",
+    "us": "Jessie...",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_4200_0100_00_tif"
+    ]
+  },
+  {
+    "index": 544,
+    "jp": "大切な仲間だったのに",
+    "us": "Your friend died in your arms.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0300_00_sep"
+    ]
+  },
+  {
+    "index": 545,
+    "jp": "おまえは　なにも感じない",
+    "us": "And you didn't shed a tear.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0400_00_sep"
+    ]
+  },
+  {
+    "index": 546,
+    "jp": "なぜだろうな？",
+    "us": "Why is that?",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0500_00_sep"
+    ]
+  },
+  {
+    "index": 547,
+    "jp": "悲しみ",
+    "us": "Sorrow.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0700_00_sep"
+    ]
+  },
+  {
+    "index": 548,
+    "jp": "怒り",
+    "us": "Anger.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0800_00_sep"
+    ]
+  },
+  {
+    "index": 549,
+    "jp": "罪悪感",
+    "us": "Regret.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_0900_00_sep"
+    ]
+  },
+  {
+    "index": 550,
+    "jp": "後悔",
+    "us": "Guilt.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_1000_00_sep"
+    ]
+  },
+  {
+    "index": 551,
+    "jp": "なんであれ　おまえにはわからない",
+    "us": "Nothing but empty words to you.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_1100_00_sep"
+    ]
+  },
+  {
+    "index": 552,
+    "jp": "かわいい　俺のからっぽ人形",
+    "us": "For you are but a puppet─<i>my</i> puppet.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4200_1200_00_sep"
+    ]
+  },
+  {
+    "index": 553,
+    "jp": "セフィロス！",
+    "us": "I'll kill you!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_4400_0100_00_cld",
+      "$C3340_MAIN_0500_1900_00_cld"
+    ]
+  },
+  {
+    "index": 554,
+    "jp": "そうだ　それでいい",
+    "us": "Good, Cloud. Very good.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4400_0300_00_sep"
+    ]
+  },
+  {
+    "index": 555,
+    "jp": "からっぽの心を　怒りで満たせ",
+    "us": "Fill your hollow heart...with rage.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4400_0400_00_sep"
+    ]
+  },
+  {
+    "index": 556,
+    "jp": "その怒りで　悲しみを燃やし",
+    "us": "Let it engulf you─consume you...",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4400_0500_00_sep"
+    ]
+  },
+  {
+    "index": 557,
+    "jp": "あの日の俺になるんだ　クラウド",
+    "us": "that you may burn your world to the ground─as I did.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3330_MAIN_4400_0600_00_sep"
+    ]
+  },
+  {
+    "index": 558,
+    "jp": "俺は……",
+    "us": "I'm not like him.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_4500_0200_00_cld"
+    ]
+  },
+  {
+    "index": 559,
+    "jp": "セフィロスとは違う",
+    "us": "I'll <i>never</i> be like him.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3330_MAIN_4500_0210_00_cld"
+    ]
+  },
+  {
+    "index": 560,
+    "jp": "わかってるよ　クラウド",
+    "us": "We know. It's okay.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3330_MAIN_4500_0300_00_tif"
+    ]
+  },
+  {
+    "index": 561,
+    "jp": "じっちゃんにも　見せたいな",
+    "us": "Gramps'd kill to see this.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_0100_0100_00_red"
+    ]
+  },
+  {
+    "index": 562,
+    "jp": "<i>悠久の時を超え　ここに立つ者たちよ</i>",
+    "us": "<i>You who walk in the footsteps\r\nof we who dwell in eternity...</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0100_0200_00_set"
+    ]
+  },
+  {
+    "index": 563,
+    "jp": "<i>星とともに歩む\r\nセトラの季節が過ぎようとしている</i>",
+    "us": "<i>Listen well, for dusk is falling on\r\nthe age of our people─the Cetra.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0100_0300_00_set"
+    ]
+  },
+  {
+    "index": 564,
+    "jp": "<i>ほどなく　歴史に敬意を払わぬ者らに\r\n星を譲ることになるだろう</i>",
+    "us": "<i>And in the long night to come, others shall rise to claim stewardship of this planet─others who pay\r\nno heed to history.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0100_0400_00_set"
+    ]
+  },
+  {
+    "index": 565,
+    "jp": "<i>宇宙から来た災厄との戦を終えた\r\n我らを待ち受けていたのは　さらなる苦難だった</i>",
+    "us": "<i>Though in time we triumphed over the calamity visited upon us by the stars, tragedy would nevertheless be our ultimate reward.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0100_00_set"
+    ]
+  },
+  {
+    "index": 566,
+    "jp": "<i>人の子らは　我らを恐れた</i>",
+    "us": "<i>For the children of man feared us.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0200_00_set"
+    ]
+  },
+  {
+    "index": 567,
+    "jp": "<i>人の子らは　我らを妬んだ</i>",
+    "us": "<i>For the children of man envied us.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0300_00_set"
+    ]
+  },
+  {
+    "index": 568,
+    "jp": "<i>これもまた　災厄の謀だったかどうか</i>",
+    "us": "<i>Perhaps their enmity was seeded by our celestial adversary.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0400_00_set"
+    ]
+  },
+  {
+    "index": 569,
+    "jp": "<i>もはや　わからない</i>",
+    "us": "<i>None can say.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0500_00_set"
+    ]
+  },
+  {
+    "index": 570,
+    "jp": "<i>運命は　我らを選ばなかった</i>",
+    "us": "<i>Regardless, we had been forsaken by fate.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0510_00_set"
+    ]
+  },
+  {
+    "index": 571,
+    "jp": "<i>我らは奪われ　抱えきれぬ怒りと\r\n拭いきれぬ悲しみとともに</i>",
+    "us": "<i>Abandoned to unquenchable anger and unbearable grief. Condemned and driven forth...</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0600_00_set"
+    ]
+  },
+  {
+    "index": 572,
+    "jp": "<i>いま　滅びの時を迎えようとしている</i>",
+    "us": "<i>powerless to forestall the coming of our end.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0200_0700_00_set"
+    ]
+  },
+  {
+    "index": 573,
+    "jp": "<i>はるか昔　北の地が傷ついた</i>",
+    "us": "<i>Long ago, a wound marred the northern lands.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0100_00_set"
+    ]
+  },
+  {
+    "index": 574,
+    "jp": "<i>修復に向かった者たちはみな　災厄となった</i>",
+    "us": "<i>And to mend it did many venture forth,\r\nonly to meet with disaster.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0110_00_set"
+    ]
+  },
+  {
+    "index": 575,
+    "jp": "<i>災厄は姿を変えた　亡き母に　亡き兄に</i>",
+    "us": "<i>A deceiver that stole the faces of the dead─of mothers and fathers, sisters and brothers lost.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0200_00_set"
+    ]
+  },
+  {
+    "index": 576,
+    "jp": "<i>災厄は種をまいた　我らに　人の子らに</i>",
+    "us": "<i>With their voices did it sow the seeds of discord among our people─among the children of man.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0300_00_set"
+    ]
+  },
+  {
+    "index": 577,
+    "jp": "<i>我らは星とともに戦い\r\n多くの同胞が　星へと帰った</i>",
+    "us": "<i>For the planet did we lay down our lives in battle, and in death returned to her embrace.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0400_00_set"
+    ]
+  },
+  {
+    "index": 578,
+    "jp": "<i>災厄は　帰らなかった</i>",
+    "us": "<i>Yet our adversary did not.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0500_00_set"
+    ]
+  },
+  {
+    "index": 579,
+    "jp": "<i>星と交わることなく　ただ息をひそめた</i>",
+    "us": "<i></i>Could<i> not. Thus did it fall into a deep slumber.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0510_00_set"
+    ]
+  },
+  {
+    "index": 580,
+    "jp": "<i>災厄は　後に名前を得る</i>",
+    "us": "<i>And in the long silence of its sleep...</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0600_00_set"
+    ]
+  },
+  {
+    "index": 581,
+    "jp": "<i>その名は　『ジェノバ』</i>",
+    "us": "<i>it was given the name \"Jenova.\"</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0610_00_set"
+    ]
+  },
+  {
+    "index": 582,
+    "jp": "<i>混ざりし者たちよ　気をつけなさい</i>",
+    "us": "<i>Heed well our warning of that which is to come:</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0700_00_set"
+    ]
+  },
+  {
+    "index": 583,
+    "jp": "<i>『リユニオン』……</i>",
+    "us": "<i>the reunion.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0701_00_set"
+    ]
+  },
+  {
+    "index": 584,
+    "jp": "<i>災厄の種は　いま芽吹き\r\nひとつにならんとしている</i>",
+    "us": "<i>When our adversary's scattered malignancy shall converge to plague the planet once more.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0300_0800_00_set"
+    ]
+  },
+  {
+    "index": 585,
+    "jp": "<i>星をおびやかす者を排除することは　我らの使命</i>",
+    "us": "<i>It has ever been our sacred duty to protect our planet against any who would threaten it.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0400_0100_00_set"
+    ]
+  },
+  {
+    "index": 586,
+    "jp": "<i>異なる世界より出でたる　『ギ』</i>",
+    "us": "<i>They who came from without were one such threat.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0400_0200_00_set"
+    ]
+  },
+  {
+    "index": 587,
+    "jp": "<i>『ギ』の祈りがつくりし　黒きマテリア</i>",
+    "us": "<i>The Gi, who with bitter prayer\r\nforged the black materia.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0400_0300_00_set"
+    ]
+  },
+  {
+    "index": 588,
+    "jp": "<i>この禍々しいマテリアを\r\n後世の野心から　隠し続けなければならない</i>",
+    "us": "<i>So foul was the orb's magic that we knew at once it must be hidden, that none might ever wield its terrible power.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0400_0400_00_set"
+    ]
+  },
+  {
+    "index": 589,
+    "jp": "<i>邪悪なる黒きマテリアは　メテオを呼ぶ</i>",
+    "us": "<i>The black materia shall summon\r\nthe destroyer of worlds.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0500_0100_00_set"
+    ]
+  },
+  {
+    "index": 590,
+    "jp": "<i>メテオは星に落ち　大地を破壊するだろう</i>",
+    "us": "<i>The meteor shall fall, sundering the skies\r\nand shattering the earth.</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0500_0110_00_set"
+    ]
+  },
+  {
+    "index": 591,
+    "jp": "<i>そののちに　残る命は──</i>",
+    "us": "<i>All life shall perish...</i>",
+    "actor": "<i>The Cetra</i>",
+    "examples": [
+      "$C3340_MAIN_0500_0200_00_set"
+    ]
+  },
+  {
+    "index": 592,
+    "jp": "それは　私ひとりだ",
+    "us": "Yet I shall remain.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_0300_00_sep"
+    ]
+  },
+  {
+    "index": 593,
+    "jp": "ついに　ジェノバの申し子が\r\n星を支配する日がくる",
+    "us": "I, son of Jenova, will at last claim my birthright.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_0400_00_sep"
+    ]
+  },
+  {
+    "index": 594,
+    "jp": "そしていまや　世界はひとつではない",
+    "us": "My dominion shall reach into infinity.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_0500_00_sep"
+    ]
+  },
+  {
+    "index": 595,
+    "jp": "運命の拘束を逃れた世界が　新たな時を刻んでいる",
+    "us": "It shall encompass worlds unbound by fate\r\nand histories unwritten.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_0600_00_sep"
+    ]
+  },
+  {
+    "index": 596,
+    "jp": "どういうこと？",
+    "us": "What do you mean?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_0500_0700_00_art"
+    ]
+  },
+  {
+    "index": 597,
+    "jp": "ジェノバとともに\r\n世界もまた　リユニオンするのだ",
+    "us": "My fragmented mother, these errant worlds...\r\nAll shall be one again.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_0900_00_sep"
+    ]
+  },
+  {
+    "index": 598,
+    "jp": "リユニオン……",
+    "us": "The \"reunion\"...",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_0500_1000_00_art"
+    ]
+  },
+  {
+    "index": 599,
+    "jp": "その先にあるのは",
+    "us": "All made whole.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1200_00_sep"
+    ]
+  },
+  {
+    "index": 600,
+    "jp": "永遠",
+    "us": "Forever.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1210_00_sep"
+    ]
+  },
+  {
+    "index": 601,
+    "jp": "永遠なんて　ない",
+    "us": "There's no such thing as \"forever.\"",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_0500_1300_00_art"
+    ]
+  },
+  {
+    "index": 602,
+    "jp": "ああ　いまはまだ",
+    "us": "Ah...but there will be.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1500_00_sep"
+    ]
+  },
+  {
+    "index": 603,
+    "jp": "あなたは　まちがっている",
+    "us": "No. You're wrong.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_0500_1600_00_art"
+    ]
+  },
+  {
+    "index": 604,
+    "jp": "おまえたちは　ここで死ぬ",
+    "us": "Your day of reckoning is here.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1700_00_sep"
+    ]
+  },
+  {
+    "index": 605,
+    "jp": "だが　悲しむことはない",
+    "us": "Yet you need not be afraid.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1710_00_sep"
+    ]
+  },
+  {
+    "index": 606,
+    "jp": "星に帰るだけだ",
+    "us": "This is but a homecoming.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_0500_1800_00_sep"
+    ]
+  },
+  {
+    "index": 607,
+    "jp": "どうなってやがる！",
+    "us": "Not <i>two</i> of 'em!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_0550_0100_00_blt"
+    ]
+  },
+  {
+    "index": 608,
+    "jp": "やったな　まだ星には帰らねえぞ！",
+    "us": "Still alive! No \"homecomin'\" for us today!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_0600_0100_00_blt"
+    ]
+  },
+  {
+    "index": 609,
+    "jp": "あんなんで　アタシたちを\r\n止められるわけないっつーの！",
+    "us": "As if we were ever gonna lose. We're unstoppable!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_0600_0200_00_yfi"
+    ]
+  },
+  {
+    "index": 610,
+    "jp": "邪魔するな",
+    "us": "Let me through.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_0600_0300_00_cld"
+    ]
+  },
+  {
+    "index": 611,
+    "jp": "クラウドよお……",
+    "us": "Hey, man...",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_0600_0601_00_blt"
+    ]
+  },
+  {
+    "index": 612,
+    "jp": "待って！",
+    "us": "Don't!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_0800_0200_00_art"
+    ]
+  },
+  {
+    "index": 613,
+    "jp": "あいつ　なんだってんだ？",
+    "us": "Now where in the hell is he off to?",
+    "actor": "Cid",
+    "examples": [
+      "$C3340_MAIN_0900_0100_00_cid"
+    ]
+  },
+  {
+    "index": 614,
+    "jp": "ちょっと！",
+    "us": "Hey! Watch it!",
+    "actor": "Elena",
+    "examples": [
+      "$C3340_MAIN_1000_0100_00_eln"
+    ]
+  },
+  {
+    "index": 615,
+    "jp": "カンニンやで～！",
+    "us": "Sorry about that!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1000_0200_00_cat"
+    ]
+  },
+  {
+    "index": 616,
+    "jp": "急ぐぞ",
+    "us": "Come on.",
+    "actor": "Rude",
+    "examples": [
+      "$C3340_MAIN_1000_0300_00_lud"
+    ]
+  },
+  {
+    "index": 617,
+    "jp": "クソ　どうなってやがる！",
+    "us": "How come everything started shakin'!?",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_0100_00_blt"
+    ]
+  },
+  {
+    "index": 618,
+    "jp": "『星の破壊を望む者に　永遠の眠りを与えん』",
+    "us": "\"Let those who seek our star's demise\r\nfind herein their rest.\"",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_0200_00_art"
+    ]
+  },
+  {
+    "index": 619,
+    "jp": "黒マテリア取ると　ここ崩れるの",
+    "us": "If the black materia is removed,\r\nthe whole place comes down.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_0300_00_art"
+    ]
+  },
+  {
+    "index": 620,
+    "jp": "冗談だよね？",
+    "us": "You're kidding, right?",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_1200_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 621,
+    "jp": "ねえ　冗談って言って！",
+    "us": "Please tell me that you're kidding!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_1200_0410_00_yfi"
+    ]
+  },
+  {
+    "index": 622,
+    "jp": "落ちついて！",
+    "us": "Calm down!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_1200_0500_00_red"
+    ]
+  },
+  {
+    "index": 623,
+    "jp": "黒マテリアを　台に戻せば",
+    "us": "We just have to return it to the altar.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_1200_0510_00_red"
+    ]
+  },
+  {
+    "index": 624,
+    "jp": "はなせ！",
+    "us": "Let go!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1200_0600_00_cld"
+    ]
+  },
+  {
+    "index": 625,
+    "jp": "はなすのは　おまえだって！",
+    "us": "You first, kid!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_0700_00_blt"
+    ]
+  },
+  {
+    "index": 626,
+    "jp": "ダメ　もう崩壊は止まらない",
+    "us": "It's too late! We can't stop it now.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_0800_00_art"
+    ]
+  },
+  {
+    "index": 627,
+    "jp": "それに　その黒マテリアもニセモノ",
+    "us": "Besides, there's no point fighting over a fake.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_0810_00_art"
+    ]
+  },
+  {
+    "index": 628,
+    "jp": "俺を　だますつもりだな？",
+    "us": "No... You're trying to fool me.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1200_0900_00_cld"
+    ]
+  },
+  {
+    "index": 629,
+    "jp": "ちっくしょう　ダメかよ！",
+    "us": "Dammit... Think we're screwed!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_1000_00_blt"
+    ]
+  },
+  {
+    "index": 630,
+    "jp": "はいにゃ　ご無沙汰してます～",
+    "us": "I'm back─just in the nick of time!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1100_00_cat"
+    ]
+  },
+  {
+    "index": 631,
+    "jp": "てっめえ……！",
+    "us": "You double-crossin'...",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_1200_00_blt"
+    ]
+  },
+  {
+    "index": 632,
+    "jp": "話はあと！",
+    "us": "Hold that thought!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1300_00_cat"
+    ]
+  },
+  {
+    "index": 633,
+    "jp": "ここは　ボクにまかせて\r\nみなさんは　逃げてください",
+    "us": "Run─while there's still time.\r\nLeave the heavy liftin' to me!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1500_00_cat"
+    ]
+  },
+  {
+    "index": 634,
+    "jp": "おまえ……",
+    "us": "For real?",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_1600_00_blt"
+    ]
+  },
+  {
+    "index": 635,
+    "jp": "ケット・シーは　どうするの？",
+    "us": "But what about you?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_1700_00_art"
+    ]
+  },
+  {
+    "index": 636,
+    "jp": "ボクは　しょせん占いロボット",
+    "us": "No need to fret about a bot like me.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1800_00_cat"
+    ]
+  },
+  {
+    "index": 637,
+    "jp": "気にせんとってください",
+    "us": "I wasnae built to last!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1810_00_cat"
+    ]
+  },
+  {
+    "index": 638,
+    "jp": "鍛えとくん……やったなあ",
+    "us": "I wish I hadnae skipped leg day.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1900_00_cat"
+    ]
+  },
+  {
+    "index": 639,
+    "jp": "長くは持ちません\r\nせやから　死ぬ気で走ってや！",
+    "us": "Cannae hold out for long, so run...\r\nas if your lives depended on it!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_1910_00_cat"
+    ]
+  },
+  {
+    "index": 640,
+    "jp": "出るぞ",
+    "us": "Come.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3340_MAIN_1200_2000_00_vin"
+    ]
+  },
+  {
+    "index": 641,
+    "jp": "脱出ルートは確保した",
+    "us": "I have secured us an exit.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3340_MAIN_1200_2100_00_vin"
+    ]
+  },
+  {
+    "index": 642,
+    "jp": "行くぞ　脱出だ",
+    "us": "C'mon. We gotta move.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1200_2200_00_cld"
+    ]
+  },
+  {
+    "index": 643,
+    "jp": "すまねえ　まかせるぞ",
+    "us": "Hey, cat... 'Preciate it.",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1200_2250_00_blt"
+    ]
+  },
+  {
+    "index": 644,
+    "jp": "はいにゃ！",
+    "us": "Off with ye!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1200_2250_05_cat"
+    ]
+  },
+  {
+    "index": 645,
+    "jp": "しっかりして！",
+    "us": "Still with us?",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_1200_2400_00_tif"
+    ]
+  },
+  {
+    "index": 646,
+    "jp": "ああ　わかってる",
+    "us": "Yeah... I'm good.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1200_2500_00_cld"
+    ]
+  },
+  {
+    "index": 647,
+    "jp": "行こう",
+    "us": "Let's go.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1200_2600_00_art"
+    ]
+  },
+  {
+    "index": 648,
+    "jp": "ヤバイ　ヤバイヤバイヤバイって！",
+    "us": "Crap crap crappity crap crap crap!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_1300_0100_00_yfi"
+    ]
+  },
+  {
+    "index": 649,
+    "jp": "うるせい　黙って走れ！",
+    "us": "Shut up and <i>run</i>!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1300_0200_00_blt"
+    ]
+  },
+  {
+    "index": 650,
+    "jp": "ケット・シーに　私たち\r\nひどいこと言っちゃったね",
+    "us": "I feel terrible about the way we treated Cait Sith.",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_1300_0300_00_tif"
+    ]
+  },
+  {
+    "index": 651,
+    "jp": "あやまりたかったな",
+    "us": "Can't take it back though.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_1300_0500_00_red"
+    ]
+  },
+  {
+    "index": 652,
+    "jp": "ありがとうやて　なんや照れるわ",
+    "us": "\"Thanks, Cait!\"\r\n\"You're welcome!\"",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1400_0100_00_cat"
+    ]
+  },
+  {
+    "index": 653,
+    "jp": "みんな……急いでや",
+    "us": "Don't stop runnin'. Please don't stop.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1400_0200_00_cat"
+    ]
+  },
+  {
+    "index": 654,
+    "jp": "おいおい　間に合うか……？",
+    "us": "Not sure...we're gettin' outta this one...",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1500_0100_00_blt"
+    ]
+  },
+  {
+    "index": 655,
+    "jp": "ケット・シーが　ふんばってくれてる！",
+    "us": "We can't let his death be in vain.",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_1500_0200_00_red"
+    ]
+  },
+  {
+    "index": 656,
+    "jp": "うん　ぜったい生き延びよう",
+    "us": "We won't. We're gonna make it!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_1500_0300_00_tif"
+    ]
+  },
+  {
+    "index": 657,
+    "jp": "走れ走れ走れ走れ　走れー！",
+    "us": "Well then...y'all better pick up the pace!",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1500_0400_00_blt"
+    ]
+  },
+  {
+    "index": 658,
+    "jp": "うるさいって　黙って走れ！",
+    "us": "Yeah, what he said! Shut up and run, dammit!",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_1500_0500_00_yfi"
+    ]
+  },
+  {
+    "index": 659,
+    "jp": "もうすぐ！",
+    "us": "Almost there!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_1600_0100_00_tif"
+    ]
+  },
+  {
+    "index": 660,
+    "jp": "前だけ見て！",
+    "us": "Don't look back!",
+    "actor": "Red XIII",
+    "examples": [
+      "$C3340_MAIN_1600_0300_00_red"
+    ]
+  },
+  {
+    "index": 661,
+    "jp": "ぼちぼち　ええかな……",
+    "us": "It was a good run...while it lasted...",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1700_0100_00_cat"
+    ]
+  },
+  {
+    "index": 662,
+    "jp": "ほな　みんな……\r\nしっかり　星を救うんやで",
+    "us": "You did...what you could... The rest...is up to them.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1700_0300_00_cat"
+    ]
+  },
+  {
+    "index": 663,
+    "jp": "いや～　壮観ですな～！",
+    "us": "Now <i>that's</i> not a sight you see every day, eh?",
+    "actor": "???",
+    "examples": [
+      "$C3340_MAIN_1900_0100_00_cat"
+    ]
+  },
+  {
+    "index": 664,
+    "jp": "おまえ　どうやって！",
+    "us": "But you─we saw you...",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1900_0200_00_blt"
+    ]
+  },
+  {
+    "index": 665,
+    "jp": "ボクがいないと\r\nゴールド・ソーサーが寂しくなりますからね",
+    "us": "If I popped my clogs,\r\nthey'd be sobbin' in the streets at the Saucer.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1900_0300_00_cat"
+    ]
+  },
+  {
+    "index": 666,
+    "jp": "ボディの予備は　いっぱいあるんです",
+    "us": "This beautiful body's but one of many!",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1900_0400_00_cat"
+    ]
+  },
+  {
+    "index": 667,
+    "jp": "よかった",
+    "us": "Welcome back.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1900_0500_00_art"
+    ]
+  },
+  {
+    "index": 668,
+    "jp": "やめてえな～！",
+    "us": "Alright! Knock it off, you.",
+    "actor": "Cait Sith",
+    "examples": [
+      "$C3340_MAIN_1900_0600_00_cat"
+    ]
+  },
+  {
+    "index": 669,
+    "jp": "で　目当てのもんは手に入ったのか？",
+    "us": "So? Y'all get what you were after?",
+    "actor": "Cid",
+    "examples": [
+      "$C3340_MAIN_1900_0700_00_cid"
+    ]
+  },
+  {
+    "index": 670,
+    "jp": "それ　聞いちゃう？",
+    "us": "Read the room, dude.",
+    "actor": "Yuffie",
+    "examples": [
+      "$C3340_MAIN_1900_0800_00_yfi"
+    ]
+  },
+  {
+    "index": 671,
+    "jp": "おまえ　どうしちまったんだよ",
+    "us": "Hey─what's gotten into you?",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1900_0900_00_blt"
+    ]
+  },
+  {
+    "index": 672,
+    "jp": "話　聞いてなかったのか？",
+    "us": "Didn't you hear what Aerith said?",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1900_0910_00_blt"
+    ]
+  },
+  {
+    "index": 673,
+    "jp": "返してくれ",
+    "us": "That's mine!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1900_1000_00_cld"
+    ]
+  },
+  {
+    "index": 674,
+    "jp": "こんなもん……",
+    "us": "Fine. Fetch.",
+    "actor": "Barret",
+    "examples": [
+      "$C3340_MAIN_1900_1100_00_blt"
+    ]
+  },
+  {
+    "index": 675,
+    "jp": "セフィロス",
+    "us": "Sephiroth...",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1900_1200_00_cld"
+    ]
+  },
+  {
+    "index": 676,
+    "jp": "これは鍵だ",
+    "us": "This is the key...",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_1900_1300_00_sep"
+    ]
+  },
+  {
+    "index": 677,
+    "jp": "世界の狭間に隠された本物を手に入れるためのな",
+    "us": "which grants access to the true counterpart\r\nhidden between worlds.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_1900_1400_00_sep"
+    ]
+  },
+  {
+    "index": 678,
+    "jp": "返して！",
+    "us": "Give it back!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_1900_1500_00_art"
+    ]
+  },
+  {
+    "index": 679,
+    "jp": "さあ　時は満ちた",
+    "us": "At last─the time has come.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_1900_1600_00_sep"
+    ]
+  },
+  {
+    "index": 680,
+    "jp": "黒マテリア……",
+    "us": "The black materia...",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_1900_1700_00_cld",
+      "$C3340_MAIN_2300_0500_00_cld",
+      "$C3340_MAIN_2300_0501_00_cld"
+    ]
+  },
+  {
+    "index": 681,
+    "jp": "なんだ　あれは？",
+    "us": "What in the world is going on?",
+    "actor": "Rufus",
+    "examples": [
+      "$C3340_MAIN_2000_0100_00_ruf"
+    ]
+  },
+  {
+    "index": 682,
+    "jp": "始まる　始まるのか！",
+    "us": "Could it be? Has it finally begun!?",
+    "actor": "Hojo",
+    "examples": [
+      "$C3340_MAIN_2000_0210_00_hjo"
+    ]
+  },
+  {
+    "index": 683,
+    "jp": "制御不能　このままでは墜落します！",
+    "us": "We're losing altitude, sir─and fast!",
+    "actor": "Pilot",
+    "examples": [
+      "$C3340_MAIN_2000_0400_00_skm"
+    ]
+  },
+  {
+    "index": 684,
+    "jp": "離脱しろ",
+    "us": "Get us clear!",
+    "actor": "Rufus",
+    "examples": [
+      "$C3340_MAIN_2000_0500_00_ruf"
+    ]
+  },
+  {
+    "index": 685,
+    "jp": "フィーラー？",
+    "us": "Whispers!?",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_2100_0100_00_art"
+    ]
+  },
+  {
+    "index": 686,
+    "jp": "いや　セフィロスだ",
+    "us": "No... Sephiroth.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2100_0200_00_cld"
+    ]
+  },
+  {
+    "index": 687,
+    "jp": "来い　クラウド",
+    "us": "I'm waiting, Cloud.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_2100_0300_00_sep"
+    ]
+  },
+  {
+    "index": 688,
+    "jp": "さあ　クラウド",
+    "us": "Rise, Cloud.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_2200_0200_00_sep"
+    ]
+  },
+  {
+    "index": 689,
+    "jp": "約束の時だ",
+    "us": "Bring it to me.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_2200_0300_00_sep"
+    ]
+  },
+  {
+    "index": 690,
+    "jp": "エアリス　返してくれ",
+    "us": "Aerith! Please!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2200_0400_00_cld"
+    ]
+  },
+  {
+    "index": 691,
+    "jp": "しっかりして　クラウド！",
+    "us": "Cloud! Snap out of it!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_2200_0500_00_tif"
+    ]
+  },
+  {
+    "index": 692,
+    "jp": "クラウド　しっかりしろ",
+    "us": "Yes, Cloud. Snap out of it.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_2200_0600_00_sep"
+    ]
+  },
+  {
+    "index": 693,
+    "jp": "あなたには　渡せない",
+    "us": "I can't let you have this.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_2200_0700_00_art"
+    ]
+  },
+  {
+    "index": 694,
+    "jp": "さあ　取り返さなくては",
+    "us": "If she won't give it to us, we must take it.",
+    "actor": "Sephiroth",
+    "examples": [
+      "$C3340_MAIN_2200_0800_00_sep"
+    ]
+  },
+  {
+    "index": 695,
+    "jp": "クラウド　だめ！",
+    "us": "Cloud, stop!",
+    "actor": "Tifa",
+    "examples": [
+      "$C3340_MAIN_2200_0900_00_tif"
+    ]
+  },
+  {
+    "index": 696,
+    "jp": "エアリス……",
+    "us": "Aerith!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2300_0200_00_cld",
+      "$C3340_MAIN_2300_0201_00_cld",
+      "$C3340_MAIN_2300_0202_00_cld",
+      "$C3340_MAIN_2300_0203_00_cld",
+      "$C3340_MAIN_2400_0100_00_cld",
+      "$C3340_MAIN_2400_0101_00_cld"
+    ]
+  },
+  {
+    "index": 697,
+    "jp": "待ってくれ",
+    "us": "Let's talk.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2300_0300_00_cld",
+      "$C3340_MAIN_2300_0301_00_cld",
+      "$C3340_MAIN_2300_0302_00_cld"
+    ]
+  },
+  {
+    "index": 698,
+    "jp": "渡してくれ",
+    "us": "Give it to me.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2400_0200_00_cld",
+      "$C3340_MAIN_2400_0201_00_cld"
+    ]
+  },
+  {
+    "index": 699,
+    "jp": "お願いだ……",
+    "us": "Please?",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2400_0300_00_cld",
+      "$C3340_MAIN_2400_0301_00_cld"
+    ]
+  },
+  {
+    "index": 700,
+    "jp": "信じてくれ",
+    "us": "You can trust me.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2400_0400_00_cld",
+      "$C3340_MAIN_2400_0401_00_cld"
+    ]
+  },
+  {
+    "index": 701,
+    "jp": "いっしょに　星を守ろう",
+    "us": "Let's save the planet together.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2400_0500_00_cld",
+      "$C3340_MAIN_2400_0501_00_cld"
+    ]
+  },
+  {
+    "index": 702,
+    "jp": "エアリス　さあ……",
+    "us": "The orb, Aerith.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2500_0100_00_cld"
+    ]
+  },
+  {
+    "index": 703,
+    "jp": "なにがあっても　いっしょだよ",
+    "us": "Whatever happens, I'm here for you.",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_2500_0200_00_art"
+    ]
+  },
+  {
+    "index": 704,
+    "jp": "ありがとう",
+    "us": "Thank you.",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2500_0300_00_cld"
+    ]
+  },
+  {
+    "index": 705,
+    "jp": "エアリス！",
+    "us": "Aerith!",
+    "actor": "Cloud",
+    "examples": [
+      "$C3340_MAIN_2500_0400_00_cld"
+    ]
+  },
+  {
+    "index": 706,
+    "jp": "おかえり",
+    "us": "Cloud!",
+    "actor": "Aerith",
+    "examples": [
+      "$C3340_MAIN_2500_0500_00_art"
+    ]
+  },
+  {
+    "index": 707,
+    "jp": "この柱　利用できないか？",
+    "us": "Got an idea. Let's use the pillar.",
+    "actor": "Cloud",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0100_00_cld"
+    ]
+  },
+  {
+    "index": 708,
+    "jp": "おい　この柱ぶっ壊すぞ！",
+    "us": "Hey!\r\nHow about bringin' down that pillar?",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0200_00_blt"
+    ]
+  },
+  {
+    "index": 709,
+    "jp": "この柱　倒しちゃおっか",
+    "us": "Maybe that pillar's big enough to use!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0300_00_art"
+    ]
+  },
+  {
+    "index": 710,
+    "jp": "柱を倒して　ぶつけよう！",
+    "us": "Let's hit it with the pillar!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0400_00_tif"
+    ]
+  },
+  {
+    "index": 711,
+    "jp": "いまなら　柱を倒せるかも",
+    "us": "We might be able to take out that pillar!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0500_00_red"
+    ]
+  },
+  {
+    "index": 712,
+    "jp": "柱　まっかっか！",
+    "us": "That pillar's ready to melt!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_19_1100_0600_00_yfi"
+    ]
+  },
+  {
+    "index": 713,
+    "jp": "おもしろい",
+    "us": "Pretty good!",
+    "actor": "Cloud",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0100_00_cld",
+      "$TEMPL_BOS_20_1100_2500_00_cld"
+    ]
+  },
+  {
+    "index": 714,
+    "jp": "やってくれるな",
+    "us": "You'll pay for that.",
+    "actor": "Cloud",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0200_00_cld",
+      "$TEMPL_BOS_20_1100_2600_00_cld"
+    ]
+  },
+  {
+    "index": 715,
+    "jp": "カウンターを狙う！",
+    "us": "Gotta counter 'em!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0300_00_tif"
+    ]
+  },
+  {
+    "index": 716,
+    "jp": "次こそ　合わせてみせる！",
+    "us": "Once I time it right...",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0400_00_tif"
+    ]
+  },
+  {
+    "index": 717,
+    "jp": "くそ　やり返すまでよ！",
+    "us": "Dammit! I'm gonna get you good!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0500_00_blt"
+    ]
+  },
+  {
+    "index": 718,
+    "jp": "ハッ　倍にして返してやるぜ！",
+    "us": "Hah!\r\nWatch me beat you at your own game!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0600_00_blt"
+    ]
+  },
+  {
+    "index": 719,
+    "jp": "また来るよ！",
+    "us": "Heads up!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0700_00_tif"
+    ]
+  },
+  {
+    "index": 720,
+    "jp": "なんとかして止めなきゃ！",
+    "us": "Gotta take out the mines!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0800_00_tif",
+      "$TEMPL_BOS_22_1100_0800_00_tif"
+    ]
+  },
+  {
+    "index": 721,
+    "jp": "こいつらを先に落とさねえと！",
+    "us": "I'll be damned if I'm gonna\r\nlet you pull that shit again!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_0900_00_blt"
+    ]
+  },
+  {
+    "index": 722,
+    "jp": "また　ビリビリか！",
+    "us": "Enough with the mines!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1000_00_blt"
+    ]
+  },
+  {
+    "index": 723,
+    "jp": "準備はいいか",
+    "us": "Let's do this shit!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1500_00_ren"
+    ]
+  },
+  {
+    "index": 724,
+    "jp": "飛ばすぞ　と！",
+    "us": "Let's sweep 'em off their feet!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1600_00_ren"
+    ]
+  },
+  {
+    "index": 725,
+    "jp": "よーい　ドン！",
+    "us": "Aaand we're off!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1700_00_ren"
+    ]
+  },
+  {
+    "index": 726,
+    "jp": "レノ！",
+    "us": "Reno!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1800_00_lud"
+    ]
+  },
+  {
+    "index": 727,
+    "jp": "いくぞ！",
+    "us": "C'mon!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_1900_00_lud"
+    ]
+  },
+  {
+    "index": 728,
+    "jp": "捕らえる！",
+    "us": "On me!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2000_00_lud"
+    ]
+  },
+  {
+    "index": 729,
+    "jp": "はああっ！",
+    "us": "Hiyah!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2100_00_ren"
+    ]
+  },
+  {
+    "index": 730,
+    "jp": "ふんっ！",
+    "us": "Outta my face!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2101_00_ren"
+    ]
+  },
+  {
+    "index": 731,
+    "jp": "たあっ！",
+    "us": "Here goes!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2102_00_ren"
+    ]
+  },
+  {
+    "index": 732,
+    "jp": "くらえ！",
+    "us": "Bye!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2200_00_ren"
+    ]
+  },
+  {
+    "index": 733,
+    "jp": "はああっ！",
+    "us": "Hrah!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2300_00_lud"
+    ]
+  },
+  {
+    "index": 734,
+    "jp": "たあっ！",
+    "us": "Hiyah!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2301_00_lud"
+    ]
+  },
+  {
+    "index": 735,
+    "jp": "おりゃあ！",
+    "us": "Hwah!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2302_00_lud"
+    ]
+  },
+  {
+    "index": 736,
+    "jp": "沈め！",
+    "us": "It's over!",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2400_00_lud"
+    ]
+  },
+  {
+    "index": 737,
+    "jp": "どうにかしないと",
+    "us": "Assholes.",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2700_00_tif"
+    ]
+  },
+  {
+    "index": 738,
+    "jp": "すぐに助けるから！",
+    "us": "It's gonna be okay!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2800_00_tif"
+    ]
+  },
+  {
+    "index": 739,
+    "jp": "これ以上やらせっか！",
+    "us": "I'll rip ya a new one!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_2900_00_blt"
+    ]
+  },
+  {
+    "index": 740,
+    "jp": "ちくしょう　許さねえ！",
+    "us": "You are <i>not</i> gettin' away with this!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_20_1100_3000_00_blt"
+    ]
+  },
+  {
+    "index": 741,
+    "jp": "慌てるな",
+    "us": "I got you.",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_3100_00_lud"
+    ]
+  },
+  {
+    "index": 742,
+    "jp": "いけるな？",
+    "us": "You ready?",
+    "actor": "Rude",
+    "examples": [
+      "$TEMPL_BOS_20_1100_3200_00_lud"
+    ]
+  },
+  {
+    "index": 743,
+    "jp": "危ないぞ　と",
+    "us": "Aw, come on. Step it up.",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_3300_00_ren"
+    ]
+  },
+  {
+    "index": 744,
+    "jp": "こんな感じでいっか？",
+    "us": "Tell me you ain't having fun!",
+    "actor": "Reno",
+    "examples": [
+      "$TEMPL_BOS_20_1100_3400_00_ren"
+    ]
+  },
+  {
+    "index": 745,
+    "jp": "エアリス　おとなしく──",
+    "us": "Spare us both the effort and─",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0100_00_tsu"
+    ]
+  },
+  {
+    "index": 746,
+    "jp": "しません！",
+    "us": "No!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0200_00_art"
+    ]
+  },
+  {
+    "index": 747,
+    "jp": "仕事だ　本気でいくぞ",
+    "us": "Remember that I tried to\r\nreason with you.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0300_00_tsu"
+    ]
+  },
+  {
+    "index": 748,
+    "jp": "主任　集中！",
+    "us": "She's a lost cause.",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0400_00_eln"
+    ]
+  },
+  {
+    "index": 749,
+    "jp": "さすがタークス　息ぴったり",
+    "us": "Well, can't say these two\r\ndon't make a good team!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0500_00_art"
+    ]
+  },
+  {
+    "index": 750,
+    "jp": "ふたりまとめて　やっちゃおう！",
+    "us": "We'll just have to take 'em both out!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0600_00_red"
+    ]
+  },
+  {
+    "index": 751,
+    "jp": "あいつら　いっしょに崩せないかな？",
+    "us": "Two Turks...one ninja star!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0700_00_yfi"
+    ]
+  },
+  {
+    "index": 752,
+    "jp": "ツォンの攻撃　気をつけて！",
+    "us": "Guys! Gotta watch out for Tseng!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0800_00_art"
+    ]
+  },
+  {
+    "index": 753,
+    "jp": "避けるか守るか　見極められる？",
+    "us": "Don't know whether to dodge\r\nor defend with this guy!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_0900_00_red"
+    ]
+  },
+  {
+    "index": 754,
+    "jp": "危ないときは　逃げまわって！",
+    "us": "Gotta steer clear of this guy!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1000_00_yfi"
+    ]
+  },
+  {
+    "index": 755,
+    "jp": "ごめん！",
+    "us": "Sorry!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1100_00_art"
+    ]
+  },
+  {
+    "index": 756,
+    "jp": "休んでて！",
+    "us": "I don't think so!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1200_00_art"
+    ]
+  },
+  {
+    "index": 757,
+    "jp": "やっちゃおう！",
+    "us": "Get in there, guys!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1300_00_red"
+    ]
+  },
+  {
+    "index": 758,
+    "jp": "いまだ！",
+    "us": "Alright!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1400_00_red"
+    ]
+  },
+  {
+    "index": 759,
+    "jp": "ざまみろっ！",
+    "us": "Sucker!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1500_00_yfi"
+    ]
+  },
+  {
+    "index": 760,
+    "jp": "ど～だっ！",
+    "us": "How d'ya like that!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1600_00_yfi"
+    ]
+  },
+  {
+    "index": 761,
+    "jp": "絶対　あきらめないから",
+    "us": "Gonna take more than that to stop us!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1700_00_art"
+    ]
+  },
+  {
+    "index": 762,
+    "jp": "なんとかしなきゃ！",
+    "us": "Gotta do something!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1800_00_art"
+    ]
+  },
+  {
+    "index": 763,
+    "jp": "オイラ　燃えてきた～！",
+    "us": "If you thought I was scary before...!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_1900_00_red"
+    ]
+  },
+  {
+    "index": 764,
+    "jp": "オイラは逃げない！",
+    "us": "It's payback time!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2000_00_red"
+    ]
+  },
+  {
+    "index": 765,
+    "jp": "ボッコボコにしてやる！",
+    "us": "Oh, you are in for it now!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2100_00_yfi"
+    ]
+  },
+  {
+    "index": 766,
+    "jp": "ウータイの意地　見せたげる！",
+    "us": "You jerks messed with the wrong people!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2200_00_yfi"
+    ]
+  },
+  {
+    "index": 767,
+    "jp": "ツォンさん！",
+    "us": "Sir!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2500_00_eln"
+    ]
+  },
+  {
+    "index": 768,
+    "jp": "主任　お願いします！",
+    "us": "Time to team up!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2700_00_eln"
+    ]
+  },
+  {
+    "index": 769,
+    "jp": "ああ　見せてやろう",
+    "us": "Just as we practiced.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2800_00_tsu"
+    ]
+  },
+  {
+    "index": 770,
+    "jp": "ついてこい",
+    "us": "On me.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_2900_00_tsu"
+    ]
+  },
+  {
+    "index": 771,
+    "jp": "ともにいくぞ",
+    "us": "Understood.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3000_00_tsu"
+    ]
+  },
+  {
+    "index": 772,
+    "jp": "イリーナ！",
+    "us": "Elena!",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3100_00_tsu"
+    ]
+  },
+  {
+    "index": 773,
+    "jp": "イリーナ　いくぞ！",
+    "us": "Elena! With me!",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3300_00_tsu"
+    ]
+  },
+  {
+    "index": 774,
+    "jp": "はっ……はい！",
+    "us": "C-copy!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3400_00_eln"
+    ]
+  },
+  {
+    "index": 775,
+    "jp": "おまかせを！",
+    "us": "Leave it to me!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3600_00_eln"
+    ]
+  },
+  {
+    "index": 776,
+    "jp": "仕留める！",
+    "us": "You're done!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3700_00_eln"
+    ]
+  },
+  {
+    "index": 777,
+    "jp": "キメる！",
+    "us": "Enough!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3800_00_eln"
+    ]
+  },
+  {
+    "index": 778,
+    "jp": "やりとげる！",
+    "us": "It's over!",
+    "actor": "Elena",
+    "examples": [
+      "$TEMPL_BOS_21_1100_3900_00_eln"
+    ]
+  },
+  {
+    "index": 779,
+    "jp": "抵抗は無駄だ",
+    "us": "Admit defeat.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_4000_00_tsu"
+    ]
+  },
+  {
+    "index": 780,
+    "jp": "覚悟はいいな？",
+    "us": "You shoulda run.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_4100_00_tsu"
+    ]
+  },
+  {
+    "index": 781,
+    "jp": "仕留めよう",
+    "us": "Finish it.",
+    "actor": "Tseng",
+    "examples": [
+      "$TEMPL_BOS_21_1100_4200_00_tsu"
+    ]
+  },
+  {
+    "index": 782,
+    "jp": "ここ　狭くなってる？",
+    "us": "Getting kinda cramped in here.",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0100_00_art"
+    ]
+  },
+  {
+    "index": 783,
+    "jp": "おいおい　ヤバいんじゃねーか？",
+    "us": "We're runnin' out of room here, folks!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0200_00_blt"
+    ]
+  },
+  {
+    "index": 784,
+    "jp": "このままじゃ……",
+    "us": "Not good...",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0300_00_tif"
+    ]
+  },
+  {
+    "index": 785,
+    "jp": "ずっこい！",
+    "us": "Not cool!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0400_00_yfi"
+    ]
+  },
+  {
+    "index": 786,
+    "jp": "カンベンしてよ～",
+    "us": "As if this couldn't get any worse!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0500_00_red"
+    ]
+  },
+  {
+    "index": 787,
+    "jp": "また壁　動かすつもり？",
+    "us": "I think it's trying to crush us again!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0600_00_art"
+    ]
+  },
+  {
+    "index": 788,
+    "jp": "とっととブチのめす！",
+    "us": "Oh no you don't!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0700_00_blt"
+    ]
+  },
+  {
+    "index": 789,
+    "jp": "かんべ～ん！",
+    "us": "Oh, gimme a break!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_22_1100_0900_00_yfi"
+    ]
+  },
+  {
+    "index": 790,
+    "jp": "やられるまえに　やっちゃおう！",
+    "us": "Gotta stop it while we can!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1000_00_red"
+    ]
+  },
+  {
+    "index": 791,
+    "jp": "壁　ゆっくりになった？",
+    "us": "Okay, bought us some time!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1100_00_art"
+    ]
+  },
+  {
+    "index": 792,
+    "jp": "余裕だな　こりゃ！",
+    "us": "Haha! That was easy!",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1200_00_blt"
+    ]
+  },
+  {
+    "index": 793,
+    "jp": "効いてるみたい！",
+    "us": "It's working!",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1300_00_tif"
+    ]
+  },
+  {
+    "index": 794,
+    "jp": "ざまあみろ～！",
+    "us": "How'd ya like that!?",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1400_00_yfi"
+    ]
+  },
+  {
+    "index": 795,
+    "jp": "うまくいったね！",
+    "us": "Hey, that worked pretty well!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1500_00_red"
+    ]
+  },
+  {
+    "index": 796,
+    "jp": "もう逃げ場　ないよ！",
+    "us": "We're in serious trouble!",
+    "actor": "Aerith",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1600_00_art"
+    ]
+  },
+  {
+    "index": 797,
+    "jp": "次が来たら　終わるぞ",
+    "us": "No stoppin' it now.",
+    "actor": "Barret",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1700_00_blt"
+    ]
+  },
+  {
+    "index": 798,
+    "jp": "どうしよう……",
+    "us": "This is bad...",
+    "actor": "Tifa",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1800_00_tif"
+    ]
+  },
+  {
+    "index": 799,
+    "jp": "これ　ヤバくない？",
+    "us": "We're doomed!",
+    "actor": "Yuffie",
+    "examples": [
+      "$TEMPL_BOS_22_1100_1900_00_yfi"
+    ]
+  },
+  {
+    "index": 800,
+    "jp": "持ちこたえなきゃ！",
+    "us": "Here it comes!",
+    "actor": "Red XIII",
+    "examples": [
+      "$TEMPL_BOS_22_1100_2000_00_red"
+    ]
+  },
+  {
+    "index": 801,
+    "jp": "おっ　来たな！",
+    "us": "There ya are.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0100_0100_00_cid"
+    ]
+  },
+  {
+    "index": 802,
+    "jp": "無線を使うぞ",
+    "us": "Need that radio.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_0100_0200_00_vin"
+    ]
+  },
+  {
+    "index": 803,
+    "jp": "古いぞ　使えるか？",
+    "us": "Thing's practically an antique.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0100_0300_00_cid"
+    ]
+  },
+  {
+    "index": 804,
+    "jp": "好都合だ",
+    "us": "Even better.",
+    "actor": "Vincent",
+    "examples": [
+      "$C3310_MAIN_0100_0400_00_vin"
+    ]
+  },
+  {
+    "index": 805,
+    "jp": "オレは　相棒の整備だ\r\n準備ができたら　声をかけてくれ",
+    "us": "Still got some more repairs to make, but lemme know when y'all're ready to roll.",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0500_0100_00_cid"
+    ]
+  },
+  {
+    "index": 806,
+    "jp": "おっ　出発か？",
+    "us": "You ready to jet?",
+    "actor": "Cid",
+    "examples": [
+      "$C3310_MAIN_0600_0100_00_cid"
+    ]
+  },
+  {
+    "index": 807,
+    "jp": "いろんな撮影スポットを教えていただき\r\nありがとうございました",
+    "us": "You're certainly well traveled. Your body of work is proof of that.",
+    "actor": "Snaps",
+    "examples": [
+      "$PHOTO_QST_00_0900_0100_00_fcs"
+    ]
+  },
+  {
+    "index": 808,
+    "jp": "あなたの作品が世界中に広まるといいですね",
+    "us": "I hope that more people come to recognize your talent.",
+    "actor": "Snaps",
+    "examples": [
+      "$PHOTO_QST_00_0900_0200_00_fcs"
+    ]
+  }
+]

@@ -1,0 +1,3797 @@
+[
+  {
+    "id": "$C2110_MAIN_0100_0100_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "セフィロスがいるのか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "He's here, isn't he?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 0
+  },
+  {
+    "id": "$C2110_MAIN_0100_0200_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "わからない",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "I don't know.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 1
+  },
+  {
+    "id": "$C2110_MAIN_0100_0300_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "モンスター　いそうだね",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Well, monsters sure are.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 2
+  },
+  {
+    "id": "$C2110_MAIN_0100_0400_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いかにも",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "No doubt.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 3
+  },
+  {
+    "id": "$C2110_MAIN_0100_0500_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ザコは適当にあしらう　深追いは禁物だ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Monsters we can handle. We've dealt with worse.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 4
+  },
+  {
+    "id": "$C2110_MAIN_0100_0600_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ザコなんて　いないよ",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "That's easy for you to say.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 5
+  },
+  {
+    "id": "$C2110_MAIN_0100_0610_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "わたしには　ぜーんぶ強敵",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "You fought the worst for a living.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 6
+  },
+  {
+    "id": "$C2110_MAIN_0100_0700_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "私も",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Not us though.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 7
+  },
+  {
+    "id": "$C2110_MAIN_0100_0800_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "オレもだ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Yeah, good point!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 8
+  },
+  {
+    "id": "$C2110_MAIN_0100_0810_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "クラウド　なんとかしてくれ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "You mind takin' the lead, merc?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 9
+  },
+  {
+    "id": "$C2110_MAIN_0100_0900_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "２０００だな",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "For two thousand.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 10
+  },
+  {
+    "id": "$C2110_MAIN_0100_1000_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "“極上”と“普通”の　あいだくらい？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Enough for her Standard Course twice, right?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 11
+  },
+  {
+    "id": "$C2110_MAIN_0100_1100_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "なんの話？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Her what now?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 12
+  },
+  {
+    "id": "$C2110_MAIN_0100_1200_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "もみ！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Ask him.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 13
+  },
+  {
+    "id": "$C2110_MAIN_0100_1300_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "もみ？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Cloud...?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 14
+  },
+  {
+    "id": "$C2110_MAIN_0100_1400_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "行くぞ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Forget it.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 15
+  },
+  {
+    "id": "$C2110_MAIN_0100_1410_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "各自　注意してくれ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "You guys need to focus.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 16
+  },
+  {
+    "id": "$C2110_MAIN_0200_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ここは元々　ミスリルを採ってたんだ\r\nおまえら　ミスリルはわかるか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Wasn't all that long ago that this place was a working mythril mine. Y'all know about mythril, right?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 17
+  },
+  {
+    "id": "$C2110_MAIN_0200_0200_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "う～ん　聞いたことはあるかな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Hmm... Not anything specific, no.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 18
+  },
+  {
+    "id": "$C2110_MAIN_0200_0300_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "とても硬い",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "It's pretty tough.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 19
+  },
+  {
+    "id": "$C2110_MAIN_0200_0400_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "そして　美しい",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "And beautiful besides.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 20
+  },
+  {
+    "id": "$C2110_MAIN_0200_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ふたりとも正解だ\r\nしかも　とんでもなく貴重だった",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Right on both counts. But what you might not realize is just how rare it is.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 21
+  },
+  {
+    "id": "$C2110_MAIN_0200_0600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ここ以外で採れたって話は　聞いたことがねえ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Never been found outside of these caves, in fact.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 22
+  },
+  {
+    "id": "$C2110_MAIN_0200_0700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "オレは昔　鉱山で働いてたからよ\r\nこの業界は　ちーっとばかり詳しいぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "And I oughta know. Worked in a mine myself back in the day. Hard not to learn about the life when you're livin' it.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 23
+  },
+  {
+    "id": "$C2110_MAIN_0200_0800_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "じゃあ　ミスリル探す？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Should we pick up a few souvenirs, then?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 24
+  },
+  {
+    "id": "$C2110_MAIN_0200_0900_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あんまり　オススメじゃあねえな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hmm... We could, but prob'ly not worth it.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 25
+  },
+  {
+    "id": "$C2110_MAIN_0200_1000_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "神羅の技術で　似たようなモノを\r\n作れるようになったんだ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Shinra's been churnin' out stuff made with more durable alloys for years now.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 26
+  },
+  {
+    "id": "$C2110_MAIN_0200_1100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "とてつもなく硬くて　キラキラしたモノをよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Even got that signature mythril sheen and everything.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 27
+  },
+  {
+    "id": "$C2110_MAIN_0200_1200_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "マテリア精製の応用だろうな",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Probably refined with materia too.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 28
+  },
+  {
+    "id": "$C2110_MAIN_0200_1300_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "へえ～　そうなんだ",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Look at you, Mister Shinra expert.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 29
+  },
+  {
+    "id": "$C2110_MAIN_0200_1400_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "たぶん",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "index": 30
+  },
+  {
+    "id": "$C2110_MAIN_0300_0100_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あっ　あの人たち！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "It's them.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 31
+  },
+  {
+    "id": "$C2110_MAIN_0300_0200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "奥へ向かっているようだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "It seems we've caught up.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 32
+  },
+  {
+    "id": "$C2110_MAIN_0300_0300_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "追うぞ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "C'mon.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 33
+  },
+  {
+    "id": "$C2110_MAIN_0400_0200_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "無事だといいな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Hope they're okay...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 34
+  },
+  {
+    "id": "$C2110_MAIN_0400_0300_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ああ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Yeah...",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 35
+  },
+  {
+    "id": "$C2110_MAIN_0400_0310_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "でも　深入りしないほうがいい",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "But if not...nothing we can do.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 36
+  },
+  {
+    "id": "$C2110_MAIN_0400_0400_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うん……",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Right...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 37
+  },
+  {
+    "id": "$C2110_MAIN_0400_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "だよな　気になるよな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "I don't know... We shouldn't just leave 'em.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 38
+  },
+  {
+    "id": "$C2110_MAIN_0400_0510_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "よし　オレが行く！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Know what? I'll go check.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 39
+  },
+  {
+    "id": "$C2110_MAIN_0400_0600_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うん　私も行くね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Okay. I'll come too.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 40
+  },
+  {
+    "id": "$C2110_MAIN_0400_0700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いや　こういう場所の歩き方には\r\nちょっとしたコツがいる",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Nah, you stay. I know what I'm doin' down here─\r\nyou don't.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 41
+  },
+  {
+    "id": "$C2110_MAIN_0400_0800_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "素人は　悪いが足手まといだ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Last thing we need is you gettin' hurt on us.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 42
+  },
+  {
+    "id": "$C2110_MAIN_0400_0900_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "私も行こう",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I'll accompany him.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 43
+  },
+  {
+    "id": "$C2110_MAIN_0400_0910_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "多少　心得がある",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I'm no stranger to caves.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 44
+  },
+  {
+    "id": "$C2110_MAIN_0400_1000_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "じゃあ　お願い　ごめんね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Okay, if you're sure... Sorry to─",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 45
+  },
+  {
+    "id": "$C2110_MAIN_0400_1100_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ううん　ありがとう",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "I mean...thank you.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 46
+  },
+  {
+    "id": "$C2110_MAIN_0400_1200_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ほかの黒マント　見失うなよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "You keep track of the other robes now, y'hear?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 47
+  },
+  {
+    "id": "$C2110_MAIN_0400_1300_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "気をつけてね～！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Careful down there!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 48
+  },
+  {
+    "id": "$C2110_MAIN_1100_0100_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うわ～　ひろ～い！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Wow... This place is huge!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 49
+  },
+  {
+    "id": "$C2110_MAIN_1100_0200_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あの建物",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "What's that?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 50
+  },
+  {
+    "id": "$C2110_MAIN_1100_0300_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "出口まで　つながっているのかもな",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Hopefully our ticket outta here.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 51
+  },
+  {
+    "id": "$C2110_MAIN_1100_0400_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "行ってみよう",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Let's see!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 52
+  },
+  {
+    "id": "$C2110_MAIN_1450_0100_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "黒マントの人たち　見失っちゃったね",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "I don't see any black robes. Did we lose 'em?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 53
+  },
+  {
+    "id": "$C2110_MAIN_1450_0200_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いつでも追いつける",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Still got time to catch up.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 54
+  },
+  {
+    "id": "$C2110_MAIN_1450_0300_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "また　落ちたりしてなきゃいいけど",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "If any of them are still alive...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 55
+  },
+  {
+    "id": "$C2110_MAIN_1500_0100_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "レノ先輩の様子　どうなんですか？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "So tell me about Reno. He holding up okay?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 56
+  },
+  {
+    "id": "$C2110_MAIN_1500_0200_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "傷は　それほどでもない",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "He's been through worse.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 57
+  },
+  {
+    "id": "$C2110_MAIN_1500_0300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ここのところ働きづめだったからな\r\nすこし　休んでいるだけだ",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "He's been instructed to take some time to himself. To relax. Recuperate.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 58
+  },
+  {
+    "id": "$C2110_MAIN_1500_0400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "それって\r\n憧れのヴァケーションじゃないですか\r\n“ヴァ”ケーション！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Correct me if I'm wrong, but that sounds a lot like a nice long, all-expenses-paid vacation.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 59
+  },
+  {
+    "id": "$C2110_MAIN_1500_0500_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "まあ　そんなところだ",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Well, more or less.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 60
+  },
+  {
+    "id": "$C2110_MAIN_1500_0600_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うらやまし！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Lucky...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 61
+  },
+  {
+    "id": "$C2110_MAIN_1500_0700_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いや　あいつは退屈してるさ",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Hardly. He's bored out of his mind.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 62
+  },
+  {
+    "id": "$C2110_MAIN_1500_0800_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "そうかもですね",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Prob'ly misses it.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 63
+  },
+  {
+    "id": "$C2110_MAIN_1500_0900_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "はぁ……",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "index": 64
+  },
+  {
+    "id": "$C2110_MAIN_1500_1000_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "どうしたんです？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "What's wrong?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 65
+  },
+  {
+    "id": "$C2110_MAIN_1500_1100_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "なんでもない　もっとしゃべってろ",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "It's nothing. Just...keep talking.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 66
+  },
+  {
+    "id": "$C2110_MAIN_1500_1200_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "はい？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Uh...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 67
+  },
+  {
+    "id": "$C2110_MAIN_1600_0100_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "待て",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Wait.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 68
+  },
+  {
+    "id": "$C2110_MAIN_1600_0200_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "それでアイツ　どうします？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Seriously, what are we even doing here?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 69
+  },
+  {
+    "id": "$C2110_MAIN_1600_0400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　あのですね",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Sorry, but I gotta say it.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 70
+  },
+  {
+    "id": "$C2110_MAIN_1600_0410_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "わたし　正直\r\n納得してないんですけど",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "This mission? It makes no sense.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 71
+  },
+  {
+    "id": "$C2110_MAIN_1600_0500_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あの黒マントを追跡して\r\nなんか意味あるんですか？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Why are we wasting our time following these hooded weirdos around?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 72
+  },
+  {
+    "id": "$C2110_MAIN_1600_0600_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "上からの命令だ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Orders are orders.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 73
+  },
+  {
+    "id": "$C2110_MAIN_1600_0610_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "俺たちタークスにとっては　それがすべて",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "The whys and wherefores are not our concern.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 74
+  },
+  {
+    "id": "$C2110_MAIN_1600_0700_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うわ～　仕事ニンゲン登場～！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Yeesh... Maybe <i>you</i> need a vacation.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 75
+  },
+  {
+    "id": "$C2110_MAIN_1600_0710_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "でもアイツ　もう助かりませんよ",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "So about him, Mr. Workaholic? Thoughts?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 76
+  },
+  {
+    "id": "$C2110_MAIN_1600_0900_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "楽にしてやりましょう",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "I say we put him down.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 77
+  },
+  {
+    "id": "$C2110_MAIN_1600_0910_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ツォン主任なら　きっとそうします",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "I mean, that's what Tseng would do if he was here.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 78
+  },
+  {
+    "id": "$C2110_MAIN_1600_1000_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ひどい……",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Assholes.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 79
+  },
+  {
+    "id": "$C2110_MAIN_1600_1100_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "誰だ！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Who's there!?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 80
+  },
+  {
+    "id": "$C2110_MAIN_1600_1200_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いい耳だ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Sharp ears.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 81
+  },
+  {
+    "id": "$C2110_MAIN_1600_1300_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ごめん",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Dammit.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 82
+  },
+  {
+    "id": "$C2110_MAIN_1600_1400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あっ　あ～っ！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "No freakin' way!",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "index": 83
+  },
+  {
+    "id": "$C2110_MAIN_1600_1500_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "アバランチ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Avalanche...",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 84
+  },
+  {
+    "id": "$C2110_MAIN_1600_1600_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "わたしはタークス期待の新人　イリーナ",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Feast your eyes on the Turks' latest\r\nand greatest─Elena!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 85
+  },
+  {
+    "id": "$C2110_MAIN_1600_1610_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "社会の敵ども　成敗してくれる！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "But you three can call me your worst nightmare!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 86
+  },
+  {
+    "id": "$C2110_MAIN_1600_1700_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "レノは？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Where's Reno?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 87
+  },
+  {
+    "id": "$C2110_MAIN_1600_1800_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "“ヴァ”ケーションだ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "On vacation.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 88
+  },
+  {
+    "id": "$C2110_MAIN_1600_1900_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "レノ先輩の留守は　わたしが守る！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "And unfortunately for you, <i>I'm</i> here to fill in!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 89
+  },
+  {
+    "id": "$C2110_MAIN_1600_2000_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "新人と言えども　タークスだ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "She may be new, but she's still a Turk.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 90
+  },
+  {
+    "id": "$C2110_MAIN_1600_2010_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "なめるなよ　と",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "And a consummate professional.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 91
+  },
+  {
+    "id": "$C2110_MAIN_1610_0300_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Rude!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 92
+  },
+  {
+    "id": "$C2110_MAIN_1610_0400_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "訓練どおりにやるぞ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Just like we practiced.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 93
+  },
+  {
+    "id": "$C2110_MAIN_1610_0500_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "はい！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Gotcha!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 94
+  },
+  {
+    "id": "$C2110_MAIN_1700_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "手をあげろ　両手！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hands in the air! Right now!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 95
+  },
+  {
+    "id": "$C2110_MAIN_1700_0200_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "その物騒なもんは　そのままだ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Better keep that toy where I can see it...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 96
+  },
+  {
+    "id": "$C2110_MAIN_1700_0210_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おかしなマネすんじゃねえぞ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "'less you want a hole in your head.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 97
+  },
+  {
+    "id": "$C2110_MAIN_1700_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "さーてと",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Now then...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 98
+  },
+  {
+    "id": "$C2110_MAIN_1700_0510_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "仲間と七番街の仇　どうしてくれようか",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Y'all got a lot to answer for.\r\nLotta blood on your hands...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 99
+  },
+  {
+    "id": "$C2110_MAIN_1700_0600_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "恨むのは　お門違いだな",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "You need someone to blame.",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 100
+  },
+  {
+    "id": "$C2110_MAIN_1700_0700_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おまえたちが始めた戦争だ",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "I suggest you look in the mirror.",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 101
+  },
+  {
+    "id": "$C2110_MAIN_1700_0800_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "うちも色々あって　状況が変わった",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "For us, however, things have changed.",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 102
+  },
+  {
+    "id": "$C2110_MAIN_1700_0900_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おまえたちは賞金首だが\r\n今後　我々の邪魔をしなければ見逃してやる",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "While you're still wanted fugitives, if you stay out of our way, we'll stay out of yours.",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 103
+  },
+  {
+    "id": "$C2110_MAIN_1700_1000_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "上から　えらそうに！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Oh yeah? Bullshit!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 104
+  },
+  {
+    "id": "$C2110_MAIN_1700_1100_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "エアリスを　よろしくな",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "Take care of Aerith for me.",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 105
+  },
+  {
+    "id": "$C2110_MAIN_1700_1200_00_tsu",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ！",
+    "MetaData": {
+      "ACTOR": "ツォン"
+    },
+    "English": {
+      "Text": "Elena!",
+      "MetaData": {
+        "ACTOR": "Tseng"
+      }
+    },
+    "index": 106
+  },
+  {
+    "id": "$C2110_MAIN_1700_1500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ナーイス！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Nice one, Red!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 107
+  },
+  {
+    "id": "$C2110_MAIN_1800_0200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "泳げるか？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Just gonna float there?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 108
+  },
+  {
+    "id": "$C2110_MAIN_1800_0300_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "クラウドたちは？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hey, where're the others?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 109
+  },
+  {
+    "id": "$C2110_MAIN_1800_0400_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "大丈夫？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "You okay!?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 110
+  },
+  {
+    "id": "$C2110_MAIN_1800_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おう　スッキリ気分爽快だぜ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We're good!\r\nJust takin' a quick dip to get the grime off!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 111
+  },
+  {
+    "id": "$C2110_MAIN_1800_0600_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あがって　これそう？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Do you see a way back up!?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 112
+  },
+  {
+    "id": "$C2110_MAIN_1800_0700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "まかせとけ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We'll find one!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 113
+  },
+  {
+    "id": "$C2110_MAIN_1800_0800_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "じゃあ　出口で合流しよう",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "We'll meet you at the exit!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 114
+  },
+  {
+    "id": "$C2110_MAIN_1800_1100_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "こんな連中を　大勢見たことがある",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Hojo's lab was filled with men like this.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 115
+  },
+  {
+    "id": "$C2110_MAIN_1800_1110_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "宝条のところだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Mako poisoned...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 116
+  },
+  {
+    "id": "$C2110_MAIN_1800_1200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "重度の魔晄中毒らしい",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Every last one of them.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 117
+  },
+  {
+    "id": "$C2110_MAIN_1800_1300_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "神羅め……",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Poor bastards...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 118
+  },
+  {
+    "id": "$C2110_MAIN_1800_1400_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "しっかし　そろってなにしてるんだ？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "What do <i>you</i> think their deal is? Where they goin'?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 119
+  },
+  {
+    "id": "$C2110_MAIN_1800_1500_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "セフィロスを追っている可能性がある\r\nクラウドは　そう考えている",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "They're following Sephiroth...\r\nor so Cloud seems to think.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 120
+  },
+  {
+    "id": "$C2110_MAIN_1800_1600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "クラウドが……",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "He did say that...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 121
+  },
+  {
+    "id": "$C2110_MAIN_1800_1700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "大丈夫か　あいつ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Let's hope the boy can keep it together.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 122
+  },
+  {
+    "id": "$C2110_MAIN_1900_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "さ～て　どうやって上に行く？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Alright...now how we gettin' outta here?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 123
+  },
+  {
+    "id": "$C2110_MAIN_1900_0200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あのツタが使えそうだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "<i>That</i> might be an option.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 124
+  },
+  {
+    "id": "$C2110_MAIN_2500_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あいつら　あんなとこでなにやってんだ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Well now, look who it is.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 125
+  },
+  {
+    "id": "$C2110_MAIN_2500_0200_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "バレット　お～い！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Hey, guys! Over here!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 126
+  },
+  {
+    "id": "$C2110_MAIN_2500_0300_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "どうした　休憩か？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Y'all taking a breather or what?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 127
+  },
+  {
+    "id": "$C2110_MAIN_2500_0400_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "向こうに渡れないの",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "The bridge is out!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 128
+  },
+  {
+    "id": "$C2110_MAIN_2500_0500_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "そっちで　足場を作れないか？",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Do you think you can give us a hand?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 129
+  },
+  {
+    "id": "$C2110_MAIN_2500_0600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "２０００な　２０００！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "For two grand! Two!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 130
+  },
+  {
+    "id": "$C2110_MAIN_2500_0700_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "好きにしろ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Hilarious.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 131
+  },
+  {
+    "id": "$C2110_MAIN_2700_0100_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あそこに　なにか落とせないだろうか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "There must be some way we can dislodge that container.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 132
+  },
+  {
+    "id": "$C2110_MAIN_3000_0200_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "やった！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "We're in business!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 133
+  },
+  {
+    "id": "$C2110_MAIN_3000_0300_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ありがとう",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Thanks!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 134
+  },
+  {
+    "id": "$C2110_MAIN_3000_0400_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "助かった",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "'Preciate it!",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 135
+  },
+  {
+    "id": "$C2110_MAIN_3000_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "報酬　忘れんなよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Two grand!\r\nAnd don't you forget.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 136
+  },
+  {
+    "id": "$C2110_MAIN_3100_0100_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "こちらからは　開けられないようだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I don't think we can open it from here.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 137
+  },
+  {
+    "id": "$C2110_MAIN_3100_0200_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "そっちで開けられねえか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "See a button or a lever?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 138
+  },
+  {
+    "id": "$C2110_MAIN_3100_0300_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "やってみる",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "One sec!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 139
+  },
+  {
+    "id": "$C2110_MAIN_3100_0400_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "助かったぜ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Thanks! We owe ya!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 140
+  },
+  {
+    "id": "$C2110_MAIN_3100_0500_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "２０００　だね",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Yep─two grand!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 141
+  },
+  {
+    "id": "$C2110_MAIN_3100_0600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おっ　おう……",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "That's...fair.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 142
+  },
+  {
+    "id": "$C2110_MAIN_3200_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "なんだ？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "The hell?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 143
+  },
+  {
+    "id": "$C2110_MAIN_3200_0200_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "こいつも　自然の力ってヤツか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Ah, shit. Think we woke it up.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 144
+  },
+  {
+    "id": "$C2110_MAIN_3200_0300_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "起こしてしまったようだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Angered it, more like.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 145
+  },
+  {
+    "id": "$C2110_MAIN_3200_0400_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "寝かしつけるのは　父ちゃんにまかせな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Then it's time to rock cranky-boy here back to sleep!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 146
+  },
+  {
+    "id": "$C2110_MAIN_3300_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ミスリルの階段とは　豪勢じゃねえか",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "That's a mighty fine staircase. Thank you kindly.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 147
+  },
+  {
+    "id": "$C2110_MAIN_3500_0100_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "遅かったな",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "What took you?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 148
+  },
+  {
+    "id": "$C2110_MAIN_3500_0200_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "でっけえミスリル見つけて\r\n目がくらんじまってよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Stumbled on a killer rock formation\r\nand couldn't tear ourselves away.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 149
+  },
+  {
+    "id": "$C2110_MAIN_3500_0300_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ここも　いつ崩れるかわからない\r\n急いで出たほうがいい",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "The ground here could give way at any moment.\r\nWe shouldn't linger.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 150
+  },
+  {
+    "id": "$C2110_MAIN_3500_0400_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ああ　でも\r\n神羅に居場所を知られている",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "True, but don't forget─Shinra knows we're here now.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 151
+  },
+  {
+    "id": "$C2110_MAIN_3500_0500_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "待ち伏せされているかもしれない",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Might be more of 'em outside.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 152
+  },
+  {
+    "id": "$C2110_MAIN_3500_0600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "オレが連中でも　そうするぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "That doesn't make any difference to me.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 153
+  },
+  {
+    "id": "$C2110_MAIN_3500_0610_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "でもよ　それでも行かなくちゃならねえ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "I ain't stoppin'─not for them or anyone.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 154
+  },
+  {
+    "id": "$C2110_MAIN_3500_0700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "オレたちは　アレを見ちまったからな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Not after Midgar. Not after what we saw.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 155
+  },
+  {
+    "id": "$C2110_MAIN_3500_0800_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "オレたちの使命は　星を守ること",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We all know what's at stake here─\r\nthe fate of the world.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 156
+  },
+  {
+    "id": "$C2110_MAIN_3500_0900_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "神羅が邪魔するなら　戦うしかねえ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "So if they get in our way, that's on them.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 157
+  },
+  {
+    "id": "$C2110_MAIN_3500_1000_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "黒マントの連中を追いかけよう\r\nおそらく　セフィロスと繋がっている",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Let's get back to tailing the guys in robes.\r\nThey're our best chance of finding Sephiroth.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 158
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0100_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　『パターンＡ』でいくぞ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Elena. Pattern Alpha.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 159
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0200_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "了解　どれでしたっけ？",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Gotcha! ...Which one was that?",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 160
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　『パターンＢ』！",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Elena! Pattern Bravo!",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 161
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "えっと　がんばります！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Uh... Right! Got it!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 162
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0500_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　『パターンＣ』だ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Elena. Pattern Charlie.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 163
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0600_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ハイ　とりあえずオッケーです！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Okay, yeah! Pretty sure I got that!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 164
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0700_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　たぶん『パターンＡ』でお願いします",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Okay, Rude! Let's go with...pattern Alpha!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 165
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0800_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "了解……",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Understood.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 166
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_0900_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　『パターンＢ』だっけ　『Ｃ』？\r\nとにかくお願いします！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Rude! Pattern Bravo... No, wait─Charlie?\r\nWhatever, just follow my lead!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 167
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1000_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "作戦名を覚えろ！",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "You can't just wing it!",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 168
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1100_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　『パターンＣ』　あるいは『Ａ』で！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Alright, Rude! Let's run Charlie!\r\nOr maybe Alpha?",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 169
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1200_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "……どっちだ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Which one!?",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 170
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "新人　いくぞ！",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Ready for the real work, newbie?",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 171
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナですって！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "I'm not <i>that</i> new!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 172
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1500_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "仕掛けるぞ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Hit 'em hard.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 173
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1600_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　いくぞ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Let's get to work, Elena.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 174
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1700_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　お願いします！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "You got my back, Rude!?",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 175
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1800_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　いきますよ",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "C'mon! Let's give 'em hell!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 176
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_1900_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　遅れるなよ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Elena. Make sure you keep up.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 177
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2000_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "がっ　がんばります！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Oh, you bet I will!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 178
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2100_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "レノ先輩の借り……",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Reno wants payback...",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 179
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2200_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "俺たちが返す！",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "And we're here to deliver!",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 180
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "タークスの本気……",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "I think it's about time...",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 181
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2400_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "見せてやるぞ　っと！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "to show 'em what the Turks are made of!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 182
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2500_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　はやくはやく！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Faster─faster!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 183
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2600_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "慌てるな",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Cool your jets.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 184
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2700_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "悪いが　負ける気はない",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Not gonna let you take me down.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 185
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2800_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "突破口はあるはずだ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Gotta be a way to stop 'em.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 186
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_2900_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "攻撃を止めなきゃ！",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "We have to stop them!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 187
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3000_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "流れを変えなきゃ……",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Can't let 'em do that.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 188
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3100_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "暴力　はんたい！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "We don't need to do this!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 189
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3200_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "止めないと！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Stop them!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 190
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3300_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "どいてろ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Step off.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 191
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3400_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "邪魔だ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Nice try.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 192
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3500_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "切り崩す",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Not today.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 193
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3600_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "邪魔はさせない！",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Not happening!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 194
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3700_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "負けないから！",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "That's enough!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 195
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3800_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "好きにはさせない！",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "No you don't!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 196
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_3900_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "邪魔　させないよ！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Not on my watch!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 197
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4000_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "お願い　どいて！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Just leave us alone!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 198
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4100_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "離れてて　ね？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "We don't wanna hurt you!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 199
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4200_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "やるな",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Not bad.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 200
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "覚えておこう",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "I'll remember that.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 201
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4400_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "フン……",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Heh.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 202
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4500_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "もう　なにするんですか！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Who the hell do you think you are!?",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 203
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4600_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ムカつく！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Oh, real cute.",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 204
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4700_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ちょっと！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Would you quit it!?",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 205
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4710_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あれ～？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Did you just...!?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 206
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4720_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "悪いが　手加減はナシだ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Sorry. Can't pull my punches this time.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 207
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4730_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "悪いが　手加減はナシだ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Wish it didn't have to be this way,\r\nbut no choice.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 208
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4800_00_cld",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あいつから先に片付けよう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Need to deal with the girl first.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 209
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_4900_00_tif",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "あの子　邪魔だね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Gotta deal with her first.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 210
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_5000_00_art",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ルード　守られてる？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "I think she's covering Rude.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 211
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_5100_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　よろしくです！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Give 'em hell, Rude!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 212
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_5200_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　頼みます！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "You've got this, Rude!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 213
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_5300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "まかせろ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Here goes.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 214
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_5500_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "見せてやる",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Watch this.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 215
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6200_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "イリーナ　決めてみろ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Elena! I'll cover you!",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 216
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6300_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "やれるな？",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "Finish 'em.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 217
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6400_00_lud",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "見せ場だ",
+    "MetaData": {
+      "ACTOR": "ルード"
+    },
+    "English": {
+      "Text": "You're up.",
+      "MetaData": {
+        "ACTOR": "Rude"
+      }
+    },
+    "index": 218
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6500_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "了解です！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Copy that!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 219
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6600_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "はいっ！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Got it!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 220
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_6700_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "がんばります！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "I'm on it!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 221
+  },
+  {
+    "id": "$MYTHM_BOS_02_1100_8000_00_eln",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先輩　決めちゃってください！",
+    "MetaData": {
+      "ACTOR": "イリーナ"
+    },
+    "English": {
+      "Text": "Okay, Rude! Do it!",
+      "MetaData": {
+        "ACTOR": "Elena"
+      }
+    },
+    "index": 222
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おっ　弱点発見！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Ha! Looks like that hurt ya.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 223
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "そこが弱点だな　狙っていくぞ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "So that's where you're vulnerable...\r\nFocus there!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 224
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0300_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "くそ　かってえな～\r\nなんか手はねえのかよ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We got ourselves one tough bastard!\r\nNeed to be smart about this.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 225
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0400_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "このまま続けても意味がない　突破口を探すぞ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "This is getting us nowhere.\r\nThere must be a gap in its armor.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 226
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "いまだ　逃すなこのチャ～ンス！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Now's our chance!\r\nHit it with everything you've got!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 227
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0600_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "様子が変わったようだ\r\nいまのうちに仕掛けるぞ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "It's vulnerable!\r\nAttack─before it recovers!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 228
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0700_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "元に戻っちまったか\r\nもっかい　弱点を叩くぞ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "So that's how you wanna play it, huh?\r\nGuess we're goin' for the head then!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 229
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0800_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "パターンは読めた\r\nもういちど　弱点を狙うぞ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "How predictable...\r\nWe need to aim for the head again!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 230
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_0900_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おいおい　なに企んでやがんだ？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hey, hold on!\r\nWhat's ol' Rocky up to now?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 231
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1000_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "力を蓄えている　攻撃に備えろ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "It's gathering its strength. Be ready!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 232
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "こりゃまたでっけえなあ\r\n持って帰れば　ミスリル長者ってか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Damn, this sucker keeps on gettin'\r\nbigger and bigger... But hey─\r\njust means it's that much easier\r\nto hit 'em, am I right!?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 233
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "噛みごたえがありそうだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "This ought to be fun.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 234
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1300_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "なっ　通らねえ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Huh!? It just shook it off!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 235
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1400_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "やるな……",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Clever...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 236
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1500_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おっしゃあ　崩れちまえ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hell yeah! Try walkin' that off!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 237
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1600_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "ガンッガン壊してくぜ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Gonna reduce your ass to rubble!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 238
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1700_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "よし　この調子でいくぞ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Good. We're making progress.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 239
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1800_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "崩れ去るがいい！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Let's keep chipping away...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 240
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_1900_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "くそ　復活しちまったか",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Oh, perfect.\r\nIt's puttin' itself back together.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 241
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_2000_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "修復したか　厄介だな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "It can regenerate? Impressive.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 242
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_2100_00_blt",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "おいおい　あちこち壊しとかねえと\r\nやべえなこりゃ！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We gotta cripple this thing fast─or else!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 243
+  },
+  {
+    "id": "$MYTHM_BOS_03_1100_2200_00_red",
+    "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+    "Text": "先手を打たねば　やられるな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Need to act more quickly next time.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "index": 244
+  },
+  {
+    "id": "$C2110_MAIN_3600_0100_00_blt",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "おい　見ろよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hey, check it out.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 245
+  },
+  {
+    "id": "$C2110_MAIN_3600_0200_00_cld",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "神羅は？",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Just them?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 246
+  },
+  {
+    "id": "$C2110_MAIN_3600_0300_00_art",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "いないみたい",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Guess so...",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 247
+  },
+  {
+    "id": "$C2110_MAIN_3600_0500_00_tif",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "そんな……",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Oh my god...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    },
+    "index": 248
+  },
+  {
+    "id": "$C2110_MAIN_3600_0600_00_blt",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "泣けてくるぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "He ain't comin' back.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "index": 249
+  },
+  {
+    "id": "$C2110_MAIN_3600_0610_00_art",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "あそこ　行くのかな",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "That city they're headed to. Is that...?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "index": 250
+  },
+  {
+    "id": "$C2110_MAIN_3600_0620_00_cld",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "神羅の要塞都市　ジュノンだ",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Junon... Shinra territory.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 251
+  },
+  {
+    "id": "$C2110_MAIN_3600_0700_00_cld",
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "Text": "行こう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "C'mon.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "index": 252
+  }
+]

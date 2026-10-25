@@ -1,0 +1,816 @@
+{
+  "video": "https://www.youtube.com/watch?v=i4gD0mmj5vc",
+  "reviewed_records": 71,
+  "chapter1_only": true,
+  "audio_reviewed": false,
+  "all_original_particle_records_resolved": true,
+  "all_lines_video_verified": false,
+  "video_identity_retained": 18,
+  "explicit_actor_label_retained": 2,
+  "neutral_revisions": 51,
+  "note": "The clip is a speaker-identity reference. It was not watched line by line for every optional subtitle. A brief Chapter 2 probe for the Kalm innkeeper did not establish his identity and is not used as evidence.",
+  "rows": [
+    {
+      "id": "$C1910_MAIN_0100_0070_00_mma",
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "before": "รายงานสดจากทางด่วนมิดการ์ครับ",
+      "after": "รายงานสดจากทางด่วนมิดการ์",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_0100_0080_00_mma",
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "before": "ท่านผู้ชมเห็นไหมครับ\r\nอาคารพังถล่มลงมาทั้งหลัง ถนนก็ทรุดตัวลง",
+      "after": "ท่านผู้ชมเห็นภาพไหม\r\nอาคารพังถล่มลงมาทั้งหลัง ถนนก็ทรุดตัวลง",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_0200_0405_00_mma",
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "before": "<i>เราจะรายงานสดจากที่เกิดเหตุต่อไปครับ</i>",
+      "after": "<i>เราจะรายงานสดจากที่เกิดเหตุต่อไป</i>",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_0200_0442_00_mma",
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "before": "นั่นใช่ผู้ที่ได้รับการช่วยเหลือหรือเปล่าครับ",
+      "after": "นั่นใช่ผู้ที่ได้รับการช่วยเหลือหรือเปล่า",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_0200_0620_00_mma",
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "before": "ตอนนี้เฮลิคอปเตอร์กำลังขึ้นบินครับ",
+      "after": "ตอนนี้เฮลิคอปเตอร์กำลังขึ้นบิน",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_0700_2400_00_skm",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "มีมอนสเตอร์ขวางทางครับ!",
+      "after": "มีมอนสเตอร์ขวางทางครับ!",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 1018,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1018s",
+        "observation": "Close-up of the truck driver, with Driver label and Got some fiends at our twelve subtitle, matches this record.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_1000_0900_00_znd",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "พวกเรารอท่านอยู่ครับ!",
+      "after": "พวกเรารอท่านอยู่ครับ!",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 1225,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "observation": "Mayor Zander is visible speaking with his English actor label. Same named actor identity applies to the three mayor records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_1000_0910_00_znd",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ผมซอนเดอร์ เป็นผู้ใหญ่บ้านครับ",
+      "after": "ผมซอนเดอร์ เป็นผู้ใหญ่บ้านครับ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 1225,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "observation": "Mayor Zander is visible speaking with his English actor label. Same named actor identity applies to the three mayor records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_1000_1100_00_znd",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ถ้าอย่างนั้น เชิญทางนี้เลยครับ",
+      "after": "ถ้าอย่างนั้น เชิญทางนี้เลยครับ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 1225,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1225s",
+        "observation": "Mayor Zander is visible speaking with his English actor label. Same named actor identity applies to the three mayor records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_1600_0100_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "มาจากชินระสินะคะ ขอบคุณที่เหนื่อยเพื่อพวกเรา",
+      "after": "มาจากชินระใช่ไหม ขอบคุณที่ทำงานหนักเพื่อพวกเรา",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_1810_0500_00_cld",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "กลับมาแล้วครับ",
+      "after": "กลับมาแล้วครับ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 2352,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2352s",
+        "observation": "Cloud is visible in the photo scene. The retained record has the unambiguous original ACTOR Cloud.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_2400_0100_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ยินดีต้อนรับค่ะ\r\nวันนี้บริษัทชินระจองเหมาทั้งโรงแรมไว้แล้ว",
+      "after": "ยินดีต้อนรับค่ะ\r\nวันนี้บริษัทชินระจองเหมาทั้งโรงแรมไว้แล้ว",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2034,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2034s",
+        "observation": "Female innkeeper is visible at the Nibelheim inn counter. Identity is matched by the inn location and role; not the similarly labelled Kalm innkeeper.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_3000_1500_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อรุณสวัสดิ์ค่ะ\r\nฝากเนื้อฝากตัวด้วยนะคะ",
+      "after": "อรุณสวัสดิ์ค่ะ\r\nฝากเนื้อฝากตัวด้วยนะคะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_3000_1900_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ถ้าพูดถึงไกด์ที่เก่งที่สุดในหมู่บ้านนี้\r\nก็ต้องฉันนี่แหละค่ะ",
+      "after": "ถ้าพูดถึงไกด์ที่เก่งที่สุดในหมู่บ้านนี้\r\nก็ต้องฉันนี่แหละค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_3000_2600_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณเซฟิรอธ ขอร้องนะคะ",
+      "after": "คุณเซฟิรอธ ขอร้องนะคะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_3000_2900_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "จะถ่ายแล้วนะครับ!",
+      "after": "จะถ่ายแล้วนะครับ!",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 2352,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2352s",
+        "observation": "The photographer is visible holding his camera beside the party in the photo scene.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_3110_0100_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ได้ยินว่าภูเขานีเบิลเคยมีชื่อเสียง\r\nเพราะเป็นที่ตั้งเตาปฏิกรณ์มาโก้แห่งแรกค่ะ",
+      "after": "ได้ยินว่าภูเขานีเบิลเคยมีชื่อเสียง\r\nเพราะเป็นที่ตั้งเตาปฏิกรณ์มาโก้แห่งแรกค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_4200_0300_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ได้ค่ะ",
+      "after": "ได้ค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_4200_0400_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ถ้าเดินเลียบแม่น้ำไปตามน้ำ ก็จะถึงหมู่บ้านค่ะ",
+      "after": "ถ้าเดินเลียบแม่น้ำไปตามน้ำ ก็จะถึงหมู่บ้านค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_4200_0600_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ขอโทษค่ะ ฉันไม่รู้ทาง",
+      "after": "ขอโทษค่ะ ฉันไม่รู้ทาง",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_4200_0800_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ค่ะ",
+      "after": "ค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_4910_0200_00_tif",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คนนี้ไม่ยอมคุยกับฉันเลยค่ะ",
+      "after": "คนนี้ไม่ยอมคุยกับฉันเลยค่ะ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2307,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2307s",
+        "observation": "Tifa is visible addressing Sephiroth with the matched guide greeting. Same named actor identity applies to her other records.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$C1910_MAIN_7150_0500_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คะ…ครับ!",
+      "after": "คะ…ครับ!",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "explicit_game_actor_label",
+        "gender": "male",
+        "actor_us": "Militiaman",
+        "observation": "Exact US record explicitly labels this speaker Militiaman. Initial คะ… in คะ…ครับ! is a stutter, not a feminine sentence particle.",
+        "video_verified": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_1200_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ในที่สุดก็มาแล้ว\r\nขอบคุณมากค่ะ!",
+      "after": "ในที่สุดก็มาแล้ว\r\nขอบคุณมาก!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_1400_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เหนื่อยหน่อยนะคะ\r\nกว่าจะมาถึงที่นี่คงไกลน่าดู",
+      "after": "เหนื่อยหน่อยนะ\r\nกว่าจะมาถึงที่นี่คงไกลน่าดู",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_1500_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "สู้ ๆ นะคะ!",
+      "after": "สู้ ๆ นะ!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_4900_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อีกนิดก็เสร็จแล้วครับ",
+      "after": "อีกนิดก็เสร็จแล้ว",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_5100_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "รุ่นพี่ ผมคิดว่าจะไปมิดการ์\r\nแล้วเข้ากองทัพครับ",
+      "after": "รุ่นพี่ คิดว่าจะไปมิดการ์\r\nแล้วเข้ากองทัพ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_5200_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "มีอะไรให้ช่วยไหมครับ?",
+      "after": "มีอะไรให้ช่วยไหม?",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_7300_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ขอบคุณที่ทำงานหนักนะคะ",
+      "after": "ขอบคุณที่ทำงานหนักนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0100_7600_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อาจจะเหนื่อยจากการเดินทางไกล\r\nแต่การสำรวจพรุ่งนี้ก็สู้ ๆ นะคะ",
+      "after": "อาจจะเหนื่อยจากการเดินทางไกล\r\nแต่การสำรวจพรุ่งนี้ก็สู้ ๆ นะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0200_5700_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนักครับ",
+      "after": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนัก",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0200_5800_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ไม่พบร่องรอยมอนสเตอร์ครับ!",
+      "after": "ไม่พบร่องรอยมอนสเตอร์!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0200_6100_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "กองอาสานีเบิลไฮม์ กำลังเฝ้าระวังค่ะ",
+      "after": "กองอาสานีเบิลไฮม์ กำลังเฝ้าระวัง",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0200_6200_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ไม่มีอะไรผิดปกติครับ",
+      "after": "ไม่มีอะไรผิดปกติ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10000_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนักครับ!",
+      "after": "คุณโซลเจอร์ ขอบคุณที่ทำงานหนัก!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10010_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "พวกเราคอยเฝ้าที่นี่อยู่\r\nสบายใจได้เลยครับ",
+      "after": "พวกเราคอยเฝ้าที่นี่อยู่\r\nสบายใจได้เลย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10110_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ขอบคุณมากครับ\r\nช่วยปกป้องหมู่บ้านด้วยนะ",
+      "after": "ขอบคุณมาก\r\nช่วยปกป้องหมู่บ้านด้วยนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10200_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณโซลเจอร์\r\nการสำรวจจะเริ่มแต่เช้าพรุ่งนี้ครับ",
+      "after": "คุณโซลเจอร์\r\nการสำรวจจะเริ่มแต่เช้าพรุ่งนี้",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10210_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "วันนี้พักให้เต็มที่นะครับ",
+      "after": "วันนี้พักให้เต็มที่นะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10300_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณโซลเจอร์\r\nขึ้นเขาคนเดียวมันอันตรายครับ",
+      "after": "คุณโซลเจอร์\r\nขึ้นเขาคนเดียวมันอันตราย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_10310_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ไปพักผ่อนที่โรงแรม\r\nเตรียมตัวสำหรับพรุ่งนี้เถอะครับ",
+      "after": "ไปพักผ่อนที่โรงแรม\r\nเตรียมตัวสำหรับพรุ่งนี้เถอะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_5000_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อ๊ะ ขอบคุณที่ทำงานหนักค่ะ!",
+      "after": "อ๊ะ ขอบคุณที่ทำงานหนักค่ะ!",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "female",
+        "timestamp_seconds": 2034,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=2034s",
+        "observation": "Same innkeeper is visible and Make sure you're good and rested is shown, matching the game's US version of this exact record.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_5300_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ผมเอง\r\nก็อยากคุยกับคุณเซฟิรอธนะครับ?",
+      "after": "ผมเอง\r\nก็อยากคุยกับคุณเซฟิรอธนะครับ?",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "video_speaker_identity",
+        "gender": "male",
+        "timestamp_seconds": 1457,
+        "url": "https://www.youtube.com/watch?v=i4gD0mmj5vc&t=1457s",
+        "observation": "Male villager is visible speaking with Villager label and I'm eager to talk to him too, but now's not the time subtitle, matching this exact record.",
+        "audio_reviewed": false,
+        "every_line_watched": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$NIBLT_NPC_10_0300_5800_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "กำลังขนสัมภาระ\r\nของหน่วยสำรวจอยู่ครับ",
+      "after": "กำลังขนสัมภาระ\r\nของหน่วยสำรวจอยู่",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_0200_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ชูปลายนิ้วทั้งสองมือ\r\nขึ้นสู่ท้องฟ้านะคะ",
+      "after": "ชูปลายนิ้วทั้ง2มือ\r\nขึ้นสู่ท้องฟ้านะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_0300_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เหยียดให้ตรง\r\nตึงไปจนถึงปลายนิ้วเลยค่ะ",
+      "after": "เหยียดให้ตรง\r\nตึงไปจนถึงปลายนิ้วเลย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_0600_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ต่อไปนะคะ\r\nกายบริหารซันกัน ท่าที่สอง\r\nเตรียม!",
+      "after": "ต่อไปนะ\r\nกายบริหารซันกัน ท่าที่2\r\nเตรียม!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_0700_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ยกมือทั้งสองขึ้นอีกครั้ง\r\nแขนแนบหูค่ะ",
+      "after": "ยกมือทั้ง2ขึ้นอีกครั้ง\r\nแขนแนบหู",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_1000_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อย่าโงนเงนนะคะ",
+      "after": "อย่าโงนเงนนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_1300_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อย่ากลั้นหายใจนะคะ\r\nนับถึงสิบแล้วผ่อนคลาย",
+      "after": "อย่ากลั้นหายใจนะ\r\nนับถึง10แล้วผ่อนคลาย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_1400_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ต่อไปนะคะ\r\nกายบริหารซันกัน ท่าที่สาม\r\nเตรียม!",
+      "after": "ต่อไปนะ\r\nกายบริหารซันกัน ท่าที่3\r\nเตรียม!",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_1500_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ยกมือทั้งสองขึ้น\r\nแขนแนบหูค่ะ",
+      "after": "ยกมือทั้ง2ขึ้น\r\nแขนแนบหู",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_1710_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เหยียดแขนทั้งสอง\r\nให้ตรงนะคะ",
+      "after": "เหยียดแขนทั้ง2\r\nให้ตรงนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code.",
+      "number_style_adjusted": true
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_2100_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ดีมากค่ะ!\r\nพักกันสักหน่อย",
+      "after": "ดีมาก!\r\nพักกันสักหน่อย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_2300_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เอาล่ะ อีกรอบนะคะ",
+      "after": "เอาล่ะ อีกรอบนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_2700_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "นี่คือกายบริหารอายุยืน\r\nของอาจารย์ซันกันค่ะ",
+      "after": "นี่คือกายบริหารอายุยืน\r\nของอาจารย์ซันกัน",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_2900_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ปกติทีฟ่าที่คล่องแคล่วที่สุดในหมู่บ้าน\r\nจะเป็นคนสอนค่ะ",
+      "after": "ปกติทีฟ่าที่คล่องแคล่วที่สุดในหมู่บ้าน\r\nจะเป็นคนสอน",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0400_3100_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เชิญเลยค่ะ ช่วยสอนพวกเราด้วย",
+      "after": "เชิญเลย ช่วยสอนพวกเราด้วย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1100_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ช่วยไปดู\r\nคุณเซฟิรอธให้หน่อยครับ",
+      "after": "ช่วยไปดู\r\nคุณเซฟิรอธให้หน่อยครับ",
+      "decision": "retain_verified_particle",
+      "evidence": {
+        "method": "explicit_game_actor_label",
+        "gender": "male",
+        "actor_us": "Militiaman",
+        "observation": "Exact US record explicitly labels this speaker Militiaman. This is source-data evidence, not a claim of a watched video frame.",
+        "video_verified": false
+      },
+      "reason": "Matched speaker evidence"
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1200_00_mfa",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ฝากด้วยนะคะ",
+      "after": "ฝากด้วยนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1500_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "อ้าว คืนนี้ไปพักได้แล้วนะครับ",
+      "after": "อ้าว คืนนี้ไปพักได้แล้วนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1600_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ฮ่า ๆ จะออกเที่ยวกลางคืนเหรอครับ?",
+      "after": "ฮ่า ๆ จะออกเที่ยวกลางคืนเหรอ?",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1800_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คงไม่ได้คิด\r\nจะหนีไปหรอกใช่ไหมครับ",
+      "after": "คงไม่ได้คิด\r\nจะหนีไปหรอกใช่ไหม",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1810_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "มีอะไรเกิดขึ้นหรือเปล่าครับ?",
+      "after": "มีอะไรเกิดขึ้นหรือเปล่า?",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_1900_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "เหนื่อยกับการสำรวจเตาปฏิกรณ์แล้ว\r\nการเฝ้าระวังคืนนี้ฝากพวกเราได้เลยครับ",
+      "after": "เหนื่อยกับการสำรวจเตาปฏิกรณ์แล้ว\r\nการเฝ้าระวังคืนนี้ฝากพวกเราได้เลย",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_2100_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "ออกตรวจหมู่บ้านเหรอครับ?\r\nขอบคุณที่ทำงานหนักนะ",
+      "after": "ออกตรวจหมู่บ้านเหรอ?\r\nขอบคุณที่ทำงานหนักนะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$NIBLT_NPC_10_0500_2110_00_mma",
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "before": "คุณเซฟิรอธ\r\nไม่ได้มาทางนี้นะครับ",
+      "after": "คุณเซฟิรอธ\r\nไม่ได้มาทางนี้นะ",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_8700_0100_00_brd",
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "before": "ดูสีหน้าไม่ค่อยดีเลยนะครับ\r\nบาดแผลเก่าจากสนามรบเจ็บขึ้นมาหรือครับ?",
+      "after": "ดูสีหน้าไม่ค่อยดีเลยนะ\r\nบาดแผลเก่าจากสนามรบเจ็บขึ้นมาหรือ?",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_8700_0300_00_brd",
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "before": "แต่ก็อยู่ชินระ\r\nมานานมากแล้วล่ะครับ…",
+      "after": "แต่ตอนที่ทำงานให้ชินระ\r\nก็นานมาแล้วล่ะ…",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    },
+    {
+      "id": "$C1910_MAIN_8700_0400_00_brd",
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "before": "กลับไปพักผ่อนในห้อง\r\nน่าจะดีกว่าไหมครับ?",
+      "after": "กลับไปพักผ่อนในห้อง\r\nน่าจะดีกว่าไหม?",
+      "decision": "polite_neutral",
+      "evidence": null,
+      "reason": "No unambiguous matched on-screen speaker for this record; use neutral polite wording without assuming gender from a shared NPC code."
+    }
+  ]
+}

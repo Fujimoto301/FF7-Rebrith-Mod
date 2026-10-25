@@ -1,0 +1,751 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0200_6810_00_mfa",
+    "template": 696,
+    "Text": "新しいホテル『シーサイド・ジョニー』が\r\n街外れの静かな場所にリニューアルオープンしました",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0200_6900_00_mfa",
+    "template": 697,
+    "Text": "これから人気になりそうなので　応援してるんです",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18200_00_mfa",
+    "template": 1004,
+    "Text": "おでかけするなら\r\nチョコボに乗ってって！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18300_00_mfa",
+    "template": 1005,
+    "Text": "チョコボがレンタルできま～す！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18310_00_mfa",
+    "template": 1006,
+    "Text": "いまなら大人気の\r\nキュマちゃんがあいてますよ～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18400_00_sfa",
+    "template": 1007,
+    "Text": "いらっしゃいませ～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18500_00_sfa",
+    "template": 1008,
+    "Text": "チョコボをレンタルするなら　まず\r\n『レンタルパス』を購入してくださいね",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18600_00_sfa",
+    "template": 1009,
+    "Text": "いらっしゃいませ～！\r\nチョコボのことなら　おまかせあれ～",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18700_00_sfa",
+    "template": 1010,
+    "Text": "ありがとうございます！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18800_00_sfa",
+    "template": 1011,
+    "Text": "チョコボレンタル会員に登録しましたんで\r\nレンタルチョコボを　自由に使ってくださいね",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18900_00_sfa",
+    "template": 1012,
+    "Text": "ありがとうございました！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_19000_00_sfa",
+    "template": 1013,
+    "Text": "また来てくださいね！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20000_00_mfa",
+    "template": 1007,
+    "Text": "いらっしゃいませ～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20100_00_mfa",
+    "template": 1014,
+    "Text": "ありがとうございました～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20200_00_mfa",
+    "template": 1007,
+    "Text": "いらっしゃいませ～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20300_00_mfa",
+    "template": 1014,
+    "Text": "ありがとうございました～！",
+    "reason": "Chocobo rental outside town belongs to subsequent regional traversal."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_0600_00_mfa",
+    "template": 1137,
+    "Text": "ジョニーって人を\r\n何人も見た気がするんだけど",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1100_00_mma",
+    "template": 1140,
+    "Text": "シーサイド・ジョニーが\r\nまともなホテルになったって？",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1200_00_mma",
+    "template": 1141,
+    "Text": "シーサイド・ジョニー\r\n手作り感あって　いいな",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1300_00_mma",
+    "template": 1142,
+    "Text": "ジョニーって何人分も働いてたもんな\r\nすごい根性だよ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1600_00_mfa",
+    "template": 1143,
+    "Text": "へえ　見えないからこそ\r\n海をいつでも感じられるのね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1700_00_mfa",
+    "template": 1144,
+    "Text": "シーサイド・ジョニー\r\n新しい観光スポットになるかも！",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_1800_00_mfa",
+    "template": 1145,
+    "Text": "ジョニーさんって　いつも元気なのよ\r\nいつ休んでるのかしら",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2100_00_mma",
+    "template": 1146,
+    "Text": "ふ～ん　面白いインテリアだね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2200_00_mma",
+    "template": 1147,
+    "Text": "めずらしいアイテムが\r\n展示されてるんだって？",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2400_00_mfa",
+    "template": 1148,
+    "Text": "ジョニーさんのお友達のコレクションを\r\n借りて　展示してるんだってさ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2500_00_mfa",
+    "template": 1149,
+    "Text": "アイテム展示\r\nもうすこしがんばってほしいな",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2700_00_mma",
+    "template": 1150,
+    "Text": "なるほど\r\nめずらしい品が増えてきたね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2800_00_mma",
+    "template": 1151,
+    "Text": "おお　これは\r\n見たことがないデザインだね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_2900_00_mma",
+    "template": 1152,
+    "Text": "ほう　立派なコレクションだ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3200_00_mfa",
+    "template": 1153,
+    "Text": "私　芸術はよくわからないけど\r\nすごいね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3300_00_mfa",
+    "template": 1154,
+    "Text": "うんうん　このインテリアなら\r\n泊まりたくなってきた",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3400_00_mfa",
+    "template": 1155,
+    "Text": "ジョニーさんのお友達の\r\nコレクションなんでしょ？",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3410_00_mfa",
+    "template": 1156,
+    "Text": "その人　どんな冒険家よ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3700_00_mma",
+    "template": 1157,
+    "Text": "ヘンテコだけど\r\n味があるコレクションだな",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_3800_00_mma",
+    "template": 1158,
+    "Text": "ふむふむ\r\nこれが芸術ってものだろうか",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4000_00_mfa",
+    "template": 1159,
+    "Text": "ジョニーっぽい\r\nとがったホテルになってきたな",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4100_00_mfa",
+    "template": 1160,
+    "Text": "このコレクション\r\n見にきて良かったわ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4400_00_mma",
+    "template": 1161,
+    "Text": "じつに興味深いコレクションだね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4500_00_mma",
+    "template": 1162,
+    "Text": "どこで見つかったアイテムなんだろう",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4600_00_mfa",
+    "template": 1163,
+    "Text": "このコレクション見てると\r\n元気出てくるよね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4800_00_mfa",
+    "template": 1164,
+    "Text": "シーサイド・ジョニー\r\nがんばってるね！",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_4900_00_mma",
+    "template": 1165,
+    "Text": "私　このホテルの\r\nファンになりましたよ",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_5000_00_mma",
+    "template": 1166,
+    "Text": "これが　かの有名な\r\nジョニー・コレクションですか",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_5010_00_mma",
+    "template": 1167,
+    "Text": "ミッドガルの美術館にも負けてませんね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_5300_00_mfa",
+    "template": 1168,
+    "Text": "世界中の名品珍品が\r\n集まってるんだって！",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_5400_00_mfa",
+    "template": 1169,
+    "Text": "コスタの新しい観光スポットの誕生だね",
+    "reason": "Johnny clone/renovated inn and collection exhibition require later regional odd-job progress."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0100_00_mma",
+    "template": 1278,
+    "Text": "かなり攻めたデザインだな",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0200_00_mma",
+    "template": 1279,
+    "Text": "くっそ～\r\n俺もステキな思い出作りて～！",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0300_00_mma",
+    "template": 1280,
+    "Text": "あれ着たら　ビーチで目立つだろうな",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0400_00_mma",
+    "template": 1281,
+    "Text": "メンズ用の水着も出るよな？",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1100_00_mfa",
+    "template": 1282,
+    "Text": "このブランドの動向は要チェックね",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1200_00_mfa",
+    "template": 1283,
+    "Text": "ステキだったけど　私に似合うかな",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1300_00_mfa",
+    "template": 1284,
+    "Text": "トレンドが決まったんじゃない？",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1400_00_mfa",
+    "template": 1285,
+    "Text": "ペアルックもいいかもね",
+    "reason": "Swimwear brand runway reactions belong to later Costa return content."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0100_00_mma",
+    "template": 1286,
+    "Text": "どうだい　だいぶ仕上がってきただろ",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0200_00_mma",
+    "template": 1287,
+    "Text": "キレてるよ～　ナイスカット！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0300_00_mma",
+    "template": 1288,
+    "Text": "ここまでくるには\r\n汗だけじゃなく　涙も流したさ",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0400_00_mma",
+    "template": 1289,
+    "Text": "そうだろうな～　涙のナイスバルク！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0500_00_mma",
+    "template": 1290,
+    "Text": "はあっ……くうっ！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0700_00_mma",
+    "template": 1291,
+    "Text": "もう　限界……！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0900_00_mma",
+    "template": 1292,
+    "Text": "くおおお……！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2100_00_mfa",
+    "template": 1293,
+    "Text": "みんな　『筋肉の唄』いくよ！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2200_00_mma",
+    "template": 1294,
+    "Text": "信ずるモノは　己の筋肉！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2300_00_mma",
+    "template": 1295,
+    "Text": "流した汗に　偽りなし！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2400_00_mma",
+    "template": 1296,
+    "Text": "笑顔で今日も　うさぎ飛び！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2500_00_mma",
+    "template": 1297,
+    "Text": "涙こらえて　スクワット！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2600_00_mfa",
+    "template": 1298,
+    "Text": "それが我らの　生きる道！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2700_00_mma",
+    "template": 1299,
+    "Text": "燃えろ　脂肪！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2800_00_mma",
+    "template": 1300,
+    "Text": "耐えろ　筋繊維！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2900_00_mfa",
+    "template": 1301,
+    "Text": "越えろ　限界！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3000_00_mma",
+    "template": 1302,
+    "Text": "しぼれ　乳酸！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3100_00_mma",
+    "template": 1303,
+    "Text": "めぐれ　酸素！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3200_00_mma",
+    "template": 1304,
+    "Text": "いまだ　超回復！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3300_00_mfa",
+    "template": 1305,
+    "Text": "くらえ　タンパク質！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3400_00_mma",
+    "template": 1306,
+    "Text": "うまいぞ　プロテイン！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3900_00_mma",
+    "template": 1307,
+    "Text": "重要なのは　忍耐と持続",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4000_00_mma",
+    "template": 1308,
+    "Text": "開放の喜びは　その先にある！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4100_00_mma",
+    "template": 1309,
+    "Text": "イテテ　腕つった～……",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4500_00_mma",
+    "template": 1310,
+    "Text": "敵は自分　自分の弱さ！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4600_00_mma",
+    "template": 1311,
+    "Text": "今日の俺は　昨日の俺より強い！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4700_00_mma",
+    "template": 1312,
+    "Text": "かかってこいや～！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5100_00_mma",
+    "template": 1313,
+    "Text": "負けるな質量　ふりきれ重力！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5200_00_mma",
+    "template": 1314,
+    "Text": "自らを次のステージに……引きあげる！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5300_00_mma",
+    "template": 1315,
+    "Text": "飛べ～！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5700_00_mma",
+    "template": 1316,
+    "Text": "ムフフ　できてる～",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5800_00_mma",
+    "template": 1317,
+    "Text": "完璧な自分が　おそろしい～！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5900_00_mma",
+    "template": 1318,
+    "Text": "どうぞ　触ってもいいですよ～",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6300_00_mma",
+    "template": 1319,
+    "Text": "ここが踏ん張りどころだ！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6400_00_mma",
+    "template": 1320,
+    "Text": "あきらめないで　ポジティブに！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6600_00_mma",
+    "template": 1321,
+    "Text": "さあ　限界を超えよう！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6700_00_mma",
+    "template": 1322,
+    "Text": "いけるよ　負けるな！",
+    "reason": "Training-gym access and exercises accompany later regional odd jobs, not Chapter6 arrival."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0100_00_jen",
+    "template": 1555,
+    "Text": "コスタ～！　シーサイド・ジョニー\r\nファストトラベルです",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0110_00_tif",
+    "template": 1556,
+    "Text": "あっ！",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0200_00_jen",
+    "template": 1557,
+    "Text": "結局　こういうことになったの\r\nあなたたちが背中を押してくれたおかげ",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0300_00_jen",
+    "template": 1558,
+    "Text": "でもね　いまは仕事が楽しくて\r\n恋は　ちょっと後まわしかな",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0400_00_jen",
+    "template": 1559,
+    "Text": "ティファ　ジョニー君に会いにきたの？",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0500_00_jen",
+    "template": 1560,
+    "Text": "まあいいけど\r\nでもね　この仕事は絶対ゆずらないから",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0600_00_jen",
+    "template": 1561,
+    "Text": "コスタ～！　新人のジェニーです",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0700_00_jen",
+    "template": 1562,
+    "Text": "あれ？　私　浮かれちゃってますね\r\nあこがれの人のそばで働けるのが嬉しくって",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_QST_04_0800_0800_00_jen",
+    "template": 1563,
+    "Text": "今後とも　シーサイド・ジョニーを\r\nよろしくお願いします！",
+    "reason": "Jenny newly working at the inn follows later inn refurbishment; earlier Wheelie activity remains selected."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_15900_00_sma",
+    "template": 588,
+    "Text": "コスタ～！　こちらはゴールドソーサー行きです\r\nご利用になりますか？",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_15910_00_sys",
+    "template": 589,
+    "Text": "ゴールドソーサーへ向かいますか？",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_15920_00_sys",
+    "template": 410,
+    "Text": "はい",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_15930_00_sys",
+    "template": 411,
+    "Text": "いいえ",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_16000_00_sma",
+    "template": 590,
+    "Text": "それでは\r\n黄金の楽園へ　しゅっぱ～つ！",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0100_16100_00_sma",
+    "template": 592,
+    "Text": "またいつでも　お声がけくださ～い",
+    "reason": "Gold Saucer heliport service requires later travel progression."
+  }
+]

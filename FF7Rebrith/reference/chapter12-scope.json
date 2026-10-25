@@ -1,0 +1,43 @@
+{
+  "records": 4200,
+  "templates": 3847,
+  "assets": {
+    "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset": 62,
+    "End/Content/Text/JP/8100-GRASE_TxtRes.uasset": 178,
+    "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset": 157,
+    "End/Content/Text/JP/8300-CORLE_TxtRes.uasset": 271,
+    "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset": 1873,
+    "End/Content/Text/JP/8500-GONGE_TxtRes.uasset": 229,
+    "End/Content/Text/JP/8600-COSME_TxtRes.uasset": 66,
+    "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset": 272,
+    "End/Content/Text/JP/8800-FOREE_TxtRes.uasset": 148,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 944
+  },
+  "categories": {
+    "Ch12 main story,interlude,date/LOVELESS and ship variants": 1278,
+    "Hustle and Grind": 142,
+    "Earlier Japanese-only walking banter catch-up; English take absent,do not invent actor metadata": 36,
+    "Tides of War and Worry / Beneath Still Waters": 157,
+    "Trouble in Paradise / final Corel protorelic": 271,
+    "Sand and Circuses / Gold Cup or Bust / Can’t Stop Won’t Stop / all Ch12 boss voices": 810,
+    "Woodland Vigil / Escape from Endless Writer’s Block / final Queen’s Blood": 229,
+    "Victim of Circumstance": 66,
+    "Lament of the Damned": 144,
+    "Final protorelic / Gilgamesh Island,available during Ch12; not Temple main story": 148,
+    "Shared return-region,QB finale,pirate treasure,photo/piano completion and protorelic dialogue": 309,
+    "Earlier Nibel shared NPC variants catch-up,including robed villagers": 122,
+    "Whole remaining Enemy Intel text/tips UI; user authorized all-game UI,not future spoken story": 488
+  },
+  "source_sha256": "6a0968da3ebdd007b9dccb3d5b8912f021c5f7b08959cbdda5ed672c35dbb96d",
+  "future_spoken_story_excluded": [
+    "C3310,C3320,C3330,C3340,C3410,C3510",
+    "Temple/Capital boss families"
+  ],
+  "all11_Ch12_odd_jobs": true,
+  "all_date_and_LOVELESS_variants": true,
+  "references": [
+    "https://www.powerpyx.com/final-fantasy-7-vii-rebirth-chapter-12-a-golden-key-walkthrough/",
+    "https://gamefaqs.gamespot.com/ps5/371123-final-fantasy-vii-rebirth/faqs/81141/ch12-a-golden-key"
+  ],
+  "in_game_tested": false
+}

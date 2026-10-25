@@ -1,0 +1,16 @@
+pyUE4Parse, vendored unmodified.
+
+source:   https://github.com/MinshuG/pyUE4Parse
+git rev:  88c9434a9c3b57fa8ba1058bd6c20c7f123270ec
+licence:  MIT - see licenses/pyUE4Parse-MIT.txt
+vendored: 2026-10-11
+
+Pure Python only: the Cython texture extension (Assets/Exports/Textures/
+utils.pyx) is deliberately not built. UE4Parse guards that import and falls
+back to its Python decoder, which this tool never calls - it parses
+MovieScene data and never decodes a texture.
+
+Not patched. Where this tool needs different behaviour from upstream it
+monkeypatches at runtime from gameextract.py (the container partition size
+and the compression-method spelling) rather than editing these files, so
+this copy can be replaced wholesale with a newer upstream checkout.

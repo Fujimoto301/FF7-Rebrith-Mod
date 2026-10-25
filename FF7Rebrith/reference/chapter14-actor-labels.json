@@ -1,0 +1,110 @@
+{
+  "ビッグス": {
+    "label": "Biggs",
+    "candidates": {
+      "Biggs": 85
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "クラウド": {
+    "label": "Cloud",
+    "candidates": {
+      "Cloud": 2080
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "セフィロス": {
+    "label": "Sephiroth",
+    "candidates": {
+      "Sephiroth": 285
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "エアリス": {
+    "label": "Aerith",
+    "candidates": {
+      "Aerith": 1239
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "黒マントたち": {
+    "label": "Robed Men",
+    "candidates": {},
+    "evidence": "Explicit Japanese plural group of robed men; plural of established Robed Man label."
+  },
+  "ティファ": {
+    "label": "Tifa",
+    "candidates": {
+      "Tifa": 1077
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "ユフィ": {
+    "label": "Yuffie",
+    "candidates": {
+      "Yuffie": 1097
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "ケット・シー": {
+    "label": "Cait Sith",
+    "candidates": {
+      "Cait Sith": 484
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "レッドⅩⅢ": {
+    "label": "Red XIII",
+    "candidates": {
+      "Red XIII": 898
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "バレット": {
+    "label": "Barret",
+    "candidates": {
+      "Barret": 1378
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "ヴィンセント": {
+    "label": "Vincent",
+    "candidates": {
+      "Vincent": 120
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "ザックス": {
+    "label": "Zack",
+    "candidates": {
+      "Zack": 214
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "シド": {
+    "label": "Cid",
+    "candidates": {
+      "Cid": 180
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "グレン": {
+    "label": "Glenn",
+    "candidates": {
+      "Glenn": 55
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "ルーファウス": {
+    "label": "Rufus",
+    "candidates": {
+      "Rufus": 142
+    },
+    "evidence": "Exact JP actor identity across same-ID JP/US records in corpus; normalized Roman numerals only."
+  },
+  "プレジデント": {
+    "label": "President Shinra",
+    "candidates": {},
+    "evidence": "Explicit Japanese President role in Rufus flashback; canonical character identity President Shinra."
+  }
+}

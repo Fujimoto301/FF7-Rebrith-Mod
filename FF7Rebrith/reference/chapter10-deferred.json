@@ -1,0 +1,1124 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0100_00_yfi",
+    "Japanese": {
+      "Text": "もしも～し　誰かいませんか～？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Yoo-hoo down there!\r\nLooks to me like you could use some help.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0200_00_yfi",
+    "Japanese": {
+      "Text": "えっえっ　ジージェ！\r\nこんなとこで　なにしてんの？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Wait─Zhijie!? What are <i>you</i> doing here?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0300_00_gjy",
+    "Japanese": {
+      "Text": "あいかわらず騒がしいな　ユフィ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "It's good to see you too, Yuffie. And...",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0400_00_cld",
+    "Japanese": {
+      "Text": "知り合いか？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Who's this?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0500_00_yfi",
+    "Japanese": {
+      "Text": "ああ　こちらジージェ",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Oh. This is Zhijie.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0600_00_yfi",
+    "Japanese": {
+      "Text": "本家のアバランチに協力してた\r\nじょーほー屋？　みたいなひと",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "He was Avalanche HQ's, uh...\r\nguy-on-the-ground? Informant?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0700_00_yfi",
+    "Japanese": {
+      "Text": "んで　こっちが\r\nユフィちゃんの手下たち！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Right─and these are my helpless-yet-lovable minions.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0800_00_gjy",
+    "Japanese": {
+      "Text": "なるほどね　そう繋がったか",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "It really is a small world.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_0900_00_yfi",
+    "Japanese": {
+      "Text": "うん　なんか言った？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Hmm? You say somethin'?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_1000_00_gjy",
+    "Japanese": {
+      "Text": "いやいや　元気そうでなによりだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Nope. Just glad you're okay.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_1600_00_gjy",
+    "Japanese": {
+      "Text": "神羅が七番街を潰す計画を立てているって\r\nウワサを聞いた時は正直　半信半疑だったんだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I'll be honest. When I first caught wind of Shinra's plan to drop the Sector 7 plate, I was pretty skeptical.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_1700_00_gjy",
+    "Japanese": {
+      "Text": "支柱でユフィたちと別れたあと",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "But after you and I parted ways...",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_1800_00_gjy",
+    "Japanese": {
+      "Text": "俺は　アバランチの連中に知らせて\r\n知り合いに七番街から逃げるように伝えまわったが",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I told HQ about everything I'd heard...and went around making sure my friends got out in time.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_1900_00_gjy",
+    "Japanese": {
+      "Text": "もっと声を張りあげて　脅してもいいから\r\n全員に避難を呼びかければよかった",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "And most of 'em did─but not all.\r\nSo many lives I could've saved...",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2000_00_gjy",
+    "Japanese": {
+      "Text": "落ちてきたプレートが街を押し潰す光景を\r\nいまも夢で見るんだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I'll never forget the sight of the plate crashing down... Gonna haunt me forever.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2100_00_gjy",
+    "Japanese": {
+      "Text": "ユフィも　グレン大佐の演説を聞いたみたいだな",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I take it you tuned into Colonel Lodbrok's speech.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2200_00_gjy",
+    "Japanese": {
+      "Text": "ようやく　世界中の反神羅グループが\r\nひとつになる時がきたってわけだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Makes me proud to see folks finally banding together against that piece of shit company.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2300_00_gjy",
+    "Japanese": {
+      "Text": "そして　その中心になるのがウータイだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Wutai is gonna be at the heart of this fight...",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2310_00_gjy",
+    "Japanese": {
+      "Text": "俺もその一員として　命を懸けるつもりさ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "and I'm ready to risk it all to make sure we win.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2400_00_gjy",
+    "Japanese": {
+      "Text": "本家アバランチのナヨたちとは\r\nいっしょにミッドガルから逃亡して",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Nayo and them? We were on the run together after we fled Midgar.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2500_00_gjy",
+    "Japanese": {
+      "Text": "すこしまえに　コスモキャニオンで別れたよ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "They decided to stay in Cosmo Canyon.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2510_00_gjy",
+    "Japanese": {
+      "Text": "星命学の聖地で　仕事を探すって言ってたな",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Said they wanted to \"brush up on their planetology.\"",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2600_00_gjy",
+    "Japanese": {
+      "Text": "ナヨもビリー・ボーもポルコも\r\nかなり落ち込んでたからな　無事だといいが",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Though I dunno how well that'll go for 'em. All three seemed pretty down... Hope they're okay.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2700_00_gjy",
+    "Japanese": {
+      "Text": "そうだ　この運命的な再会を祝して\r\nちょっと手を貸してもらえないか",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Actually, since fate has deigned to bring us back together, mind if I ask a favor?",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2800_00_gjy",
+    "Japanese": {
+      "Text": "道中　でかいモンスターに追いかけまわされてね",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Y'see, I ran afoul of this big ol' fiend.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_2900_00_gjy",
+    "Japanese": {
+      "Text": "なんとか振り切ったものの\r\nこのとおり　エンストで動けなくなっちまった",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I put the pedal to the metal trying to escape and, well, now I'm paying the price.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3000_00_gjy",
+    "Japanese": {
+      "Text": "ヤツは　まだそう遠くには行ってないはずだ\r\n探し出して倒してきてくれないか",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Pretty sure the sucker's still around here somewhere. Mind, uh, smokin' him out and takin' him down?",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3100_00_yfi",
+    "Japanese": {
+      "Text": "ええ～？\r\nまあ　頼まれてあげなくもないけど",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "A favor, huh? I suppose I could be persuaded, seeing as we <i>are</i> friends.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3110_00_yfi",
+    "Japanese": {
+      "Text": "タダってわけには　いかないにゃ～",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "But don't expect me to lift a finger for free.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3200_00_gjy",
+    "Japanese": {
+      "Text": "報酬は弾むよ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Just name your price.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3300_00_yfi",
+    "Japanese": {
+      "Text": "イシシシ　しっかと引き受けた！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Heh heh heh... Then you got yourself a deal!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3400_00_cld",
+    "Japanese": {
+      "Text": "モンスターの手がかりは？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "So how do we find this thing?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3500_00_gjy",
+    "Japanese": {
+      "Text": "ヤツは　獲物を襲うとき以外は\r\n地中に潜っているんだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "When it's not hunting, it's hiding,\r\nso it might be underground.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3600_00_gjy",
+    "Japanese": {
+      "Text": "モーグリたちの店で扱ってる\r\n『震動探知機』があれば　見つけられるだろうな",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "But it should be easy to track down with one of those vibration detectors the moogles sell at their shop.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3700_00_yfi",
+    "Japanese": {
+      "Text": "おお　イエス・モーグリ！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Well, I'll be! Those pom-sters've got it all!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3800_00_yfi",
+    "Japanese": {
+      "Text": "って　モーグリのお店ってどこよ？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "But we don't exactly know where their shop is, do we?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_3900_00_cld",
+    "Japanese": {
+      "Text": "探してみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Then let's find it.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_4000_00_yfi",
+    "Japanese": {
+      "Text": "でも　そんなアイテム\r\nモーグリショップにあったっけ？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Wait, or do they? I don't remember seeing anything like that in the shop.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_4100_00_yfi",
+    "Japanese": {
+      "Text": "まだ　見つけてないモーグリがいるのかな",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Maybe there's another moogle we haven't found yet.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_4200_00_cld",
+    "Japanese": {
+      "Text": "探してみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Then let's find 'em.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_4300_00_yfi",
+    "Japanese": {
+      "Text": "じゃ　モーグリショップへ行ってみよ～！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Alright! Let's go and hit up that moogle boutique!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0100_4400_00_cld",
+    "Japanese": {
+      "Text": "これだな",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You mean this?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0200_0100_00_gjy",
+    "Japanese": {
+      "Text": "ヤツは普段　地中に潜っていて姿を見せない",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "First, you're gonna need to find whatever hole that sucker's hiding in.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0200_0200_00_gjy",
+    "Japanese": {
+      "Text": "まずは　モーグリショップにある\r\n『震動探知機』を手に入れてくれ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Best bet is to pick up a vibration detector at the moogles' shop.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0200_0300_00_gjy",
+    "Japanese": {
+      "Text": "震動探知機が反応する方向に\r\nヤツがいるはずだ　気をつけて行けよ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "That detector oughta point you in the right direction. Just keep your wits about you.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0200_0400_00_gjy",
+    "Japanese": {
+      "Text": "俺はとにかく　車を修理しなくちゃ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I gotta stay here,\r\nget the old girl up and running.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0200_0500_00_gjy",
+    "Japanese": {
+      "Text": "モンスター　頼むぞ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Give that worm my regards.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0300_0100_00_yfi",
+    "Japanese": {
+      "Text": "イシシシ！\r\nこれで　ジージェの言ってたモンスターを探せるね",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Heh heh heh! This baby oughta lead us straight to that monster Zhijie was talking about.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0300_0200_00_yfi",
+    "Japanese": {
+      "Text": "さっそく調べてみよ",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Let's put 'er to work!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0400_0100_00_yfi",
+    "Japanese": {
+      "Text": "うげっ　出た～！　気持ちワル～",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Ew, there it is!\r\nMan, just lookin' at it makes my skin crawl.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0100_00_gjy",
+    "Japanese": {
+      "Text": "たいした実力だ　恐れ入ったぜ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Quite a performance. I'm impressed.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0200_00_yfi",
+    "Japanese": {
+      "Text": "と～ぜん！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "As you should be!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0210_00_yfi",
+    "Japanese": {
+      "Text": "ジージェは　これからどこ行くの？",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "So, where are you off to now?",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0300_00_gjy",
+    "Japanese": {
+      "Text": "神羅カンパニーが　反神羅活動の対策に\r\n本腰を入れはじめたんだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Unfortunately, Shinra's been making moves to push back against the resistance effort.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0400_00_gjy",
+    "Japanese": {
+      "Text": "だから封鎖地域を越えられるのは　いましかない\r\nいまのうちに　ウータイを目指すつもりだ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Once they tighten up the borders, travel's gonna get tough, so I've decided to head for Wutai while I can.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0500_00_gjy",
+    "Japanese": {
+      "Text": "ユフィは　ウータイに帰らないのか？",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "You're going home too, aren't you?",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0600_00_yfi",
+    "Japanese": {
+      "Text": "まだ帰らない",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "No... Not yet.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0700_00_yfi",
+    "Japanese": {
+      "Text": "帰れないよ",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "I can't.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0710_00_yfi",
+    "Japanese": {
+      "Text": "もっともっと\r\n強いマテリアを集めてからじゃないと",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Not until I've gathered lots and lots\r\nof powerful materia.",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0800_00_gjy",
+    "Japanese": {
+      "Text": "そうか……\r\nまあ　あんまり無茶はするなよ",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "I see... Well, try to stay out of trouble.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_0900_00_gjy",
+    "Japanese": {
+      "Text": "いまはともかく　これから先",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "That goes for the rest of you as well, y'hear?",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_1000_00_gjy",
+    "Japanese": {
+      "Text": "あんたらも　反神羅連絡会とは\r\n無関係じゃいられなくなるはず",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "You're bound to get caught up in the SRC's business at some point or another.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_1010_00_gjy",
+    "Japanese": {
+      "Text": "備えは　しっかりな",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Better be prepared.",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_1100_00_cld",
+    "Japanese": {
+      "Text": "ああ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Right.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_1200_00_gjy",
+    "Japanese": {
+      "Text": "会えてよかった\r\nがんばれよ　ユフィ！",
+      "MetaData": {
+        "ACTOR": "ジージェ"
+      }
+    },
+    "English": {
+      "Text": "Nice seein' you. Good luck out there, Yuffie!",
+      "MetaData": {
+        "ACTOR": "Zhijie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  },
+  {
+    "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+    "id": "$COSME_QST_05_0500_1300_00_yfi",
+    "Japanese": {
+      "Text": "いつか　ウータイでね！",
+      "MetaData": {
+        "ACTOR": "ユフィ"
+      }
+    },
+    "English": {
+      "Text": "Seeya back in Wutai!",
+      "MetaData": {
+        "ACTOR": "Yuffie"
+      }
+    },
+    "reason": "Victim of Circumstance is a new Chapter12 odd job; ordinary Cosmo NPC all return states are included"
+  }
+]

@@ -1,0 +1,6813 @@
+{
+  "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+  "scope": "Title, main menu, pause, save/load and their navigation, confirmations and in-menu onboarding; option category labels only; Japanese text on difficulty and battle-mode screens, preserving English mode labels",
+  "prefixes": [
+    "$menu_title_",
+    "$menu_mainmenu_",
+    "$menu_pause_",
+    "$menu_button_",
+    "$menu_keyguide_",
+    "$menu_save_",
+    "$menu_gameover_",
+    "$menu_CheckPoint_",
+    "$menu_scene_",
+    "$menu_Cinema_",
+    "$menu_options_0000_",
+    "$menu_options_0001_"
+  ],
+  "excluded": [
+    "$menu_title_Licence"
+  ],
+  "rows": [
+    {
+      "id": "$menu_CheckPoint_MenuName",
+      "Text": "チェックポイントからやりなおす",
+      "english": "Retry from Checkpoint"
+    },
+    {
+      "id": "$menu_CheckPoint_SelectWindow",
+      "Text": "ストーリーのチェックポイント\r\n『<object=0>』まで戻り\r\nゲームを再開します。\r\n\r\n※ストーリーはその時点まで巻き戻りますが\r\nここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Return to checkpoint \"<object=0>\"?\r\n\r\nYou will not lose any EXP gained thus far."
+    },
+    {
+      "id": "$menu_CheckPoint_SelectWindow_No",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_CheckPoint_SelectWindow_Yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_Cinema_0000_0000",
+      "Text": "SKIP",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_Cinema_0000_0001",
+      "Text": "MENU",
+      "english": "Menu"
+    },
+    {
+      "id": "$menu_button_guide_00_081_028",
+      "Text": "<button=scroll-vert> スクロール",
+      "english": "<button=scroll-vert> Scroll"
+    },
+    {
+      "id": "$menu_button_guide_00_120_000",
+      "Text": "<button=decide> 決定",
+      "english": "<button=decide> Confirm"
+    },
+    {
+      "id": "$menu_button_guide_00_130_001",
+      "Text": "<button=cancel> 戻る",
+      "english": "<button=cancel> Back"
+    },
+    {
+      "id": "$menu_button_guide_00_130_010",
+      "Text": "<button=cancel> 閉じる",
+      "english": "<button=cancel> Close"
+    },
+    {
+      "id": "$menu_button_guide_00_140_007",
+      "Text": "<button=triangle> セーブする",
+      "english": "<button=triangle> Save"
+    },
+    {
+      "id": "$menu_button_guide_00_140_019",
+      "Text": "<button=triangle> バトルコマンド情報を表示",
+      "english": "<button=triangle> Toggle Command Guide"
+    },
+    {
+      "id": "$menu_button_guide_00_140_026",
+      "Text": "<button=triangle> 初期化",
+      "english": "<button=triangle> Default"
+    },
+    {
+      "id": "$menu_button_guide_00_150_005",
+      "Text": "<button=square> 装備中を優先する",
+      "english": "<button=square> Prioritize Equipped Gear"
+    },
+    {
+      "id": "$menu_button_guide_00_150_006",
+      "Text": "<button=square> 装備中を優先しない",
+      "english": "<button=square> Deprioritize Equipped Gear"
+    },
+    {
+      "id": "$menu_button_guide_00_150_035",
+      "Text": "<button=square> フォトモード",
+      "english": "<button=square> Photo Mode"
+    },
+    {
+      "id": "$menu_button_guide_00_150_041",
+      "Text": "<button=square> 選択中のカードへ",
+      "english": "<button=square> Jump to Card"
+    },
+    {
+      "id": "$menu_button_guide_00_160_016",
+      "Text": "<button=L1><button=R1> デッキカード一覧",
+      "english": "<button=L1>/<button=R1> View Deck"
+    },
+    {
+      "id": "$menu_button_guide_00_160_039",
+      "Text": "<button=L1> 「はんいか」切替",
+      "english": "<button=L1> Magnify"
+    },
+    {
+      "id": "$menu_button_guide_00_160_041",
+      "Text": "<button=square> ショートカット削除",
+      "english": "<button=square> Delete Shortcut"
+    },
+    {
+      "id": "$menu_button_guide_00_167_008",
+      "Text": "<button=L1><button=R1> アイテムカテゴリ切替",
+      "english": "<button=L1>/<button=R1> Change Category"
+    },
+    {
+      "id": "$menu_button_guide_00_167_009",
+      "Text": "<button=L1><button=R1> パーティセット切替",
+      "english": "<button=L1>/<button=R1> Change Party"
+    },
+    {
+      "id": "$menu_button_guide_00_167_013",
+      "Text": "<button=L1><button=R1> デッキ切替",
+      "english": "<button=L1>/<button=R1> Change Deck"
+    },
+    {
+      "id": "$menu_button_guide_00_167_020",
+      "Text": "<button=L1><button=R1> ページの切替",
+      "english": "<button=L1>/<button=R1> Change Page"
+    },
+    {
+      "id": "$menu_button_guide_00_167_042",
+      "Text": "<button=decide> 使用する",
+      "english": "<button=decide> Use"
+    },
+    {
+      "id": "$menu_button_guide_00_170_002",
+      "Text": "<button=touch> マテリアクイック",
+      "english": "<button=touch> Set for All"
+    },
+    {
+      "id": "$menu_button_guide_00_170_017",
+      "Text": "<button=L1><button=R1> 所持カード一覧",
+      "english": "<button=L1>/<button=R1> View Collection"
+    },
+    {
+      "id": "$menu_button_guide_00_180_027",
+      "Text": "<button=L2> デッキ表示",
+      "english": "<button=L2> Display Deck"
+    },
+    {
+      "id": "$menu_button_guide_00_182_004",
+      "Text": "<button=L2><button=R2> キャラクター切替",
+      "english": "<button=L2>/<button=R2> Change Character"
+    },
+    {
+      "id": "$menu_button_guide_00_182_021",
+      "Text": "<button=L2><button=R2> 項目の切替",
+      "english": "<button=L2>/<button=R2> Change Category"
+    },
+    {
+      "id": "$menu_button_guide_00_190_012",
+      "Text": "<button=R2> カード一覧表示",
+      "english": "<button=R2> Display Collection"
+    },
+    {
+      "id": "$menu_button_guide_00_210_003",
+      "Text": "<button=R3> ソートする",
+      "english": "<button=R3> Sort"
+    },
+    {
+      "id": "$menu_button_guide_00_210_023",
+      "Text": "<button=R3> ボタン表記選択",
+      "english": "<button=R3> Button Appearance"
+    },
+    {
+      "id": "$menu_button_guide_00_220_011",
+      "Text": "<button=options> チュートリアルを確認する",
+      "english": "<button=options> Tutorial"
+    },
+    {
+      "id": "$menu_button_guide_00_220_022",
+      "Text": "<button=options> すべて初期化",
+      "english": "<button=options> Restore Default"
+    },
+    {
+      "id": "$menu_button_guide_00_230_018",
+      "Text": "<button=touch> 詳細表示",
+      "english": "<button=touch> Toggle Details"
+    },
+    {
+      "id": "$menu_button_guide_00_230_024",
+      "Text": "<button=touch> コントローラー選択",
+      "english": "<button=touch> Controller Type"
+    },
+    {
+      "id": "$menu_button_guide_00_230_040",
+      "Text": "<button=touch> クラフト素材確認",
+      "english": "<button=touch> Check Materials"
+    },
+    {
+      "id": "$menu_button_guide_02_140_030",
+      "Text": "<button=triangle> RESERVE MEMBER COMMAND",
+      "english": "<button=triangle> Backline Command"
+    },
+    {
+      "id": "$menu_gameover_0000_0000",
+      "Text": "GAME OVER",
+      "english": "GAME OVER"
+    },
+    {
+      "id": "$menu_gameover_0001_0000",
+      "Text": "バトル直前からやりなおす",
+      "english": "Retry from Last Battle"
+    },
+    {
+      "id": "$menu_gameover_0001_0001",
+      "Text": "タイトルに戻る",
+      "english": "Return to Title Screen"
+    },
+    {
+      "id": "$menu_gameover_0001_0004",
+      "Text": "リタイアする",
+      "english": "Give Up"
+    },
+    {
+      "id": "$menu_gameover_0001_0005",
+      "Text": "バイクゲームをスキップする",
+      "english": "Skip the Bike Minigame"
+    },
+    {
+      "id": "$menu_gameover_0002_0000",
+      "Text": "最後にセーブした地点からゲームを再開します。\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from the last place the game was saved?"
+    },
+    {
+      "id": "$menu_gameover_0002_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_gameover_0002_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_gameover_0007_0000",
+      "Text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブしたあとの進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。",
+      "english": "Quit the game and return to the title screen?\r\n\r\nAll progress made since your last save will be lost."
+    },
+    {
+      "id": "$menu_gameover_0007_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_gameover_0007_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_gameover_0008_0000",
+      "Text": "タイトル画面に戻ります。\r\n実行してもよろしいですか？",
+      "english": "Return to the title screen?"
+    },
+    {
+      "id": "$menu_gameover_0008_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_gameover_0008_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_gameover_0009_0000",
+      "Text": "バトルを終了し、コース選択に戻ります。",
+      "english": "End the battle and return to the selection screen?"
+    },
+    {
+      "id": "$menu_gameover_0009_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_gameover_0009_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_gameover_0010_0000",
+      "Text": "バイクゲームをスキップします。\r\n実行してもよろしいですか？",
+      "english": "Skip the bike minigame?"
+    },
+    {
+      "id": "$menu_gameover_0010_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_gameover_0010_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_keyguide_0000_0000",
+      "Text": "パーティメンバーコマンド",
+      "english": "Issue Commands to Allies"
+    },
+    {
+      "id": "$menu_keyguide_0000_0001",
+      "Text": "操作キャラクターチェンジ",
+      "english": "Switch Characters"
+    },
+    {
+      "id": "$menu_keyguide_0000_0002",
+      "Text": "回避",
+      "english": "Evade"
+    },
+    {
+      "id": "$menu_keyguide_0000_0003",
+      "Text": "ガード／連携アクション",
+      "english": "Guard / Synergy Skills"
+    },
+    {
+      "id": "$menu_keyguide_0000_0004",
+      "Text": "ショートカットコマンド",
+      "english": "Command Shortcuts"
+    },
+    {
+      "id": "$menu_keyguide_0000_0005",
+      "Text": "ターゲットロックオン",
+      "english": "Lock On"
+    },
+    {
+      "id": "$menu_keyguide_0000_0100_plus",
+      "Text": "<button=prev-member> <button=next-member>",
+      "english": "<button=prev-member> <button=next-member>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0101_plus",
+      "Text": "<button=vert> <button=horz>",
+      "english": "<button=vert> <button=horz>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0102_plus",
+      "Text": "<button=dodge>",
+      "english": "<button=dodge>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0103_plus",
+      "Text": "<button=guard>",
+      "english": "<button=guard>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0104_plus",
+      "Text": "<button=shortcut-menu>",
+      "english": "<button=shortcut-menu>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0105_plus",
+      "Text": "<button=target-lock>",
+      "english": "<button=target-lock>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0106_plus",
+      "Text": "<button=vert>",
+      "english": "<button=vert>"
+    },
+    {
+      "id": "$menu_keyguide_0000_0107",
+      "Text": "<button=change-prev> <button=change-next>",
+      "english": "<button=change-prev>/<button=change-next>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1000",
+      "Text": "<button=vert>",
+      "english": "<button=vert>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1001",
+      "Text": "操作キャラクターチェンジ＆呼び寄せる",
+      "english": "Tag Team"
+    },
+    {
+      "id": "$menu_keyguide_0000_1002",
+      "Text": "<button=guard>",
+      "english": "<button=guard>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1003",
+      "Text": "<button=prev-member>",
+      "english": "<button=prev-member>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1004",
+      "Text": "<button=next-member>",
+      "english": "<button=next-member>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1005",
+      "Text": "<button=shortcut-menu>",
+      "english": "<button=shortcut-menu>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1006",
+      "Text": "×",
+      "english": "×"
+    },
+    {
+      "id": "$menu_keyguide_0000_1007",
+      "Text": "％",
+      "english": "％"
+    },
+    {
+      "id": "$menu_keyguide_0000_1008",
+      "Text": "Lv.",
+      "english": "Lv."
+    },
+    {
+      "id": "$menu_keyguide_0000_1009",
+      "Text": "<button=L1>",
+      "english": "<button=L1>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1010",
+      "Text": "<button=R1>",
+      "english": "<button=R1>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1011",
+      "Text": "<button=prev-member-side>",
+      "english": "<button=prev-member-side>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1012",
+      "Text": "<button=next-member-side>",
+      "english": "<button=next-member-side>"
+    },
+    {
+      "id": "$menu_keyguide_0000_1013",
+      "Text": "連携アクションのヘルプ表示",
+      "english": "Synergy Skills Info"
+    },
+    {
+      "id": "$menu_keyguide_0000_1014",
+      "Text": "ショートカットのヘルプ表示",
+      "english": "Shortcut Commands Info"
+    },
+    {
+      "id": "$menu_keyguide_0001_0006",
+      "Text": "スピンスラッシュ",
+      "english": "Spinning Slash"
+    },
+    {
+      "id": "$menu_keyguide_0002_0000",
+      "Text": "照準ターゲット",
+      "english": "Aim"
+    },
+    {
+      "id": "$menu_keyguide_0002_0001",
+      "Text": "射撃",
+      "english": "Fire"
+    },
+    {
+      "id": "$menu_keyguide_0002_0002",
+      "Text": "リロード",
+      "english": "Reload"
+    },
+    {
+      "id": "$menu_keyguide_0002_0004",
+      "Text": "照準速度変更 <button=toggle-off>",
+      "english": "Adjust Aiming Speed <button=toggle-off>"
+    },
+    {
+      "id": "$menu_keyguide_0002_0005",
+      "Text": "バギー操作",
+      "english": "Steer"
+    },
+    {
+      "id": "$menu_keyguide_0002_0006",
+      "Text": "照準速度変更 <button=toggle-on>",
+      "english": "Adjust Aiming Speed <button=toggle-on>"
+    },
+    {
+      "id": "$menu_keyguide_CommandShortcutKeyOption_000",
+      "Text": "パーティメンバーショートカット",
+      "english": "Ally Shortcuts"
+    },
+    {
+      "id": "$menu_keyguide_chain_action_help_close",
+      "Text": "<button=cancel> 閉じる",
+      "english": "<button=cancel> Close"
+    },
+    {
+      "id": "$menu_keyguide_sephiroth_001",
+      "Text": "瞬間移動",
+      "english": "Warp"
+    },
+    {
+      "id": "$menu_keyguide_sephiroth_002",
+      "Text": "『逆襲の構え』／連携アクション",
+      "english": "Retaliation Stance / Synergy Skills"
+    },
+    {
+      "id": "$menu_keyguide_sephiroth_003",
+      "Text": "『逆襲の構え』解除／連携アクション",
+      "english": "Battle Stance / Synergy Skills"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0000",
+      "Text": "MAIN MENU",
+      "english": "Main Menu"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0001",
+      "Text": "MATERIA & EQUIPMENT",
+      "english": "Materia & Equipment"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0002",
+      "Text": "BATTLE SETTINGS",
+      "english": "Combat Settings"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0003",
+      "Text": "UPGRADE WEAPONS",
+      "english": "Upgrade Weapons"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0005",
+      "Text": "ENEMY REPORT",
+      "english": "Enemy Intel"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0006",
+      "Text": "STATUS",
+      "english": "Party"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0007",
+      "Text": "MAGIC",
+      "english": "Spells"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0008",
+      "Text": "ITEMS",
+      "english": "Inventory"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0009",
+      "Text": "MANUAL",
+      "english": "Manual"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0010",
+      "Text": "SAVE / LOAD",
+      "english": "Save / Load"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0011",
+      "Text": "SYSTEM",
+      "english": "System"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0012",
+      "Text": "BATTLE LEADER",
+      "english": "Leader"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0013",
+      "Text": "LEVEL",
+      "english": "Level"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0014",
+      "Text": "EXP",
+      "english": "EXP"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0015",
+      "Text": "HP",
+      "english": "HP"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0016",
+      "Text": "MP",
+      "english": "MP"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0018",
+      "Text": "ITEM CRAFT",
+      "english": "Item Transmuter"
+    },
+    {
+      "id": "$menu_mainmenu_0000_0019",
+      "Text": "CARD GAME DECKS",
+      "english": "Card Decks"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0000",
+      "Text": "SYSTEM",
+      "english": "System"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0001",
+      "Text": "SAVE",
+      "english": "Save"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0002",
+      "Text": "LOAD",
+      "english": "Load"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0003",
+      "Text": "OPTIONS",
+      "english": "Options"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0004",
+      "Text": "DLC / BONUS",
+      "english": "Bonuses"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0005",
+      "Text": "TITLE",
+      "english": "Title Screen"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0006",
+      "Text": "CHAPTER SELECT",
+      "english": "Chapter Selection"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0007",
+      "Text": "CHECK POINT",
+      "english": "Checkpoint"
+    },
+    {
+      "id": "$menu_mainmenu_0001_0008",
+      "Text": "QUIT GAME",
+      "english": "Quit Game"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0000",
+      "Text": "アイテム",
+      "english": "Items"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0001",
+      "Text": "だいじなもの",
+      "english": "Key Items"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0002",
+      "Text": "武器",
+      "english": "Weapons"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0003",
+      "Text": "防具",
+      "english": "Armor"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0004",
+      "Text": "アクセサリ",
+      "english": "Accessories"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0005",
+      "Text": "マテリア",
+      "english": "Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0007",
+      "Text": "カード",
+      "english": "Cards"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0008",
+      "Text": "トレード通貨",
+      "english": "Trading Tokens"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0009",
+      "Text": "ウェア",
+      "english": "Outfits"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0010",
+      "Text": "クラフトチップ",
+      "english": "Transmuter Chips"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0011",
+      "Text": "クラフト素材",
+      "english": "Materials"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0012",
+      "Text": "スキルブック",
+      "english": "Folios & Manuscripts"
+    },
+    {
+      "id": "$menu_mainmenu_0003_0013",
+      "Text": "チョコボの装具品",
+      "english": "Chocobo Gear"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0003",
+      "Text": "デフォルト",
+      "english": "Default"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0004",
+      "Text": "所持数順",
+      "english": "By Number Owned"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0006",
+      "Text": "レベル順",
+      "english": "By Level"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0008",
+      "Text": "攻撃力順",
+      "english": "By Attack Power"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0009",
+      "Text": "防御力順",
+      "english": "By Defense"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0010",
+      "Text": "魔法攻撃力順",
+      "english": "By Magic Attack Power"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0011",
+      "Text": "魔法防御力順",
+      "english": "By Magic Defense"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0012",
+      "Text": "入手順",
+      "english": "By Order Obtained"
+    },
+    {
+      "id": "$menu_mainmenu_0004_0013",
+      "Text": "キャラクター順",
+      "english": "By Character"
+    },
+    {
+      "id": "$menu_mainmenu_0005_0000",
+      "Text": "並び替え",
+      "english": "Sort"
+    },
+    {
+      "id": "$menu_mainmenu_0005_0001",
+      "Text": "並び順",
+      "english": "Criteria"
+    },
+    {
+      "id": "$menu_mainmenu_0007_0000",
+      "Text": "ショートカット登録",
+      "english": "Set Shortcuts"
+    },
+    {
+      "id": "$menu_mainmenu_0007_0001",
+      "Text": "アビリティ",
+      "english": "Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_0007_0002",
+      "Text": "魔法",
+      "english": "Spells"
+    },
+    {
+      "id": "$menu_mainmenu_0007_0003",
+      "Text": "アイテム",
+      "english": "Items"
+    },
+    {
+      "id": "$menu_mainmenu_0007_0004",
+      "Text": "リミット技",
+      "english": "Limit Breaks"
+    },
+    {
+      "id": "$menu_mainmenu_0008_0000",
+      "Text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。",
+      "english": "Return to the title screen?\r\n\r\nAll progress made since your last save will be lost."
+    },
+    {
+      "id": "$menu_mainmenu_0008_0001",
+      "Text": "タイトルに戻る",
+      "english": "Return to Title Screen"
+    },
+    {
+      "id": "$menu_mainmenu_0008_0002",
+      "Text": "キャンセル",
+      "english": "Cancel"
+    },
+    {
+      "id": "$menu_mainmenu_0009_0000",
+      "Text": "タイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。\r\n\r\n実行してもよろしいですか？",
+      "english": "If you return to the title screen, all progress made since your last save will be lost. To continue playing instead, select No.\r\n\r\nReturn to title screen?"
+    },
+    {
+      "id": "$menu_mainmenu_0009_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_mainmenu_0009_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0000",
+      "Text": "WEAPON",
+      "english": "Weapon"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0001",
+      "Text": "ARMOR",
+      "english": "Armor"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0002",
+      "Text": "ACCESSORY",
+      "english": "Accessory"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0003",
+      "Text": "MATERIA",
+      "english": "Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0004",
+      "Text": "ATK",
+      "english": "ATK"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0005",
+      "Text": "DEF",
+      "english": "DEF"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0006",
+      "Text": "AP",
+      "english": "AP"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0007",
+      "Text": "ABILITY",
+      "english": "Ability"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0008",
+      "Text": "熟練度ボーナス",
+      "english": "Proficiency Bonus"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0009",
+      "Text": "ABILITY INFO",
+      "english": "Ability Info"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0010",
+      "Text": "MATERIA INFO",
+      "english": "Materia Info"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0011",
+      "Text": "属性:",
+      "english": "Element:"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0012",
+      "Text": "状態異常耐性:",
+      "english": "Resistances:"
+    },
+    {
+      "id": "$menu_mainmenu_0010_0013",
+      "Text": "WEAPON SKILL",
+      "english": "Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_0011_0000",
+      "Text": "はずす",
+      "english": "Remove"
+    },
+    {
+      "id": "$menu_mainmenu_0012_0000",
+      "Text": "<object=0>が装備しています。\r\n\r\n取り外して装備しますか？",
+      "english": "<object=0> has this equipped.\r\nProceed anyway?"
+    },
+    {
+      "id": "$menu_mainmenu_0012_0001",
+      "Text": "<object=0>が装備しています。\r\n\r\n交換しますか？",
+      "english": "<object=0> has this equipped.\r\nTrade equipment?"
+    },
+    {
+      "id": "$menu_mainmenu_0012_0002",
+      "Text": "未装備",
+      "english": "--"
+    },
+    {
+      "id": "$menu_mainmenu_0012_0003",
+      "Text": "未所持",
+      "english": "--"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0000",
+      "Text": "<button=triangle> マテリアの装着",
+      "english": "<button=triangle> Set Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0001",
+      "Text": "<button=square> マテリアをはずす",
+      "english": "<button=square> Remove Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0002",
+      "Text": "MATERIA",
+      "english": "Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0003",
+      "Text": "<button=triangle> マテリア入替",
+      "english": "<button=triangle> Swap Materia"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0004",
+      "Text": "<button=cancel> キャンセル",
+      "english": "<button=cancel> Cancel"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0005",
+      "Text": "<button=square> 武器スキルをはずす",
+      "english": "<button=square> Remove Weapon Skill"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0006",
+      "Text": "<button=triangle> 武器スキル入替",
+      "english": "<button=triangle> Swap Weapon Skill"
+    },
+    {
+      "id": "$menu_mainmenu_0013_0007",
+      "Text": "ALL",
+      "english": "All"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0000",
+      "Text": "MAGIC",
+      "english": "Magic"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0001",
+      "Text": "MP",
+      "english": "MP"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0002",
+      "Text": "ターゲットを選んでください。",
+      "english": "Select a target."
+    },
+    {
+      "id": "$menu_mainmenu_0014_0003",
+      "Text": "消費MP",
+      "english": "MP Cost"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0004",
+      "Text": "MP不足",
+      "english": "Not Enough MP"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0005",
+      "Text": "<button=decide> 使用する",
+      "english": "<button=decide> Cast"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0006",
+      "Text": "<button=L1> 範囲化切替 <icon=range>",
+      "english": "<button=L1> Magnify <icon=range>"
+    },
+    {
+      "id": "$menu_mainmenu_0014_0007",
+      "Text": "<button=L1> 範囲化切替 <color=disable><icon=range>",
+      "english": "<button=L1> Magnify <color=disable><icon=range>"
+    },
+    {
+      "id": "$menu_mainmenu_0015_0000",
+      "Text": "ゲームを終了しますが、よろしいですか？\r\n\r\nゲームを終了する場合\r\n最後にセーブしたあとの進行状況は保存されません。",
+      "english": "Quit the game?\r\n\r\nAll progress made since your last save will be lost."
+    },
+    {
+      "id": "$menu_mainmenu_0015_0001",
+      "Text": "ゲームを終了する",
+      "english": "Quit Game"
+    },
+    {
+      "id": "$menu_mainmenu_0015_0002",
+      "Text": "キャンセル",
+      "english": "Cancel"
+    },
+    {
+      "id": "$menu_mainmenu_0016_0000",
+      "Text": "ゲームを終了する場合\r\n最後にセーブしたあとの進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。\r\n\r\n実行してもよろしいですか？",
+      "english": "If you quit the game, all progress made since your last save will be lost. To continue playing instead, select No.\r\n\r\nQuit the game?"
+    },
+    {
+      "id": "$menu_mainmenu_0016_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_mainmenu_0016_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_mainmenu_WeaponEquip_No",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_mainmenu_WeaponEquip_WindowMessage",
+      "Text": "元の武器のマテリアを引き継ぎますか？",
+      "english": "Reslot materia from previous weapon?"
+    },
+    {
+      "id": "$menu_mainmenu_WeaponEquip_WindowMessage_1",
+      "Text": "元の武器強化オート設定\r\n<object=0>を引き継ぎますか？",
+      "english": "Retain upgrade setting from the previous weapon?"
+    },
+    {
+      "id": "$menu_mainmenu_WeaponEquip_Yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_mainmenu_ability_percent",
+      "Text": "熟練度<count=0>%",
+      "english": "Proficiency: <count=0>%"
+    },
+    {
+      "id": "$menu_mainmenu_ability_percent_bonus",
+      "Text": "熟練度ボーナス",
+      "english": "Proficiency Bonus"
+    },
+    {
+      "id": "$menu_mainmenu_accessory_info",
+      "Text": "ACCESSORY INFO",
+      "english": "Accessory Info"
+    },
+    {
+      "id": "$menu_mainmenu_armor_info",
+      "Text": "ARMOR INFO",
+      "english": "Armor Info"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_0",
+      "Text": "炎",
+      "english": "Fire"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_1",
+      "Text": "氷",
+      "english": "Ice"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_2",
+      "Text": "雷",
+      "english": "Lightning"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_3",
+      "Text": "風",
+      "english": "Wind"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_4",
+      "Text": "土",
+      "english": "Earth"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_5",
+      "Text": "聖",
+      "english": "Holy"
+    },
+    {
+      "id": "$menu_mainmenu_attribute_6",
+      "Text": "闇",
+      "english": "Dark"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_air_action_auto",
+      "Text": "自動登録",
+      "english": "Auto-Equip"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_air_action_auto_off",
+      "Text": "OFF（空中アクション：カスタマイズ）",
+      "english": "Off - Customize Airborne Actions"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_air_action_auto_on",
+      "Text": "ON（空中アクション：自動登録）",
+      "english": "On - Auto-Equip Airborne Actions"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_0",
+      "Text": "<button=coop1>",
+      "english": "<button=coop1>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_0_hold",
+      "Text": "<button=coop1-hold>",
+      "english": "<button=coop1-hold>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_1",
+      "Text": "<button=coop2>",
+      "english": "<button=coop2>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_1_hold",
+      "Text": "<button=coop2-hold>",
+      "english": "<button=coop2-hold>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_2",
+      "Text": "<button=coop3>",
+      "english": "<button=coop3>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_2_hold",
+      "Text": "<button=coop3-hold>",
+      "english": "<button=coop3-hold>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_3",
+      "Text": "<button=coop4>",
+      "english": "<button=coop4>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_button_guide_3_hold",
+      "Text": "<button=coop4-hold>",
+      "english": "<button=coop4-hold>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_guide_1",
+      "Text": "<button=shortcut1>",
+      "english": "<button=shortcut1>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_guide_2",
+      "Text": "<button=shortcut2>",
+      "english": "<button=shortcut2>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_guide_3",
+      "Text": "<button=shortcut3>",
+      "english": "<button=shortcut3>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_guide_4",
+      "Text": "<button=shortcut4>",
+      "english": "<button=shortcut4>"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action",
+      "Text": "モーグリ技アクション",
+      "english": "Moogle Actions"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action_auto_off",
+      "Text": "OFF（モーグリ技：カスタマイズ）",
+      "english": "Off - Customize"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action_auto_on",
+      "Text": "ON（モーグリ技：自動登録）",
+      "english": "On - Auto-Equip"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_air_action",
+      "Text": "空中アクション",
+      "english": "While in the Air"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action",
+      "Text": "連携アクション",
+      "english": "Synergy Skills"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_atk",
+      "Text": "未習得（攻撃系連携アクション）",
+      "english": "Unlearned Offensive Skill"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_atk_reserve",
+      "Text": "攻撃系連携アクション",
+      "english": "Offensive Synergy Skill"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_def",
+      "Text": "未習得（防御・回避系アクション）",
+      "english": "Unlearned Defensive Skill"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_def_reserve",
+      "Text": "防御・回避系アクション",
+      "english": "Defensive Synergy Skill"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_type",
+      "Text": "操作",
+      "english": "Inputs"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeA",
+      "Text": "タイプＡ",
+      "english": "Type A"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeA_help",
+      "Text": "<button=coop1> 攻撃系連携アクション\r\n<button=coop2> 攻撃系連携アクション\r\n<button=coop3> 防御・回避系連携アクション\r\n<button=coop4> 防御・回避系連携アクション\r\n\r\n攻撃系連携アクションが <button=coop1-2nd><button=coop2-2nd> に優先して割り振られる標準的な操作タイプです。",
+      "english": "<button=coop1> Offensive Synergy Skill\r\n<button=coop2> Offensive Synergy Skill\r\n<button=coop3> Defensive Synergy Skill\r\n<button=coop4> Defensive Synergy Skill\r\n\r\nA standard control type that prioritizes assigning offensive synergy skills to <button=coop1-2nd> and <button=coop2-2nd>."
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeB",
+      "Text": "タイプＢ",
+      "english": "Type B"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeB_help",
+      "Text": "<button=coop1> 防御・回避系連携アクション\r\n<button=coop2> 防御・回避系連携アクション\r\n<button=coop3> 攻撃系連携アクション\r\n<button=coop4> 攻撃系連携アクション\r\n\r\n防御・回避系連携アクションが <button=coop1-2nd><button=coop2-2nd> に優先して割り振られる変則的な操作タイプです。",
+      "english": "<button=coop1> Defensive Synergy Skill\r\n<button=coop2> Defensive Synergy Skill\r\n<button=coop3> Offensive Synergy Skill\r\n<button=coop4> Offensive Synergy Skill\r\n\r\nAn unorthodox control type that prioritizes assigning defensive synergy skills to <button=coop1-2nd> and <button=coop2-2nd>."
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_chain_action_type_header",
+      "Text": "連携アクション操作設定",
+      "english": "Inputs"
+    },
+    {
+      "id": "$menu_mainmenu_battle_setting_shortcut_header_land_action",
+      "Text": "通常アクション",
+      "english": "While on the Ground"
+    },
+    {
+      "id": "$menu_mainmenu_cancel_dialog",
+      "Text": "メインメニューを終了して、バトルを開始します。\r\nよろしいですか？",
+      "english": "Leave the main menu and resume the battle?"
+    },
+    {
+      "id": "$menu_mainmenu_cancel_dialog_no",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_mainmenu_cancel_dialog_yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_mainmenu_materia_summon_able_levelup",
+      "Text": "<color=red>※この召喚マテリアはクリスタル解析で\r\n　★４までレベルアップできます。</color>",
+      "english": "<color=red>You can increase the level of this summoning materia to a maximum of ★4 through crystal analysis</color>"
+    },
+    {
+      "id": "$menu_mainmenu_materia_summon_unable_levelup",
+      "Text": "<color=red>※この召喚マテリアはレベルアップしません。</color>",
+      "english": "<color=red>This materia cannot gain levels</color>"
+    },
+    {
+      "id": "$menu_mainmenu_party_edit_battle_member",
+      "Text": "バトルメンバー",
+      "english": "Frontline"
+    },
+    {
+      "id": "$menu_mainmenu_party_edit_header",
+      "Text": "パーティメンバー変更",
+      "english": "Change Party Members"
+    },
+    {
+      "id": "$menu_mainmenu_party_edit_party_set",
+      "Text": "パーティセット",
+      "english": "Party"
+    },
+    {
+      "id": "$menu_mainmenu_party_edit_party_set_ban",
+      "Text": "パーティ切替禁止",
+      "english": "Cannot currently change party."
+    },
+    {
+      "id": "$menu_mainmenu_party_edit_reserve_member",
+      "Text": "リザーブメンバー",
+      "english": "Backline"
+    },
+    {
+      "id": "$menu_mainmenu_party_lv",
+      "Text": "PARTY LEVEL",
+      "english": "Party Level"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_battle",
+      "Text": "バトル",
+      "english": "Combat"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_likeability_Aerith",
+      "Text": "エアリスの好感度",
+      "english": "Relationship with Aerith"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_likeability_Barret",
+      "Text": "バレットの好感度",
+      "english": "Relationship with Barret"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_likeability_RedXIII",
+      "Text": "レッドXIIIの好感度",
+      "english": "Relationship with Red XIII"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_likeability_Tifa",
+      "Text": "ティファの好感度",
+      "english": "Relationship with Tifa"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_likeability_Yuffie",
+      "Text": "ユフィの好感度",
+      "english": "Relationship with Yuffie"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_category_world",
+      "Text": "ワールド",
+      "english": "Exploration"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_help_00",
+      "Text": "ゲームプレイの達成度を確認します。",
+      "english": "View game completion progress."
+    },
+    {
+      "id": "$menu_mainmenu_playlog_help_01",
+      "Text": "ゲームプレイの達成度を表示しています。",
+      "english": "View how much of the game you have completed."
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_000",
+      "Text": "ワールドレポート解析完了数",
+      "english": "World Intel Progress"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_003",
+      "Text": "なんでも屋の仕事：クエストクリア",
+      "english": "Quests Completed"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_004",
+      "Text": "エネミーレポート",
+      "english": "Enemy Intel Collected"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_005",
+      "Text": "『みやぶる』でみやぶったエネミー",
+      "english": "Enemies Assessed"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_009",
+      "Text": "武器アビリティ熟練度MAX",
+      "english": "Weapon Abilities Learned"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_014",
+      "Text": "HARDモードでクリアした章",
+      "english": "Chapters Cleared on Hard Difficulty"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_015",
+      "Text": "スキルブック入手数",
+      "english": "Manuscripts Collected"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_017",
+      "Text": "チョコボストップ",
+      "english": "Chocobo Stops Repaired"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_018",
+      "Text": "チャドリーバトルシミュレーター",
+      "english": "Chadley's Combat Simulator Challenges"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_019",
+      "Text": "神羅屋敷バトルシミュレーター",
+      "english": "Shinra Manor Combat Simulator Challenges"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_020",
+      "Text": "ビーストバトルグラウンド",
+      "english": "Beast Battleground Challenges"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_021",
+      "Text": "マッスルコロシアム",
+      "english": "Musclehead Colosseum Challenges"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_022",
+      "Text": "クイーンズ・ブラッド：カード入手数",
+      "english": "Queen's Blood Cards Collected"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_023",
+      "Text": "好感度MAXのキャラクター",
+      "english": "Allies with Strongest Bond"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_024",
+      "Text": "トレジャースポット",
+      "english": "Cache Locations Cleared"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_025",
+      "Text": "討伐調査：バトルミッション＆エンシェントマター：ミッションモード",
+      "english": "Completed Combat Objectives & Hard Mode Minigames"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_026",
+      "Text": "チョコボでウサギの埋めたお宝探し",
+      "english": "Rabbit Burrows Excavated"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_027",
+      "Text": "なんでも屋の仕事：クエスト最上級クリア",
+      "english": "Perfectly Executed Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_028",
+      "Text": "ジョニー・コレクション",
+      "english": "Items in Johnny's Treasure Trove"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_029",
+      "Text": "CHAPTER12：デートパートナー",
+      "english": "Chapter 12 Date Companions"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_item_030",
+      "Text": "CHAPTER12：好感度上級デート",
+      "english": "Chapter 12 Intimate Dates"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithAction",
+      "Text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithBeach",
+      "Text": "コスタ・デル・ソル：ビーチで加勢",
+      "english": "Costa del Sol Beach Fight Partner"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithChoice",
+      "Text": "会話の選択",
+      "english": "Conversations"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithEvent",
+      "Text": "イベント",
+      "english": "Story Beats"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithFerrisWheel",
+      "Text": "ゴンドラデート",
+      "english": "Skywheel Date"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithLOVELESS",
+      "Text": "LOVELESS",
+      "english": "<i>Loveless</i>"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithParade",
+      "Text": "ルーファウス社長就任パレード",
+      "english": "Inauguration Parade"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithQuest",
+      "Text": "なんでも屋クエスト",
+      "english": "Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_AerithResortWear",
+      "Text": "クラウドとリゾートウェアの好みが一致",
+      "english": "Same Taste in Beachwear"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretAction",
+      "Text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretBeach",
+      "Text": "コスタ・デル・ソル：ビーチで加勢",
+      "english": "Costa del Sol Beach Fight Partner"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretChoice",
+      "Text": "会話の選択",
+      "english": "Conversations"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretEvent",
+      "Text": "イベント",
+      "english": "Story Beats"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretFerrisWheel",
+      "Text": "ゴンドラデート",
+      "english": "Skywheel Date"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretLOVELESS",
+      "Text": "LOVELESS",
+      "english": "<i>Loveless</i>"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretQuest",
+      "Text": "なんでも屋クエスト",
+      "english": "Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretShooting",
+      "Text": "アンダーソーサー：バギーシューティング",
+      "english": "Corel Prison Buggy Escape"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_BarretTrolley",
+      "Text": "コレル：トロッコシューティングのルート選択と得点",
+      "english": "Corel Minecart Route & Score"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIII3DBattler",
+      "Text": "ゴールドソーサー：ウェルカム３Ｄバトラー",
+      "english": "Gold Saucer Welcome Brawl with Dio"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIAction",
+      "Text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIBeach",
+      "Text": "コスタ・デル・ソル：ビーチで加勢",
+      "english": "Costa del Sol Beach Fight Partner"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIICard",
+      "Text": "第八神羅丸：カードゲーム大会",
+      "english": "<i>Shinra-8</i> Queen's Blood Tournament"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIChoice",
+      "Text": "会話の選択",
+      "english": "Conversations"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIEvent",
+      "Text": "イベント",
+      "english": "Story Beats"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIFerrisWheel",
+      "Text": "ゴンドラデート",
+      "english": "Skywheel Date"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIILOVELESS",
+      "Text": "LOVELESS",
+      "english": "<i>Loveless</i>"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIQuest",
+      "Text": "なんでも屋クエスト",
+      "english": "Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_RedXIIIRevenge",
+      "Text": "ゴールドソーサー：カードバウトリベンジ",
+      "english": "Gold Saucer Queen's Blood Rematch"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaAction",
+      "Text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaBeach",
+      "Text": "コスタ・デル・ソル：ビーチで加勢",
+      "english": "Costa del Sol Beach Fight Partner"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaChoice",
+      "Text": "会話の選択",
+      "english": "Conversations"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaEvent",
+      "Text": "イベント",
+      "english": "Story Beats"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaFerrisWheel",
+      "Text": "ゴンドラデート",
+      "english": "Skywheel Date"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaLOVELESS",
+      "Text": "LOVELESS",
+      "english": "<i>Loveless</i>"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaParade",
+      "Text": "ルーファウス社長就任パレード",
+      "english": "Inauguration Parade"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaQuest",
+      "Text": "なんでも屋クエスト",
+      "english": "Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_TifaResortWear",
+      "Text": "クラウドとリゾートウェアの好みが一致",
+      "english": "Same Taste in Beachwear"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_Yuffie3DBattler",
+      "Text": "ゴールドソーサー：ユフィと対戦３Ｄバトラー",
+      "english": "3D Brawler Match"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieAction",
+      "Text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieChoice",
+      "Text": "会話の選択",
+      "english": "Conversations"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieEvent",
+      "Text": "イベント",
+      "english": "Story Beats"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieFerrisWheel",
+      "Text": "ゴンドラデート",
+      "english": "Skywheel Date"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieLOVELESS",
+      "Text": "LOVELESS",
+      "english": "<i>Loveless</i>"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieQuest",
+      "Text": "なんでも屋クエスト",
+      "english": "Odd Jobs"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_YuffieTrolley",
+      "Text": "コレル：トロッコシューティングのルート選択と得点",
+      "english": "Corel Minecart Route & Score"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_likeability_percentage",
+      "Text": "％",
+      "english": "%"
+    },
+    {
+      "id": "$menu_mainmenu_playlog_title",
+      "Text": "PLAY LOG",
+      "english": "Play Log"
+    },
+    {
+      "id": "$menu_mainmenu_skill_header_core_skill",
+      "Text": "WEAPON SKILL",
+      "english": "Weapon Skill"
+    },
+    {
+      "id": "$menu_mainmenu_skill_header_next_weapon_level_bonus",
+      "Text": "次のレベルアップで得られる武器スキル",
+      "english": "Weapon Skill & Stat Boosts at Upcoming Level"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_acquired_core_skill",
+      "Text": "習得済みの武器スキル一覧",
+      "english": "Acquired Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_auto_release",
+      "Text": "オートモードが解除されますがよろしいですか？",
+      "english": "Disable the automatic weapon skill upgrade function?"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_auto_release_no",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_auto_release_yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_equipped_core_skill",
+      "Text": "武器スキル一覧",
+      "english": "Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_top_help_message",
+      "Text": "<icon=skill-book> スキルブックで使用できる残りSP",
+      "english": "<icon=skill-book> : Unallocated SP for use in folios."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_01000",
+      "Text": "<color=yellow>新機能「UPGRADE WEAPONS」</color>\r\n\r\n武器を強化できるようになりました。\r\n\r\n武器に備わっている<color=orange>「武器スキル」</color>をセットして\r\nバスターソードを強化してみましょう。",
+      "english": "<color=yellow>Upgrading Weapons</color>\r\n\r\nBy accessing the latent power in your gear,\r\nyou can set <color=yellow>weapon skills</color> to further enhance your abilities and attributes.\r\n\r\nTry augmenting the buster sword."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_01010",
+      "Text": "チュートリアル開始",
+      "english": "Start Tutorial"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_01020",
+      "Text": "スキップ",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_02000",
+      "Text": "武器の強化やステータスの確認は\r\n<color=orange>「UPGRADE WEAPONS」</color>で行います。\r\n\r\n<color=yellow>「UPGRADE WEAPONS」を選択してください。</color>",
+      "english": "From the <color=yellow>Upgrade Weapons</color> screen, you can enhance a weapon and see its stats."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_02010",
+      "Text": "<button=decide>「UPGRADE WEAPONS」を選択",
+      "english": "Press <button=decide>"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_03000",
+      "Text": "この画面では、パーティメンバーが装備している\r\n武器と現在の武器レベル\r\n武器レベルを上げるための経験値ＳＰ（スキルポイント）が\r\n確認できます。",
+      "english": "Here you can see your party's current equipment, their weapon levels, and the amount of skill points (SP) needed to reach the next level."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_03010",
+      "Text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_04000",
+      "Text": "まずは強化する武器を選びます。\r\n\r\n<color=yellow>「バスターソード」を選択してください。</color>",
+      "english": "Select Cloud's <color=yellow>buster sword</color>."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_04010",
+      "Text": "<button=decide> 武器を選択",
+      "english": "Press <button=decide>"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_05000",
+      "Text": "この画面では武器のステータスを確認できます。\r\n\r\n武器の現在のパラメータや\r\n習得済みの武器スキルの一覧などを\r\n確認しましょう。",
+      "english": "A weapon's attributes and acquired skills are displayed here."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_05010",
+      "Text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_06000",
+      "Text": "では<color=orange>「武器スキル」</color>をセットしてみましょう。\r\n\r\n<color=yellow><button=triangle> を押して\r\n「武器スキルのセット」を始めましょう。</color>",
+      "english": "Now try equipping a weapon skill."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_06010",
+      "Text": "<button=triangle>「武器スキルのセット」を開始",
+      "english": "Press <button=triangle>"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_07000",
+      "Text": "武器スキルをセットできるスロットが表示されます。\r\n武器スキルをセットしてみましょう。\r\n\r\n<color=yellow>スロットを選び、<button=decide> を押してください。</color>",
+      "english": "The nodes in which you can equip skills are displayed here."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_07010",
+      "Text": "<button=decide> スロットを選択",
+      "english": "<button=decide> Select Node"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_08000",
+      "Text": "現在、武器にセットできる\r\n武器スキルの一覧が表示されます。\r\n\r\n「武器アビリティ強化＋5％」を\r\nセットしてみましょう。\r\n\r\n<color=yellow>「武器アビリティ強化＋5％」を選択してください。</color>",
+      "english": "Here, you will find a list of available skills.\r\n\r\nSelect <color=yellow>Weapon Ability Damage +5%</color> to equip it."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_08010",
+      "Text": "<button=decide> 武器スキルを選択",
+      "english": "Press <button=decide>"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_09000",
+      "Text": "<color=yellow>武器スキルをセットしました！</color>\r\n\r\n武器レベルが上がると、新たな武器スキルを習得し\r\nセットできるスロットの数も増えていきます。\r\n\r\n武器スキルのセットは<color=orange>「MATERIA&EQUIPMENT」</color>の\r\n「マテリアの装着」から同様に行うこともできます。",
+      "english": "As you increase your weapon level, you will learn more skills and unlock more nodes in which to set them.\r\n\r\nIn addition to the Upgrade Weapons screen, you can also tweak your skill loadout by going to the\r\n<color=yellow>Materia & Equipment</color> screen, selecting a character, and pressing <button=triangle> Set Materia."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_09001",
+      "Text": "武器強化（武器スキルのセット）を自動的に行う設定にすることもできます。\r\n\r\n<color=orange>「武器強化オート設定」</color>の設定方法を確認します。",
+      "english": "If you would prefer a more streamlined experience, you can opt to <color=green>automatically allocate weapon skills</color>."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_09010",
+      "Text": "チュートリアル終了",
+      "english": "Finish Tutorial"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_09011",
+      "Text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_09012",
+      "Text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_11000",
+      "Text": "「武器強化オート設定」は武器ごとに設定できます。\r\n現在選択されているバスターソードの設定を行いましょう。\r\n\r\n<color=yellow>「<button=options> 武器強化オート設定」を押してください。</color>",
+      "english": "This can be done from the Auto-Upgrade Settings menu."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_11010",
+      "Text": "<button=options>「武器強化オート設定」を開始",
+      "english": "Press <button=options>"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_12000",
+      "Text": "「武器強化オート設定」では\r\nバランス重視・攻撃強化重視・防御強化重視の\r\n３タイプを選ぶことができます。\r\n\r\n今回は設定せず「マニュアル」のままにします。",
+      "english": "You can choose how to auto-optimize your weapon skills using the three available options: prioritizing attack, defense, or striking a balance between the two."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_12010",
+      "Text": "<button=decide> 設定を選択",
+      "english": "<button=decide> Select Setting"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_tutorial_13000",
+      "Text": "「武器強化オート設定」で選んだタイプによって\r\n武器がレベルアップしたときなどに\r\n最適な武器スキルが自動でセットされます。\r\n\r\n手軽にプレイしたいときに、お試しください。",
+      "english": "As you accrue more weapon skills and nodes, the game will continue to automatically adjust your loadout based on your upgrade settings.\r\n\r\nFor now, this setting will be left on Manual."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_core_guide",
+      "Text": "<button=triangle> 武器スキルのセット",
+      "english": "<button=triangle> Set Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_core_header",
+      "Text": "WEAPON SKILL",
+      "english": "Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_0",
+      "Text": "AUTO：バランス",
+      "english": "Auto: Balanced"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_0_detail",
+      "Text": "AUTO：バランス重視",
+      "english": "Balanced"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_0_help",
+      "Text": "武器スキルを攻防のバランス重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that strike a balance between defense and offense."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_1",
+      "Text": "AUTO：攻撃強化",
+      "english": "Auto: Prioritize Attack"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_1_detail",
+      "Text": "AUTO：攻撃強化重視",
+      "english": "Prioritize Attack"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_1_help",
+      "Text": "武器スキルを攻撃面の強化重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that bolster offense."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_2",
+      "Text": "AUTO：防御強化",
+      "english": "Auto: Prioritize Defense"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_2_detail",
+      "Text": "AUTO：防御強化重視",
+      "english": "Prioritize Defense"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_2_help",
+      "Text": "武器スキルを防御面の強化重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that bolster defense."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_3",
+      "Text": "マニュアル",
+      "english": "Manual"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_3_help",
+      "Text": "武器スキルを自分で選んで装着します。",
+      "english": "Manually set weapon skills."
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_weapon_growth_settings_guide",
+      "Text": "<button=options> 武器強化オート設定",
+      "english": "<button=options> Auto-Upgrade Settings"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_word_statusup",
+      "Text": "STATUS UP",
+      "english": "Stat Boosts"
+    },
+    {
+      "id": "$menu_mainmenu_weaponstatus_word_weapon_core",
+      "Text": "WEAPON SKILL",
+      "english": "Weapon Skills"
+    },
+    {
+      "id": "$menu_mainmenu_word_Ability",
+      "Text": "ABILITY",
+      "english": "Ability"
+    },
+    {
+      "id": "$menu_mainmenu_word_limit_level",
+      "Text": "LIMIT LEVEL",
+      "english": "Level"
+    },
+    {
+      "id": "$menu_mainmenu_word_materia_check",
+      "Text": "<button=triangle> マテリアの確認",
+      "english": "<button=triangle> View Materia"
+    },
+    {
+      "id": "$menu_mainmenu_word_materiaquick",
+      "Text": "MATERIA QUICK",
+      "english": "Materia"
+    },
+    {
+      "id": "$menu_mainmenu_word_sort_equip_mark",
+      "Text": "装備中を優先",
+      "english": "By Gear Equipped"
+    },
+    {
+      "id": "$menu_mainmenu_word_sort_equipbutton_off",
+      "Text": "装備中を優先しない",
+      "english": "<nbsp>Don't Prioritize Equipped Gear"
+    },
+    {
+      "id": "$menu_mainmenu_word_sort_equipbutton_on",
+      "Text": "装備中を優先する",
+      "english": "<nbsp>Prioritize Equipped Gear"
+    },
+    {
+      "id": "$menu_mainmenu_word_status_change",
+      "Text": "<button=L3> 項目切替",
+      "english": "<button=L3> View More"
+    },
+    {
+      "id": "$menu_mainmenu_word_weapon",
+      "Text": "WEAPON",
+      "english": "Weapons"
+    },
+    {
+      "id": "$menu_mainmenu_word_weapon_level",
+      "Text": "WEAPON LEVEL",
+      "english": "Weapon Level"
+    },
+    {
+      "id": "$menu_options_0000_0000",
+      "Text": "OPTIONS",
+      "english": "Options"
+    },
+    {
+      "id": "$menu_options_0001_0000",
+      "Text": "ゲームプレイ設定",
+      "english": "Gameplay"
+    },
+    {
+      "id": "$menu_options_0001_0001",
+      "Text": "カメラ設定",
+      "english": "Camera"
+    },
+    {
+      "id": "$menu_options_0001_0002",
+      "Text": "サウンド＆振動設定",
+      "english": "Audio & Vibration"
+    },
+    {
+      "id": "$menu_options_0001_0003",
+      "Text": "ディスプレイ設定",
+      "english": "Display"
+    },
+    {
+      "id": "$menu_options_0001_0004",
+      "Text": "ボイス／テキスト言語設定",
+      "english": "Language Text & Audio"
+    },
+    {
+      "id": "$menu_options_0001_0005",
+      "Text": "グラフィックス設定",
+      "english": "Graphics"
+    },
+    {
+      "id": "$menu_options_0001_0005_help",
+      "Text": "グラフィックスに関わる調整を行います。",
+      "english": "Adjust various graphics-related settings."
+    },
+    {
+      "id": "$menu_options_0001_0006",
+      "Text": "コントローラー設定",
+      "english": "Controller Settings"
+    },
+    {
+      "id": "$menu_options_0001_0006_help",
+      "Text": "コントローラーでの操作の設定を行います。",
+      "english": "Set controls."
+    },
+    {
+      "id": "$menu_options_0001_0007",
+      "Text": "キーボード＆マウス設定",
+      "english": "Mouse & Keyboard Settings"
+    },
+    {
+      "id": "$menu_options_0001_0007_help",
+      "Text": "キーボードとマウスでの操作の設定を行います。",
+      "english": "Set controls for the mouse and keyboard."
+    },
+    {
+      "id": "$menu_options_0001_0008",
+      "Text": "EXTRA OPTIONS",
+      "english": "Extra Settings"
+    },
+    {
+      "id": "$menu_options_0001_0008_help",
+      "Text": "CHAPTER SELECTのプレイ環境や、WAITモードのスロー再生時間などを設定します。設定はセーブデータ毎に保存されます。",
+      "english": "Adjust Chapter Selection settings and Tactical Mode slowdown. These settings will not carry over to other saved data."
+    },
+    {
+      "id": "$menu_options_0001_0009",
+      "Text": "ゲームブースト設定",
+      "english": "Streamlined Progression"
+    },
+    {
+      "id": "$menu_options_0001_0009_help",
+      "Text": "ゲームを早く進めるためのゲームブースト機能を設定します。この設定はセーブ時、スロットごとに保存されます。",
+      "english": "Adjust settings that allow you to progress through the game faster. These options only apply to the slot in which this data was saved."
+    },
+    {
+      "id": "$menu_pause_0000_0000",
+      "Text": "PAUSE",
+      "english": "Paused"
+    },
+    {
+      "id": "$menu_pause_0001_0000",
+      "Text": "ゲームを再開する",
+      "english": "Resume"
+    },
+    {
+      "id": "$menu_pause_0001_0001",
+      "Text": "バトル直前からやりなおす",
+      "english": "Retry Battle"
+    },
+    {
+      "id": "$menu_pause_0001_0002",
+      "Text": "タイトルに戻る",
+      "english": "Return to Title Screen"
+    },
+    {
+      "id": "$menu_pause_0001_0004",
+      "Text": "リタイアする",
+      "english": "Give Up"
+    },
+    {
+      "id": "$menu_pause_0001_0005",
+      "Text": "バイクゲームをスキップする",
+      "english": "Skip the Bike Minigame"
+    },
+    {
+      "id": "$menu_pause_0002_0000",
+      "Text": "ゲームを再開する",
+      "english": "Resume"
+    },
+    {
+      "id": "$menu_pause_0002_0001",
+      "Text": "このシーンをスキップする",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_pause_0003_0000",
+      "Text": "バトル直前からやりなおし、ゲームを再開します。\r\nここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from just before the last battle?\r\n\r\nYou will retain all EXP earned up until this point."
+    },
+    {
+      "id": "$menu_pause_0003_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_pause_0003_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_pause_0004_0000",
+      "Text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。",
+      "english": "Quit playing and return to the title screen?\r\n\r\nAll progress made since your last save will be lost."
+    },
+    {
+      "id": "$menu_pause_0004_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_pause_0004_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_pause_0005_0000",
+      "Text": "ゲームを再開する",
+      "english": "Resume"
+    },
+    {
+      "id": "$menu_pause_0005_0001",
+      "Text": "やりなおす",
+      "english": "Restart"
+    },
+    {
+      "id": "$menu_pause_0005_0002",
+      "Text": "タイトルに戻る",
+      "english": "Return to Title Screen"
+    },
+    {
+      "id": "$menu_pause_0005_0003",
+      "Text": "リタイアする",
+      "english": "Give Up"
+    },
+    {
+      "id": "$menu_pause_0006_0000",
+      "Text": "ゲームをやりなおしますか？",
+      "english": "Restart the minigame?"
+    },
+    {
+      "id": "$menu_pause_0006_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_pause_0006_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_pause_0007_0000",
+      "Text": "バトルを終了し、コース選択に戻ります。\r\nよろしいですか？",
+      "english": "End the battle and return to the selection screen?"
+    },
+    {
+      "id": "$menu_pause_0007_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_pause_0007_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_pause_0008_0000",
+      "Text": "現在のバトルの前または連戦バトルの前からやりなおし\r\nゲームを再開することができます。\r\n\r\n※ここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from just before this battle or the first battle of the series?\r\n\r\nYou will retain all EXP earned up until this point."
+    },
+    {
+      "id": "$menu_pause_0008_0001",
+      "Text": "現在のバトルの前からやりなおす",
+      "english": "Retry from This Battle"
+    },
+    {
+      "id": "$menu_pause_0008_0002",
+      "Text": "バトル前のフリーパートからやりなおす",
+      "english": "Retry from Before Battle"
+    },
+    {
+      "id": "$menu_pause_0008_0003",
+      "Text": "キャンセル",
+      "english": "Resume"
+    },
+    {
+      "id": "$menu_pause_0008_0004",
+      "Text": "現在のバトルフェーズ開始前からやりなおす",
+      "english": "Retry from Current Phase"
+    },
+    {
+      "id": "$menu_pause_2000_0000",
+      "Text": "『ドルフィンジャンプ』をスキップする",
+      "english": "Skip Minigame"
+    },
+    {
+      "id": "$menu_pause_2000_0001",
+      "Text": "『ドルフィンジャンプ』をスキップします。\r\n実行してもよろしいですか？",
+      "english": "Skip the dolphin minigame?"
+    },
+    {
+      "id": "$menu_pause_scene_guide_header",
+      "Text": "シーン中： ",
+      "english": "Cutscene Controls:<nbsp>"
+    },
+    {
+      "id": "$menu_pause_scene_guide_open_mainmenu",
+      "Text": "<button=attack-hold> メインメニューを開く",
+      "english": "<button=attack-hold> Open Main Menu"
+    },
+    {
+      "id": "$menu_pause_scene_guide_scene_fastforward",
+      "Text": "<button=accel-hold> シーン早送り",
+      "english": "<button=accel-hold> Fast-forward"
+    },
+    {
+      "id": "$menu_pause_scene_guide_scene_skip",
+      "Text": "<button=field-action-hold> シーンスキップ",
+      "english": "<button=field-action-hold> Skip Scene"
+    },
+    {
+      "id": "$menu_save_load_0000_0000",
+      "Text": "SAVE",
+      "english": "Save"
+    },
+    {
+      "id": "$menu_save_load_0000_0001",
+      "Text": "LOAD",
+      "english": "Load"
+    },
+    {
+      "id": "$menu_save_load_0001_0000",
+      "Text": "AUTO SAVE DATA",
+      "english": "Autosave Data"
+    },
+    {
+      "id": "$menu_save_load_0001_0001",
+      "Text": "SAVE DATA",
+      "english": "Saved Data"
+    },
+    {
+      "id": "$menu_save_load_0001_0002",
+      "Text": "PLAY TIME",
+      "english": "Playtime"
+    },
+    {
+      "id": "$menu_save_load_0001_0003",
+      "Text": "LEVEL",
+      "english": "Level"
+    },
+    {
+      "id": "$menu_save_load_0001_0005",
+      "Text": "CLEAR",
+      "english": "Completed"
+    },
+    {
+      "id": "$menu_save_load_0001_0006",
+      "Text": "<object=0>／<object=1>",
+      "english": "<object=0> - <object=1>"
+    },
+    {
+      "id": "$menu_save_load_0001_0007",
+      "Text": "NEW SLOT",
+      "english": "Empty Slot"
+    },
+    {
+      "id": "$menu_save_load_0002_0000",
+      "Text": "選択したスロットに\r\nこれまでのゲームプレイ情報をセーブします。\r\n実行してもよろしいですか？",
+      "english": "Save your progress to this slot?"
+    },
+    {
+      "id": "$menu_save_load_0002_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_save_load_0002_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_save_load_0003_0000",
+      "Text": "選択したデータをロードしてゲームを再開します。\r\n実行してもよろしいですか？",
+      "english": "Load the data in this slot?"
+    },
+    {
+      "id": "$menu_save_load_0003_0001",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_save_load_0003_0002",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_save_load_0005_0000",
+      "Text": "セーブをしています。\r\n電源を切らないでください。",
+      "english": "Saving game data...\r\nDo not turn off the power."
+    },
+    {
+      "id": "$menu_save_load_0005_0001",
+      "Text": "セーブデータを確認しています。\r\n電源を切らないでください。",
+      "english": "Checking saved data...\r\nDo not turn off the power."
+    },
+    {
+      "id": "$menu_save_load_0005_0002",
+      "Text": "チェックポイントを更新しました。",
+      "english": "Checkpoint updated."
+    },
+    {
+      "id": "$menu_save_load_0005_0003",
+      "Text": "セーブをしています。\r\n完了までしばらくお待ちください。",
+      "english": "Saving game data...\r\nPlease wait until the process is complete."
+    },
+    {
+      "id": "$menu_save_load_0005_0004",
+      "Text": "セーブできませんでした。",
+      "english": "Failed to save data."
+    },
+    {
+      "id": "$menu_save_load_0005_0005",
+      "Text": "ロードできませんでした。",
+      "english": "Failed to load data."
+    },
+    {
+      "id": "$menu_save_load_0005_0006",
+      "Text": "セーブデータを確認しています。\r\n電源を切らないでください。",
+      "english": "Checking saved data...\r\nDo not turn off the power."
+    },
+    {
+      "id": "$menu_scene_fastforward_150_percent",
+      "Text": "1.5x",
+      "english": "1.5x"
+    },
+    {
+      "id": "$menu_scene_fastforward_200_percent",
+      "Text": "2.0x",
+      "english": "2x"
+    },
+    {
+      "id": "$menu_title_0000_0003",
+      "Text": "PRESS ANY BUTTON",
+      "english": "PRESS ANY BUTTON TO CONTINUE"
+    },
+    {
+      "id": "$menu_title_0001_0000",
+      "Text": "NEW GAME",
+      "english": "New Game"
+    },
+    {
+      "id": "$menu_title_0001_0001",
+      "Text": "CONTINUE",
+      "english": "Continue"
+    },
+    {
+      "id": "$menu_title_0001_0002",
+      "Text": "LOAD GAME",
+      "english": "Load Game"
+    },
+    {
+      "id": "$menu_title_0001_0003",
+      "Text": "G-BIKE",
+      "english": "G-Bike"
+    },
+    {
+      "id": "$menu_title_0001_0004",
+      "Text": "OPTIONS",
+      "english": "Options"
+    },
+    {
+      "id": "$menu_title_0001_0005",
+      "Text": "QUIT GAME",
+      "english": "Quit"
+    },
+    {
+      "id": "$menu_title_0001_0006",
+      "Text": "FFVII REMAKE DIGEST",
+      "english": "The Story So Far"
+    },
+    {
+      "id": "$menu_title_2018_1200",
+      "Text": "カメラの操作方法を設定します。\r\n<button=RS> を操作するとカメラの動きを確認できます。",
+      "english": "Select your preferred camera controls.\r\nUse <button=RS> to test camera movement."
+    },
+    {
+      "id": "$menu_title_2018_1201",
+      "Text": "DEFAULT TYPE",
+      "english": "Default"
+    },
+    {
+      "id": "$menu_title_2018_1202",
+      "Text": "REVERSE TYPE : 縦",
+      "english": "Inverted Y-Axis"
+    },
+    {
+      "id": "$menu_title_2018_1203",
+      "Text": "REVERSE TYPE : 横",
+      "english": "Inverted X-Axis"
+    },
+    {
+      "id": "$menu_title_2018_1204",
+      "Text": "REVERSE TYPE",
+      "english": "Inverted X- and Y-Axis"
+    },
+    {
+      "id": "$menu_title_2018_1208",
+      "Text": "カメラの操作方法",
+      "english": "Camera Controls"
+    },
+    {
+      "id": "$menu_title_2019_0300",
+      "Text": "ゲームの難易度を選択してください。\r\nメインメニュー「SYSTEM ＞ OPTIONS」から\r\nゲーム開始後も変更できます。",
+      "english": "Select the difficulty of the game.\r\nThis setting can be changed at any time in the Options menu."
+    },
+    {
+      "id": "$menu_title_2019_0305",
+      "Text": "ゲームの難易度",
+      "english": "Difficulty"
+    },
+    {
+      "id": "$menu_title_2019_304",
+      "Text": "HARDモードはプレイ中の変更ができません。\r\n\r\n変更したいときは「CHAPTER SELECT」で\r\n章と難易度を選び直してください。\r\n\r\nHARDモードをプレイしますか？",
+      "english": "Play on Hard difficulty?\r\nYou will need to restart the chapter to change the difficulty once you begin."
+    },
+    {
+      "id": "$menu_title_camera_help_normal_normal",
+      "Text": "カメラの横回転の操作を「通常」に、縦回転の操作を「通常」に設定します。",
+      "english": "Use normal controls for panning the camera horizontally and vertically."
+    },
+    {
+      "id": "$menu_title_camera_help_normal_reverse",
+      "Text": "カメラの横回転の操作を「通常」に、縦回転の操作を「逆方向」に設定します。",
+      "english": "Use normal controls for panning the camera horizontally,\r\nand inverted controls for panning the camera vertically."
+    },
+    {
+      "id": "$menu_title_camera_help_reverse_normal",
+      "Text": "カメラの横回転の操作を「逆方向」に、縦回転の操作を「通常」に設定します。",
+      "english": "Use inverted controls for panning the camera horizontally,\r\nand normal controls for panning the camera vertically."
+    },
+    {
+      "id": "$menu_title_camera_help_reverse_reverse",
+      "Text": "カメラの横回転の操作を「逆方向」に、縦回転の操作を「逆方向」に設定します。",
+      "english": "Use inverted controls for panning the camera horizontally and vertically."
+    },
+    {
+      "id": "$menu_title_chapter_seletct",
+      "Text": "ゲームの難易度を選択してください。",
+      "english": "Select difficulty."
+    },
+    {
+      "id": "$menu_title_continue_window",
+      "Text": "前回の続きからゲームを再開します。",
+      "english": "Resume playing from where you left off?"
+    },
+    {
+      "id": "$menu_title_continue_window_no",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_title_continue_window_yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_title_controlerspeaker",
+      "Text": "コントローラー内蔵スピーカーの設定",
+      "english": "Controller Speaker Settings"
+    },
+    {
+      "id": "$menu_title_controlerspeaker_detail",
+      "Text": "ゲーム内の特定のサウンドを\r\nコントローラー内蔵のスピーカーで再生するか設定します。",
+      "english": "Toggle whether or not sound, such as dialogue or effects, will play from your controller's speaker."
+    },
+    {
+      "id": "$menu_title_controlerspeaker_off",
+      "Text": "無効",
+      "english": "Off"
+    },
+    {
+      "id": "$menu_title_controlerspeaker_off_help",
+      "Text": "コントローラー内蔵のスピーカーの機能を無効にします。",
+      "english": "Sound will not play from your controller's speaker."
+    },
+    {
+      "id": "$menu_title_controlerspeaker_on",
+      "Text": "有効",
+      "english": "On"
+    },
+    {
+      "id": "$menu_title_controlerspeaker_on_help",
+      "Text": "コントローラー内蔵のスピーカーの機能を有効にします。",
+      "english": "Sound will play from your controller's speaker."
+    },
+    {
+      "id": "$menu_title_convert_trial_savedata",
+      "Text": "「FINAL FANTASY VII REBIRTH DEMO」の\r\nセーブデータがあります。\r\nセーブデータを引き継ぎますか？",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed.\r\n\r\nTransfer saved data?"
+    },
+    {
+      "id": "$menu_title_convert_trial_savedata_completed",
+      "Text": "セーブデータの引き継ぎが完了しました。",
+      "english": "Saved data transfer complete."
+    },
+    {
+      "id": "$menu_title_convert_trial_savedata_no",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_title_convert_trial_savedata_yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_title_newgame_plus_detail",
+      "Text": "ゲーム開始時のキャラクターの強さやその他の設定を行います。",
+      "english": "Set initial inventory and character levels when beginning a new game."
+    },
+    {
+      "id": "$menu_title_newgame_plus_normal",
+      "Text": "NEW GAME（デフォルト）",
+      "english": "New Game"
+    },
+    {
+      "id": "$menu_title_newgame_plus_normal_help",
+      "Text": "キャラクターの強さやアイテムの所持状況など\r\n通常の初期設定でゲームを開始します。",
+      "english": "Begin the game with the default settings for both character levels and item inventory."
+    },
+    {
+      "id": "$menu_title_newgame_plus_strengthen",
+      "Text": "強くてNEW GAME",
+      "english": "New Game - Head Start"
+    },
+    {
+      "id": "$menu_title_newgame_plus_strengthen_help",
+      "Text": "キャラクターは最初から成長した状態で\r\nギル、マテリア、防具、アクセサリなどの\r\nアイテムを多く所持した状態でゲームを開始します。\r\n※武器はゲーム中で入手する必要があります。",
+      "english": "Begin the game with high-leveled characters and a hefty amount of gil, armor, materia, etc. Note that new weapons must be acquired through gameplay."
+    },
+    {
+      "id": "$menu_title_newgame_plus_title",
+      "Text": "NEW GAME設定",
+      "english": "New Game Settings"
+    },
+    {
+      "id": "$menu_title_quit_game_window",
+      "Text": "ゲームを終了しますか？",
+      "english": "Quit the game?"
+    },
+    {
+      "id": "$menu_title_quit_game_window_no",
+      "Text": "いいえ",
+      "english": "No"
+    },
+    {
+      "id": "$menu_title_quit_game_window_yes",
+      "Text": "はい",
+      "english": "Yes"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_button",
+      "Text": "SAVE DATA BONUS",
+      "english": "Bonuses"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_detail",
+      "Text": "お使いの環境に特典対象になる\r\nゲームセーブデータが保存されているか確認します。",
+      "english": "Confirm whether or not any saved data on your system qualifies you to receive bonus items."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_execute",
+      "Text": "セーブデータをチェックする",
+      "english": "Check"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_execute_help",
+      "Text": "特典対象のゲームセーブデータがあるか、チェックを開始します。",
+      "english": "Confirm if you have any of the following bonus item-related saved data."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_notes1",
+      "Text": "<color=cyan>『FINAL FANTASY VII REMAKE』\r\n召喚マテリア『リヴァイアサン』をプレゼント。</color>\r\n\r\n<color=orange>『FF7R EPISODE INTERmission』\r\n召喚マテリア『ラムウ』をプレゼント。</color>\r\n\r\n※「セーブデータ特典チェック」はゲーム開始後に\r\n　タイトル画面の「SAVE DATA BONUS」からも行なえます。",
+      "english": "<i>FINAL FANTASY VII REMAKE</i>\r\n<color=cyan>Leviathan Summoning Materia</color>\r\n\r\n<i>FF7R EPISODE INTERmission</i>\r\n<color=orange>Ramuh Summoning Materia<color>\r\n\r\nYou can check to see if you have eligible saved data at any time\r\nusing Check Saved Data under Bonuses on the title screen."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_skip",
+      "Text": "スキップする",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_skip_help",
+      "Text": "特典対象のゲームセーブデータをチェックせず、次に進みます。",
+      "english": "Continue without checking for any of the following saved data."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_check_title",
+      "Text": "セーブデータ特典チェック",
+      "english": "Bonus Item-Eligible Saved Data"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_all_obtained",
+      "Text": "セーブデータ特典はすべてチェック済みです。\r\n\r\n特典アイテムは\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n受け取ることができます。",
+      "english": "All bonus item-related saved data has been found.\r\n\r\nClaim your rewards by selecting \"DLC / Bonuses\" in the System section of the main menu."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_confirm",
+      "Text": "<color=yellow>【セーブデータ特典】</color>\r\n\r\nお使いの環境に特典対象になる\r\nゲームセーブデータが保存されているか確認します。\r\n\r\n<color=cyan>『FINAL FANTASY VII REMAKE』\r\n召喚マテリア『リヴァイアサン』をプレゼント。</color>\r\n\r\n<color=orange>『FF7R EPISODE INTERmission』\r\n召喚マテリア『ラムウ』をプレゼント。</color>",
+      "english": "<color=yellow>Bonus items</color> are offered as thanks\r\nfor playing the previous title and its DLC.\r\nTo claim these bonuses, first confirm\r\nthat eligible saved data is present\r\non your system.\r\n\r\n<i>FINAL FANTASY VII REMAKE</i>\r\n<color=cyan>Leviathan Summoning Materia</color>\r\n\r\n<i>FF7R EPISODE INTERmission</i>\r\n<color=orange>Ramuh Summoning Materia<color>"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_confirm_cancel",
+      "Text": "キャンセル",
+      "english": "Cancel"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_confirm_excute",
+      "Text": "セーブデータチェック",
+      "english": "Check Saved Data"
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_finding",
+      "Text": "セーブデータ特典を取得できるか確認しています。",
+      "english": "Checking for reward eligibility..."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_found_ff7r",
+      "Text": "<color=cyan>『FINAL FANTASY VII REMAKE』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>召喚マテリア『リヴァイアサン』</color>\r\nを受け取ることができます。",
+      "english": "<i>FINAL FANTASY VII REMAKE</i> saved data confirmed.\r\nClaim your <color=cyan>Leviathan summoning materia</color> by selecting \"DLC / Bonuses\" in the System section of the main menu."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_found_ff7r2_demo",
+      "Text": "<color=green>『FINAL FANTASY VII REBIRTH DEMO』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>『クポチャーム＆冒険アイテムセット』</color>を\r\n受け取ることができます。",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed.\r\n\r\nClaim your <color=orange>kupo charm and survival set</color> by selecting \"DLC / Bonuses\" in the System section of the main menu."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_found_ff7r2_demo_clear",
+      "Text": "<color=green>『FINAL FANTASY VII REBIRTH DEMO』</color>\r\n「ニブルヘイム編」クリア済みの\r\nセーブデータが見つかりました。\r\n\r\nNEW GAMEのときに、本編ストーリーの同じ箇所\r\nCHAPTER 1の「魔晄炉調査任務」のパートを\r\nスキップできるようになります。",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed, including the completed Nibelheim segment.\r\n\r\nYou may now skip this portion of the main scenario."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_found_ff7r_im",
+      "Text": "<color=orange>『FF7R EPISODE INTERmission』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>召喚マテリア『ラムウ』</color>\r\nを受け取ることができます。",
+      "english": "<i>FF7R EPISODE INTERmission</i> saved data confirmed.\r\nClaim your <color=orange>Ramuh summoning materia</color> by selecting \"DLC / Bonuses\" in the System section of the main menu."
+    },
+    {
+      "id": "$menu_title_savedata_bonus_mes_not_found",
+      "Text": "特典対象のセーブデータが見つかりませんでした。\r\n\r\nお使いの環境に特典対象のセーブデータが\r\n保存されているか確認してください。\r\n\r\n<color=orange>※同一プラットフォーム、同一アカウントで\r\nプレイしたセーブデータが対象です。\r\n異なるプラットフォームやアカウントの\r\nセーブデータは読み込めません。</color>",
+      "english": "No eligible saved data found.\r\nDouble-check to see if any such saved data is present on your system.\r\n\r\nPlease note that to be considered eligible, <color=orange>the data must be saved to the same platform and bound to the same account</color> as those currently in use."
+    },
+    {
+      "id": "$menu_title_shader_compile_button_guide",
+      "Text": "スキップ",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_title_shader_compile_message",
+      "Text": "初回起動やアップデート直後、グラフィックボードのドライバー更新後に、\r\nシェーダーの準備が必要になります。\r\nご利用の環境によって、この処理に時間がかかることがあります。\r\nまた、この処理はスキップできますが、ゲーム中の動作に遅延が発生する場合があります。",
+      "english": "The game will need to prepare shaders the first time it boots, after it updates,\r\nor after your graphics card drivers update.\r\n\r\nDepending on your computer's specifications, this process may take some time.\r\nWhile you can skip it, please be aware that doing so may affect the game's performance."
+    },
+    {
+      "id": "$menu_title_shader_compile_title",
+      "Text": "シェーダーを準備しています",
+      "english": "Preparing shaders..."
+    },
+    {
+      "id": "$help_message_0008_0000",
+      "Text": "現在のゲームプレイの状態を保存します。",
+      "english": "Save your current game progress."
+    },
+    {
+      "id": "$help_message_0008_0001",
+      "Text": "保存されたデータをロードしてゲームを再開します。",
+      "english": "Load your saved data and resume playing."
+    },
+    {
+      "id": "$help_message_0008_0002",
+      "Text": "ゲームのプレイ環境を設定します。",
+      "english": "Change game settings."
+    },
+    {
+      "id": "$help_message_0008_0003",
+      "Text": "追加コンテンツ／特典アイテムを受け取ります。",
+      "english": "Claim additional content and bonus items."
+    },
+    {
+      "id": "$help_message_0008_0004",
+      "Text": "セーブするスロットを選択してください。",
+      "english": "Select a save slot for your data."
+    },
+    {
+      "id": "$help_message_0008_0005",
+      "Text": "ロードするスロットを選択してください。",
+      "english": "Select a save slot to load."
+    },
+    {
+      "id": "$help_message_0008_0006",
+      "Text": "ゲームを終了して、タイトル画面に戻ります。",
+      "english": "Quit and return to the title screen."
+    },
+    {
+      "id": "$help_message_0008_0007",
+      "Text": "チャプターの最初からゲームをプレイします。",
+      "english": "Select a chapter to replay."
+    },
+    {
+      "id": "$help_message_0008_0008",
+      "Text": "チェックポイントからゲームを再開します。",
+      "english": "Resume playing from the most recent checkpoint."
+    },
+    {
+      "id": "$help_message_0008_0009",
+      "Text": "チャプターを選択してください。<icon=skill-book>：未入手のスキルブック数　※スキルブックは難易度HARDでしか入手できないものがあります。",
+      "english": "Select a chapter. Certain manuscripts (<icon=skill-book>) can only be obtained on Hard difficulty."
+    },
+    {
+      "id": "$help_message_0008_0010",
+      "Text": "追加コンテンツ／特典アイテムを選択してください。",
+      "english": "Select additional content or bonus items."
+    },
+    {
+      "id": "$help_message_0008_0011",
+      "Text": "ゲームを終了して、アプリも終了します。",
+      "english": "Quit the game and close the program."
+    },
+    {
+      "id": "$help_message_0016_0001",
+      "Text": "<button=pause-menu> 閉じる",
+      "english": "<button=pause-menu> Close"
+    },
+    {
+      "id": "$help_message_0016_0001_options",
+      "Text": "<button=options>／<button=cancel> 閉じる",
+      "english": "<button=options>/<button=cancel> Close"
+    },
+    {
+      "id": "$help_message_0016_0001_p",
+      "Text": "<button=pause-menu>／<button=cancel> 閉じる",
+      "english": "<button=pause-menu>/<button=cancel> Close"
+    },
+    {
+      "id": "$help_message_0016_0002",
+      "Text": "<button=horz> ページ切替",
+      "english": "<button=horz> Change Page"
+    },
+    {
+      "id": "$help_message_0016_0003",
+      "Text": "<button=map-menu> 閉じる",
+      "english": "<button=map-menu> Close"
+    },
+    {
+      "id": "$help_message_0016_0003_p",
+      "Text": "<button=map-menu>／<button=cancel> 閉じる",
+      "english": "<button=map-menu>/<button=cancel> Close"
+    },
+    {
+      "id": "$help_message_0016_0003_touch",
+      "Text": "<button=touch>／<button=cancel> 閉じる",
+      "english": "<button=touch>/<button=cancel> Close"
+    },
+    {
+      "id": "$help_message_0016_0004",
+      "Text": "<button=pause-menu> ポーズ",
+      "english": "<button=pause-menu> Pause"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_01000",
+      "Text": "<color=yellow>新機能「マテリアの装着」</color>\r\n\r\n武器や防具に<color=orange>「マテリア」</color>を装着できるようになりました。\r\n\r\n<color=orange>『みやぶる』マテリア</color>を装着してみましょう。",
+      "english": "<color=yellow>Equipping Materia</color>\r\n\r\nYou can now equip <color=orange>materia</color>\r\nto your weapons and armor."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_01010",
+      "Text": "チュートリアル開始",
+      "english": "Begin Tutorial"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_01020",
+      "Text": "スキップ",
+      "english": "Skip"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_02000",
+      "Text": "マテリアを武器や防具に装着するときは\r\n<color=orange>「MATERIA&EQUIPMENT」</color>で行います。\r\n\r\n<color=yellow>「MATERIA&EQUIPMENT」を選択してください。</color>",
+      "english": "First, open the <color=yellow>Materia & Equipment</color> menu."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_02010",
+      "Text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_03000",
+      "Text": "クラウドの防具にマテリアを装着してみましょう。\r\n\r\n<color=yellow>「CLOUD」を選択してください。</color>",
+      "english": "Next, select <color=yellow>Cloud</color>."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_03010",
+      "Text": "<button=decide> キャラクターを選択",
+      "english": "Press <button=decide>"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_04000",
+      "Text": "<button=triangle>を押して\r\n<color=orange>「マテリアの装着」</color>を始めましょう。",
+      "english": "By pressing <button=triangle>, you can <color=orange>set materia</color> into your weapons and armor."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_04010",
+      "Text": "<button=triangle>「マテリアの装着」を開始",
+      "english": "Press <button=triangle>"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_05000",
+      "Text": "上段が武器、下段が防具のマテリア穴です。\r\n空いている穴にマテリアを装着することができます。\r\n\r\n<color=yellow>空いているマテリア穴を選び、<button=decide> を押してください。</color>",
+      "english": "Materia can be equipped to any <color=yellow>open slots</color> in your weapons (above) and armor (below)."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_05010",
+      "Text": "<button=decide> マテリア穴を選択",
+      "english": "<button=decide> Select Slot"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_06000",
+      "Text": "マテリアリストから、装着するマテリアを選びましょう。\r\n\r\n<color=yellow>『みやぶる』マテリアを選択してください。</color>",
+      "english": "Try equipping an orb of <color=yellow>Assess</color> materia."
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_06010",
+      "Text": "<button=decide> マテリアを選択",
+      "english": "Press <button=decide>"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_07000",
+      "Text": "<color=yellow>マテリアをセットしました！</color>\r\n\r\nマテリアを装着することで\r\n新しい魔法やアビリティが使えるようになり\r\nステータスが向上するなどの効果も得られます。\r\n\r\n武器や防具に、様々なマテリアをセットして\r\n最適な組み合わせを探していきましょう。",
+      "english": "Equipping materia will grant access to new spells and abilities, or even boost your stats. Experiment with different combinations, and discover which loadout works best for you and your party!"
+    },
+    {
+      "id": "$menu_mainmenu_materia_tutorial_07010",
+      "Text": "チュートリアル終了",
+      "english": "Finish Tutorial"
+    },
+    {
+      "id": "$menu_meinmenu_materia_info_sep",
+      "Text": "／",
+      "english": "/"
+    },
+    {
+      "id": "$help_message_0010_0000",
+      "Text": "ゲームの難易度を設定します。",
+      "english": "Select the difficulty level of the game."
+    },
+    {
+      "id": "$help_message_0010_0010",
+      "Text": "ストーリーを気楽に進められる、やさしい難易度です。",
+      "english": "Select this if you want to enjoy the story without worrying about battles."
+    },
+    {
+      "id": "$help_message_0010_0011",
+      "Text": "バトルの戦術を十分に楽しめる、標準的な難易度です。",
+      "english": "The standard difficulty. Select this if you want to fully experience battles as well as the story."
+    },
+    {
+      "id": "$menu_options_0002_0034_help",
+      "Text": "敵の強さが自動調整され、バトルの緊張感を常に味わえる難易度です。",
+      "english": "Enemy difficulty adjusts automatically based on your skill level. Select this if you love the thrill of the fight."
+    },
+    {
+      "id": "$menu_options_0002_0035",
+      "Text": "バトルモード",
+      "english": "Combat Style"
+    },
+    {
+      "id": "$menu_options_0002_0035_help",
+      "Text": "バトル中のアクションの操作方法を設定します。",
+      "english": "Select which type of combat you prefer."
+    },
+    {
+      "id": "$menu_options_0002_0036_help",
+      "Text": "アクションとコマンド選択を自分で行うバトルモードです。",
+      "english": "For those who want to have complete control over their actions in combat."
+    },
+    {
+      "id": "$menu_options_0002_0037_help",
+      "Text": "アクションは自動操作で行われ、コマンド選択に集中できるバトルモードです。",
+      "english": "Actions are performed automatically. For those who want to focus on executing commands."
+    },
+    {
+      "id": "$menu_options_0002_0000",
+      "Text": "ゲームの難易度",
+      "english": "Difficulty"
+    }
+  ],
+  "unique": [
+    {
+      "index": 0,
+      "text": "チェックポイントからやりなおす",
+      "english": "Retry from Checkpoint",
+      "ids": [
+        "$menu_CheckPoint_MenuName"
+      ]
+    },
+    {
+      "index": 1,
+      "text": "ストーリーのチェックポイント\r\n『<object=0>』まで戻り\r\nゲームを再開します。\r\n\r\n※ストーリーはその時点まで巻き戻りますが\r\nここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Return to checkpoint \"<object=0>\"?\r\n\r\nYou will not lose any EXP gained thus far.",
+      "ids": [
+        "$menu_CheckPoint_SelectWindow"
+      ]
+    },
+    {
+      "index": 2,
+      "text": "いいえ",
+      "english": "No",
+      "ids": [
+        "$menu_CheckPoint_SelectWindow_No",
+        "$menu_gameover_0002_0002",
+        "$menu_gameover_0007_0002",
+        "$menu_gameover_0008_0002",
+        "$menu_gameover_0009_0002",
+        "$menu_gameover_0010_0002",
+        "$menu_mainmenu_0009_0002",
+        "$menu_mainmenu_0016_0002",
+        "$menu_mainmenu_WeaponEquip_No",
+        "$menu_mainmenu_cancel_dialog_no",
+        "$menu_mainmenu_weaponstatus_auto_release_no",
+        "$menu_pause_0003_0002",
+        "$menu_pause_0004_0002",
+        "$menu_pause_0006_0002",
+        "$menu_pause_0007_0002",
+        "$menu_save_load_0002_0002",
+        "$menu_save_load_0003_0002",
+        "$menu_title_continue_window_no",
+        "$menu_title_convert_trial_savedata_no",
+        "$menu_title_quit_game_window_no"
+      ]
+    },
+    {
+      "index": 3,
+      "text": "はい",
+      "english": "Yes",
+      "ids": [
+        "$menu_CheckPoint_SelectWindow_Yes",
+        "$menu_gameover_0002_0001",
+        "$menu_gameover_0007_0001",
+        "$menu_gameover_0008_0001",
+        "$menu_gameover_0009_0001",
+        "$menu_gameover_0010_0001",
+        "$menu_mainmenu_0009_0001",
+        "$menu_mainmenu_0016_0001",
+        "$menu_mainmenu_WeaponEquip_Yes",
+        "$menu_mainmenu_cancel_dialog_yes",
+        "$menu_mainmenu_weaponstatus_auto_release_yes",
+        "$menu_pause_0003_0001",
+        "$menu_pause_0004_0001",
+        "$menu_pause_0006_0001",
+        "$menu_pause_0007_0001",
+        "$menu_save_load_0002_0001",
+        "$menu_save_load_0003_0001",
+        "$menu_title_continue_window_yes",
+        "$menu_title_convert_trial_savedata_yes",
+        "$menu_title_quit_game_window_yes"
+      ]
+    },
+    {
+      "index": 4,
+      "text": "SKIP",
+      "english": "Skip",
+      "ids": [
+        "$menu_Cinema_0000_0000"
+      ]
+    },
+    {
+      "index": 5,
+      "text": "MENU",
+      "english": "Menu",
+      "ids": [
+        "$menu_Cinema_0000_0001"
+      ]
+    },
+    {
+      "index": 6,
+      "text": "<button=scroll-vert> スクロール",
+      "english": "<button=scroll-vert> Scroll",
+      "ids": [
+        "$menu_button_guide_00_081_028"
+      ]
+    },
+    {
+      "index": 7,
+      "text": "<button=decide> 決定",
+      "english": "<button=decide> Confirm",
+      "ids": [
+        "$menu_button_guide_00_120_000"
+      ]
+    },
+    {
+      "index": 8,
+      "text": "<button=cancel> 戻る",
+      "english": "<button=cancel> Back",
+      "ids": [
+        "$menu_button_guide_00_130_001"
+      ]
+    },
+    {
+      "index": 9,
+      "text": "<button=cancel> 閉じる",
+      "english": "<button=cancel> Close",
+      "ids": [
+        "$menu_button_guide_00_130_010",
+        "$menu_keyguide_chain_action_help_close"
+      ]
+    },
+    {
+      "index": 10,
+      "text": "<button=triangle> セーブする",
+      "english": "<button=triangle> Save",
+      "ids": [
+        "$menu_button_guide_00_140_007"
+      ]
+    },
+    {
+      "index": 11,
+      "text": "<button=triangle> バトルコマンド情報を表示",
+      "english": "<button=triangle> Toggle Command Guide",
+      "ids": [
+        "$menu_button_guide_00_140_019"
+      ]
+    },
+    {
+      "index": 12,
+      "text": "<button=triangle> 初期化",
+      "english": "<button=triangle> Default",
+      "ids": [
+        "$menu_button_guide_00_140_026"
+      ]
+    },
+    {
+      "index": 13,
+      "text": "<button=square> 装備中を優先する",
+      "english": "<button=square> Prioritize Equipped Gear",
+      "ids": [
+        "$menu_button_guide_00_150_005"
+      ]
+    },
+    {
+      "index": 14,
+      "text": "<button=square> 装備中を優先しない",
+      "english": "<button=square> Deprioritize Equipped Gear",
+      "ids": [
+        "$menu_button_guide_00_150_006"
+      ]
+    },
+    {
+      "index": 15,
+      "text": "<button=square> フォトモード",
+      "english": "<button=square> Photo Mode",
+      "ids": [
+        "$menu_button_guide_00_150_035"
+      ]
+    },
+    {
+      "index": 16,
+      "text": "<button=square> 選択中のカードへ",
+      "english": "<button=square> Jump to Card",
+      "ids": [
+        "$menu_button_guide_00_150_041"
+      ]
+    },
+    {
+      "index": 17,
+      "text": "<button=L1><button=R1> デッキカード一覧",
+      "english": "<button=L1>/<button=R1> View Deck",
+      "ids": [
+        "$menu_button_guide_00_160_016"
+      ]
+    },
+    {
+      "index": 18,
+      "text": "<button=L1> 「はんいか」切替",
+      "english": "<button=L1> Magnify",
+      "ids": [
+        "$menu_button_guide_00_160_039"
+      ]
+    },
+    {
+      "index": 19,
+      "text": "<button=square> ショートカット削除",
+      "english": "<button=square> Delete Shortcut",
+      "ids": [
+        "$menu_button_guide_00_160_041"
+      ]
+    },
+    {
+      "index": 20,
+      "text": "<button=L1><button=R1> アイテムカテゴリ切替",
+      "english": "<button=L1>/<button=R1> Change Category",
+      "ids": [
+        "$menu_button_guide_00_167_008"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "<button=L1><button=R1> パーティセット切替",
+      "english": "<button=L1>/<button=R1> Change Party",
+      "ids": [
+        "$menu_button_guide_00_167_009"
+      ]
+    },
+    {
+      "index": 22,
+      "text": "<button=L1><button=R1> デッキ切替",
+      "english": "<button=L1>/<button=R1> Change Deck",
+      "ids": [
+        "$menu_button_guide_00_167_013"
+      ]
+    },
+    {
+      "index": 23,
+      "text": "<button=L1><button=R1> ページの切替",
+      "english": "<button=L1>/<button=R1> Change Page",
+      "ids": [
+        "$menu_button_guide_00_167_020"
+      ]
+    },
+    {
+      "index": 24,
+      "text": "<button=decide> 使用する",
+      "english": "<button=decide> Use",
+      "ids": [
+        "$menu_button_guide_00_167_042",
+        "$menu_mainmenu_0014_0005"
+      ]
+    },
+    {
+      "index": 25,
+      "text": "<button=touch> マテリアクイック",
+      "english": "<button=touch> Set for All",
+      "ids": [
+        "$menu_button_guide_00_170_002"
+      ]
+    },
+    {
+      "index": 26,
+      "text": "<button=L1><button=R1> 所持カード一覧",
+      "english": "<button=L1>/<button=R1> View Collection",
+      "ids": [
+        "$menu_button_guide_00_170_017"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "<button=L2> デッキ表示",
+      "english": "<button=L2> Display Deck",
+      "ids": [
+        "$menu_button_guide_00_180_027"
+      ]
+    },
+    {
+      "index": 28,
+      "text": "<button=L2><button=R2> キャラクター切替",
+      "english": "<button=L2>/<button=R2> Change Character",
+      "ids": [
+        "$menu_button_guide_00_182_004"
+      ]
+    },
+    {
+      "index": 29,
+      "text": "<button=L2><button=R2> 項目の切替",
+      "english": "<button=L2>/<button=R2> Change Category",
+      "ids": [
+        "$menu_button_guide_00_182_021"
+      ]
+    },
+    {
+      "index": 30,
+      "text": "<button=R2> カード一覧表示",
+      "english": "<button=R2> Display Collection",
+      "ids": [
+        "$menu_button_guide_00_190_012"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "<button=R3> ソートする",
+      "english": "<button=R3> Sort",
+      "ids": [
+        "$menu_button_guide_00_210_003"
+      ]
+    },
+    {
+      "index": 32,
+      "text": "<button=R3> ボタン表記選択",
+      "english": "<button=R3> Button Appearance",
+      "ids": [
+        "$menu_button_guide_00_210_023"
+      ]
+    },
+    {
+      "index": 33,
+      "text": "<button=options> チュートリアルを確認する",
+      "english": "<button=options> Tutorial",
+      "ids": [
+        "$menu_button_guide_00_220_011"
+      ]
+    },
+    {
+      "index": 34,
+      "text": "<button=options> すべて初期化",
+      "english": "<button=options> Restore Default",
+      "ids": [
+        "$menu_button_guide_00_220_022"
+      ]
+    },
+    {
+      "index": 35,
+      "text": "<button=touch> 詳細表示",
+      "english": "<button=touch> Toggle Details",
+      "ids": [
+        "$menu_button_guide_00_230_018"
+      ]
+    },
+    {
+      "index": 36,
+      "text": "<button=touch> コントローラー選択",
+      "english": "<button=touch> Controller Type",
+      "ids": [
+        "$menu_button_guide_00_230_024"
+      ]
+    },
+    {
+      "index": 37,
+      "text": "<button=touch> クラフト素材確認",
+      "english": "<button=touch> Check Materials",
+      "ids": [
+        "$menu_button_guide_00_230_040"
+      ]
+    },
+    {
+      "index": 38,
+      "text": "<button=triangle> RESERVE MEMBER COMMAND",
+      "english": "<button=triangle> Backline Command",
+      "ids": [
+        "$menu_button_guide_02_140_030"
+      ]
+    },
+    {
+      "index": 39,
+      "text": "GAME OVER",
+      "english": "GAME OVER",
+      "ids": [
+        "$menu_gameover_0000_0000"
+      ]
+    },
+    {
+      "index": 40,
+      "text": "バトル直前からやりなおす",
+      "english": "Retry from Last Battle",
+      "ids": [
+        "$menu_gameover_0001_0000",
+        "$menu_pause_0001_0001"
+      ]
+    },
+    {
+      "index": 41,
+      "text": "タイトルに戻る",
+      "english": "Return to Title Screen",
+      "ids": [
+        "$menu_gameover_0001_0001",
+        "$menu_mainmenu_0008_0001",
+        "$menu_pause_0001_0002",
+        "$menu_pause_0005_0002"
+      ]
+    },
+    {
+      "index": 42,
+      "text": "リタイアする",
+      "english": "Give Up",
+      "ids": [
+        "$menu_gameover_0001_0004",
+        "$menu_pause_0001_0004",
+        "$menu_pause_0005_0003"
+      ]
+    },
+    {
+      "index": 43,
+      "text": "バイクゲームをスキップする",
+      "english": "Skip the Bike Minigame",
+      "ids": [
+        "$menu_gameover_0001_0005",
+        "$menu_pause_0001_0005"
+      ]
+    },
+    {
+      "index": 44,
+      "text": "最後にセーブした地点からゲームを再開します。\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from the last place the game was saved?",
+      "ids": [
+        "$menu_gameover_0002_0000"
+      ]
+    },
+    {
+      "index": 45,
+      "text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブしたあとの進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。",
+      "english": "Quit the game and return to the title screen?\r\n\r\nAll progress made since your last save will be lost.",
+      "ids": [
+        "$menu_gameover_0007_0000"
+      ]
+    },
+    {
+      "index": 46,
+      "text": "タイトル画面に戻ります。\r\n実行してもよろしいですか？",
+      "english": "Return to the title screen?",
+      "ids": [
+        "$menu_gameover_0008_0000"
+      ]
+    },
+    {
+      "index": 47,
+      "text": "バトルを終了し、コース選択に戻ります。",
+      "english": "End the battle and return to the selection screen?",
+      "ids": [
+        "$menu_gameover_0009_0000"
+      ]
+    },
+    {
+      "index": 48,
+      "text": "バイクゲームをスキップします。\r\n実行してもよろしいですか？",
+      "english": "Skip the bike minigame?",
+      "ids": [
+        "$menu_gameover_0010_0000"
+      ]
+    },
+    {
+      "index": 49,
+      "text": "パーティメンバーコマンド",
+      "english": "Issue Commands to Allies",
+      "ids": [
+        "$menu_keyguide_0000_0000"
+      ]
+    },
+    {
+      "index": 50,
+      "text": "操作キャラクターチェンジ",
+      "english": "Switch Characters",
+      "ids": [
+        "$menu_keyguide_0000_0001"
+      ]
+    },
+    {
+      "index": 51,
+      "text": "回避",
+      "english": "Evade",
+      "ids": [
+        "$menu_keyguide_0000_0002"
+      ]
+    },
+    {
+      "index": 52,
+      "text": "ガード／連携アクション",
+      "english": "Guard / Synergy Skills",
+      "ids": [
+        "$menu_keyguide_0000_0003"
+      ]
+    },
+    {
+      "index": 53,
+      "text": "ショートカットコマンド",
+      "english": "Command Shortcuts",
+      "ids": [
+        "$menu_keyguide_0000_0004"
+      ]
+    },
+    {
+      "index": 54,
+      "text": "ターゲットロックオン",
+      "english": "Lock On",
+      "ids": [
+        "$menu_keyguide_0000_0005"
+      ]
+    },
+    {
+      "index": 55,
+      "text": "<button=prev-member> <button=next-member>",
+      "english": "<button=prev-member> <button=next-member>",
+      "ids": [
+        "$menu_keyguide_0000_0100_plus"
+      ]
+    },
+    {
+      "index": 56,
+      "text": "<button=vert> <button=horz>",
+      "english": "<button=vert> <button=horz>",
+      "ids": [
+        "$menu_keyguide_0000_0101_plus"
+      ]
+    },
+    {
+      "index": 57,
+      "text": "<button=dodge>",
+      "english": "<button=dodge>",
+      "ids": [
+        "$menu_keyguide_0000_0102_plus"
+      ]
+    },
+    {
+      "index": 58,
+      "text": "<button=guard>",
+      "english": "<button=guard>",
+      "ids": [
+        "$menu_keyguide_0000_0103_plus",
+        "$menu_keyguide_0000_1002"
+      ]
+    },
+    {
+      "index": 59,
+      "text": "<button=shortcut-menu>",
+      "english": "<button=shortcut-menu>",
+      "ids": [
+        "$menu_keyguide_0000_0104_plus",
+        "$menu_keyguide_0000_1005"
+      ]
+    },
+    {
+      "index": 60,
+      "text": "<button=target-lock>",
+      "english": "<button=target-lock>",
+      "ids": [
+        "$menu_keyguide_0000_0105_plus"
+      ]
+    },
+    {
+      "index": 61,
+      "text": "<button=vert>",
+      "english": "<button=vert>",
+      "ids": [
+        "$menu_keyguide_0000_0106_plus",
+        "$menu_keyguide_0000_1000"
+      ]
+    },
+    {
+      "index": 62,
+      "text": "<button=change-prev> <button=change-next>",
+      "english": "<button=change-prev>/<button=change-next>",
+      "ids": [
+        "$menu_keyguide_0000_0107"
+      ]
+    },
+    {
+      "index": 63,
+      "text": "操作キャラクターチェンジ＆呼び寄せる",
+      "english": "Tag Team",
+      "ids": [
+        "$menu_keyguide_0000_1001"
+      ]
+    },
+    {
+      "index": 64,
+      "text": "<button=prev-member>",
+      "english": "<button=prev-member>",
+      "ids": [
+        "$menu_keyguide_0000_1003"
+      ]
+    },
+    {
+      "index": 65,
+      "text": "<button=next-member>",
+      "english": "<button=next-member>",
+      "ids": [
+        "$menu_keyguide_0000_1004"
+      ]
+    },
+    {
+      "index": 66,
+      "text": "×",
+      "english": "×",
+      "ids": [
+        "$menu_keyguide_0000_1006"
+      ]
+    },
+    {
+      "index": 67,
+      "text": "％",
+      "english": "％",
+      "ids": [
+        "$menu_keyguide_0000_1007",
+        "$menu_mainmenu_playlog_likeability_percentage"
+      ]
+    },
+    {
+      "index": 68,
+      "text": "Lv.",
+      "english": "Lv.",
+      "ids": [
+        "$menu_keyguide_0000_1008"
+      ]
+    },
+    {
+      "index": 69,
+      "text": "<button=L1>",
+      "english": "<button=L1>",
+      "ids": [
+        "$menu_keyguide_0000_1009"
+      ]
+    },
+    {
+      "index": 70,
+      "text": "<button=R1>",
+      "english": "<button=R1>",
+      "ids": [
+        "$menu_keyguide_0000_1010"
+      ]
+    },
+    {
+      "index": 71,
+      "text": "<button=prev-member-side>",
+      "english": "<button=prev-member-side>",
+      "ids": [
+        "$menu_keyguide_0000_1011"
+      ]
+    },
+    {
+      "index": 72,
+      "text": "<button=next-member-side>",
+      "english": "<button=next-member-side>",
+      "ids": [
+        "$menu_keyguide_0000_1012"
+      ]
+    },
+    {
+      "index": 73,
+      "text": "連携アクションのヘルプ表示",
+      "english": "Synergy Skills Info",
+      "ids": [
+        "$menu_keyguide_0000_1013"
+      ]
+    },
+    {
+      "index": 74,
+      "text": "ショートカットのヘルプ表示",
+      "english": "Shortcut Commands Info",
+      "ids": [
+        "$menu_keyguide_0000_1014"
+      ]
+    },
+    {
+      "index": 75,
+      "text": "スピンスラッシュ",
+      "english": "Spinning Slash",
+      "ids": [
+        "$menu_keyguide_0001_0006"
+      ]
+    },
+    {
+      "index": 76,
+      "text": "照準ターゲット",
+      "english": "Aim",
+      "ids": [
+        "$menu_keyguide_0002_0000"
+      ]
+    },
+    {
+      "index": 77,
+      "text": "射撃",
+      "english": "Fire",
+      "ids": [
+        "$menu_keyguide_0002_0001"
+      ]
+    },
+    {
+      "index": 78,
+      "text": "リロード",
+      "english": "Reload",
+      "ids": [
+        "$menu_keyguide_0002_0002"
+      ]
+    },
+    {
+      "index": 79,
+      "text": "照準速度変更 <button=toggle-off>",
+      "english": "Adjust Aiming Speed <button=toggle-off>",
+      "ids": [
+        "$menu_keyguide_0002_0004"
+      ]
+    },
+    {
+      "index": 80,
+      "text": "バギー操作",
+      "english": "Steer",
+      "ids": [
+        "$menu_keyguide_0002_0005"
+      ]
+    },
+    {
+      "index": 81,
+      "text": "照準速度変更 <button=toggle-on>",
+      "english": "Adjust Aiming Speed <button=toggle-on>",
+      "ids": [
+        "$menu_keyguide_0002_0006"
+      ]
+    },
+    {
+      "index": 82,
+      "text": "パーティメンバーショートカット",
+      "english": "Ally Shortcuts",
+      "ids": [
+        "$menu_keyguide_CommandShortcutKeyOption_000"
+      ]
+    },
+    {
+      "index": 83,
+      "text": "瞬間移動",
+      "english": "Warp",
+      "ids": [
+        "$menu_keyguide_sephiroth_001"
+      ]
+    },
+    {
+      "index": 84,
+      "text": "『逆襲の構え』／連携アクション",
+      "english": "Retaliation Stance / Synergy Skills",
+      "ids": [
+        "$menu_keyguide_sephiroth_002"
+      ]
+    },
+    {
+      "index": 85,
+      "text": "『逆襲の構え』解除／連携アクション",
+      "english": "Battle Stance / Synergy Skills",
+      "ids": [
+        "$menu_keyguide_sephiroth_003"
+      ]
+    },
+    {
+      "index": 86,
+      "text": "MAIN MENU",
+      "english": "Main Menu",
+      "ids": [
+        "$menu_mainmenu_0000_0000"
+      ]
+    },
+    {
+      "index": 87,
+      "text": "MATERIA & EQUIPMENT",
+      "english": "Materia & Equipment",
+      "ids": [
+        "$menu_mainmenu_0000_0001"
+      ]
+    },
+    {
+      "index": 88,
+      "text": "BATTLE SETTINGS",
+      "english": "Combat Settings",
+      "ids": [
+        "$menu_mainmenu_0000_0002"
+      ]
+    },
+    {
+      "index": 89,
+      "text": "UPGRADE WEAPONS",
+      "english": "Upgrade Weapons",
+      "ids": [
+        "$menu_mainmenu_0000_0003"
+      ]
+    },
+    {
+      "index": 90,
+      "text": "ENEMY REPORT",
+      "english": "Enemy Intel",
+      "ids": [
+        "$menu_mainmenu_0000_0005"
+      ]
+    },
+    {
+      "index": 91,
+      "text": "STATUS",
+      "english": "Party",
+      "ids": [
+        "$menu_mainmenu_0000_0006"
+      ]
+    },
+    {
+      "index": 92,
+      "text": "MAGIC",
+      "english": "Spells",
+      "ids": [
+        "$menu_mainmenu_0000_0007",
+        "$menu_mainmenu_0014_0000"
+      ]
+    },
+    {
+      "index": 93,
+      "text": "ITEMS",
+      "english": "Inventory",
+      "ids": [
+        "$menu_mainmenu_0000_0008"
+      ]
+    },
+    {
+      "index": 94,
+      "text": "MANUAL",
+      "english": "Manual",
+      "ids": [
+        "$menu_mainmenu_0000_0009"
+      ]
+    },
+    {
+      "index": 95,
+      "text": "SAVE / LOAD",
+      "english": "Save / Load",
+      "ids": [
+        "$menu_mainmenu_0000_0010"
+      ]
+    },
+    {
+      "index": 96,
+      "text": "SYSTEM",
+      "english": "System",
+      "ids": [
+        "$menu_mainmenu_0000_0011",
+        "$menu_mainmenu_0001_0000"
+      ]
+    },
+    {
+      "index": 97,
+      "text": "BATTLE LEADER",
+      "english": "Leader",
+      "ids": [
+        "$menu_mainmenu_0000_0012"
+      ]
+    },
+    {
+      "index": 98,
+      "text": "LEVEL",
+      "english": "Level",
+      "ids": [
+        "$menu_mainmenu_0000_0013",
+        "$menu_save_load_0001_0003"
+      ]
+    },
+    {
+      "index": 99,
+      "text": "EXP",
+      "english": "EXP",
+      "ids": [
+        "$menu_mainmenu_0000_0014"
+      ]
+    },
+    {
+      "index": 100,
+      "text": "HP",
+      "english": "HP",
+      "ids": [
+        "$menu_mainmenu_0000_0015"
+      ]
+    },
+    {
+      "index": 101,
+      "text": "MP",
+      "english": "MP",
+      "ids": [
+        "$menu_mainmenu_0000_0016",
+        "$menu_mainmenu_0014_0001"
+      ]
+    },
+    {
+      "index": 102,
+      "text": "ITEM CRAFT",
+      "english": "Item Transmuter",
+      "ids": [
+        "$menu_mainmenu_0000_0018"
+      ]
+    },
+    {
+      "index": 103,
+      "text": "CARD GAME DECKS",
+      "english": "Card Decks",
+      "ids": [
+        "$menu_mainmenu_0000_0019"
+      ]
+    },
+    {
+      "index": 104,
+      "text": "SAVE",
+      "english": "Save",
+      "ids": [
+        "$menu_mainmenu_0001_0001",
+        "$menu_save_load_0000_0000"
+      ]
+    },
+    {
+      "index": 105,
+      "text": "LOAD",
+      "english": "Load",
+      "ids": [
+        "$menu_mainmenu_0001_0002",
+        "$menu_save_load_0000_0001"
+      ]
+    },
+    {
+      "index": 106,
+      "text": "OPTIONS",
+      "english": "Options",
+      "ids": [
+        "$menu_mainmenu_0001_0003",
+        "$menu_options_0000_0000",
+        "$menu_title_0001_0004"
+      ]
+    },
+    {
+      "index": 107,
+      "text": "DLC / BONUS",
+      "english": "Bonuses",
+      "ids": [
+        "$menu_mainmenu_0001_0004"
+      ]
+    },
+    {
+      "index": 108,
+      "text": "TITLE",
+      "english": "Title Screen",
+      "ids": [
+        "$menu_mainmenu_0001_0005"
+      ]
+    },
+    {
+      "index": 109,
+      "text": "CHAPTER SELECT",
+      "english": "Chapter Selection",
+      "ids": [
+        "$menu_mainmenu_0001_0006"
+      ]
+    },
+    {
+      "index": 110,
+      "text": "CHECK POINT",
+      "english": "Checkpoint",
+      "ids": [
+        "$menu_mainmenu_0001_0007"
+      ]
+    },
+    {
+      "index": 111,
+      "text": "QUIT GAME",
+      "english": "Quit Game",
+      "ids": [
+        "$menu_mainmenu_0001_0008",
+        "$menu_title_0001_0005"
+      ]
+    },
+    {
+      "index": 112,
+      "text": "アイテム",
+      "english": "Items",
+      "ids": [
+        "$menu_mainmenu_0003_0000",
+        "$menu_mainmenu_0007_0003"
+      ]
+    },
+    {
+      "index": 113,
+      "text": "だいじなもの",
+      "english": "Key Items",
+      "ids": [
+        "$menu_mainmenu_0003_0001"
+      ]
+    },
+    {
+      "index": 114,
+      "text": "武器",
+      "english": "Weapons",
+      "ids": [
+        "$menu_mainmenu_0003_0002"
+      ]
+    },
+    {
+      "index": 115,
+      "text": "防具",
+      "english": "Armor",
+      "ids": [
+        "$menu_mainmenu_0003_0003"
+      ]
+    },
+    {
+      "index": 116,
+      "text": "アクセサリ",
+      "english": "Accessories",
+      "ids": [
+        "$menu_mainmenu_0003_0004"
+      ]
+    },
+    {
+      "index": 117,
+      "text": "マテリア",
+      "english": "Materia",
+      "ids": [
+        "$menu_mainmenu_0003_0005"
+      ]
+    },
+    {
+      "index": 118,
+      "text": "カード",
+      "english": "Cards",
+      "ids": [
+        "$menu_mainmenu_0003_0007"
+      ]
+    },
+    {
+      "index": 119,
+      "text": "トレード通貨",
+      "english": "Trading Tokens",
+      "ids": [
+        "$menu_mainmenu_0003_0008"
+      ]
+    },
+    {
+      "index": 120,
+      "text": "ウェア",
+      "english": "Outfits",
+      "ids": [
+        "$menu_mainmenu_0003_0009"
+      ]
+    },
+    {
+      "index": 121,
+      "text": "クラフトチップ",
+      "english": "Transmuter Chips",
+      "ids": [
+        "$menu_mainmenu_0003_0010"
+      ]
+    },
+    {
+      "index": 122,
+      "text": "クラフト素材",
+      "english": "Materials",
+      "ids": [
+        "$menu_mainmenu_0003_0011"
+      ]
+    },
+    {
+      "index": 123,
+      "text": "スキルブック",
+      "english": "Folios & Manuscripts",
+      "ids": [
+        "$menu_mainmenu_0003_0012"
+      ]
+    },
+    {
+      "index": 124,
+      "text": "チョコボの装具品",
+      "english": "Chocobo Gear",
+      "ids": [
+        "$menu_mainmenu_0003_0013"
+      ]
+    },
+    {
+      "index": 125,
+      "text": "デフォルト",
+      "english": "Default",
+      "ids": [
+        "$menu_mainmenu_0004_0003"
+      ]
+    },
+    {
+      "index": 126,
+      "text": "所持数順",
+      "english": "By Number Owned",
+      "ids": [
+        "$menu_mainmenu_0004_0004"
+      ]
+    },
+    {
+      "index": 127,
+      "text": "レベル順",
+      "english": "By Level",
+      "ids": [
+        "$menu_mainmenu_0004_0006"
+      ]
+    },
+    {
+      "index": 128,
+      "text": "攻撃力順",
+      "english": "By Attack Power",
+      "ids": [
+        "$menu_mainmenu_0004_0008"
+      ]
+    },
+    {
+      "index": 129,
+      "text": "防御力順",
+      "english": "By Defense",
+      "ids": [
+        "$menu_mainmenu_0004_0009"
+      ]
+    },
+    {
+      "index": 130,
+      "text": "魔法攻撃力順",
+      "english": "By Magic Attack Power",
+      "ids": [
+        "$menu_mainmenu_0004_0010"
+      ]
+    },
+    {
+      "index": 131,
+      "text": "魔法防御力順",
+      "english": "By Magic Defense",
+      "ids": [
+        "$menu_mainmenu_0004_0011"
+      ]
+    },
+    {
+      "index": 132,
+      "text": "入手順",
+      "english": "By Order Obtained",
+      "ids": [
+        "$menu_mainmenu_0004_0012"
+      ]
+    },
+    {
+      "index": 133,
+      "text": "キャラクター順",
+      "english": "By Character",
+      "ids": [
+        "$menu_mainmenu_0004_0013"
+      ]
+    },
+    {
+      "index": 134,
+      "text": "並び替え",
+      "english": "Sort",
+      "ids": [
+        "$menu_mainmenu_0005_0000"
+      ]
+    },
+    {
+      "index": 135,
+      "text": "並び順",
+      "english": "Criteria",
+      "ids": [
+        "$menu_mainmenu_0005_0001"
+      ]
+    },
+    {
+      "index": 136,
+      "text": "ショートカット登録",
+      "english": "Set Shortcuts",
+      "ids": [
+        "$menu_mainmenu_0007_0000"
+      ]
+    },
+    {
+      "index": 137,
+      "text": "アビリティ",
+      "english": "Abilities",
+      "ids": [
+        "$menu_mainmenu_0007_0001"
+      ]
+    },
+    {
+      "index": 138,
+      "text": "魔法",
+      "english": "Spells",
+      "ids": [
+        "$menu_mainmenu_0007_0002"
+      ]
+    },
+    {
+      "index": 139,
+      "text": "リミット技",
+      "english": "Limit Breaks",
+      "ids": [
+        "$menu_mainmenu_0007_0004"
+      ]
+    },
+    {
+      "index": 140,
+      "text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。",
+      "english": "Return to the title screen?\r\n\r\nAll progress made since your last save will be lost.",
+      "ids": [
+        "$menu_mainmenu_0008_0000"
+      ]
+    },
+    {
+      "index": 141,
+      "text": "キャンセル",
+      "english": "Cancel",
+      "ids": [
+        "$menu_mainmenu_0008_0002",
+        "$menu_mainmenu_0015_0002",
+        "$menu_pause_0008_0003",
+        "$menu_title_savedata_bonus_mes_confirm_cancel"
+      ]
+    },
+    {
+      "index": 142,
+      "text": "タイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。\r\n\r\n実行してもよろしいですか？",
+      "english": "If you return to the title screen, all progress made since your last save will be lost. To continue playing instead, select No.\r\n\r\nReturn to title screen?",
+      "ids": [
+        "$menu_mainmenu_0009_0000"
+      ]
+    },
+    {
+      "index": 143,
+      "text": "WEAPON",
+      "english": "Weapon",
+      "ids": [
+        "$menu_mainmenu_0010_0000",
+        "$menu_mainmenu_word_weapon"
+      ]
+    },
+    {
+      "index": 144,
+      "text": "ARMOR",
+      "english": "Armor",
+      "ids": [
+        "$menu_mainmenu_0010_0001"
+      ]
+    },
+    {
+      "index": 145,
+      "text": "ACCESSORY",
+      "english": "Accessory",
+      "ids": [
+        "$menu_mainmenu_0010_0002"
+      ]
+    },
+    {
+      "index": 146,
+      "text": "MATERIA",
+      "english": "Materia",
+      "ids": [
+        "$menu_mainmenu_0010_0003",
+        "$menu_mainmenu_0013_0002"
+      ]
+    },
+    {
+      "index": 147,
+      "text": "ATK",
+      "english": "ATK",
+      "ids": [
+        "$menu_mainmenu_0010_0004"
+      ]
+    },
+    {
+      "index": 148,
+      "text": "DEF",
+      "english": "DEF",
+      "ids": [
+        "$menu_mainmenu_0010_0005"
+      ]
+    },
+    {
+      "index": 149,
+      "text": "AP",
+      "english": "AP",
+      "ids": [
+        "$menu_mainmenu_0010_0006"
+      ]
+    },
+    {
+      "index": 150,
+      "text": "ABILITY",
+      "english": "Ability",
+      "ids": [
+        "$menu_mainmenu_0010_0007",
+        "$menu_mainmenu_word_Ability"
+      ]
+    },
+    {
+      "index": 151,
+      "text": "熟練度ボーナス",
+      "english": "Proficiency Bonus",
+      "ids": [
+        "$menu_mainmenu_0010_0008",
+        "$menu_mainmenu_ability_percent_bonus"
+      ]
+    },
+    {
+      "index": 152,
+      "text": "ABILITY INFO",
+      "english": "Ability Info",
+      "ids": [
+        "$menu_mainmenu_0010_0009"
+      ]
+    },
+    {
+      "index": 153,
+      "text": "MATERIA INFO",
+      "english": "Materia Info",
+      "ids": [
+        "$menu_mainmenu_0010_0010"
+      ]
+    },
+    {
+      "index": 154,
+      "text": "属性:",
+      "english": "Element:",
+      "ids": [
+        "$menu_mainmenu_0010_0011"
+      ]
+    },
+    {
+      "index": 155,
+      "text": "状態異常耐性:",
+      "english": "Resistances:",
+      "ids": [
+        "$menu_mainmenu_0010_0012"
+      ]
+    },
+    {
+      "index": 156,
+      "text": "WEAPON SKILL",
+      "english": "Weapon Skills",
+      "ids": [
+        "$menu_mainmenu_0010_0013",
+        "$menu_mainmenu_skill_header_core_skill",
+        "$menu_mainmenu_weaponstatus_weapon_core_header",
+        "$menu_mainmenu_weaponstatus_word_weapon_core"
+      ]
+    },
+    {
+      "index": 157,
+      "text": "はずす",
+      "english": "Remove",
+      "ids": [
+        "$menu_mainmenu_0011_0000"
+      ]
+    },
+    {
+      "index": 158,
+      "text": "<object=0>が装備しています。\r\n\r\n取り外して装備しますか？",
+      "english": "<object=0> has this equipped.\r\nProceed anyway?",
+      "ids": [
+        "$menu_mainmenu_0012_0000"
+      ]
+    },
+    {
+      "index": 159,
+      "text": "<object=0>が装備しています。\r\n\r\n交換しますか？",
+      "english": "<object=0> has this equipped.\r\nTrade equipment?",
+      "ids": [
+        "$menu_mainmenu_0012_0001"
+      ]
+    },
+    {
+      "index": 160,
+      "text": "未装備",
+      "english": "--",
+      "ids": [
+        "$menu_mainmenu_0012_0002"
+      ]
+    },
+    {
+      "index": 161,
+      "text": "未所持",
+      "english": "--",
+      "ids": [
+        "$menu_mainmenu_0012_0003"
+      ]
+    },
+    {
+      "index": 162,
+      "text": "<button=triangle> マテリアの装着",
+      "english": "<button=triangle> Set Materia",
+      "ids": [
+        "$menu_mainmenu_0013_0000"
+      ]
+    },
+    {
+      "index": 163,
+      "text": "<button=square> マテリアをはずす",
+      "english": "<button=square> Remove Materia",
+      "ids": [
+        "$menu_mainmenu_0013_0001"
+      ]
+    },
+    {
+      "index": 164,
+      "text": "<button=triangle> マテリア入替",
+      "english": "<button=triangle> Swap Materia",
+      "ids": [
+        "$menu_mainmenu_0013_0003"
+      ]
+    },
+    {
+      "index": 165,
+      "text": "<button=cancel> キャンセル",
+      "english": "<button=cancel> Cancel",
+      "ids": [
+        "$menu_mainmenu_0013_0004"
+      ]
+    },
+    {
+      "index": 166,
+      "text": "<button=square> 武器スキルをはずす",
+      "english": "<button=square> Remove Weapon Skill",
+      "ids": [
+        "$menu_mainmenu_0013_0005"
+      ]
+    },
+    {
+      "index": 167,
+      "text": "<button=triangle> 武器スキル入替",
+      "english": "<button=triangle> Swap Weapon Skill",
+      "ids": [
+        "$menu_mainmenu_0013_0006"
+      ]
+    },
+    {
+      "index": 168,
+      "text": "ALL",
+      "english": "All",
+      "ids": [
+        "$menu_mainmenu_0013_0007"
+      ]
+    },
+    {
+      "index": 169,
+      "text": "ターゲットを選んでください。",
+      "english": "Select a target.",
+      "ids": [
+        "$menu_mainmenu_0014_0002"
+      ]
+    },
+    {
+      "index": 170,
+      "text": "消費MP",
+      "english": "MP Cost",
+      "ids": [
+        "$menu_mainmenu_0014_0003"
+      ]
+    },
+    {
+      "index": 171,
+      "text": "MP不足",
+      "english": "Not Enough MP",
+      "ids": [
+        "$menu_mainmenu_0014_0004"
+      ]
+    },
+    {
+      "index": 172,
+      "text": "<button=L1> 範囲化切替 <icon=range>",
+      "english": "<button=L1> Magnify <icon=range>",
+      "ids": [
+        "$menu_mainmenu_0014_0006"
+      ]
+    },
+    {
+      "index": 173,
+      "text": "<button=L1> 範囲化切替 <color=disable><icon=range>",
+      "english": "<button=L1> Magnify <color=disable><icon=range>",
+      "ids": [
+        "$menu_mainmenu_0014_0007"
+      ]
+    },
+    {
+      "index": 174,
+      "text": "ゲームを終了しますが、よろしいですか？\r\n\r\nゲームを終了する場合\r\n最後にセーブしたあとの進行状況は保存されません。",
+      "english": "Quit the game?\r\n\r\nAll progress made since your last save will be lost.",
+      "ids": [
+        "$menu_mainmenu_0015_0000"
+      ]
+    },
+    {
+      "index": 175,
+      "text": "ゲームを終了する",
+      "english": "Quit Game",
+      "ids": [
+        "$menu_mainmenu_0015_0001"
+      ]
+    },
+    {
+      "index": 176,
+      "text": "ゲームを終了する場合\r\n最後にセーブしたあとの進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。\r\n\r\n実行してもよろしいですか？",
+      "english": "If you quit the game, all progress made since your last save will be lost. To continue playing instead, select No.\r\n\r\nQuit the game?",
+      "ids": [
+        "$menu_mainmenu_0016_0000"
+      ]
+    },
+    {
+      "index": 177,
+      "text": "元の武器のマテリアを引き継ぎますか？",
+      "english": "Reslot materia from previous weapon?",
+      "ids": [
+        "$menu_mainmenu_WeaponEquip_WindowMessage"
+      ]
+    },
+    {
+      "index": 178,
+      "text": "元の武器強化オート設定\r\n<object=0>を引き継ぎますか？",
+      "english": "Retain upgrade setting from the previous weapon?",
+      "ids": [
+        "$menu_mainmenu_WeaponEquip_WindowMessage_1"
+      ]
+    },
+    {
+      "index": 179,
+      "text": "熟練度<count=0>%",
+      "english": "Proficiency: <count=0>%",
+      "ids": [
+        "$menu_mainmenu_ability_percent"
+      ]
+    },
+    {
+      "index": 180,
+      "text": "ACCESSORY INFO",
+      "english": "Accessory Info",
+      "ids": [
+        "$menu_mainmenu_accessory_info"
+      ]
+    },
+    {
+      "index": 181,
+      "text": "ARMOR INFO",
+      "english": "Armor Info",
+      "ids": [
+        "$menu_mainmenu_armor_info"
+      ]
+    },
+    {
+      "index": 182,
+      "text": "炎",
+      "english": "Fire",
+      "ids": [
+        "$menu_mainmenu_attribute_0"
+      ]
+    },
+    {
+      "index": 183,
+      "text": "氷",
+      "english": "Ice",
+      "ids": [
+        "$menu_mainmenu_attribute_1"
+      ]
+    },
+    {
+      "index": 184,
+      "text": "雷",
+      "english": "Lightning",
+      "ids": [
+        "$menu_mainmenu_attribute_2"
+      ]
+    },
+    {
+      "index": 185,
+      "text": "風",
+      "english": "Wind",
+      "ids": [
+        "$menu_mainmenu_attribute_3"
+      ]
+    },
+    {
+      "index": 186,
+      "text": "土",
+      "english": "Earth",
+      "ids": [
+        "$menu_mainmenu_attribute_4"
+      ]
+    },
+    {
+      "index": 187,
+      "text": "聖",
+      "english": "Holy",
+      "ids": [
+        "$menu_mainmenu_attribute_5"
+      ]
+    },
+    {
+      "index": 188,
+      "text": "闇",
+      "english": "Dark",
+      "ids": [
+        "$menu_mainmenu_attribute_6"
+      ]
+    },
+    {
+      "index": 189,
+      "text": "自動登録",
+      "english": "Auto-Equip",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_air_action_auto"
+      ]
+    },
+    {
+      "index": 190,
+      "text": "OFF（空中アクション：カスタマイズ）",
+      "english": "Off - Customize Airborne Actions",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_air_action_auto_off"
+      ]
+    },
+    {
+      "index": 191,
+      "text": "ON（空中アクション：自動登録）",
+      "english": "On - Auto-Equip Airborne Actions",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_air_action_auto_on"
+      ]
+    },
+    {
+      "index": 192,
+      "text": "<button=coop1>",
+      "english": "<button=coop1>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_0"
+      ]
+    },
+    {
+      "index": 193,
+      "text": "<button=coop1-hold>",
+      "english": "<button=coop1-hold>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_0_hold"
+      ]
+    },
+    {
+      "index": 194,
+      "text": "<button=coop2>",
+      "english": "<button=coop2>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_1"
+      ]
+    },
+    {
+      "index": 195,
+      "text": "<button=coop2-hold>",
+      "english": "<button=coop2-hold>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_1_hold"
+      ]
+    },
+    {
+      "index": 196,
+      "text": "<button=coop3>",
+      "english": "<button=coop3>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_2"
+      ]
+    },
+    {
+      "index": 197,
+      "text": "<button=coop3-hold>",
+      "english": "<button=coop3-hold>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_2_hold"
+      ]
+    },
+    {
+      "index": 198,
+      "text": "<button=coop4>",
+      "english": "<button=coop4>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_3"
+      ]
+    },
+    {
+      "index": 199,
+      "text": "<button=coop4-hold>",
+      "english": "<button=coop4-hold>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_button_guide_3_hold"
+      ]
+    },
+    {
+      "index": 200,
+      "text": "<button=shortcut1>",
+      "english": "<button=shortcut1>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_guide_1"
+      ]
+    },
+    {
+      "index": 201,
+      "text": "<button=shortcut2>",
+      "english": "<button=shortcut2>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_guide_2"
+      ]
+    },
+    {
+      "index": 202,
+      "text": "<button=shortcut3>",
+      "english": "<button=shortcut3>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_guide_3"
+      ]
+    },
+    {
+      "index": 203,
+      "text": "<button=shortcut4>",
+      "english": "<button=shortcut4>",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_guide_4"
+      ]
+    },
+    {
+      "index": 204,
+      "text": "モーグリ技アクション",
+      "english": "Moogle Actions",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action"
+      ]
+    },
+    {
+      "index": 205,
+      "text": "OFF（モーグリ技：カスタマイズ）",
+      "english": "Off - Customize",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action_auto_off"
+      ]
+    },
+    {
+      "index": 206,
+      "text": "ON（モーグリ技：自動登録）",
+      "english": "On - Auto-Equip",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_CaitSith_raiding_action_auto_on"
+      ]
+    },
+    {
+      "index": 207,
+      "text": "空中アクション",
+      "english": "While in the Air",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_air_action"
+      ]
+    },
+    {
+      "index": 208,
+      "text": "連携アクション",
+      "english": "Synergy Skills",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action"
+      ]
+    },
+    {
+      "index": 209,
+      "text": "未習得（攻撃系連携アクション）",
+      "english": "Unlearned Offensive Skill",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_atk"
+      ]
+    },
+    {
+      "index": 210,
+      "text": "攻撃系連携アクション",
+      "english": "Offensive Synergy Skill",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_atk_reserve"
+      ]
+    },
+    {
+      "index": 211,
+      "text": "未習得（防御・回避系アクション）",
+      "english": "Unlearned Defensive Skill",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_def"
+      ]
+    },
+    {
+      "index": 212,
+      "text": "防御・回避系アクション",
+      "english": "Defensive Synergy Skill",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_def_reserve"
+      ]
+    },
+    {
+      "index": 213,
+      "text": "操作",
+      "english": "Inputs",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_type"
+      ]
+    },
+    {
+      "index": 214,
+      "text": "タイプＡ",
+      "english": "Type A",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeA"
+      ]
+    },
+    {
+      "index": 215,
+      "text": "<button=coop1> 攻撃系連携アクション\r\n<button=coop2> 攻撃系連携アクション\r\n<button=coop3> 防御・回避系連携アクション\r\n<button=coop4> 防御・回避系連携アクション\r\n\r\n攻撃系連携アクションが <button=coop1-2nd><button=coop2-2nd> に優先して割り振られる標準的な操作タイプです。",
+      "english": "<button=coop1> Offensive Synergy Skill\r\n<button=coop2> Offensive Synergy Skill\r\n<button=coop3> Defensive Synergy Skill\r\n<button=coop4> Defensive Synergy Skill\r\n\r\nA standard control type that prioritizes assigning offensive synergy skills to <button=coop1-2nd> and <button=coop2-2nd>.",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeA_help"
+      ]
+    },
+    {
+      "index": 216,
+      "text": "タイプＢ",
+      "english": "Type B",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeB"
+      ]
+    },
+    {
+      "index": 217,
+      "text": "<button=coop1> 防御・回避系連携アクション\r\n<button=coop2> 防御・回避系連携アクション\r\n<button=coop3> 攻撃系連携アクション\r\n<button=coop4> 攻撃系連携アクション\r\n\r\n防御・回避系連携アクションが <button=coop1-2nd><button=coop2-2nd> に優先して割り振られる変則的な操作タイプです。",
+      "english": "<button=coop1> Defensive Synergy Skill\r\n<button=coop2> Defensive Synergy Skill\r\n<button=coop3> Offensive Synergy Skill\r\n<button=coop4> Offensive Synergy Skill\r\n\r\nAn unorthodox control type that prioritizes assigning defensive synergy skills to <button=coop1-2nd> and <button=coop2-2nd>.",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_typeB_help"
+      ]
+    },
+    {
+      "index": 218,
+      "text": "連携アクション操作設定",
+      "english": "Inputs",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_chain_action_type_header"
+      ]
+    },
+    {
+      "index": 219,
+      "text": "通常アクション",
+      "english": "While on the Ground",
+      "ids": [
+        "$menu_mainmenu_battle_setting_shortcut_header_land_action"
+      ]
+    },
+    {
+      "index": 220,
+      "text": "メインメニューを終了して、バトルを開始します。\r\nよろしいですか？",
+      "english": "Leave the main menu and resume the battle?",
+      "ids": [
+        "$menu_mainmenu_cancel_dialog"
+      ]
+    },
+    {
+      "index": 221,
+      "text": "<color=red>※この召喚マテリアはクリスタル解析で\r\n　★４までレベルアップできます。</color>",
+      "english": "<color=red>You can increase the level of this summoning materia to a maximum of ★4 through crystal analysis</color>",
+      "ids": [
+        "$menu_mainmenu_materia_summon_able_levelup"
+      ]
+    },
+    {
+      "index": 222,
+      "text": "<color=red>※この召喚マテリアはレベルアップしません。</color>",
+      "english": "<color=red>This materia cannot gain levels</color>",
+      "ids": [
+        "$menu_mainmenu_materia_summon_unable_levelup"
+      ]
+    },
+    {
+      "index": 223,
+      "text": "バトルメンバー",
+      "english": "Frontline",
+      "ids": [
+        "$menu_mainmenu_party_edit_battle_member"
+      ]
+    },
+    {
+      "index": 224,
+      "text": "パーティメンバー変更",
+      "english": "Change Party Members",
+      "ids": [
+        "$menu_mainmenu_party_edit_header"
+      ]
+    },
+    {
+      "index": 225,
+      "text": "パーティセット",
+      "english": "Party",
+      "ids": [
+        "$menu_mainmenu_party_edit_party_set"
+      ]
+    },
+    {
+      "index": 226,
+      "text": "パーティ切替禁止",
+      "english": "Cannot currently change party.",
+      "ids": [
+        "$menu_mainmenu_party_edit_party_set_ban"
+      ]
+    },
+    {
+      "index": 227,
+      "text": "リザーブメンバー",
+      "english": "Backline",
+      "ids": [
+        "$menu_mainmenu_party_edit_reserve_member"
+      ]
+    },
+    {
+      "index": 228,
+      "text": "PARTY LEVEL",
+      "english": "Party Level",
+      "ids": [
+        "$menu_mainmenu_party_lv"
+      ]
+    },
+    {
+      "index": 229,
+      "text": "バトル",
+      "english": "Combat",
+      "ids": [
+        "$menu_mainmenu_playlog_category_battle"
+      ]
+    },
+    {
+      "index": 230,
+      "text": "エアリスの好感度",
+      "english": "Relationship with Aerith",
+      "ids": [
+        "$menu_mainmenu_playlog_category_likeability_Aerith"
+      ]
+    },
+    {
+      "index": 231,
+      "text": "バレットの好感度",
+      "english": "Relationship with Barret",
+      "ids": [
+        "$menu_mainmenu_playlog_category_likeability_Barret"
+      ]
+    },
+    {
+      "index": 232,
+      "text": "レッドXIIIの好感度",
+      "english": "Relationship with Red XIII",
+      "ids": [
+        "$menu_mainmenu_playlog_category_likeability_RedXIII"
+      ]
+    },
+    {
+      "index": 233,
+      "text": "ティファの好感度",
+      "english": "Relationship with Tifa",
+      "ids": [
+        "$menu_mainmenu_playlog_category_likeability_Tifa"
+      ]
+    },
+    {
+      "index": 234,
+      "text": "ユフィの好感度",
+      "english": "Relationship with Yuffie",
+      "ids": [
+        "$menu_mainmenu_playlog_category_likeability_Yuffie"
+      ]
+    },
+    {
+      "index": 235,
+      "text": "ワールド",
+      "english": "Exploration",
+      "ids": [
+        "$menu_mainmenu_playlog_category_world"
+      ]
+    },
+    {
+      "index": 236,
+      "text": "ゲームプレイの達成度を確認します。",
+      "english": "View game completion progress.",
+      "ids": [
+        "$menu_mainmenu_playlog_help_00"
+      ]
+    },
+    {
+      "index": 237,
+      "text": "ゲームプレイの達成度を表示しています。",
+      "english": "View how much of the game you have completed.",
+      "ids": [
+        "$menu_mainmenu_playlog_help_01"
+      ]
+    },
+    {
+      "index": 238,
+      "text": "ワールドレポート解析完了数",
+      "english": "World Intel Progress",
+      "ids": [
+        "$menu_mainmenu_playlog_item_000"
+      ]
+    },
+    {
+      "index": 239,
+      "text": "なんでも屋の仕事：クエストクリア",
+      "english": "Quests Completed",
+      "ids": [
+        "$menu_mainmenu_playlog_item_003"
+      ]
+    },
+    {
+      "index": 240,
+      "text": "エネミーレポート",
+      "english": "Enemy Intel Collected",
+      "ids": [
+        "$menu_mainmenu_playlog_item_004"
+      ]
+    },
+    {
+      "index": 241,
+      "text": "『みやぶる』でみやぶったエネミー",
+      "english": "Enemies Assessed",
+      "ids": [
+        "$menu_mainmenu_playlog_item_005"
+      ]
+    },
+    {
+      "index": 242,
+      "text": "武器アビリティ熟練度MAX",
+      "english": "Weapon Abilities Learned",
+      "ids": [
+        "$menu_mainmenu_playlog_item_009"
+      ]
+    },
+    {
+      "index": 243,
+      "text": "HARDモードでクリアした章",
+      "english": "Chapters Cleared on Hard Difficulty",
+      "ids": [
+        "$menu_mainmenu_playlog_item_014"
+      ]
+    },
+    {
+      "index": 244,
+      "text": "スキルブック入手数",
+      "english": "Manuscripts Collected",
+      "ids": [
+        "$menu_mainmenu_playlog_item_015"
+      ]
+    },
+    {
+      "index": 245,
+      "text": "チョコボストップ",
+      "english": "Chocobo Stops Repaired",
+      "ids": [
+        "$menu_mainmenu_playlog_item_017"
+      ]
+    },
+    {
+      "index": 246,
+      "text": "チャドリーバトルシミュレーター",
+      "english": "Chadley's Combat Simulator Challenges",
+      "ids": [
+        "$menu_mainmenu_playlog_item_018"
+      ]
+    },
+    {
+      "index": 247,
+      "text": "神羅屋敷バトルシミュレーター",
+      "english": "Shinra Manor Combat Simulator Challenges",
+      "ids": [
+        "$menu_mainmenu_playlog_item_019"
+      ]
+    },
+    {
+      "index": 248,
+      "text": "ビーストバトルグラウンド",
+      "english": "Beast Battleground Challenges",
+      "ids": [
+        "$menu_mainmenu_playlog_item_020"
+      ]
+    },
+    {
+      "index": 249,
+      "text": "マッスルコロシアム",
+      "english": "Musclehead Colosseum Challenges",
+      "ids": [
+        "$menu_mainmenu_playlog_item_021"
+      ]
+    },
+    {
+      "index": 250,
+      "text": "クイーンズ・ブラッド：カード入手数",
+      "english": "Queen's Blood Cards Collected",
+      "ids": [
+        "$menu_mainmenu_playlog_item_022"
+      ]
+    },
+    {
+      "index": 251,
+      "text": "好感度MAXのキャラクター",
+      "english": "Allies with Strongest Bond",
+      "ids": [
+        "$menu_mainmenu_playlog_item_023"
+      ]
+    },
+    {
+      "index": 252,
+      "text": "トレジャースポット",
+      "english": "Cache Locations Cleared",
+      "ids": [
+        "$menu_mainmenu_playlog_item_024"
+      ]
+    },
+    {
+      "index": 253,
+      "text": "討伐調査：バトルミッション＆エンシェントマター：ミッションモード",
+      "english": "Completed Combat Objectives & Hard Mode Minigames",
+      "ids": [
+        "$menu_mainmenu_playlog_item_025"
+      ]
+    },
+    {
+      "index": 254,
+      "text": "チョコボでウサギの埋めたお宝探し",
+      "english": "Rabbit Burrows Excavated",
+      "ids": [
+        "$menu_mainmenu_playlog_item_026"
+      ]
+    },
+    {
+      "index": 255,
+      "text": "なんでも屋の仕事：クエスト最上級クリア",
+      "english": "Perfectly Executed Odd Jobs",
+      "ids": [
+        "$menu_mainmenu_playlog_item_027"
+      ]
+    },
+    {
+      "index": 256,
+      "text": "ジョニー・コレクション",
+      "english": "Items in Johnny's Treasure Trove",
+      "ids": [
+        "$menu_mainmenu_playlog_item_028"
+      ]
+    },
+    {
+      "index": 257,
+      "text": "CHAPTER12：デートパートナー",
+      "english": "Chapter 12 Date Companions",
+      "ids": [
+        "$menu_mainmenu_playlog_item_029"
+      ]
+    },
+    {
+      "index": 258,
+      "text": "CHAPTER12：好感度上級デート",
+      "english": "Chapter 12 Intimate Dates",
+      "ids": [
+        "$menu_mainmenu_playlog_item_030"
+      ]
+    },
+    {
+      "index": 259,
+      "text": "連携アクション・連携アビリティ",
+      "english": "Synergy Skills & Abilities",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithAction",
+        "$menu_mainmenu_playlog_likeability_BarretAction",
+        "$menu_mainmenu_playlog_likeability_RedXIIIAction",
+        "$menu_mainmenu_playlog_likeability_TifaAction",
+        "$menu_mainmenu_playlog_likeability_YuffieAction"
+      ]
+    },
+    {
+      "index": 260,
+      "text": "コスタ・デル・ソル：ビーチで加勢",
+      "english": "Costa del Sol Beach Fight Partner",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithBeach",
+        "$menu_mainmenu_playlog_likeability_BarretBeach",
+        "$menu_mainmenu_playlog_likeability_RedXIIIBeach",
+        "$menu_mainmenu_playlog_likeability_TifaBeach"
+      ]
+    },
+    {
+      "index": 261,
+      "text": "会話の選択",
+      "english": "Conversations",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithChoice",
+        "$menu_mainmenu_playlog_likeability_BarretChoice",
+        "$menu_mainmenu_playlog_likeability_RedXIIIChoice",
+        "$menu_mainmenu_playlog_likeability_TifaChoice",
+        "$menu_mainmenu_playlog_likeability_YuffieChoice"
+      ]
+    },
+    {
+      "index": 262,
+      "text": "イベント",
+      "english": "Story Beats",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithEvent",
+        "$menu_mainmenu_playlog_likeability_BarretEvent",
+        "$menu_mainmenu_playlog_likeability_RedXIIIEvent",
+        "$menu_mainmenu_playlog_likeability_TifaEvent",
+        "$menu_mainmenu_playlog_likeability_YuffieEvent"
+      ]
+    },
+    {
+      "index": 263,
+      "text": "ゴンドラデート",
+      "english": "Skywheel Date",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithFerrisWheel",
+        "$menu_mainmenu_playlog_likeability_BarretFerrisWheel",
+        "$menu_mainmenu_playlog_likeability_RedXIIIFerrisWheel",
+        "$menu_mainmenu_playlog_likeability_TifaFerrisWheel",
+        "$menu_mainmenu_playlog_likeability_YuffieFerrisWheel"
+      ]
+    },
+    {
+      "index": 264,
+      "text": "LOVELESS",
+      "english": "<i>Loveless</i>",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithLOVELESS",
+        "$menu_mainmenu_playlog_likeability_BarretLOVELESS",
+        "$menu_mainmenu_playlog_likeability_RedXIIILOVELESS",
+        "$menu_mainmenu_playlog_likeability_TifaLOVELESS",
+        "$menu_mainmenu_playlog_likeability_YuffieLOVELESS"
+      ]
+    },
+    {
+      "index": 265,
+      "text": "ルーファウス社長就任パレード",
+      "english": "Inauguration Parade",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithParade",
+        "$menu_mainmenu_playlog_likeability_TifaParade"
+      ]
+    },
+    {
+      "index": 266,
+      "text": "なんでも屋クエスト",
+      "english": "Odd Jobs",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithQuest",
+        "$menu_mainmenu_playlog_likeability_BarretQuest",
+        "$menu_mainmenu_playlog_likeability_RedXIIIQuest",
+        "$menu_mainmenu_playlog_likeability_TifaQuest",
+        "$menu_mainmenu_playlog_likeability_YuffieQuest"
+      ]
+    },
+    {
+      "index": 267,
+      "text": "クラウドとリゾートウェアの好みが一致",
+      "english": "Same Taste in Beachwear",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_AerithResortWear",
+        "$menu_mainmenu_playlog_likeability_TifaResortWear"
+      ]
+    },
+    {
+      "index": 268,
+      "text": "アンダーソーサー：バギーシューティング",
+      "english": "Corel Prison Buggy Escape",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_BarretShooting"
+      ]
+    },
+    {
+      "index": 269,
+      "text": "コレル：トロッコシューティングのルート選択と得点",
+      "english": "Corel Minecart Route & Score",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_BarretTrolley",
+        "$menu_mainmenu_playlog_likeability_YuffieTrolley"
+      ]
+    },
+    {
+      "index": 270,
+      "text": "ゴールドソーサー：ウェルカム３Ｄバトラー",
+      "english": "Gold Saucer Welcome Brawl with Dio",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_RedXIII3DBattler"
+      ]
+    },
+    {
+      "index": 271,
+      "text": "第八神羅丸：カードゲーム大会",
+      "english": "<i>Shinra-8</i> Queen's Blood Tournament",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_RedXIIICard"
+      ]
+    },
+    {
+      "index": 272,
+      "text": "ゴールドソーサー：カードバウトリベンジ",
+      "english": "Gold Saucer Queen's Blood Rematch",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_RedXIIIRevenge"
+      ]
+    },
+    {
+      "index": 273,
+      "text": "ゴールドソーサー：ユフィと対戦３Ｄバトラー",
+      "english": "3D Brawler Match",
+      "ids": [
+        "$menu_mainmenu_playlog_likeability_Yuffie3DBattler"
+      ]
+    },
+    {
+      "index": 274,
+      "text": "PLAY LOG",
+      "english": "Play Log",
+      "ids": [
+        "$menu_mainmenu_playlog_title"
+      ]
+    },
+    {
+      "index": 275,
+      "text": "次のレベルアップで得られる武器スキル",
+      "english": "Weapon Skill & Stat Boosts at Upcoming Level",
+      "ids": [
+        "$menu_mainmenu_skill_header_next_weapon_level_bonus"
+      ]
+    },
+    {
+      "index": 276,
+      "text": "習得済みの武器スキル一覧",
+      "english": "Acquired Weapon Skills",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_acquired_core_skill"
+      ]
+    },
+    {
+      "index": 277,
+      "text": "オートモードが解除されますがよろしいですか？",
+      "english": "Disable the automatic weapon skill upgrade function?",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_auto_release"
+      ]
+    },
+    {
+      "index": 278,
+      "text": "武器スキル一覧",
+      "english": "Weapon Skills",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_equipped_core_skill"
+      ]
+    },
+    {
+      "index": 279,
+      "text": "<icon=skill-book> スキルブックで使用できる残りSP",
+      "english": "<icon=skill-book> : Unallocated SP for use in folios.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_top_help_message"
+      ]
+    },
+    {
+      "index": 280,
+      "text": "<color=yellow>新機能「UPGRADE WEAPONS」</color>\r\n\r\n武器を強化できるようになりました。\r\n\r\n武器に備わっている<color=orange>「武器スキル」</color>をセットして\r\nバスターソードを強化してみましょう。",
+      "english": "<color=yellow>Upgrading Weapons</color>\r\n\r\nBy accessing the latent power in your gear,\r\nyou can set <color=yellow>weapon skills</color> to further enhance your abilities and attributes.\r\n\r\nTry augmenting the buster sword.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_01000"
+      ]
+    },
+    {
+      "index": 281,
+      "text": "チュートリアル開始",
+      "english": "Start Tutorial",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_01010",
+        "$menu_mainmenu_materia_tutorial_01010"
+      ]
+    },
+    {
+      "index": 282,
+      "text": "スキップ",
+      "english": "Skip",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_01020",
+        "$menu_title_shader_compile_button_guide",
+        "$menu_mainmenu_materia_tutorial_01020"
+      ]
+    },
+    {
+      "index": 283,
+      "text": "武器の強化やステータスの確認は\r\n<color=orange>「UPGRADE WEAPONS」</color>で行います。\r\n\r\n<color=yellow>「UPGRADE WEAPONS」を選択してください。</color>",
+      "english": "From the <color=yellow>Upgrade Weapons</color> screen, you can enhance a weapon and see its stats.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_02000"
+      ]
+    },
+    {
+      "index": 284,
+      "text": "<button=decide>「UPGRADE WEAPONS」を選択",
+      "english": "Press <button=decide>",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_02010"
+      ]
+    },
+    {
+      "index": 285,
+      "text": "この画面では、パーティメンバーが装備している\r\n武器と現在の武器レベル\r\n武器レベルを上げるための経験値ＳＰ（スキルポイント）が\r\n確認できます。",
+      "english": "Here you can see your party's current equipment, their weapon levels, and the amount of skill points (SP) needed to reach the next level.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_03000"
+      ]
+    },
+    {
+      "index": 286,
+      "text": "<button=decide> 次へ進む",
+      "english": "<button=decide> Next",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_03010",
+        "$menu_mainmenu_weaponstatus_tutorial_05010",
+        "$menu_mainmenu_weaponstatus_tutorial_09011",
+        "$menu_mainmenu_weaponstatus_tutorial_09012",
+        "$menu_mainmenu_materia_tutorial_02010"
+      ]
+    },
+    {
+      "index": 287,
+      "text": "まずは強化する武器を選びます。\r\n\r\n<color=yellow>「バスターソード」を選択してください。</color>",
+      "english": "Select Cloud's <color=yellow>buster sword</color>.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_04000"
+      ]
+    },
+    {
+      "index": 288,
+      "text": "<button=decide> 武器を選択",
+      "english": "Press <button=decide>",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_04010"
+      ]
+    },
+    {
+      "index": 289,
+      "text": "この画面では武器のステータスを確認できます。\r\n\r\n武器の現在のパラメータや\r\n習得済みの武器スキルの一覧などを\r\n確認しましょう。",
+      "english": "A weapon's attributes and acquired skills are displayed here.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_05000"
+      ]
+    },
+    {
+      "index": 290,
+      "text": "では<color=orange>「武器スキル」</color>をセットしてみましょう。\r\n\r\n<color=yellow><button=triangle> を押して\r\n「武器スキルのセット」を始めましょう。</color>",
+      "english": "Now try equipping a weapon skill.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_06000"
+      ]
+    },
+    {
+      "index": 291,
+      "text": "<button=triangle>「武器スキルのセット」を開始",
+      "english": "Press <button=triangle>",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_06010"
+      ]
+    },
+    {
+      "index": 292,
+      "text": "武器スキルをセットできるスロットが表示されます。\r\n武器スキルをセットしてみましょう。\r\n\r\n<color=yellow>スロットを選び、<button=decide> を押してください。</color>",
+      "english": "The nodes in which you can equip skills are displayed here.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_07000"
+      ]
+    },
+    {
+      "index": 293,
+      "text": "<button=decide> スロットを選択",
+      "english": "<button=decide> Select Node",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_07010"
+      ]
+    },
+    {
+      "index": 294,
+      "text": "現在、武器にセットできる\r\n武器スキルの一覧が表示されます。\r\n\r\n「武器アビリティ強化＋5％」を\r\nセットしてみましょう。\r\n\r\n<color=yellow>「武器アビリティ強化＋5％」を選択してください。</color>",
+      "english": "Here, you will find a list of available skills.\r\n\r\nSelect <color=yellow>Weapon Ability Damage +5%</color> to equip it.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_08000"
+      ]
+    },
+    {
+      "index": 295,
+      "text": "<button=decide> 武器スキルを選択",
+      "english": "Press <button=decide>",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_08010"
+      ]
+    },
+    {
+      "index": 296,
+      "text": "<color=yellow>武器スキルをセットしました！</color>\r\n\r\n武器レベルが上がると、新たな武器スキルを習得し\r\nセットできるスロットの数も増えていきます。\r\n\r\n武器スキルのセットは<color=orange>「MATERIA&EQUIPMENT」</color>の\r\n「マテリアの装着」から同様に行うこともできます。",
+      "english": "As you increase your weapon level, you will learn more skills and unlock more nodes in which to set them.\r\n\r\nIn addition to the Upgrade Weapons screen, you can also tweak your skill loadout by going to the\r\n<color=yellow>Materia & Equipment</color> screen, selecting a character, and pressing <button=triangle> Set Materia.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_09000"
+      ]
+    },
+    {
+      "index": 297,
+      "text": "武器強化（武器スキルのセット）を自動的に行う設定にすることもできます。\r\n\r\n<color=orange>「武器強化オート設定」</color>の設定方法を確認します。",
+      "english": "If you would prefer a more streamlined experience, you can opt to <color=green>automatically allocate weapon skills</color>.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_09001"
+      ]
+    },
+    {
+      "index": 298,
+      "text": "チュートリアル終了",
+      "english": "Finish Tutorial",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_09010",
+        "$menu_mainmenu_materia_tutorial_07010"
+      ]
+    },
+    {
+      "index": 299,
+      "text": "「武器強化オート設定」は武器ごとに設定できます。\r\n現在選択されているバスターソードの設定を行いましょう。\r\n\r\n<color=yellow>「<button=options> 武器強化オート設定」を押してください。</color>",
+      "english": "This can be done from the Auto-Upgrade Settings menu.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_11000"
+      ]
+    },
+    {
+      "index": 300,
+      "text": "<button=options>「武器強化オート設定」を開始",
+      "english": "Press <button=options>",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_11010"
+      ]
+    },
+    {
+      "index": 301,
+      "text": "「武器強化オート設定」では\r\nバランス重視・攻撃強化重視・防御強化重視の\r\n３タイプを選ぶことができます。\r\n\r\n今回は設定せず「マニュアル」のままにします。",
+      "english": "You can choose how to auto-optimize your weapon skills using the three available options: prioritizing attack, defense, or striking a balance between the two.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_12000"
+      ]
+    },
+    {
+      "index": 302,
+      "text": "<button=decide> 設定を選択",
+      "english": "<button=decide> Select Setting",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_12010"
+      ]
+    },
+    {
+      "index": 303,
+      "text": "「武器強化オート設定」で選んだタイプによって\r\n武器がレベルアップしたときなどに\r\n最適な武器スキルが自動でセットされます。\r\n\r\n手軽にプレイしたいときに、お試しください。",
+      "english": "As you accrue more weapon skills and nodes, the game will continue to automatically adjust your loadout based on your upgrade settings.\r\n\r\nFor now, this setting will be left on Manual.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_tutorial_13000"
+      ]
+    },
+    {
+      "index": 304,
+      "text": "<button=triangle> 武器スキルのセット",
+      "english": "<button=triangle> Set Weapon Skills",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_core_guide"
+      ]
+    },
+    {
+      "index": 305,
+      "text": "AUTO：バランス",
+      "english": "Auto: Balanced",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_0"
+      ]
+    },
+    {
+      "index": 306,
+      "text": "AUTO：バランス重視",
+      "english": "Balanced",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_0_detail"
+      ]
+    },
+    {
+      "index": 307,
+      "text": "武器スキルを攻防のバランス重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that strike a balance between defense and offense.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_0_help"
+      ]
+    },
+    {
+      "index": 308,
+      "text": "AUTO：攻撃強化",
+      "english": "Auto: Prioritize Attack",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_1"
+      ]
+    },
+    {
+      "index": 309,
+      "text": "AUTO：攻撃強化重視",
+      "english": "Prioritize Attack",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_1_detail"
+      ]
+    },
+    {
+      "index": 310,
+      "text": "武器スキルを攻撃面の強化重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that bolster offense.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_1_help"
+      ]
+    },
+    {
+      "index": 311,
+      "text": "AUTO：防御強化",
+      "english": "Auto: Prioritize Defense",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_2"
+      ]
+    },
+    {
+      "index": 312,
+      "text": "AUTO：防御強化重視",
+      "english": "Prioritize Defense",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_2_detail"
+      ]
+    },
+    {
+      "index": 313,
+      "text": "武器スキルを防御面の強化重視で自動的に装着します。",
+      "english": "Automatically equips weapon skills that bolster defense.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_2_help"
+      ]
+    },
+    {
+      "index": 314,
+      "text": "マニュアル",
+      "english": "Manual",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_3"
+      ]
+    },
+    {
+      "index": 315,
+      "text": "武器スキルを自分で選んで装着します。",
+      "english": "Manually set weapon skills.",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_3_help"
+      ]
+    },
+    {
+      "index": 316,
+      "text": "<button=options> 武器強化オート設定",
+      "english": "<button=options> Auto-Upgrade Settings",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_weapon_growth_settings_guide"
+      ]
+    },
+    {
+      "index": 317,
+      "text": "STATUS UP",
+      "english": "Stat Boosts",
+      "ids": [
+        "$menu_mainmenu_weaponstatus_word_statusup"
+      ]
+    },
+    {
+      "index": 318,
+      "text": "LIMIT LEVEL",
+      "english": "Level",
+      "ids": [
+        "$menu_mainmenu_word_limit_level"
+      ]
+    },
+    {
+      "index": 319,
+      "text": "<button=triangle> マテリアの確認",
+      "english": "<button=triangle> View Materia",
+      "ids": [
+        "$menu_mainmenu_word_materia_check"
+      ]
+    },
+    {
+      "index": 320,
+      "text": "MATERIA QUICK",
+      "english": "Materia",
+      "ids": [
+        "$menu_mainmenu_word_materiaquick"
+      ]
+    },
+    {
+      "index": 321,
+      "text": "装備中を優先",
+      "english": "By Gear Equipped",
+      "ids": [
+        "$menu_mainmenu_word_sort_equip_mark"
+      ]
+    },
+    {
+      "index": 322,
+      "text": "装備中を優先しない",
+      "english": "<nbsp>Don't Prioritize Equipped Gear",
+      "ids": [
+        "$menu_mainmenu_word_sort_equipbutton_off"
+      ]
+    },
+    {
+      "index": 323,
+      "text": "装備中を優先する",
+      "english": "<nbsp>Prioritize Equipped Gear",
+      "ids": [
+        "$menu_mainmenu_word_sort_equipbutton_on"
+      ]
+    },
+    {
+      "index": 324,
+      "text": "<button=L3> 項目切替",
+      "english": "<button=L3> View More",
+      "ids": [
+        "$menu_mainmenu_word_status_change"
+      ]
+    },
+    {
+      "index": 325,
+      "text": "WEAPON LEVEL",
+      "english": "Weapon Level",
+      "ids": [
+        "$menu_mainmenu_word_weapon_level"
+      ]
+    },
+    {
+      "index": 326,
+      "text": "ゲームプレイ設定",
+      "english": "Gameplay",
+      "ids": [
+        "$menu_options_0001_0000"
+      ]
+    },
+    {
+      "index": 327,
+      "text": "カメラ設定",
+      "english": "Camera",
+      "ids": [
+        "$menu_options_0001_0001"
+      ]
+    },
+    {
+      "index": 328,
+      "text": "サウンド＆振動設定",
+      "english": "Audio & Vibration",
+      "ids": [
+        "$menu_options_0001_0002"
+      ]
+    },
+    {
+      "index": 329,
+      "text": "ディスプレイ設定",
+      "english": "Display",
+      "ids": [
+        "$menu_options_0001_0003"
+      ]
+    },
+    {
+      "index": 330,
+      "text": "ボイス／テキスト言語設定",
+      "english": "Language Text & Audio",
+      "ids": [
+        "$menu_options_0001_0004"
+      ]
+    },
+    {
+      "index": 331,
+      "text": "グラフィックス設定",
+      "english": "Graphics",
+      "ids": [
+        "$menu_options_0001_0005"
+      ]
+    },
+    {
+      "index": 332,
+      "text": "グラフィックスに関わる調整を行います。",
+      "english": "Adjust various graphics-related settings.",
+      "ids": [
+        "$menu_options_0001_0005_help"
+      ]
+    },
+    {
+      "index": 333,
+      "text": "コントローラー設定",
+      "english": "Controller Settings",
+      "ids": [
+        "$menu_options_0001_0006"
+      ]
+    },
+    {
+      "index": 334,
+      "text": "コントローラーでの操作の設定を行います。",
+      "english": "Set controls.",
+      "ids": [
+        "$menu_options_0001_0006_help"
+      ]
+    },
+    {
+      "index": 335,
+      "text": "キーボード＆マウス設定",
+      "english": "Mouse & Keyboard Settings",
+      "ids": [
+        "$menu_options_0001_0007"
+      ]
+    },
+    {
+      "index": 336,
+      "text": "キーボードとマウスでの操作の設定を行います。",
+      "english": "Set controls for the mouse and keyboard.",
+      "ids": [
+        "$menu_options_0001_0007_help"
+      ]
+    },
+    {
+      "index": 337,
+      "text": "EXTRA OPTIONS",
+      "english": "Extra Settings",
+      "ids": [
+        "$menu_options_0001_0008"
+      ]
+    },
+    {
+      "index": 338,
+      "text": "CHAPTER SELECTのプレイ環境や、WAITモードのスロー再生時間などを設定します。設定はセーブデータ毎に保存されます。",
+      "english": "Adjust Chapter Selection settings and Tactical Mode slowdown. These settings will not carry over to other saved data.",
+      "ids": [
+        "$menu_options_0001_0008_help"
+      ]
+    },
+    {
+      "index": 339,
+      "text": "ゲームブースト設定",
+      "english": "Streamlined Progression",
+      "ids": [
+        "$menu_options_0001_0009"
+      ]
+    },
+    {
+      "index": 340,
+      "text": "ゲームを早く進めるためのゲームブースト機能を設定します。この設定はセーブ時、スロットごとに保存されます。",
+      "english": "Adjust settings that allow you to progress through the game faster. These options only apply to the slot in which this data was saved.",
+      "ids": [
+        "$menu_options_0001_0009_help"
+      ]
+    },
+    {
+      "index": 341,
+      "text": "PAUSE",
+      "english": "Paused",
+      "ids": [
+        "$menu_pause_0000_0000"
+      ]
+    },
+    {
+      "index": 342,
+      "text": "ゲームを再開する",
+      "english": "Resume",
+      "ids": [
+        "$menu_pause_0001_0000",
+        "$menu_pause_0002_0000",
+        "$menu_pause_0005_0000"
+      ]
+    },
+    {
+      "index": 343,
+      "text": "このシーンをスキップする",
+      "english": "Skip",
+      "ids": [
+        "$menu_pause_0002_0001"
+      ]
+    },
+    {
+      "index": 344,
+      "text": "バトル直前からやりなおし、ゲームを再開します。\r\nここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from just before the last battle?\r\n\r\nYou will retain all EXP earned up until this point.",
+      "ids": [
+        "$menu_pause_0003_0000"
+      ]
+    },
+    {
+      "index": 345,
+      "text": "タイトルに戻りますが、よろしいですか？\r\n\r\nタイトルに戻る場合\r\n最後にセーブした時点以降の進行状況は保存されません。\r\nゲームを続ける場合は、いいえを選んでください。",
+      "english": "Quit playing and return to the title screen?\r\n\r\nAll progress made since your last save will be lost.",
+      "ids": [
+        "$menu_pause_0004_0000"
+      ]
+    },
+    {
+      "index": 346,
+      "text": "やりなおす",
+      "english": "Restart",
+      "ids": [
+        "$menu_pause_0005_0001"
+      ]
+    },
+    {
+      "index": 347,
+      "text": "ゲームをやりなおしますか？",
+      "english": "Restart the minigame?",
+      "ids": [
+        "$menu_pause_0006_0000"
+      ]
+    },
+    {
+      "index": 348,
+      "text": "バトルを終了し、コース選択に戻ります。\r\nよろしいですか？",
+      "english": "End the battle and return to the selection screen?",
+      "ids": [
+        "$menu_pause_0007_0000"
+      ]
+    },
+    {
+      "index": 349,
+      "text": "現在のバトルの前または連戦バトルの前からやりなおし\r\nゲームを再開することができます。\r\n\r\n※ここまでの戦闘の経験値は失われません。\r\n\r\nデータをロードしてもよろしいですか？",
+      "english": "Resume playing from just before this battle or the first battle of the series?\r\n\r\nYou will retain all EXP earned up until this point.",
+      "ids": [
+        "$menu_pause_0008_0000"
+      ]
+    },
+    {
+      "index": 350,
+      "text": "現在のバトルの前からやりなおす",
+      "english": "Retry from This Battle",
+      "ids": [
+        "$menu_pause_0008_0001"
+      ]
+    },
+    {
+      "index": 351,
+      "text": "バトル前のフリーパートからやりなおす",
+      "english": "Retry from Before Battle",
+      "ids": [
+        "$menu_pause_0008_0002"
+      ]
+    },
+    {
+      "index": 352,
+      "text": "現在のバトルフェーズ開始前からやりなおす",
+      "english": "Retry from Current Phase",
+      "ids": [
+        "$menu_pause_0008_0004"
+      ]
+    },
+    {
+      "index": 353,
+      "text": "『ドルフィンジャンプ』をスキップする",
+      "english": "Skip Minigame",
+      "ids": [
+        "$menu_pause_2000_0000"
+      ]
+    },
+    {
+      "index": 354,
+      "text": "『ドルフィンジャンプ』をスキップします。\r\n実行してもよろしいですか？",
+      "english": "Skip the dolphin minigame?",
+      "ids": [
+        "$menu_pause_2000_0001"
+      ]
+    },
+    {
+      "index": 355,
+      "text": "シーン中： ",
+      "english": "Cutscene Controls:<nbsp>",
+      "ids": [
+        "$menu_pause_scene_guide_header"
+      ]
+    },
+    {
+      "index": 356,
+      "text": "<button=attack-hold> メインメニューを開く",
+      "english": "<button=attack-hold> Open Main Menu",
+      "ids": [
+        "$menu_pause_scene_guide_open_mainmenu"
+      ]
+    },
+    {
+      "index": 357,
+      "text": "<button=accel-hold> シーン早送り",
+      "english": "<button=accel-hold> Fast-forward",
+      "ids": [
+        "$menu_pause_scene_guide_scene_fastforward"
+      ]
+    },
+    {
+      "index": 358,
+      "text": "<button=field-action-hold> シーンスキップ",
+      "english": "<button=field-action-hold> Skip Scene",
+      "ids": [
+        "$menu_pause_scene_guide_scene_skip"
+      ]
+    },
+    {
+      "index": 359,
+      "text": "AUTO SAVE DATA",
+      "english": "Autosave Data",
+      "ids": [
+        "$menu_save_load_0001_0000"
+      ]
+    },
+    {
+      "index": 360,
+      "text": "SAVE DATA",
+      "english": "Saved Data",
+      "ids": [
+        "$menu_save_load_0001_0001"
+      ]
+    },
+    {
+      "index": 361,
+      "text": "PLAY TIME",
+      "english": "Playtime",
+      "ids": [
+        "$menu_save_load_0001_0002"
+      ]
+    },
+    {
+      "index": 362,
+      "text": "CLEAR",
+      "english": "Completed",
+      "ids": [
+        "$menu_save_load_0001_0005"
+      ]
+    },
+    {
+      "index": 363,
+      "text": "<object=0>／<object=1>",
+      "english": "<object=0> - <object=1>",
+      "ids": [
+        "$menu_save_load_0001_0006"
+      ]
+    },
+    {
+      "index": 364,
+      "text": "NEW SLOT",
+      "english": "Empty Slot",
+      "ids": [
+        "$menu_save_load_0001_0007"
+      ]
+    },
+    {
+      "index": 365,
+      "text": "選択したスロットに\r\nこれまでのゲームプレイ情報をセーブします。\r\n実行してもよろしいですか？",
+      "english": "Save your progress to this slot?",
+      "ids": [
+        "$menu_save_load_0002_0000"
+      ]
+    },
+    {
+      "index": 366,
+      "text": "選択したデータをロードしてゲームを再開します。\r\n実行してもよろしいですか？",
+      "english": "Load the data in this slot?",
+      "ids": [
+        "$menu_save_load_0003_0000"
+      ]
+    },
+    {
+      "index": 367,
+      "text": "セーブをしています。\r\n電源を切らないでください。",
+      "english": "Saving game data...\r\nDo not turn off the power.",
+      "ids": [
+        "$menu_save_load_0005_0000"
+      ]
+    },
+    {
+      "index": 368,
+      "text": "セーブデータを確認しています。\r\n電源を切らないでください。",
+      "english": "Checking saved data...\r\nDo not turn off the power.",
+      "ids": [
+        "$menu_save_load_0005_0001",
+        "$menu_save_load_0005_0006"
+      ]
+    },
+    {
+      "index": 369,
+      "text": "チェックポイントを更新しました。",
+      "english": "Checkpoint updated.",
+      "ids": [
+        "$menu_save_load_0005_0002"
+      ]
+    },
+    {
+      "index": 370,
+      "text": "セーブをしています。\r\n完了までしばらくお待ちください。",
+      "english": "Saving game data...\r\nPlease wait until the process is complete.",
+      "ids": [
+        "$menu_save_load_0005_0003"
+      ]
+    },
+    {
+      "index": 371,
+      "text": "セーブできませんでした。",
+      "english": "Failed to save data.",
+      "ids": [
+        "$menu_save_load_0005_0004"
+      ]
+    },
+    {
+      "index": 372,
+      "text": "ロードできませんでした。",
+      "english": "Failed to load data.",
+      "ids": [
+        "$menu_save_load_0005_0005"
+      ]
+    },
+    {
+      "index": 373,
+      "text": "1.5x",
+      "english": "1.5x",
+      "ids": [
+        "$menu_scene_fastforward_150_percent"
+      ]
+    },
+    {
+      "index": 374,
+      "text": "2.0x",
+      "english": "2x",
+      "ids": [
+        "$menu_scene_fastforward_200_percent"
+      ]
+    },
+    {
+      "index": 375,
+      "text": "PRESS ANY BUTTON",
+      "english": "PRESS ANY BUTTON TO CONTINUE",
+      "ids": [
+        "$menu_title_0000_0003"
+      ]
+    },
+    {
+      "index": 376,
+      "text": "NEW GAME",
+      "english": "New Game",
+      "ids": [
+        "$menu_title_0001_0000"
+      ]
+    },
+    {
+      "index": 377,
+      "text": "CONTINUE",
+      "english": "Continue",
+      "ids": [
+        "$menu_title_0001_0001"
+      ]
+    },
+    {
+      "index": 378,
+      "text": "LOAD GAME",
+      "english": "Load Game",
+      "ids": [
+        "$menu_title_0001_0002"
+      ]
+    },
+    {
+      "index": 379,
+      "text": "G-BIKE",
+      "english": "G-Bike",
+      "ids": [
+        "$menu_title_0001_0003"
+      ]
+    },
+    {
+      "index": 380,
+      "text": "FFVII REMAKE DIGEST",
+      "english": "The Story So Far",
+      "ids": [
+        "$menu_title_0001_0006"
+      ]
+    },
+    {
+      "index": 381,
+      "text": "カメラの操作方法を設定します。\r\n<button=RS> を操作するとカメラの動きを確認できます。",
+      "english": "Select your preferred camera controls.\r\nUse <button=RS> to test camera movement.",
+      "ids": [
+        "$menu_title_2018_1200"
+      ]
+    },
+    {
+      "index": 382,
+      "text": "DEFAULT TYPE",
+      "english": "Default",
+      "ids": [
+        "$menu_title_2018_1201"
+      ]
+    },
+    {
+      "index": 383,
+      "text": "REVERSE TYPE : 縦",
+      "english": "Inverted Y-Axis",
+      "ids": [
+        "$menu_title_2018_1202"
+      ]
+    },
+    {
+      "index": 384,
+      "text": "REVERSE TYPE : 横",
+      "english": "Inverted X-Axis",
+      "ids": [
+        "$menu_title_2018_1203"
+      ]
+    },
+    {
+      "index": 385,
+      "text": "REVERSE TYPE",
+      "english": "Inverted X- and Y-Axis",
+      "ids": [
+        "$menu_title_2018_1204"
+      ]
+    },
+    {
+      "index": 386,
+      "text": "カメラの操作方法",
+      "english": "Camera Controls",
+      "ids": [
+        "$menu_title_2018_1208"
+      ]
+    },
+    {
+      "index": 387,
+      "text": "ゲームの難易度を選択してください。\r\nメインメニュー「SYSTEM ＞ OPTIONS」から\r\nゲーム開始後も変更できます。",
+      "english": "Select the difficulty of the game.\r\nThis setting can be changed at any time in the Options menu.",
+      "ids": [
+        "$menu_title_2019_0300"
+      ]
+    },
+    {
+      "index": 388,
+      "text": "ゲームの難易度",
+      "english": "Difficulty",
+      "ids": [
+        "$menu_title_2019_0305",
+        "$menu_options_0002_0000"
+      ]
+    },
+    {
+      "index": 389,
+      "text": "HARDモードはプレイ中の変更ができません。\r\n\r\n変更したいときは「CHAPTER SELECT」で\r\n章と難易度を選び直してください。\r\n\r\nHARDモードをプレイしますか？",
+      "english": "Play on Hard difficulty?\r\nYou will need to restart the chapter to change the difficulty once you begin.",
+      "ids": [
+        "$menu_title_2019_304"
+      ]
+    },
+    {
+      "index": 390,
+      "text": "カメラの横回転の操作を「通常」に、縦回転の操作を「通常」に設定します。",
+      "english": "Use normal controls for panning the camera horizontally and vertically.",
+      "ids": [
+        "$menu_title_camera_help_normal_normal"
+      ]
+    },
+    {
+      "index": 391,
+      "text": "カメラの横回転の操作を「通常」に、縦回転の操作を「逆方向」に設定します。",
+      "english": "Use normal controls for panning the camera horizontally,\r\nand inverted controls for panning the camera vertically.",
+      "ids": [
+        "$menu_title_camera_help_normal_reverse"
+      ]
+    },
+    {
+      "index": 392,
+      "text": "カメラの横回転の操作を「逆方向」に、縦回転の操作を「通常」に設定します。",
+      "english": "Use inverted controls for panning the camera horizontally,\r\nand normal controls for panning the camera vertically.",
+      "ids": [
+        "$menu_title_camera_help_reverse_normal"
+      ]
+    },
+    {
+      "index": 393,
+      "text": "カメラの横回転の操作を「逆方向」に、縦回転の操作を「逆方向」に設定します。",
+      "english": "Use inverted controls for panning the camera horizontally and vertically.",
+      "ids": [
+        "$menu_title_camera_help_reverse_reverse"
+      ]
+    },
+    {
+      "index": 394,
+      "text": "ゲームの難易度を選択してください。",
+      "english": "Select difficulty.",
+      "ids": [
+        "$menu_title_chapter_seletct"
+      ]
+    },
+    {
+      "index": 395,
+      "text": "前回の続きからゲームを再開します。",
+      "english": "Resume playing from where you left off?",
+      "ids": [
+        "$menu_title_continue_window"
+      ]
+    },
+    {
+      "index": 396,
+      "text": "コントローラー内蔵スピーカーの設定",
+      "english": "Controller Speaker Settings",
+      "ids": [
+        "$menu_title_controlerspeaker"
+      ]
+    },
+    {
+      "index": 397,
+      "text": "ゲーム内の特定のサウンドを\r\nコントローラー内蔵のスピーカーで再生するか設定します。",
+      "english": "Toggle whether or not sound, such as dialogue or effects, will play from your controller's speaker.",
+      "ids": [
+        "$menu_title_controlerspeaker_detail"
+      ]
+    },
+    {
+      "index": 398,
+      "text": "無効",
+      "english": "Off",
+      "ids": [
+        "$menu_title_controlerspeaker_off"
+      ]
+    },
+    {
+      "index": 399,
+      "text": "コントローラー内蔵のスピーカーの機能を無効にします。",
+      "english": "Sound will not play from your controller's speaker.",
+      "ids": [
+        "$menu_title_controlerspeaker_off_help"
+      ]
+    },
+    {
+      "index": 400,
+      "text": "有効",
+      "english": "On",
+      "ids": [
+        "$menu_title_controlerspeaker_on"
+      ]
+    },
+    {
+      "index": 401,
+      "text": "コントローラー内蔵のスピーカーの機能を有効にします。",
+      "english": "Sound will play from your controller's speaker.",
+      "ids": [
+        "$menu_title_controlerspeaker_on_help"
+      ]
+    },
+    {
+      "index": 402,
+      "text": "「FINAL FANTASY VII REBIRTH DEMO」の\r\nセーブデータがあります。\r\nセーブデータを引き継ぎますか？",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed.\r\n\r\nTransfer saved data?",
+      "ids": [
+        "$menu_title_convert_trial_savedata"
+      ]
+    },
+    {
+      "index": 403,
+      "text": "セーブデータの引き継ぎが完了しました。",
+      "english": "Saved data transfer complete.",
+      "ids": [
+        "$menu_title_convert_trial_savedata_completed"
+      ]
+    },
+    {
+      "index": 404,
+      "text": "ゲーム開始時のキャラクターの強さやその他の設定を行います。",
+      "english": "Set initial inventory and character levels when beginning a new game.",
+      "ids": [
+        "$menu_title_newgame_plus_detail"
+      ]
+    },
+    {
+      "index": 405,
+      "text": "NEW GAME（デフォルト）",
+      "english": "New Game",
+      "ids": [
+        "$menu_title_newgame_plus_normal"
+      ]
+    },
+    {
+      "index": 406,
+      "text": "キャラクターの強さやアイテムの所持状況など\r\n通常の初期設定でゲームを開始します。",
+      "english": "Begin the game with the default settings for both character levels and item inventory.",
+      "ids": [
+        "$menu_title_newgame_plus_normal_help"
+      ]
+    },
+    {
+      "index": 407,
+      "text": "強くてNEW GAME",
+      "english": "New Game - Head Start",
+      "ids": [
+        "$menu_title_newgame_plus_strengthen"
+      ]
+    },
+    {
+      "index": 408,
+      "text": "キャラクターは最初から成長した状態で\r\nギル、マテリア、防具、アクセサリなどの\r\nアイテムを多く所持した状態でゲームを開始します。\r\n※武器はゲーム中で入手する必要があります。",
+      "english": "Begin the game with high-leveled characters and a hefty amount of gil, armor, materia, etc. Note that new weapons must be acquired through gameplay.",
+      "ids": [
+        "$menu_title_newgame_plus_strengthen_help"
+      ]
+    },
+    {
+      "index": 409,
+      "text": "NEW GAME設定",
+      "english": "New Game Settings",
+      "ids": [
+        "$menu_title_newgame_plus_title"
+      ]
+    },
+    {
+      "index": 410,
+      "text": "ゲームを終了しますか？",
+      "english": "Quit the game?",
+      "ids": [
+        "$menu_title_quit_game_window"
+      ]
+    },
+    {
+      "index": 411,
+      "text": "SAVE DATA BONUS",
+      "english": "Bonuses",
+      "ids": [
+        "$menu_title_savedata_bonus_button"
+      ]
+    },
+    {
+      "index": 412,
+      "text": "お使いの環境に特典対象になる\r\nゲームセーブデータが保存されているか確認します。",
+      "english": "Confirm whether or not any saved data on your system qualifies you to receive bonus items.",
+      "ids": [
+        "$menu_title_savedata_bonus_check_detail"
+      ]
+    },
+    {
+      "index": 413,
+      "text": "セーブデータをチェックする",
+      "english": "Check",
+      "ids": [
+        "$menu_title_savedata_bonus_check_execute"
+      ]
+    },
+    {
+      "index": 414,
+      "text": "特典対象のゲームセーブデータがあるか、チェックを開始します。",
+      "english": "Confirm if you have any of the following bonus item-related saved data.",
+      "ids": [
+        "$menu_title_savedata_bonus_check_execute_help"
+      ]
+    },
+    {
+      "index": 415,
+      "text": "<color=cyan>『FINAL FANTASY VII REMAKE』\r\n召喚マテリア『リヴァイアサン』をプレゼント。</color>\r\n\r\n<color=orange>『FF7R EPISODE INTERmission』\r\n召喚マテリア『ラムウ』をプレゼント。</color>\r\n\r\n※「セーブデータ特典チェック」はゲーム開始後に\r\n　タイトル画面の「SAVE DATA BONUS」からも行なえます。",
+      "english": "<i>FINAL FANTASY VII REMAKE</i>\r\n<color=cyan>Leviathan Summoning Materia</color>\r\n\r\n<i>FF7R EPISODE INTERmission</i>\r\n<color=orange>Ramuh Summoning Materia<color>\r\n\r\nYou can check to see if you have eligible saved data at any time\r\nusing Check Saved Data under Bonuses on the title screen.",
+      "ids": [
+        "$menu_title_savedata_bonus_check_notes1"
+      ]
+    },
+    {
+      "index": 416,
+      "text": "スキップする",
+      "english": "Skip",
+      "ids": [
+        "$menu_title_savedata_bonus_check_skip"
+      ]
+    },
+    {
+      "index": 417,
+      "text": "特典対象のゲームセーブデータをチェックせず、次に進みます。",
+      "english": "Continue without checking for any of the following saved data.",
+      "ids": [
+        "$menu_title_savedata_bonus_check_skip_help"
+      ]
+    },
+    {
+      "index": 418,
+      "text": "セーブデータ特典チェック",
+      "english": "Bonus Item-Eligible Saved Data",
+      "ids": [
+        "$menu_title_savedata_bonus_check_title"
+      ]
+    },
+    {
+      "index": 419,
+      "text": "セーブデータ特典はすべてチェック済みです。\r\n\r\n特典アイテムは\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n受け取ることができます。",
+      "english": "All bonus item-related saved data has been found.\r\n\r\nClaim your rewards by selecting \"DLC / Bonuses\" in the System section of the main menu.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_all_obtained"
+      ]
+    },
+    {
+      "index": 420,
+      "text": "<color=yellow>【セーブデータ特典】</color>\r\n\r\nお使いの環境に特典対象になる\r\nゲームセーブデータが保存されているか確認します。\r\n\r\n<color=cyan>『FINAL FANTASY VII REMAKE』\r\n召喚マテリア『リヴァイアサン』をプレゼント。</color>\r\n\r\n<color=orange>『FF7R EPISODE INTERmission』\r\n召喚マテリア『ラムウ』をプレゼント。</color>",
+      "english": "<color=yellow>Bonus items</color> are offered as thanks\r\nfor playing the previous title and its DLC.\r\nTo claim these bonuses, first confirm\r\nthat eligible saved data is present\r\non your system.\r\n\r\n<i>FINAL FANTASY VII REMAKE</i>\r\n<color=cyan>Leviathan Summoning Materia</color>\r\n\r\n<i>FF7R EPISODE INTERmission</i>\r\n<color=orange>Ramuh Summoning Materia<color>",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_confirm"
+      ]
+    },
+    {
+      "index": 421,
+      "text": "セーブデータチェック",
+      "english": "Check Saved Data",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_confirm_excute"
+      ]
+    },
+    {
+      "index": 422,
+      "text": "セーブデータ特典を取得できるか確認しています。",
+      "english": "Checking for reward eligibility...",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_finding"
+      ]
+    },
+    {
+      "index": 423,
+      "text": "<color=cyan>『FINAL FANTASY VII REMAKE』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>召喚マテリア『リヴァイアサン』</color>\r\nを受け取ることができます。",
+      "english": "<i>FINAL FANTASY VII REMAKE</i> saved data confirmed.\r\nClaim your <color=cyan>Leviathan summoning materia</color> by selecting \"DLC / Bonuses\" in the System section of the main menu.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_found_ff7r"
+      ]
+    },
+    {
+      "index": 424,
+      "text": "<color=green>『FINAL FANTASY VII REBIRTH DEMO』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>『クポチャーム＆冒険アイテムセット』</color>を\r\n受け取ることができます。",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed.\r\n\r\nClaim your <color=orange>kupo charm and survival set</color> by selecting \"DLC / Bonuses\" in the System section of the main menu.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_found_ff7r2_demo"
+      ]
+    },
+    {
+      "index": 425,
+      "text": "<color=green>『FINAL FANTASY VII REBIRTH DEMO』</color>\r\n「ニブルヘイム編」クリア済みの\r\nセーブデータが見つかりました。\r\n\r\nNEW GAMEのときに、本編ストーリーの同じ箇所\r\nCHAPTER 1の「魔晄炉調査任務」のパートを\r\nスキップできるようになります。",
+      "english": "<i>FINAL FANTASY VII REBIRTH Demo</i>\r\nsaved data confirmed, including the completed Nibelheim segment.\r\n\r\nYou may now skip this portion of the main scenario.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_found_ff7r2_demo_clear"
+      ]
+    },
+    {
+      "index": 426,
+      "text": "<color=orange>『FF7R EPISODE INTERmission』</color>\r\nセーブデータが見つかりました。\r\n\r\nゲーム中のメインメニューの\r\n「SYSTEM ＞ DLC / BONUS」から\r\n<color=orange>召喚マテリア『ラムウ』</color>\r\nを受け取ることができます。",
+      "english": "<i>FF7R EPISODE INTERmission</i> saved data confirmed.\r\nClaim your <color=orange>Ramuh summoning materia</color> by selecting \"DLC / Bonuses\" in the System section of the main menu.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_found_ff7r_im"
+      ]
+    },
+    {
+      "index": 427,
+      "text": "特典対象のセーブデータが見つかりませんでした。\r\n\r\nお使いの環境に特典対象のセーブデータが\r\n保存されているか確認してください。\r\n\r\n<color=orange>※同一プラットフォーム、同一アカウントで\r\nプレイしたセーブデータが対象です。\r\n異なるプラットフォームやアカウントの\r\nセーブデータは読み込めません。</color>",
+      "english": "No eligible saved data found.\r\nDouble-check to see if any such saved data is present on your system.\r\n\r\nPlease note that to be considered eligible, <color=orange>the data must be saved to the same platform and bound to the same account</color> as those currently in use.",
+      "ids": [
+        "$menu_title_savedata_bonus_mes_not_found"
+      ]
+    },
+    {
+      "index": 428,
+      "text": "初回起動やアップデート直後、グラフィックボードのドライバー更新後に、\r\nシェーダーの準備が必要になります。\r\nご利用の環境によって、この処理に時間がかかることがあります。\r\nまた、この処理はスキップできますが、ゲーム中の動作に遅延が発生する場合があります。",
+      "english": "The game will need to prepare shaders the first time it boots, after it updates,\r\nor after your graphics card drivers update.\r\n\r\nDepending on your computer's specifications, this process may take some time.\r\nWhile you can skip it, please be aware that doing so may affect the game's performance.",
+      "ids": [
+        "$menu_title_shader_compile_message"
+      ]
+    },
+    {
+      "index": 429,
+      "text": "シェーダーを準備しています",
+      "english": "Preparing shaders...",
+      "ids": [
+        "$menu_title_shader_compile_title"
+      ]
+    },
+    {
+      "index": 430,
+      "text": "現在のゲームプレイの状態を保存します。",
+      "english": "Save your current game progress.",
+      "ids": [
+        "$help_message_0008_0000"
+      ]
+    },
+    {
+      "index": 431,
+      "text": "保存されたデータをロードしてゲームを再開します。",
+      "english": "Load your saved data and resume playing.",
+      "ids": [
+        "$help_message_0008_0001"
+      ]
+    },
+    {
+      "index": 432,
+      "text": "ゲームのプレイ環境を設定します。",
+      "english": "Change game settings.",
+      "ids": [
+        "$help_message_0008_0002"
+      ]
+    },
+    {
+      "index": 433,
+      "text": "追加コンテンツ／特典アイテムを受け取ります。",
+      "english": "Claim additional content and bonus items.",
+      "ids": [
+        "$help_message_0008_0003"
+      ]
+    },
+    {
+      "index": 434,
+      "text": "セーブするスロットを選択してください。",
+      "english": "Select a save slot for your data.",
+      "ids": [
+        "$help_message_0008_0004"
+      ]
+    },
+    {
+      "index": 435,
+      "text": "ロードするスロットを選択してください。",
+      "english": "Select a save slot to load.",
+      "ids": [
+        "$help_message_0008_0005"
+      ]
+    },
+    {
+      "index": 436,
+      "text": "ゲームを終了して、タイトル画面に戻ります。",
+      "english": "Quit and return to the title screen.",
+      "ids": [
+        "$help_message_0008_0006"
+      ]
+    },
+    {
+      "index": 437,
+      "text": "チャプターの最初からゲームをプレイします。",
+      "english": "Select a chapter to replay.",
+      "ids": [
+        "$help_message_0008_0007"
+      ]
+    },
+    {
+      "index": 438,
+      "text": "チェックポイントからゲームを再開します。",
+      "english": "Resume playing from the most recent checkpoint.",
+      "ids": [
+        "$help_message_0008_0008"
+      ]
+    },
+    {
+      "index": 439,
+      "text": "チャプターを選択してください。<icon=skill-book>：未入手のスキルブック数　※スキルブックは難易度HARDでしか入手できないものがあります。",
+      "english": "Select a chapter. Certain manuscripts (<icon=skill-book>) can only be obtained on Hard difficulty.",
+      "ids": [
+        "$help_message_0008_0009"
+      ]
+    },
+    {
+      "index": 440,
+      "text": "追加コンテンツ／特典アイテムを選択してください。",
+      "english": "Select additional content or bonus items.",
+      "ids": [
+        "$help_message_0008_0010"
+      ]
+    },
+    {
+      "index": 441,
+      "text": "ゲームを終了して、アプリも終了します。",
+      "english": "Quit the game and close the program.",
+      "ids": [
+        "$help_message_0008_0011"
+      ]
+    },
+    {
+      "index": 442,
+      "text": "<button=pause-menu> 閉じる",
+      "english": "<button=pause-menu> Close",
+      "ids": [
+        "$help_message_0016_0001"
+      ]
+    },
+    {
+      "index": 443,
+      "text": "<button=options>／<button=cancel> 閉じる",
+      "english": "<button=options>/<button=cancel> Close",
+      "ids": [
+        "$help_message_0016_0001_options"
+      ]
+    },
+    {
+      "index": 444,
+      "text": "<button=pause-menu>／<button=cancel> 閉じる",
+      "english": "<button=pause-menu>/<button=cancel> Close",
+      "ids": [
+        "$help_message_0016_0001_p"
+      ]
+    },
+    {
+      "index": 445,
+      "text": "<button=horz> ページ切替",
+      "english": "<button=horz> Change Page",
+      "ids": [
+        "$help_message_0016_0002"
+      ]
+    },
+    {
+      "index": 446,
+      "text": "<button=map-menu> 閉じる",
+      "english": "<button=map-menu> Close",
+      "ids": [
+        "$help_message_0016_0003"
+      ]
+    },
+    {
+      "index": 447,
+      "text": "<button=map-menu>／<button=cancel> 閉じる",
+      "english": "<button=map-menu>/<button=cancel> Close",
+      "ids": [
+        "$help_message_0016_0003_p"
+      ]
+    },
+    {
+      "index": 448,
+      "text": "<button=touch>／<button=cancel> 閉じる",
+      "english": "<button=touch>/<button=cancel> Close",
+      "ids": [
+        "$help_message_0016_0003_touch"
+      ]
+    },
+    {
+      "index": 449,
+      "text": "<button=pause-menu> ポーズ",
+      "english": "<button=pause-menu> Pause",
+      "ids": [
+        "$help_message_0016_0004"
+      ]
+    },
+    {
+      "index": 450,
+      "text": "<color=yellow>新機能「マテリアの装着」</color>\r\n\r\n武器や防具に<color=orange>「マテリア」</color>を装着できるようになりました。\r\n\r\n<color=orange>『みやぶる』マテリア</color>を装着してみましょう。",
+      "english": "<color=yellow>Equipping Materia</color>\r\n\r\nYou can now equip <color=orange>materia</color>\r\nto your weapons and armor.",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_01000"
+      ]
+    },
+    {
+      "index": 451,
+      "text": "マテリアを武器や防具に装着するときは\r\n<color=orange>「MATERIA&EQUIPMENT」</color>で行います。\r\n\r\n<color=yellow>「MATERIA&EQUIPMENT」を選択してください。</color>",
+      "english": "First, open the <color=yellow>Materia & Equipment</color> menu.",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_02000"
+      ]
+    },
+    {
+      "index": 452,
+      "text": "クラウドの防具にマテリアを装着してみましょう。\r\n\r\n<color=yellow>「CLOUD」を選択してください。</color>",
+      "english": "Next, select <color=yellow>Cloud</color>.",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_03000"
+      ]
+    },
+    {
+      "index": 453,
+      "text": "<button=decide> キャラクターを選択",
+      "english": "Press <button=decide>",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_03010"
+      ]
+    },
+    {
+      "index": 454,
+      "text": "<button=triangle>を押して\r\n<color=orange>「マテリアの装着」</color>を始めましょう。",
+      "english": "By pressing <button=triangle>, you can <color=orange>set materia</color> into your weapons and armor.",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_04000"
+      ]
+    },
+    {
+      "index": 455,
+      "text": "<button=triangle>「マテリアの装着」を開始",
+      "english": "Press <button=triangle>",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_04010"
+      ]
+    },
+    {
+      "index": 456,
+      "text": "上段が武器、下段が防具のマテリア穴です。\r\n空いている穴にマテリアを装着することができます。\r\n\r\n<color=yellow>空いているマテリア穴を選び、<button=decide> を押してください。</color>",
+      "english": "Materia can be equipped to any <color=yellow>open slots</color> in your weapons (above) and armor (below).",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_05000"
+      ]
+    },
+    {
+      "index": 457,
+      "text": "<button=decide> マテリア穴を選択",
+      "english": "<button=decide> Select Slot",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_05010"
+      ]
+    },
+    {
+      "index": 458,
+      "text": "マテリアリストから、装着するマテリアを選びましょう。\r\n\r\n<color=yellow>『みやぶる』マテリアを選択してください。</color>",
+      "english": "Try equipping an orb of <color=yellow>Assess</color> materia.",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_06000"
+      ]
+    },
+    {
+      "index": 459,
+      "text": "<button=decide> マテリアを選択",
+      "english": "Press <button=decide>",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_06010"
+      ]
+    },
+    {
+      "index": 460,
+      "text": "<color=yellow>マテリアをセットしました！</color>\r\n\r\nマテリアを装着することで\r\n新しい魔法やアビリティが使えるようになり\r\nステータスが向上するなどの効果も得られます。\r\n\r\n武器や防具に、様々なマテリアをセットして\r\n最適な組み合わせを探していきましょう。",
+      "english": "Equipping materia will grant access to new spells and abilities, or even boost your stats. Experiment with different combinations, and discover which loadout works best for you and your party!",
+      "ids": [
+        "$menu_mainmenu_materia_tutorial_07000"
+      ]
+    },
+    {
+      "index": 461,
+      "text": "／",
+      "english": "/",
+      "ids": [
+        "$menu_meinmenu_materia_info_sep"
+      ]
+    },
+    {
+      "index": 462,
+      "text": "ゲームの難易度を設定します。",
+      "english": "Select the difficulty level of the game.",
+      "ids": [
+        "$help_message_0010_0000"
+      ]
+    },
+    {
+      "index": 463,
+      "text": "ストーリーを気楽に進められる、やさしい難易度です。",
+      "english": "Select this if you want to enjoy the story without worrying about battles.",
+      "ids": [
+        "$help_message_0010_0010"
+      ]
+    },
+    {
+      "index": 464,
+      "text": "バトルの戦術を十分に楽しめる、標準的な難易度です。",
+      "english": "The standard difficulty. Select this if you want to fully experience battles as well as the story.",
+      "ids": [
+        "$help_message_0010_0011"
+      ]
+    },
+    {
+      "index": 465,
+      "text": "敵の強さが自動調整され、バトルの緊張感を常に味わえる難易度です。",
+      "english": "Enemy difficulty adjusts automatically based on your skill level. Select this if you love the thrill of the fight.",
+      "ids": [
+        "$menu_options_0002_0034_help"
+      ]
+    },
+    {
+      "index": 466,
+      "text": "バトルモード",
+      "english": "Combat Style",
+      "ids": [
+        "$menu_options_0002_0035"
+      ]
+    },
+    {
+      "index": 467,
+      "text": "バトル中のアクションの操作方法を設定します。",
+      "english": "Select which type of combat you prefer.",
+      "ids": [
+        "$menu_options_0002_0035_help"
+      ]
+    },
+    {
+      "index": 468,
+      "text": "アクションとコマンド選択を自分で行うバトルモードです。",
+      "english": "For those who want to have complete control over their actions in combat.",
+      "ids": [
+        "$menu_options_0002_0036_help"
+      ]
+    },
+    {
+      "index": 469,
+      "text": "アクションは自動操作で行われ、コマンド選択に集中できるバトルモードです。",
+      "english": "Actions are performed automatically. For those who want to focus on executing commands.",
+      "ids": [
+        "$menu_options_0002_0037_help"
+      ]
+    }
+  ]
+}

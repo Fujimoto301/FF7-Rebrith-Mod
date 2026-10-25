@@ -1,0 +1,275 @@
+[
+  {
+    "id": "$C1910_MAIN_0050_0100_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "なにから話すべきか　なにを伝えるべきか"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0200_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "この目で見たこと　耳で聞いたこと\r\n心で感じたこと"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0300_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "星のこと　運命のこと　仲間のこと\r\nすべて　おまえたちに語ろう"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0400_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "魔晄都市ミッドガル"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0500_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "その巨大な街を支配する神羅カンパニーは"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0600_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "星の命であるライフストリームを吸い上げて\r\n魔晄エネルギーとして浪費しつづけていた"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0700_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "星は悲鳴をあげていたが\r\nその声に気づく者は　ほとんどいなかった"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0800_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そんな中　星のために立ち上がる者たちがいた"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0810_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "反神羅組織　アバランチ"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_0900_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "彼らは神羅の強化兵士　ソルジャーだった男\r\nクラウドを傭兵として雇い　壱番魔晄炉を爆破する"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1000_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "魔晄炉爆破の被害が広がる八番街で\r\nクラウドは　花売りのエアリスと出会う"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1100_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "差し出される黄色い花"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1110_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "花言葉は　“再会”"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1200_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そこから　運命は大きく動きだす"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1300_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アバランチは壱番魔晄炉につづき\r\n伍番魔晄炉の爆破を目論む"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1400_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "しかし　それらはすべて神羅の手の平の上だった"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1410_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "神羅はたくみに人々をだまし　扇動していた"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1500_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "アバランチは　七番プレート落下という\r\n未曽有の災害を引き起こした実行犯にされてしまう"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1600_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "大切な仲間を失い　皆が絶望にうちひしがれるなか\r\nエアリスは神羅と取引をし自ら捕らわれの身となる"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1700_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "エアリスは　星の開拓者とも呼ばれる種族\r\nセトラの最後の生き残りだった"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1800_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "神羅は　セトラの伝承に残る『約束の地』を\r\n見つけだそうとしていた"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_1900_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そのためには　彼女の力が必要だった"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2000_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "クラウドたちは　エアリスを救出するべく\r\n神羅ビルへと侵入する"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2100_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "実験サンプルとして捕らわれていた私も\r\n彼らと合流し　研究施設からエアリスを助けだす"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2200_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そんな我々の前に　最強のソルジャーが姿を現す"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2210_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "伝説の英雄　セフィロス"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2300_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "死んだはずの宿敵は極秘実験施設に保管されていた\r\nすべての始まりであるジェノバの遺体を奪い去る"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2400_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "神羅ビルを脱出したクラウドたちは\r\nハイウェイを駆け抜け　神羅軍の追手を振り切る"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2500_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "再び姿を現す宿敵"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2600_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そのとき　耳をつんざく絶叫が響き渡り"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2700_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "運命の番人であるフィーラーが\r\nミッドガルを覆いつくす"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2800_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "運命の壁を前に　エアリスが告げる"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2810_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "ここが　分かれ道だと"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_2900_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "我々は　これまで歩んできた道のりが\r\nフィーラーによって守られていたことを知る"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_3000_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そして　決断のとき──"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_3100_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "壁を越えた先で　我々は\r\n運命の番人を取り込んだセフィロスと激突する"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_3200_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "仲間の想いを乗せたクラウドの一撃が\r\n運命を斬りひらく"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_3300_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "戦いを終え　運命のレールから外れた我々は\r\nミッドガルを飛びだし　道なき荒野に立っていた"
+    }
+  },
+  {
+    "id": "$C1910_MAIN_0050_3400_00_red",
+    "asset": "End/Content/Text/JP/0005-TITLB_TxtRes.uasset",
+    "Japanese": {
+      "Text": "そしてここから　誰も見たことのない\r\n新たな旅が始まる――"
+    }
+  }
+]

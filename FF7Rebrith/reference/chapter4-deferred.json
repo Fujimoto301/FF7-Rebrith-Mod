@@ -1,0 +1,352 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6100_00_mma",
+    "template": 1908,
+    "jp": "上の騒ぎの次は　戦争の噂\r\nどうなっちまうんだ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6200_00_mma",
+    "template": 1909,
+    "jp": "戦争が起きたら\r\nここも巻き込まれるのか",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6300_00_mma",
+    "template": 1910,
+    "jp": "反神羅のやつらが手を結べば\r\n神羅もヤバイよな",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6400_00_mma",
+    "template": 1911,
+    "jp": "まあ　ジュノンの大砲がありゃ\r\n安心だよな",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6500_00_mma",
+    "template": 1912,
+    "jp": "連絡会ってのは\r\nサイドジュノンも関わってんのかね",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6600_00_mfa",
+    "template": 1913,
+    "jp": "なにがあっても\r\n子供たちだけは守らないとね",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6700_00_mfa",
+    "template": 1914,
+    "jp": "私たちまで　狙われないと良いんだけど",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6800_00_mfa",
+    "template": 1915,
+    "jp": "暗殺とか戦争よりも\r\n髪のいたみのほうが深刻",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_6900_00_mfa",
+    "template": 1916,
+    "jp": "神羅との戦いは望んでいたはずなのに\r\nいざとなると\r\nやめてほしいって願っちゃう",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_7000_00_mfa",
+    "template": 1917,
+    "jp": "ルーファウス様だけは\r\n生き残ってくれないかしら",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_8200_00_mma",
+    "template": 1928,
+    "jp": "また　戦争になるんか？\r\n戦争にかこつけて神羅はやりたい放題だ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_8300_00_mma",
+    "template": 1929,
+    "jp": "海の次は\r\n空まで汚されるかのう……",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0100_8400_00_mma",
+    "template": 1930,
+    "jp": "同じことの繰り返し　いったい\r\nいつまで続くんじゃろうな",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0400_9110_00_mma",
+    "template": 2017,
+    "jp": "先日発生した　反神羅連絡会\r\nおよびウータイ暫定政府による\r\n電波ジャックの続報です",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0400_9120_00_mma",
+    "template": 2018,
+    "jp": "神羅カンパニーは　住民の間で\r\n不安の声が高まっているのを受け",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0400_9130_00_mma",
+    "template": 2019,
+    "jp": "近日中に　ルーファウス新社長による\r\n声明文を発表するとしています",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0400_9140_00_mma",
+    "template": 2020,
+    "jp": "また　治安維持部門は\r\n錯綜する情報に惑わされず",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0400_9150_00_mma",
+    "template": 2021,
+    "jp": "いつもどおりの生活を心掛けるよう\r\n呼びかけています",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0600_10000_00_mfa",
+    "template": 2037,
+    "jp": "ウータイのシノビってのが\r\n偵察にでも来たら　いよいよ\r\n終わりが近いのかもしれないよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JNONV_NPC_10_0600_9900_00_mfa",
+    "template": 2083,
+    "jp": "ウータイとの戦争が起これば\r\nここは真っ先に狙われるだろうね",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_12100_00_mfa",
+    "template": 2102,
+    "jp": "ついに神羅と戦えるのね！\r\nビラ配りの毎日とは　おさらばよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_12200_00_mma",
+    "template": 2103,
+    "jp": "うちは街頭演説とかやって\r\n最前線はアバランチとウータイの連中に\r\nまかせるんだってさ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_12300_00_mma",
+    "template": 2104,
+    "jp": "後方支援も立派な戦いだって",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_12400_00_mfa",
+    "template": 2105,
+    "jp": "もういい！\r\nそんなんだったら出ていくわ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4100_00_mma",
+    "template": 2173,
+    "jp": "ウータイの連中が\r\nなんかやったんだって？",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4200_00_mma",
+    "template": 2174,
+    "jp": "いよいよ俺たちの時代が来るな\r\n気合い入るぜ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4300_00_mma",
+    "template": 2175,
+    "jp": "反神羅グループを結ぶ連絡会\r\nマジであったのか！",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4600_00_mfa",
+    "template": 2176,
+    "jp": "反神羅連絡会の同志って\r\nここにもいるのかしら",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4700_00_mfa",
+    "template": 2177,
+    "jp": "暴力反対！\r\n荷物をまとめて逃げ出さなきゃ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_4800_00_mfa",
+    "template": 2178,
+    "jp": "戦争じゃなくて\r\n豊かな海を取り戻したいだけなのに",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_6400_00_mma",
+    "template": 2193,
+    "jp": "俺たちが夢見た　神羅カンパニーとの\r\n戦いの日が近づいている",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOA_NPC_10_0100_6500_00_mma",
+    "template": 2194,
+    "jp": "いまこそ\r\n俺たちの想いを振り返るときだ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_0800_0500_00_dln",
+    "template": 2478,
+    "jp": "聞きましたか　反神羅連絡会の演説！\r\nクレアと子供のためにも　俺は戦いますよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_0800_0600_00_dln",
+    "template": 2479,
+    "jp": "もう　ビラ配りなんかしてる場合じゃないぞ\r\nまずは武器を集めないと！",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_0900_0600_00_cla",
+    "template": 2485,
+    "jp": "こんなタイミングで戦争だなんて\r\nどうなっちゃうのかしら　私たち",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1200_0100_00_mma",
+    "template": 2499,
+    "jp": "ロドナーさんは　どうするつもりなんだ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1200_0200_00_mfa",
+    "template": 2500,
+    "jp": "当然　神羅と戦うんでしょう？",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1200_0300_00_mma",
+    "template": 2501,
+    "jp": "ワシらだって　まだまだやれるぞ！\r\n海で鍛えた体をナメてもらっちゃあ困る",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1200_0400_00_mfa",
+    "template": 2502,
+    "jp": "このまま泣き寝入りなんて\r\nあたしゃゴメンだよ！",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1300_0100_00_ldn",
+    "template": 2503,
+    "jp": "グレン大佐の演説以来　この調子でね\r\n見張りもまともにできやしないよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1300_0200_00_ldn",
+    "template": 2504,
+    "jp": "反神羅連絡会……\r\nまえにいちど　ここへも来たことがあったよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1300_0300_00_ldn",
+    "template": 2505,
+    "jp": "そのときは　追い返したけどね",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_02_1300_0400_00_ldn",
+    "template": 2506,
+    "jp": "サイドジュノンの連中が\r\n無茶を起こさなきゃいいけど",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_03_0900_0400_00_tby",
+    "template": 2621,
+    "jp": "あっ　みなさん\r\nなんだか　急に騒がしくなっちゃいましたねえ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_03_0900_0500_00_tby",
+    "template": 2622,
+    "jp": "僕も絶賛　情報収集中です",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+    "id": "$JUNOE_QST_03_0900_0600_00_tby",
+    "template": 2623,
+    "jp": "みなさんは　連絡会とは繋がってないんですか？\r\nご存知のことがあれば　教えてくださいよ",
+    "reason": "Later return NPC state after Wutai/Glenn broadcast and mobilisation; not initial Chapter 4 visit"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_01_0100_20300_00_chd",
+    "template": 2961,
+    "jp": "クラウドさん\r\nコレルエリアの調査は　これにて完了です！",
+    "reason": "Corel region/rank progression after Junon"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0500_00_chd",
+    "template": 3045,
+    "jp": "おめでとうございます\r\nランクが『戦血の騎士』になりましたね",
+    "reason": "Corel region/rank progression after Junon"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0600_00_chd",
+    "template": 3046,
+    "jp": "クラウドさん\r\n新たなバウター情報を入手しました",
+    "reason": "Corel region/rank progression after Junon"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_03_0100_0700_00_chd",
+    "template": 3047,
+    "jp": "北コレルに『百目のナバラ』と呼ばれる\r\n摩訶不思議なバウターがいるそうです",
+    "reason": "Corel region/rank progression after Junon"
+  }
+]

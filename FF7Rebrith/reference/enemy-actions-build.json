@@ -1,0 +1,19 @@
+{
+  "source": "translations/working-enemy-actions-th.json",
+  "stage": "staging/ThaiJP_EnemyActions_Working",
+  "qa": "qa/enemy-actions",
+  "cluster_map": "reference/enemy-actions-cluster-map.json",
+  "seed": "reference/npc-recheck-cluster-map.json",
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "punctuation_policy": "reference/dialogue-punctuation-policy.json"
+}

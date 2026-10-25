@@ -1,0 +1,8548 @@
+[
+  {
+    "index": 0,
+    "ids": [
+      "$BattleSkill_001_help"
+    ],
+    "jp": "最大ＨＰが<count=0>上がります。"
+  },
+  {
+    "index": 1,
+    "ids": [
+      "$BattleSkill_002_help"
+    ],
+    "jp": "最大ＭＰが<count=0>上がります。"
+  },
+  {
+    "index": 2,
+    "ids": [
+      "$BattleSkill_003_help"
+    ],
+    "jp": "物理攻撃力が<count=0>上がります。"
+  },
+  {
+    "index": 3,
+    "ids": [
+      "$BattleSkill_004_help"
+    ],
+    "jp": "物理防御力が<count=0>上がります。"
+  },
+  {
+    "index": 4,
+    "ids": [
+      "$BattleSkill_005_help"
+    ],
+    "jp": "魔法攻撃力が<count=0>上がります。"
+  },
+  {
+    "index": 5,
+    "ids": [
+      "$BattleSkill_006_help"
+    ],
+    "jp": "魔法防御力が<count=0>上がります。"
+  },
+  {
+    "index": 6,
+    "ids": [
+      "$BattleSkill_007_help"
+    ],
+    "jp": "クリティカル率が<count=0>％上がります。"
+  },
+  {
+    "index": 7,
+    "ids": [
+      "$BattleSkill_008_help"
+    ],
+    "jp": "運が<count=0>上がります。"
+  },
+  {
+    "index": 8,
+    "ids": [
+      "$BattleSkill_009_help"
+    ],
+    "jp": "すばやさが<count=0>上がります。"
+  },
+  {
+    "index": 9,
+    "ids": [
+      "$BattleSkill_010_help"
+    ],
+    "jp": "戦闘開始時にリミット技Lvが<count=0>上がります。"
+  },
+  {
+    "index": 10,
+    "ids": [
+      "$BattleSkill_020_help"
+    ],
+    "jp": "クリティカルダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 11,
+    "ids": [
+      "$BattleSkill_021_help"
+    ],
+    "jp": "炎属性攻撃が<count=0>％上がります。"
+  },
+  {
+    "index": 12,
+    "ids": [
+      "$BattleSkill_022_help"
+    ],
+    "jp": "氷属性攻撃が<count=0>％上がります。"
+  },
+  {
+    "index": 13,
+    "ids": [
+      "$BattleSkill_023_help"
+    ],
+    "jp": "雷属性攻撃が<count=0>％上がります。"
+  },
+  {
+    "index": 14,
+    "ids": [
+      "$BattleSkill_024_help"
+    ],
+    "jp": "風属性攻撃が<count=0>％上がります。"
+  },
+  {
+    "index": 15,
+    "ids": [
+      "$BattleSkill_025_help"
+    ],
+    "jp": "武器アビリティで与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 16,
+    "ids": [
+      "$BattleSkill_026_help"
+    ],
+    "jp": "リミット技で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 17,
+    "ids": [
+      "$BattleSkill_027_help"
+    ],
+    "jp": "地上の『たたかう』コンボのダメージが<count=0>％ずつ上がります。"
+  },
+  {
+    "index": 18,
+    "ids": [
+      "$BattleSkill_029_help"
+    ],
+    "jp": "バースト中の敵に与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 19,
+    "ids": [
+      "$BattleSkill_030_help"
+    ],
+    "jp": "弱点属性の攻撃で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 20,
+    "ids": [
+      "$BattleSkill_031_help"
+    ],
+    "jp": "炎・氷・雷・風属性攻撃で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 21,
+    "ids": [
+      "$BattleSkill_033_2_help"
+    ],
+    "jp": "『ぶっぱなす』で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 22,
+    "ids": [
+      "$BattleSkill_033_3_help"
+    ],
+    "jp": "固有アビリティで与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 23,
+    "ids": [
+      "$BattleSkill_033_4_help"
+    ],
+    "jp": "『テンペスト』で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 24,
+    "ids": [
+      "$BattleSkill_034_help"
+    ],
+    "jp": "『たたかう』で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 25,
+    "ids": [
+      "$BattleSkill_035_help"
+    ],
+    "jp": "空中時の攻撃で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 26,
+    "ids": [
+      "$BattleSkill_036_help"
+    ],
+    "jp": "敵の部位を攻撃したときのダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 27,
+    "ids": [
+      "$BattleSkill_037_help"
+    ],
+    "jp": "敵の背後から攻撃したときのダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 28,
+    "ids": [
+      "$BattleSkill_038_help"
+    ],
+    "jp": "ＭＰ満タン時にＭＰ消費攻撃のダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 29,
+    "ids": [
+      "$BattleSkill_039_help"
+    ],
+    "jp": "戦闘中、自分が受けるＨＰ回復量が<count=0>％上がります。"
+  },
+  {
+    "index": 30,
+    "ids": [
+      "$BattleSkill_040_help"
+    ],
+    "jp": "戦闘中、自分が行うＨＰ回復量が<count=0>％上がります。"
+  },
+  {
+    "index": 31,
+    "ids": [
+      "$BattleSkill_041_help",
+      "$menu_EQSkill_E_ACC_0226"
+    ],
+    "jp": "与ダメージが<count=1>％増えますが、被ダメージも<count=0>％増えます。"
+  },
+  {
+    "index": 32,
+    "ids": [
+      "$BattleSkill_042_help",
+      "$menu_EQSkill_E_ACC_0227"
+    ],
+    "jp": "被ダメージが<count=0>％減りますが、与ダメージも<count=1>％減ります。"
+  },
+  {
+    "index": 33,
+    "ids": [
+      "$BattleSkill_054_055_help"
+    ],
+    "jp": "ガード時に受けるダメージが<count=0>％下がります。"
+  },
+  {
+    "index": 34,
+    "ids": [
+      "$BattleSkill_054_help"
+    ],
+    "jp": "物理攻撃ガード時に受けるダメージが<count=0>％下がります。"
+  },
+  {
+    "index": 35,
+    "ids": [
+      "$BattleSkill_055_help"
+    ],
+    "jp": "魔法攻撃ガード時に受けるダメージが<count=0>％下がります。"
+  },
+  {
+    "index": 36,
+    "ids": [
+      "$BattleSkill_056_help"
+    ],
+    "jp": "炎・氷・雷・風属性攻撃で受けるダメージが<count=0>％下がります。"
+  },
+  {
+    "index": 37,
+    "ids": [
+      "$BattleSkill_057_help",
+      "$menu_EQSkill_E_ACC_0017"
+    ],
+    "jp": "操作キャラクターでないときに受けるダメージが減少します。"
+  },
+  {
+    "index": 38,
+    "ids": [
+      "$BattleSkill_058_help",
+      "$menu_EQSkill_E_ACC_0234"
+    ],
+    "jp": "状態異常のとき、低確率で無敵（被ダメージ０）になります。"
+  },
+  {
+    "index": 39,
+    "ids": [
+      "$BattleSkill_080_help"
+    ],
+    "jp": "自分にかかる強化効果の継続時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 40,
+    "ids": [
+      "$BattleSkill_081_help"
+    ],
+    "jp": "自分がかける強化効果の継続時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 41,
+    "ids": [
+      "$BattleSkill_082_help"
+    ],
+    "jp": "敵にかける弱体化効果の継続時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 42,
+    "ids": [
+      "$BattleSkill_085_help"
+    ],
+    "jp": "自分にかかる弱体化効果の継続時間が<count=0>％短くなります。"
+  },
+  {
+    "index": 43,
+    "ids": [
+      "$BattleSkill_102_help"
+    ],
+    "jp": "武器アビリティ使用時の消費ＡＴＢが<count=0>％節約されます。"
+  },
+  {
+    "index": 44,
+    "ids": [
+      "$BattleSkill_103_help"
+    ],
+    "jp": "連携アクション、連携アビリティで与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 45,
+    "ids": [
+      "$BattleSkill_104_help"
+    ],
+    "jp": "ガード成功時のリミットゲージ増加量が<count=0>％上がります。"
+  },
+  {
+    "index": 46,
+    "ids": [
+      "$BattleSkill_105_help"
+    ],
+    "jp": "敵をバーストしたときのリミットゲージ増加量が<count=0>％上がります。"
+  },
+  {
+    "index": 47,
+    "ids": [
+      "$BattleSkill_106_1_help",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_06"
+    ],
+    "jp": "敵をバーストしたときに自分のＨＰとＭＰが少し回復します。"
+  },
+  {
+    "index": 48,
+    "ids": [
+      "$BattleSkill_110_help"
+    ],
+    "jp": "攻撃やガードでのＡＴＢ増加量が<count=0>％上がります。"
+  },
+  {
+    "index": 49,
+    "ids": [
+      "$BattleSkill_111_help",
+      "$menu_EquipmentSkill_help_0050_0023",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_09",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_01",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_03",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_00",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_09"
+    ],
+    "jp": "戦闘中のＭＰ回復時間が少し短くなります。"
+  },
+  {
+    "index": 50,
+    "ids": [
+      "$BattleSkill_112_help"
+    ],
+    "jp": "リミットゲージの増加量が<count=0>％上がります。"
+  },
+  {
+    "index": 51,
+    "ids": [
+      "$BattleSkill_113_help"
+    ],
+    "jp": "攻撃魔法のＭＰ消費量が<count=0>％下がります。"
+  },
+  {
+    "index": 52,
+    "ids": [
+      "$BattleSkill_114_help"
+    ],
+    "jp": "戦闘中、回復魔法のＭＰ消費量が<count=0>％下がります。"
+  },
+  {
+    "index": 53,
+    "ids": [
+      "$BattleSkill_115_add2_link_help"
+    ],
+    "jp": "連結マテリア穴が追加されます。"
+  },
+  {
+    "index": 54,
+    "ids": [
+      "$BattleSkill_115_add_link_help"
+    ],
+    "jp": "マテリア穴が1個追加され連結されます。"
+  },
+  {
+    "index": 55,
+    "ids": [
+      "$BattleSkill_115_help"
+    ],
+    "jp": "マテリア穴が<count=0>個拡張されます。"
+  },
+  {
+    "index": 56,
+    "ids": [
+      "$BattleSkill_115_link_help"
+    ],
+    "jp": "マテリア穴が<count=0>個連結されます。"
+  },
+  {
+    "index": 57,
+    "ids": [
+      "$BattleSkill_116_help"
+    ],
+    "jp": "敵を倒したときにＨＰが<count=0>％回復します。"
+  },
+  {
+    "index": 58,
+    "ids": [
+      "$BattleSkill_117_help",
+      "$menu_EquipmentSkill_help_0050_0022",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_08"
+    ],
+    "jp": "大ダメージを受けるとＭＰが回復します。"
+  },
+  {
+    "index": 59,
+    "ids": [
+      "$BattleSkill_118_help"
+    ],
+    "jp": "<count=0>歩移動するごとに、<count=1>ギル自動入手します。"
+  },
+  {
+    "index": 60,
+    "ids": [
+      "$BattleSkill_119_help"
+    ],
+    "jp": "武器アビリティのクリティカル率が<count=0>％上がります。"
+  },
+  {
+    "index": 61,
+    "ids": [
+      "$BattleSkill_120_help",
+      "$menu_EquipmentSkill_help_0050_0021"
+    ],
+    "jp": "バースト中に固有アビリティで攻撃するとＨＰが回復します。"
+  },
+  {
+    "index": 62,
+    "ids": [
+      "$BattleSkill_121_help",
+      "$menu_EquipmentSkill_help_0020_0010",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_02",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_04"
+    ],
+    "jp": "属性効果が付与されたときの追加ダメージが上がります。"
+  },
+  {
+    "index": 63,
+    "ids": [
+      "$BattleSkill_122_help"
+    ],
+    "jp": "戦闘開始時にＡＴＢゲージが少し増加します。"
+  },
+  {
+    "index": 64,
+    "ids": [
+      "$BattleSkill_123_help",
+      "$menu_EQSkill_E_ACC_0015"
+    ],
+    "jp": "敵を倒したときのアイテムドロップ率が上がります。"
+  },
+  {
+    "index": 65,
+    "ids": [
+      "$BattleSkill_124_help"
+    ],
+    "jp": "呼び出す召喚獣のレベルが<count=0>上がります。"
+  },
+  {
+    "index": 66,
+    "ids": [
+      "$BattleSkill_126_help"
+    ],
+    "jp": "ＡＴＢゲージ消費に応じてリミットゲージが増加します。"
+  },
+  {
+    "index": 67,
+    "ids": [
+      "$BattleSkill_127_help",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_08"
+    ],
+    "jp": "ＭＰ消費に応じてリミットゲージが増加します。"
+  },
+  {
+    "index": 68,
+    "ids": [
+      "$BattleSkill_128_Brave_help"
+    ],
+    "jp": "戦闘開始時にブレイブ（物理攻撃力アップ）が発動します。"
+  },
+  {
+    "index": 69,
+    "ids": [
+      "$BattleSkill_128_Faith_help"
+    ],
+    "jp": "戦闘開始時にフェイス（魔法攻撃力アップ）が発動します。"
+  },
+  {
+    "index": 70,
+    "ids": [
+      "$BattleSkill_128_Haste_help"
+    ],
+    "jp": "戦闘開始時にヘイスト（ＡＴＢゲージ増加量アップ）が発動します。"
+  },
+  {
+    "index": 71,
+    "ids": [
+      "$BattleSkill_128_LastLeave_help"
+    ],
+    "jp": "１度だけ戦闘不能をＨＰ１で耐えます。\r\n（ＨＰが２以上のとき限定、即死攻撃は対象外）"
+  },
+  {
+    "index": 72,
+    "ids": [
+      "$BattleSkill_128_Protes_help"
+    ],
+    "jp": "戦闘開始時にプロテス（物理防御力アップ）が発動します。"
+  },
+  {
+    "index": 73,
+    "ids": [
+      "$BattleSkill_128_Regeneration_help"
+    ],
+    "jp": "戦闘開始時にリジェネ（ＨＰ少しずつ回復）が発動します。"
+  },
+  {
+    "index": 74,
+    "ids": [
+      "$BattleSkill_128_Reraise_help"
+    ],
+    "jp": "戦闘開始時にリレイズが発動します。"
+  },
+  {
+    "index": 75,
+    "ids": [
+      "$BattleSkill_128_Shell_help"
+    ],
+    "jp": "戦闘開始時にシェル（魔法防御力アップ）が発動します。"
+  },
+  {
+    "index": 76,
+    "ids": [
+      "$BattleSkill_129_help"
+    ],
+    "jp": "戦闘開始時にバーサクが発動します。"
+  },
+  {
+    "index": 77,
+    "ids": [
+      "$BattleSkill_130_help",
+      "$menu_EQSkill_E_ACC_0016"
+    ],
+    "jp": "戦闘中『カエル』状態になります。"
+  },
+  {
+    "index": 78,
+    "ids": [
+      "$BattleSkill_131_help"
+    ],
+    "jp": "戦闘開始時にリミットゲージが満タンになります。\r\n戦闘中、徐々にリミットゲージが増えます。"
+  },
+  {
+    "index": 79,
+    "ids": [
+      "$BattleSkill_132_1_1_help"
+    ],
+    "jp": "ＭＰ消費なしで炎属性の魔法攻撃を行います。\r\n\r\n効果：連鎖"
+  },
+  {
+    "index": 80,
+    "ids": [
+      "$BattleSkill_132_1_2_help"
+    ],
+    "jp": "ＭＰ消費なしで炎属性の魔法攻撃を行います。\r\n\r\n効果：必中"
+  },
+  {
+    "index": 81,
+    "ids": [
+      "$BattleSkill_132_1_3_help"
+    ],
+    "jp": "ＭＰ消費なしで炎属性の魔法攻撃を行います。\r\n\r\n効果：放射"
+  },
+  {
+    "index": 82,
+    "ids": [
+      "$BattleSkill_132_1_help"
+    ],
+    "jp": "空中から威力の高い攻撃を繰り出します。\r\n\r\n※空中時のみ発動可能。\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 83,
+    "ids": [
+      "$BattleSkill_132_2_1_help"
+    ],
+    "jp": "ＭＰ消費なしで氷属性の魔法攻撃を行います。\r\n\r\n効果：連鎖"
+  },
+  {
+    "index": 84,
+    "ids": [
+      "$BattleSkill_132_2_2_help"
+    ],
+    "jp": "ＭＰ消費なしで氷属性の魔法攻撃を行います。\r\n\r\n効果：必中"
+  },
+  {
+    "index": 85,
+    "ids": [
+      "$BattleSkill_132_2_3_help"
+    ],
+    "jp": "ＭＰ消費なしで氷属性の魔法攻撃を行います。\r\n\r\n効果：放射"
+  },
+  {
+    "index": 86,
+    "ids": [
+      "$BattleSkill_132_2_help"
+    ],
+    "jp": "ＡＴＢを全消費し、自身のＨＰを半分にして渾身の射撃を放ちます。\r\n\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 87,
+    "ids": [
+      "$BattleSkill_132_3_1_help"
+    ],
+    "jp": "ＭＰ消費なしで雷属性の魔法攻撃を行います。\r\n\r\n効果：連鎖"
+  },
+  {
+    "index": 88,
+    "ids": [
+      "$BattleSkill_132_3_2_help"
+    ],
+    "jp": "ＭＰ消費なしで雷属性の魔法攻撃を行います。\r\n\r\n効果：必中"
+  },
+  {
+    "index": 89,
+    "ids": [
+      "$BattleSkill_132_3_3_help"
+    ],
+    "jp": "ＭＰ消費なしで雷属性の魔法攻撃を行います。\r\n\r\n効果：放射"
+  },
+  {
+    "index": 90,
+    "ids": [
+      "$BattleSkill_132_3_help"
+    ],
+    "jp": "発動後、タイミングよく<button=attack> を押すことで３連撃まで攻撃を刻みます。\r\n\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 91,
+    "ids": [
+      "$BattleSkill_132_4_1_help"
+    ],
+    "jp": "ＭＰ消費なしで風属性の魔法攻撃を行います。\r\n\r\n効果：引き寄せ、連鎖"
+  },
+  {
+    "index": 92,
+    "ids": [
+      "$BattleSkill_132_4_2_help"
+    ],
+    "jp": "ＭＰ消費なしで風属性の魔法攻撃を行います。\r\n\r\n効果：引き寄せ、必中"
+  },
+  {
+    "index": 93,
+    "ids": [
+      "$BattleSkill_132_4_3_help"
+    ],
+    "jp": "ＭＰ消費なしで風属性の魔法攻撃を行います。\r\n\r\n効果：引き寄せ、放射"
+  },
+  {
+    "index": 94,
+    "ids": [
+      "$BattleSkill_132_4_help"
+    ],
+    "jp": "魔力をためて解き放つと、強力な無属性の魔法攻撃を繰り出します。魔力チャージ中は魔法攻撃力アップなどが発動します。\r\n\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 95,
+    "ids": [
+      "$BattleSkill_132_5_help"
+    ],
+    "jp": "攻撃を受けると、リベンジモードを解除し強力な反撃を行います。ＡＴＢ２消費。\r\n\r\n※リベンジモード中のみ発動可能。\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 96,
+    "ids": [
+      "$BattleSkill_132_6_help"
+    ],
+    "jp": "ＡＴＢゲージを３消費して放つ強力な攻撃です。\r\n\r\n※ヴィジョンシンセ発動時のみ使用可能。\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 97,
+    "ids": [
+      "$BattleSkill_132_7_help"
+    ],
+    "jp": "<button=attack>／<button=decide> でスロットの絵柄をそろえると効果が変わるギャンブル技です。ＡＴＢ２消費。\r\n\r\n※カテゴリは「武器アビリティ」と同種です。"
+  },
+  {
+    "index": 98,
+    "ids": [
+      "$BattleSkill_132_help"
+    ],
+    "jp": "『<object=0>』が使えるようになります。"
+  },
+  {
+    "index": 99,
+    "ids": [
+      "$BattleSkill_133_1_help"
+    ],
+    "jp": "※このスキルを習得すると「ほのお」マテリアの魔法が『改』に強化されます。"
+  },
+  {
+    "index": 100,
+    "ids": [
+      "$BattleSkill_133_2_help"
+    ],
+    "jp": "※このスキルを習得すると「れいき」マテリアの魔法が『改』に強化されます。"
+  },
+  {
+    "index": 101,
+    "ids": [
+      "$BattleSkill_133_3_help"
+    ],
+    "jp": "※このスキルを習得すると「いかずち」マテリアの魔法が『改』に強化されます。"
+  },
+  {
+    "index": 102,
+    "ids": [
+      "$BattleSkill_133_4_help"
+    ],
+    "jp": "※このスキルを習得すると「かぜ」マテリアの魔法が『改』に強化されます。"
+  },
+  {
+    "index": 103,
+    "ids": [
+      "$BattleSkill_135_10_help"
+    ],
+    "jp": "仲間に守ってもらい、自身は行動をつづけます。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-tifa><button=face-redxiii><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 104,
+    "ids": [
+      "$BattleSkill_135_11_help"
+    ],
+    "jp": "一定時間、仲間が攻撃をあわせてくれます。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-redxiii>"
+  },
+  {
+    "index": 105,
+    "ids": [
+      "$BattleSkill_135_12_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な魔法攻撃を発動します。連携した仲間からＭＰを分けてもらえます。\r\n\r\n連携相手：\r\n<button=face-tifa><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 106,
+    "ids": [
+      "$BattleSkill_135_13_help"
+    ],
+    "jp": "回避を行い、連携して素早い反撃を繰り出します。タイミングよく回避すると追撃します。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-caitsith>"
+  },
+  {
+    "index": 107,
+    "ids": [
+      "$BattleSkill_135_14_help"
+    ],
+    "jp": "仲間と連携して、ガードしながら突進攻撃を行います。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-tifa><button=face-aerith><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 108,
+    "ids": [
+      "$BattleSkill_135_15_help"
+    ],
+    "jp": "仲間と連携して、強固なガード体勢をとります。\r\n\r\n連携相手：\r\n<button=face-tifa><button=face-aerith><button=face-yuffie>"
+  },
+  {
+    "index": 109,
+    "ids": [
+      "$BattleSkill_135_16_help"
+    ],
+    "jp": "回避を行い、連携して素早い反撃を繰り出します。タイミングよく回避すると追撃します。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-tifa><button=face-aerith><button=face-redxiii><button=face-caitsith>"
+  },
+  {
+    "index": 110,
+    "ids": [
+      "$BattleSkill_135_17_help"
+    ],
+    "jp": "手裏剣を投げつけ、その敵に仲間が連携して攻撃します。空中でも発動できます。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-tifa>"
+  },
+  {
+    "index": 111,
+    "ids": [
+      "$BattleSkill_135_18_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な忍術攻撃を発動します。空中でも発動できます。\r\n\r\n※『忍術変化』で属性が変わります。\r\n\r\n連携相手：\r\n<button=face-aerith><button=face-redxiii><button=face-caitsith>"
+  },
+  {
+    "index": 112,
+    "ids": [
+      "$BattleSkill_135_19_help"
+    ],
+    "jp": "仲間と連携して、近接の物理攻撃を行います。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-barret><button=face-tifa><button=face-aerith><button=face-redxiii><button=face-yuffie>"
+  },
+  {
+    "index": 113,
+    "ids": [
+      "$BattleSkill_135_1_help"
+    ],
+    "jp": "仲間と連携して、遠距離攻撃を行います。３連撃までコンボできます。空中でも発動できます。\r\n\r\n連携相手とコマンド名：\r\n<button=face-barret> ビートヒット（物理攻撃）\r\n<button=face-redxiii> ハウルスマッシュ（魔法攻撃）"
+  },
+  {
+    "index": 114,
+    "ids": [
+      "$BattleSkill_135_20_help"
+    ],
+    "jp": "ターゲットを指示すると、仲間に攻撃してもらえます。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-tifa><button=face-yuffie>"
+  },
+  {
+    "index": 115,
+    "ids": [
+      "$BattleSkill_135_21_help"
+    ],
+    "jp": "仲間に守ってもらい、自身は行動をつづけます。\r\n\r\n連携相手：\r\n<button=face-barret><button=face-aerith><button=face-redxiii>"
+  },
+  {
+    "index": 116,
+    "ids": [
+      "$BattleSkill_135_22_help"
+    ],
+    "jp": "クラウドが斬り込み、バレットが追い撃ちします。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 117,
+    "ids": [
+      "$BattleSkill_135_23_help"
+    ],
+    "jp": "クラウドとバレットが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 118,
+    "ids": [
+      "$BattleSkill_135_24_help"
+    ],
+    "jp": "クラウドがティファを投げ放ち、攻め込みます。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 119,
+    "ids": [
+      "$BattleSkill_135_25_help"
+    ],
+    "jp": "クラウドとティファが空中で回転し、突撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 120,
+    "ids": [
+      "$BattleSkill_135_26_help"
+    ],
+    "jp": "クラウドがエアリスの魔法の力を借りて、遠距離攻撃します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 121,
+    "ids": [
+      "$BattleSkill_135_27_help"
+    ],
+    "jp": "クラウドとエアリスが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 122,
+    "ids": [
+      "$BattleSkill_135_28_help"
+    ],
+    "jp": "クラウドとレッドXIIIが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 123,
+    "ids": [
+      "$BattleSkill_135_29_help"
+    ],
+    "jp": "クラウドとレッドXIIIが熱い想いをたぎらせ、斬り込みます。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 124,
+    "ids": [
+      "$BattleSkill_135_2_help"
+    ],
+    "jp": "敵の遠距離攻撃にタイミングよくあわせると、連携して反撃します。\r\n\r\n連携相手：\r\n<button=face-tifa><button=face-redxiii><button=face-barret><button=face-aerith><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 125,
+    "ids": [
+      "$BattleSkill_135_30_help"
+    ],
+    "jp": "クラウドとユフィが雷風の如く、縦横無尽に攻め込みます。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 126,
+    "ids": [
+      "$BattleSkill_135_31_help"
+    ],
+    "jp": "クラウドとユフィが空中に舞い上がり、連撃します。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 127,
+    "ids": [
+      "$BattleSkill_135_32_help"
+    ],
+    "jp": "クラウドにケット・シーが乗っかり、ちゃっかり攻撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 128,
+    "ids": [
+      "$BattleSkill_135_33_help"
+    ],
+    "jp": "クラウドがモーグリに乗っかり、剣を貸して斬り込ませます。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-cloud>"
+  },
+  {
+    "index": 129,
+    "ids": [
+      "$BattleSkill_135_34_help"
+    ],
+    "jp": "バレットとティファがともに攻撃をたたみかけます。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 130,
+    "ids": [
+      "$BattleSkill_135_35_help"
+    ],
+    "jp": "バレットとティファが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 131,
+    "ids": [
+      "$BattleSkill_135_36_help"
+    ],
+    "jp": "バレットがエアリスの魔法を銃弾に宿し、遠距離攻撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 132,
+    "ids": [
+      "$BattleSkill_135_37_help"
+    ],
+    "jp": "バレットとエアリスがかっこつけて、遠距離攻撃します。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 133,
+    "ids": [
+      "$BattleSkill_135_38_help"
+    ],
+    "jp": "バレットとレッドXIIIが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 134,
+    "ids": [
+      "$BattleSkill_135_39_help"
+    ],
+    "jp": "バレットがレッドXIIIを勢いよく、ぶっぱなちます。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 135,
+    "ids": [
+      "$BattleSkill_135_3_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことでチャージ攻撃を発動します。\r\n\r\n連携相手とコマンド名：\r\n<button=face-tifa><button=face-caitsith> インテンスブレイク（物理攻撃）\r\n<button=face-aerith><button=face-yuffie> マギアブレイク（魔法攻撃）"
+  },
+  {
+    "index": 136,
+    "ids": [
+      "$BattleSkill_135_40_help"
+    ],
+    "jp": "バレットとユフィが得意の遠距離攻撃を見せ合います。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 137,
+    "ids": [
+      "$BattleSkill_135_41_help"
+    ],
+    "jp": "バレットとユフィが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 138,
+    "ids": [
+      "$BattleSkill_135_42_help"
+    ],
+    "jp": "バレットがケット・シーを支えに遠距離攻撃を放ちます。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 139,
+    "ids": [
+      "$BattleSkill_135_43_help"
+    ],
+    "jp": "バレットとケット・シーがぐるぐると広範囲に遠距離攻撃します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-barret>"
+  },
+  {
+    "index": 140,
+    "ids": [
+      "$BattleSkill_135_44_help"
+    ],
+    "jp": "ティファとエアリスが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 141,
+    "ids": [
+      "$BattleSkill_135_45_help"
+    ],
+    "jp": "ティファがエアリスの力を借りて、広範囲に飛び回り連撃します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 142,
+    "ids": [
+      "$BattleSkill_135_46_help"
+    ],
+    "jp": "ティファとレッドXIIIが獣の如く、拳と牙で攻めたてます。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 143,
+    "ids": [
+      "$BattleSkill_135_47_help"
+    ],
+    "jp": "ティファとレッドXIIIが咆哮し広範囲をぶっとばします。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 144,
+    "ids": [
+      "$BattleSkill_135_48_help"
+    ],
+    "jp": "ティファとユフィが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 145,
+    "ids": [
+      "$BattleSkill_135_49_help"
+    ],
+    "jp": "ティファとユフィが空中で回転し蹴り込みます。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 146,
+    "ids": [
+      "$BattleSkill_135_4_help"
+    ],
+    "jp": "仲間の力を借り、物理攻撃の散弾を発射します。\r\n\r\n連携相手：\r\n<button=face-tifa><button=face-aerith><button=face-caitsith>"
+  },
+  {
+    "index": 147,
+    "ids": [
+      "$BattleSkill_135_50_help"
+    ],
+    "jp": "ティファがモーグリを広範囲に振り回し、シュートします。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 148,
+    "ids": [
+      "$BattleSkill_135_51_help"
+    ],
+    "jp": "ティファとケット・シーが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-tifa>"
+  },
+  {
+    "index": 149,
+    "ids": [
+      "$BattleSkill_135_52_help"
+    ],
+    "jp": "エアリスがレッドXIIIの咆哮を魔法で放ち、広範囲に遠距離攻撃します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 150,
+    "ids": [
+      "$BattleSkill_135_53_help"
+    ],
+    "jp": "エアリスがレッドXIIIを操り、広範囲に遠距離攻撃します。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 151,
+    "ids": [
+      "$BattleSkill_135_54_help"
+    ],
+    "jp": "エアリスとユフィが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 152,
+    "ids": [
+      "$BattleSkill_135_55_help"
+    ],
+    "jp": "エアリスがユフィを分身させ、にぎやかに攻めたてます。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 153,
+    "ids": [
+      "$BattleSkill_135_56_help"
+    ],
+    "jp": "エアリスがモーグリに魔法を宿らせ、遠距離攻撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 154,
+    "ids": [
+      "$BattleSkill_135_57_help"
+    ],
+    "jp": "エアリスがモーグリを巨大化させ、どーんと放ちます。\r\n\r\nバースト中のヒット効果：\r\n威力アップ＆バースト時間延長\r\n\r\n連携相手：\r\n<button=face-aerith>"
+  },
+  {
+    "index": 155,
+    "ids": [
+      "$BattleSkill_135_58_help"
+    ],
+    "jp": "レッドXIIIとユフィが息の合った攻撃を繰り出します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 156,
+    "ids": [
+      "$BattleSkill_135_59_help"
+    ],
+    "jp": "レッドXIIIとユフィが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 157,
+    "ids": [
+      "$BattleSkill_135_5_help"
+    ],
+    "jp": "仲間と連携して、ガードしながら突進攻撃を行います。３連撃までコンボできます。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-redxiii><button=face-yuffie>"
+  },
+  {
+    "index": 158,
+    "ids": [
+      "$BattleSkill_135_60_help"
+    ],
+    "jp": "レッドXIIIとケット・シーがアニマルパワーで突進します。\r\n\r\nヒット効果：\r\nリミット技Lvアップ\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 159,
+    "ids": [
+      "$BattleSkill_135_61_help"
+    ],
+    "jp": "レッドXIIIがモーグリとともに空中からバウンド攻撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-redxiii>"
+  },
+  {
+    "index": 160,
+    "ids": [
+      "$BattleSkill_135_62_help"
+    ],
+    "jp": "ユフィがケット・シーとともにシノビの秘技で攻撃します。\r\n\r\nヒット効果：\r\n一定時間ＭＰ消費なし\r\n\r\n連携相手：\r\n<button=face-caitsith>"
+  },
+  {
+    "index": 161,
+    "ids": [
+      "$BattleSkill_135_63_help"
+    ],
+    "jp": "ユフィとケット・シーが集中力を高め合います。\r\n\r\n使用効果：\r\n一定時間ＡＴＢゲージが３段階に増加\r\n\r\n連携相手：\r\n<button=face-yuffie>"
+  },
+  {
+    "index": 162,
+    "ids": [
+      "$BattleSkill_135_6_help"
+    ],
+    "jp": "仲間と連携して、強固なガード体勢をとります。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-tifa><button=face-aerith><button=face-redxiii><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 163,
+    "ids": [
+      "$BattleSkill_135_7_help"
+    ],
+    "jp": "回避を行い、連携して素早い反撃を繰り出します。タイミングよく回避すると追撃します。\r\n\r\n連携相手：\r\n<button=face-cloud><button=face-aerith><button=face-yuffie><button=face-caitsith>"
+  },
+  {
+    "index": 164,
+    "ids": [
+      "$BattleSkill_135_8_help"
+    ],
+    "jp": "仲間と連携して、ジャンプ攻撃を行います。\r\n\r\n連携相手とコマンド名：\r\n<button=face-cloud><button=face-redxiii> 摩天翔（遠距離攻撃）\r\n<button=face-barret><button=face-aerith><button=face-yuffie><button=face-caitsith> 天昇撃（打ち上げ攻撃）"
+  },
+  {
+    "index": 165,
+    "ids": [
+      "$BattleSkill_135_9_help"
+    ],
+    "jp": "仲間に守ってもらい、自身は行動をつづけます。\r\n\r\n連携相手：\r\n<button=face-barret><button=face-redxiii>"
+  },
+  {
+    "index": 166,
+    "ids": [
+      "$BattleSkill_136_help"
+    ],
+    "jp": "魔法詠唱中にひるみにくくなります。"
+  },
+  {
+    "index": 167,
+    "ids": [
+      "$BattleSkill_137_help",
+      "$menu_EQSkill_E_ACC_0216"
+    ],
+    "jp": "『ぬすむ』の成功率が上がります。"
+  },
+  {
+    "index": 168,
+    "ids": [
+      "$BattleSkill_138_1_help",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_06",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_02",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_03"
+    ],
+    "jp": "ブレイブモードの『強撃』の連続回数が上がります。"
+  },
+  {
+    "index": 169,
+    "ids": [
+      "$BattleSkill_139_1_help",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_00"
+    ],
+    "jp": "『ぶっぱなす』中にひるみにくくなります。"
+  },
+  {
+    "index": 170,
+    "ids": [
+      "$BattleSkill_140_1_help"
+    ],
+    "jp": "『ぶっぱなす』後に自身へのプロテス（物理防御アップ）が発動します。"
+  },
+  {
+    "index": 171,
+    "ids": [
+      "$BattleSkill_141_1_help"
+    ],
+    "jp": "『アスピル』で吸収するＭＰが<count=0>％上がります。"
+  },
+  {
+    "index": 172,
+    "ids": [
+      "$BattleSkill_141_2_help"
+    ],
+    "jp": "『ドレインバイト』で吸収するＨＰが<count=0>％上がります。"
+  },
+  {
+    "index": 173,
+    "ids": [
+      "$BattleSkill_142_1_help"
+    ],
+    "jp": "『ぬすむ』成功時に自身へのブレイブ（物理攻撃力アップ）が発動します。"
+  },
+  {
+    "index": 174,
+    "ids": [
+      "$BattleSkill_142_2_help"
+    ],
+    "jp": "『ぬすむ』成功時に自身へのフェイス（魔法攻撃力アップ）が発動します。"
+  },
+  {
+    "index": 175,
+    "ids": [
+      "$BattleSkill_144_1_help"
+    ],
+    "jp": "内なる龍を呼び覚まし、荒れ狂う竜巻を敵に浴びせ斬りつけます。"
+  },
+  {
+    "index": 176,
+    "ids": [
+      "$BattleSkill_144_2_help"
+    ],
+    "jp": "星の遙か上空から振り注ぐ光線により、敵を猛撃します。"
+  },
+  {
+    "index": 177,
+    "ids": [
+      "$BattleSkill_144_3_help"
+    ],
+    "jp": "心技体を研ぎ澄まし、降り注ぐ隕石の如く猛打を浴びせます。"
+  },
+  {
+    "index": 178,
+    "ids": [
+      "$BattleSkill_144_4_help"
+    ],
+    "jp": "自分以外の仲間のリミットゲージを満タンにします。"
+  },
+  {
+    "index": 179,
+    "ids": [
+      "$BattleSkill_144_5_help"
+    ],
+    "jp": "大地を隆起させ、猛威の牙で敵を切り裂きます。"
+  },
+  {
+    "index": 180,
+    "ids": [
+      "$BattleSkill_144_6_help"
+    ],
+    "jp": "がいしゅういっしょく、強烈な忍術により敵を貫きます。"
+  },
+  {
+    "index": 181,
+    "ids": [
+      "$BattleSkill_144_7_help",
+      "$PC0007_Limit003_help"
+    ],
+    "jp": "モーグリ技：何が出るかはお楽しみ、敵に超特大カラクリボックスを投げつけます。"
+  },
+  {
+    "index": 182,
+    "ids": [
+      "$BattleSkill_145_4_help"
+    ],
+    "jp": "ジャストガード成功時にリジェネが付与されます。"
+  },
+  {
+    "index": 183,
+    "ids": [
+      "$BattleSkill_145_help"
+    ],
+    "jp": "ジャストガード成功時のＡＴＢ増加量が上がります。"
+  },
+  {
+    "index": 184,
+    "ids": [
+      "$BattleSkill_147_help",
+      "$menu_EQSkill_E_ACC_0274"
+    ],
+    "jp": "コマンドを５種使うと、短時間ＡＴＢゲージが３段階に増加します。"
+  },
+  {
+    "index": 185,
+    "ids": [
+      "$BattleSkill_150_help"
+    ],
+    "jp": "ブレイブモードのカウンター攻撃で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 186,
+    "ids": [
+      "$BattleSkill_151_help"
+    ],
+    "jp": "ブレイブモードの『強撃』で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 187,
+    "ids": [
+      "$BattleSkill_152_help"
+    ],
+    "jp": "ブレイブモードの防御力が<count=0>％上がります。"
+  },
+  {
+    "index": 188,
+    "ids": [
+      "$BattleSkill_155_help"
+    ],
+    "jp": "戦闘開始時に『ザンガン流精神統一』（秘技解放）が<count=0>％で発動します。"
+  },
+  {
+    "index": 189,
+    "ids": [
+      "$BattleSkill_156_help"
+    ],
+    "jp": "手裏剣の滞空時間が<count=0>秒長くなります。"
+  },
+  {
+    "index": 190,
+    "ids": [
+      "$BattleSkill_157_help",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_00"
+    ],
+    "jp": "『ぶっぱなす』のエネルギーチャージ速度が上がります。"
+  },
+  {
+    "index": 191,
+    "ids": [
+      "$BattleSkill_158_help",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_01",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_01"
+    ],
+    "jp": "『ぶっぱなす』のエネルギーリロードでのチャージ量が上がります。"
+  },
+  {
+    "index": 192,
+    "ids": [
+      "$BattleSkill_159_help"
+    ],
+    "jp": "敵をバーストさせたとき『ぶっぱなす』のチャージが増加します。"
+  },
+  {
+    "index": 193,
+    "ids": [
+      "$BattleSkill_160_help"
+    ],
+    "jp": "『秘技解放』効果の継続時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 194,
+    "ids": [
+      "$BattleSkill_161_help"
+    ],
+    "jp": "『秘技解放』効果中の攻撃力が上がります。\r\n１段階目：5％、２段階目：10％"
+  },
+  {
+    "index": 195,
+    "ids": [
+      "$BattleSkill_162_help",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_03",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_01"
+    ],
+    "jp": "戦闘不能回復時に『ザンガン流精神統一』が発動します。"
+  },
+  {
+    "index": 196,
+    "ids": [
+      "$BattleSkill_163_help"
+    ],
+    "jp": "マジカルサーバントの出現時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 197,
+    "ids": [
+      "$BattleSkill_164_help"
+    ],
+    "jp": "『魔法陣ワープ』再使用までの時間が<count=0>秒短くなります。"
+  },
+  {
+    "index": 198,
+    "ids": [
+      "$BattleSkill_165_help"
+    ],
+    "jp": "魔法陣の出現している時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 199,
+    "ids": [
+      "$BattleSkill_166_help"
+    ],
+    "jp": "ガード成功時のリベンジゲージの増加量が上がります。"
+  },
+  {
+    "index": 200,
+    "ids": [
+      "$BattleSkill_167_help"
+    ],
+    "jp": "リベンジモードの効果時間が<count=0>％長くなります。"
+  },
+  {
+    "index": 201,
+    "ids": [
+      "$BattleSkill_168_help",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_02"
+    ],
+    "jp": "リベンジモード発動時にＨＰが回復します。"
+  },
+  {
+    "index": 202,
+    "ids": [
+      "$BattleSkill_169_help"
+    ],
+    "jp": "戦闘不能回復時にリベンジゲージが増加します。"
+  },
+  {
+    "index": 203,
+    "ids": [
+      "$BattleSkill_170_help",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_01",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_01"
+    ],
+    "jp": "ガード時の反撃『スピンカウンター』の威力が上がります。"
+  },
+  {
+    "index": 204,
+    "ids": [
+      "$BattleSkill_171_help"
+    ],
+    "jp": "モーグリコール初回時に<button=unique-ability>「モーグリアビリティ」Lv.2でスタートします。\r\n\r\n※『がんばれチアー』『おまもりチアー』『ばーさくチアー』のどれかが発動可能。"
+  },
+  {
+    "index": 205,
+    "ids": [
+      "$BattleSkill_172_help"
+    ],
+    "jp": "モーグリ騎乗時、運が<count=0>上がります。"
+  },
+  {
+    "index": 206,
+    "ids": [
+      "$BattleSkill_173_help"
+    ],
+    "jp": "モーグリの攻撃で与えるダメージが<count=0>％上がります。"
+  },
+  {
+    "index": 207,
+    "ids": [
+      "$BattleSkill_174_help"
+    ],
+    "jp": "モーグリが受けるダメージが<count=0>％下がります。"
+  },
+  {
+    "index": 208,
+    "ids": [
+      "$BattleSkill_175_help"
+    ],
+    "jp": "モーグリが敵に狙われ攻撃を引きつけやすくなります。"
+  },
+  {
+    "index": 209,
+    "ids": [
+      "$BattleSkill_Core_help"
+    ],
+    "jp": "武器スキルのセット可能数が1上がります。"
+  },
+  {
+    "index": 210,
+    "ids": [
+      "$ChainCharge_A_01_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な魔法攻撃を発動します。効果：仲間からＭＰ付与。"
+  },
+  {
+    "index": 211,
+    "ids": [
+      "$ChainCharge_C_01_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な物理攻撃を発動します。"
+  },
+  {
+    "index": 212,
+    "ids": [
+      "$ChainCharge_C_02_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な魔法攻撃を発動します。"
+  },
+  {
+    "index": 213,
+    "ids": [
+      "$ChainCharge_C_03_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な物理攻撃を発動します。バースト効果：大。"
+  },
+  {
+    "index": 214,
+    "ids": [
+      "$ChainCharge_Y_01_help"
+    ],
+    "jp": "ボタン長押しでパワーをため、離すことで強力な忍術攻撃を発動します。忍術変化対象。空中：発動可能。"
+  },
+  {
+    "index": 215,
+    "ids": [
+      "$ChainCounter_C_01_help"
+    ],
+    "jp": "敵の近接攻撃にタイミングよく合わせると、連携して反撃します。"
+  },
+  {
+    "index": 216,
+    "ids": [
+      "$ChainCounter_C_02_help"
+    ],
+    "jp": "敵の遠距離攻撃にタイミングよく合わせると、連携して反撃します。"
+  },
+  {
+    "index": 217,
+    "ids": [
+      "$ChainDodgeAtk_R_01_help",
+      "$ChainDodgeAtk_T_01_help",
+      "$ChainDodgeAtk_Y_01_help"
+    ],
+    "jp": "回避を行い、連携して素早い反撃を繰り出します。タイミングよく回避すると追撃。"
+  },
+  {
+    "index": 218,
+    "ids": [
+      "$ChainGuard_A_01_help",
+      "$ChainGuard_Ca_01_help",
+      "$ChainGuard_T_01_help"
+    ],
+    "jp": "仲間に守ってもらい、自身は行動をつづけます。"
+  },
+  {
+    "index": 219,
+    "ids": [
+      "$ChainJump_T_01_help"
+    ],
+    "jp": "仲間と連携して、ジャンプ攻撃します。遠距離の敵も狙えます。"
+  },
+  {
+    "index": 220,
+    "ids": [
+      "$ChainJump_T_02_help"
+    ],
+    "jp": "仲間と連携して、ジャンプ攻撃します。敵を激しく打ち上げます。"
+  },
+  {
+    "index": 221,
+    "ids": [
+      "$ChainRangeAtk_B_01_help"
+    ],
+    "jp": "仲間の力を借り、物理攻撃の散弾を発射します。"
+  },
+  {
+    "index": 222,
+    "ids": [
+      "$ChainRangeAtk_C_01_help"
+    ],
+    "jp": "仲間と連携して、遠距離の物理攻撃を行います。３連撃までコンボ可能。空中：発動可能。"
+  },
+  {
+    "index": 223,
+    "ids": [
+      "$ChainRangeAtk_C_02_help"
+    ],
+    "jp": "仲間と連携して、遠距離の魔法攻撃を行います。３連撃までコンボ可能。空中：発動可能。"
+  },
+  {
+    "index": 224,
+    "ids": [
+      "$ChainSPGuard_B_01_help",
+      "$ChainSPGuard_R_01_help"
+    ],
+    "jp": "仲間と連携して、強固なガード体勢をとります。"
+  },
+  {
+    "index": 225,
+    "ids": [
+      "$ChainSupport_A_01_help"
+    ],
+    "jp": "一定時間、仲間が攻撃をあわせてくれます。"
+  },
+  {
+    "index": 226,
+    "ids": [
+      "$ChainTatakau_B_01_help"
+    ],
+    "jp": "仲間と連携して、ガードしながら突進攻撃を行います。３連撃までコンボ可能。"
+  },
+  {
+    "index": 227,
+    "ids": [
+      "$ChainTatakau_Ca_01_help"
+    ],
+    "jp": "仲間と連携して、近接の物理攻撃を行います。"
+  },
+  {
+    "index": 228,
+    "ids": [
+      "$ChainTatakau_Ca_02_help"
+    ],
+    "jp": "ターゲットを指示すると、仲間に攻撃してもらえます。"
+  },
+  {
+    "index": 229,
+    "ids": [
+      "$ChainTatakau_R_01_help"
+    ],
+    "jp": "仲間と連携して、ガードしながら突進攻撃を行います。"
+  },
+  {
+    "index": 230,
+    "ids": [
+      "$ChainTatakau_S_01_help"
+    ],
+    "jp": "仲間と連携して、近接の物理攻撃を行います。３連撃までコンボ可能。"
+  },
+  {
+    "index": 231,
+    "ids": [
+      "$ChainTatakau_Y_01_help"
+    ],
+    "jp": "手裏剣を投げつけ、その敵に仲間が連携して攻撃します。空中：発動可能。"
+  },
+  {
+    "index": 232,
+    "ids": [
+      "$ChainTatakau_Z_01_help"
+    ],
+    "jp": "仲間と連携して、ガードしながら突進攻撃を行います。２連撃までコンボ可能。"
+  },
+  {
+    "index": 233,
+    "ids": [
+      "$EleBurst01_1_help"
+    ],
+    "jp": "ＭＰ消費なしで、炎属性の魔法攻撃を行います。空中：発動可能。効果：必中。"
+  },
+  {
+    "index": 234,
+    "ids": [
+      "$EleBurst01_2_help"
+    ],
+    "jp": "ＭＰ消費なしで、炎属性の魔法攻撃を行います。空中：発動可能。効果：連鎖。"
+  },
+  {
+    "index": 235,
+    "ids": [
+      "$EleBurst01_3_help"
+    ],
+    "jp": "ＭＰ消費なしで、炎属性の魔法攻撃を行います。空中：発動可能。効果：放射。"
+  },
+  {
+    "index": 236,
+    "ids": [
+      "$EleBurst02_1_help"
+    ],
+    "jp": "ＭＰ消費なしで、氷属性の魔法攻撃を行います。空中：発動可能。効果：必中。"
+  },
+  {
+    "index": 237,
+    "ids": [
+      "$EleBurst02_2_help"
+    ],
+    "jp": "ＭＰ消費なしで、氷属性の魔法攻撃を行います。空中：発動可能。効果：連鎖。"
+  },
+  {
+    "index": 238,
+    "ids": [
+      "$EleBurst02_3_help"
+    ],
+    "jp": "ＭＰ消費なしで、氷属性の魔法攻撃を行います。空中：発動可能。効果：放射。"
+  },
+  {
+    "index": 239,
+    "ids": [
+      "$EleBurst03_1_help"
+    ],
+    "jp": "ＭＰ消費なしで、雷属性の魔法攻撃を行います。空中：発動可能。効果：必中。"
+  },
+  {
+    "index": 240,
+    "ids": [
+      "$EleBurst03_2_help"
+    ],
+    "jp": "ＭＰ消費なしで、雷属性の魔法攻撃を行います。空中：発動可能。効果：連鎖。"
+  },
+  {
+    "index": 241,
+    "ids": [
+      "$EleBurst03_3_help"
+    ],
+    "jp": "ＭＰ消費なしで、雷属性の魔法攻撃を行います。空中：発動可能。効果：放射。"
+  },
+  {
+    "index": 242,
+    "ids": [
+      "$EleBurst04_1_help"
+    ],
+    "jp": "ＭＰ消費なしで、風属性の魔法攻撃を行います。空中：発動可能。効果：引き寄せ、必中。"
+  },
+  {
+    "index": 243,
+    "ids": [
+      "$EleBurst04_2_help"
+    ],
+    "jp": "ＭＰ消費なしで、風属性の魔法攻撃を行います。空中：発動可能。効果：引き寄せ、連鎖。"
+  },
+  {
+    "index": 244,
+    "ids": [
+      "$EleBurst04_3_help"
+    ],
+    "jp": "ＭＰ消費なしで、風属性の魔法攻撃を行います。空中：発動可能。効果：引き寄せ、放射。"
+  },
+  {
+    "index": 245,
+    "ids": [
+      "$Item_M_COM_001_help"
+    ],
+    "jp": "『ぬすむ』（敵のアイテムを盗む）が使えるようになります。"
+  },
+  {
+    "index": 246,
+    "ids": [
+      "$Item_M_COM_002_help"
+    ],
+    "jp": "『みやぶる』（敵の情報を見破る）が使えるようになります。"
+  },
+  {
+    "index": 247,
+    "ids": [
+      "$Item_M_COM_003_help"
+    ],
+    "jp": "『てきのわざ』を習得し、アビリティで使えるようになります。\r\n※『ソニックブラスト』（風属性の魔法攻撃＋バフ効果）は\r\n最初から使えます。"
+  },
+  {
+    "index": 248,
+    "ids": [
+      "$Item_M_COM_003_help_2"
+    ],
+    "jp": "<color=orange>【『てきのわざ』習得方法】</color>\r\n※生態解析バトルシミュレーターのバトルコースで勝利すると新たなアビリティを習得できます。\r\n※習得した『てきのわざ』は、マテリア装着時のみ使えます。"
+  },
+  {
+    "index": 249,
+    "ids": [
+      "$Item_M_COM_004_help"
+    ],
+    "jp": "『チャクラ』（自分のＨＰを回復）が使えるようになります。\r\n『毒』状態も治します。\r\n※損傷ＨＰを割合で回復するのでピンチのときほど有効です。"
+  },
+  {
+    "index": 250,
+    "ids": [
+      "$Item_M_COM_005_help"
+    ],
+    "jp": "『いのり』（仲間全員のＨＰ回復）が使えるようになります。"
+  },
+  {
+    "index": 251,
+    "ids": [
+      "$Item_M_COM_006_help"
+    ],
+    "jp": "<button=ATB-boost> で発動する特殊コマンドマテリアです。\r\n発動時にＡＴＢが２倍に増えます。連続発動はできません。"
+  },
+  {
+    "index": 252,
+    "ids": [
+      "$Item_M_COM_101_help"
+    ],
+    "jp": "『へんか』が使えるようになります。\r\nＨＰを一定量まで減らした敵をアイテムに変えて倒します。"
+  },
+  {
+    "index": 253,
+    "ids": [
+      "$Item_M_COM_102_help"
+    ],
+    "jp": "『ぜになげ』が使えるようになります。\r\n投げるギルの量が多いほど、敵に与えるダメージが増えます。"
+  },
+  {
+    "index": 254,
+    "ids": [
+      "$Item_M_COM_103_help"
+    ],
+    "jp": "一定行動回数ごとにＡＴＢ消費なしでアイテムを使用できます。\r\n※戦闘開始時に自動的に効果が発動します。"
+  },
+  {
+    "index": 255,
+    "ids": [
+      "$Item_M_COM_103_help_2"
+    ],
+    "jp": "<color=orange>【効果発動時の表示】</color>\r\n※ＡＴＢ消費なしでアイテムが使えるときは\r\n　『ITEM』コマンドバーが光ります。"
+  },
+  {
+    "index": 256,
+    "ids": [
+      "$Item_M_COM_104_help"
+    ],
+    "jp": "『リミットユニオン』が使えるようになります。\r\n仲間のリミットゲージを吸収し自分のリミットゲージを増やします。"
+  },
+  {
+    "index": 257,
+    "ids": [
+      "$Item_M_COM_105_help"
+    ],
+    "jp": "『ジャンプ』が使えるようになります。\r\n一定時間、上空に姿を消した後、落下してダメージを与えます。"
+  },
+  {
+    "index": 258,
+    "ids": [
+      "$Item_M_COM_106_help"
+    ],
+    "jp": "『あんこく』が使えるようになります。\r\n発動すると、アビリティの威力が上がりますが、その代償に\r\nアビリティ使用時に自分のＨＰにダメージが入るようになります。"
+  },
+  {
+    "index": 259,
+    "ids": [
+      "$Item_M_COM_106_help_2"
+    ],
+    "jp": "<color=orange>【『あんこく』使用時の注意点】</color>\r\n※魔法は対象外です。\r\n※もう一度使用すると解除できます。\r\n<button=ankoku>：あんこく状態のアイコン"
+  },
+  {
+    "index": 260,
+    "ids": [
+      "$Item_M_COM_107_help"
+    ],
+    "jp": "『ギャンブル』が使えるようになります。\r\nパーティメンバーがセットしている\r\nマテリアのアビリティ、魔法がランダムで発動します。\r\n※魔法を使用した場合はＭＰを消費します。"
+  },
+  {
+    "index": 261,
+    "ids": [
+      "$Item_M_IND_001_help"
+    ],
+    "jp": "最大ＨＰが増えます。\r\n複数装着したときの上限は30%です。"
+  },
+  {
+    "index": 262,
+    "ids": [
+      "$Item_M_IND_002_help"
+    ],
+    "jp": "最大ＭＰが増えます。\r\n複数装着したときの上限は30%です。"
+  },
+  {
+    "index": 263,
+    "ids": [
+      "$Item_M_IND_003_help"
+    ],
+    "jp": "魔力が増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 264,
+    "ids": [
+      "$Item_M_IND_004_help"
+    ],
+    "jp": "運が増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 265,
+    "ids": [
+      "$Item_M_IND_005_help"
+    ],
+    "jp": "バトルで獲得できるギルが増えます。"
+  },
+  {
+    "index": 266,
+    "ids": [
+      "$Item_M_IND_006_help"
+    ],
+    "jp": "バトルで獲得できる経験値が増えます。"
+  },
+  {
+    "index": 267,
+    "ids": [
+      "$Item_M_IND_007_help"
+    ],
+    "jp": "バトルで使用するアイテムの効果が強化されます。"
+  },
+  {
+    "index": 268,
+    "ids": [
+      "$Item_M_IND_008_help"
+    ],
+    "jp": "敵をバーストさせたとき、ＡＴＢがたまるようになります。"
+  },
+  {
+    "index": 269,
+    "ids": [
+      "$Item_M_IND_009_help"
+    ],
+    "jp": "戦闘開始時のＡＴＢ量が増えます。"
+  },
+  {
+    "index": 270,
+    "ids": [
+      "$Item_M_IND_010_help"
+    ],
+    "jp": "ガード時のダメージを減らし、ＡＴＢ上昇量が増えます。"
+  },
+  {
+    "index": 271,
+    "ids": [
+      "$Item_M_IND_011_help"
+    ],
+    "jp": "複数のＡＴＢコマンドを使うと、ＡＴＢが少し増えます。"
+  },
+  {
+    "index": 272,
+    "ids": [
+      "$Item_M_IND_014_help"
+    ],
+    "jp": "連続してＡＴＢコマンドを使うと、仲間のＡＴＢが少し増えます。"
+  },
+  {
+    "index": 273,
+    "ids": [
+      "$Item_M_IND_016_help"
+    ],
+    "jp": "仲間がピンチのときに自動で『ちょうはつ』を使います。\r\n一定時間、敵の注意を自分が引きつけ、狙われやすくなります。\r\n※強敵には使用しません。"
+  },
+  {
+    "index": 274,
+    "ids": [
+      "$Item_M_IND_101_help"
+    ],
+    "jp": "最大ＨＰと最大ＭＰの値が入れ替わります。"
+  },
+  {
+    "index": 275,
+    "ids": [
+      "$Item_M_IND_102_help"
+    ],
+    "jp": "力と魔力の値が入れ替わります。"
+  },
+  {
+    "index": 276,
+    "ids": [
+      "$Item_M_IND_103_help"
+    ],
+    "jp": "体力と精神の値が入れ替わります。"
+  },
+  {
+    "index": 277,
+    "ids": [
+      "$Item_M_IND_104_help"
+    ],
+    "jp": "リミットゲージの増加分を仲間に分け与えます。\r\n※自分のリミットゲージはたまらなくなります。"
+  },
+  {
+    "index": 278,
+    "ids": [
+      "$Item_M_IND_105_help"
+    ],
+    "jp": "すばやさが増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 279,
+    "ids": [
+      "$Item_M_IND_106_help"
+    ],
+    "jp": "力が増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 280,
+    "ids": [
+      "$Item_M_IND_107_help"
+    ],
+    "jp": "精神が増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 281,
+    "ids": [
+      "$Item_M_IND_108_help"
+    ],
+    "jp": "体力が増えます。\r\n複数装着したときの上限は100%です。"
+  },
+  {
+    "index": 282,
+    "ids": [
+      "$Item_M_IND_109_help"
+    ],
+    "jp": "操作キャラクターでないとき、固有アビリティを\r\n自動的に使うようになります。\r\n\r\n※ティファは『秘技解放』も使用します。"
+  },
+  {
+    "index": 283,
+    "ids": [
+      "$Item_M_IND_110_help"
+    ],
+    "jp": "操作キャラクターでないとき、武器アビリティを\r\n自動的に使うようになります。\r\n\r\n※ショートカットコマンドに登録された武器アビリティが対象です。"
+  },
+  {
+    "index": 284,
+    "ids": [
+      "$Item_M_IND_111_help"
+    ],
+    "jp": "ジャストガードが強化されます。"
+  },
+  {
+    "index": 285,
+    "ids": [
+      "$Item_M_IND_112_help"
+    ],
+    "jp": "連携アビリティを使ったとき、連携しなかった仲間の\r\n連携ゲージが少したまります。"
+  },
+  {
+    "index": 286,
+    "ids": [
+      "$Item_M_MAG_001_help"
+    ],
+    "jp": "回復魔法が使えるようになります。"
+  },
+  {
+    "index": 287,
+    "ids": [
+      "$Item_M_MAG_002_help"
+    ],
+    "jp": "治療魔法が使えるようになります。"
+  },
+  {
+    "index": 288,
+    "ids": [
+      "$Item_M_MAG_003_help"
+    ],
+    "jp": "蘇生魔法が使えるようになります。"
+  },
+  {
+    "index": 289,
+    "ids": [
+      "$Item_M_MAG_004_help"
+    ],
+    "jp": "炎属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 290,
+    "ids": [
+      "$Item_M_MAG_005_help"
+    ],
+    "jp": "氷属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 291,
+    "ids": [
+      "$Item_M_MAG_006_help"
+    ],
+    "jp": "雷属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 292,
+    "ids": [
+      "$Item_M_MAG_007_help"
+    ],
+    "jp": "風属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 293,
+    "ids": [
+      "$Item_M_MAG_008_help"
+    ],
+    "jp": "毒魔法が使えるようになります。"
+  },
+  {
+    "index": 294,
+    "ids": [
+      "$Item_M_MAG_009_help"
+    ],
+    "jp": "行動制限魔法が使えるようになります。"
+  },
+  {
+    "index": 295,
+    "ids": [
+      "$Item_M_MAG_010_help"
+    ],
+    "jp": "時魔法が使えるようになります。"
+  },
+  {
+    "index": 296,
+    "ids": [
+      "$Item_M_MAG_011_help"
+    ],
+    "jp": "防御魔法が使えるようになります。"
+  },
+  {
+    "index": 297,
+    "ids": [
+      "$Item_M_MAG_012_help"
+    ],
+    "jp": "消滅魔法が使えるようになります。"
+  },
+  {
+    "index": 298,
+    "ids": [
+      "$Item_M_MAG_101_help"
+    ],
+    "jp": "石化魔法が使えるようになります。"
+  },
+  {
+    "index": 299,
+    "ids": [
+      "$Item_M_MAG_102_help"
+    ],
+    "jp": "重力魔法が使えるようになります。"
+  },
+  {
+    "index": 300,
+    "ids": [
+      "$Item_M_MAG_103_help"
+    ],
+    "jp": "隕石魔法が使えるようになります。"
+  },
+  {
+    "index": 301,
+    "ids": [
+      "$Item_M_MAG_104_help"
+    ],
+    "jp": "物理・魔法攻撃強化魔法が使えるようになります。\r\n\r\n※『たいせい』マテリアと組にすると\r\n　物理・魔法攻撃弱体化への耐性がつきます。"
+  },
+  {
+    "index": 302,
+    "ids": [
+      "$Item_M_MAG_105_help"
+    ],
+    "jp": "物理・魔法防御強化魔法が使えるようになります。\r\n\r\n※『たいせい』マテリアと組にすると\r\n　物理・魔法防御弱体化への耐性がつきます。"
+  },
+  {
+    "index": 303,
+    "ids": [
+      "$Item_M_MAG_106_help"
+    ],
+    "jp": "物理・魔法攻撃弱体化魔法が使えるようになります。\r\n\r\n※『たいせい』マテリアと組にすると\r\n　物理・魔法攻撃弱体化への耐性がつきます。"
+  },
+  {
+    "index": 304,
+    "ids": [
+      "$Item_M_MAG_107_help"
+    ],
+    "jp": "物理・魔法防御弱体化魔法が使えるようになります。\r\n\r\n※『たいせい』マテリアと組にすると\r\n　物理・魔法防御弱体化への耐性がつきます。"
+  },
+  {
+    "index": 305,
+    "ids": [
+      "$Item_M_MAG_108_help"
+    ],
+    "jp": "炎属性と氷属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 306,
+    "ids": [
+      "$Item_M_MAG_109_help"
+    ],
+    "jp": "雷属性と風属性の魔法が使えるようになります。"
+  },
+  {
+    "index": 307,
+    "ids": [
+      "$Item_M_MAG_110_help"
+    ],
+    "jp": "毒と石化の魔法が使えるようになります。"
+  },
+  {
+    "index": 308,
+    "ids": [
+      "$Item_M_MAG_111_help"
+    ],
+    "jp": "戦闘不能から自動復活する魔法が使えるようになります。"
+  },
+  {
+    "index": 309,
+    "ids": [
+      "$Item_M_SUM_001_help"
+    ],
+    "jp": "『チョコボ&モーグリ』が召喚できるようになります。"
+  },
+  {
+    "index": 310,
+    "ids": [
+      "$Item_M_SUM_001_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：チョコボ&モーグリ】</color>\r\n風属性の物理攻撃が得意なチョコボと無属性の物理攻撃が得意なモーグリのペア召喚獣。\r\n『必殺技！！』は風属性の物理攻撃。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 311,
+    "ids": [
+      "$Item_M_SUM_002_help"
+    ],
+    "jp": "『シヴァ』が召喚できるようになります。"
+  },
+  {
+    "index": 312,
+    "ids": [
+      "$Item_M_SUM_002_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：シヴァ】</color>\r\n氷属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『ダイヤモンドダスト』は氷属性の魔法攻撃。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 313,
+    "ids": [
+      "$Item_M_SUM_003_help"
+    ],
+    "jp": "『イフリート』が召喚できるようになります。"
+  },
+  {
+    "index": 314,
+    "ids": [
+      "$Item_M_SUM_003_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：イフリート】</color>\r\n炎属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『地獄の火炎』は炎属性の魔法攻撃。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 315,
+    "ids": [
+      "$Item_M_SUM_004_help"
+    ],
+    "jp": "『リヴァイアサン』が召喚できるようになります。"
+  },
+  {
+    "index": 316,
+    "ids": [
+      "$Item_M_SUM_004_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：リヴァイアサン】</color>\r\n無属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『大海衝』は無属性の魔法攻撃。\r\n召喚獣サイズ：大型。\r\n※召喚に必要なＡＴＢ消費量２。"
+  },
+  {
+    "index": 317,
+    "ids": [
+      "$Item_M_SUM_010_help"
+    ],
+    "jp": "『ラムウ』が召喚できるようになります。"
+  },
+  {
+    "index": 318,
+    "ids": [
+      "$Item_M_SUM_010_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：ラムウ】</color>\r\n雷属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『裁きの雷』は雷属性の魔法攻撃。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 319,
+    "ids": [
+      "$Item_M_SUM_101_help"
+    ],
+    "jp": "『タイタン』が召喚できるようになります。"
+  },
+  {
+    "index": 320,
+    "ids": [
+      "$Item_M_SUM_101_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：タイタン】</color>\r\n無属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『大地の怒り』は無属性の魔法攻撃。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 321,
+    "ids": [
+      "$Item_M_SUM_102_help"
+    ],
+    "jp": "『フェニックス』が召喚できるようになります。"
+  },
+  {
+    "index": 322,
+    "ids": [
+      "$Item_M_SUM_102_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：フェニックス】</color>\r\n炎属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『転生の炎』は炎属性の魔法攻撃と仲間全員のＨＰ回復。\r\n召喚獣サイズ：中型。"
+  },
+  {
+    "index": 323,
+    "ids": [
+      "$Item_M_SUM_103_help"
+    ],
+    "jp": "『アレクサンダー』が召喚できるようになります。"
+  },
+  {
+    "index": 324,
+    "ids": [
+      "$Item_M_SUM_103_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：アレクサンダー】</color>\r\n無属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『聖なる審判』は無属性の魔法攻撃。\r\n召喚獣サイズ：大型。\r\n※召喚に必要なＡＴＢ消費量２。"
+  },
+  {
+    "index": 325,
+    "ids": [
+      "$Item_M_SUM_104_help"
+    ],
+    "jp": "『クジャタ』が召喚できるようになります。"
+  },
+  {
+    "index": 326,
+    "ids": [
+      "$Item_M_SUM_104_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：クジャタ】</color>\r\n炎・氷・雷属性の３属性をあやつる召喚獣。\r\n必殺技『トライディザスター』は３属性混合の魔法攻撃。\r\n召喚獣サイズ：大型。"
+  },
+  {
+    "index": 327,
+    "ids": [
+      "$Item_M_SUM_105_help"
+    ],
+    "jp": "『バハムート改』が召喚できるようになります。"
+  },
+  {
+    "index": 328,
+    "ids": [
+      "$Item_M_SUM_105_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：バハムート改】</color>\r\n無属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『ギガフレア』は無属性の魔法攻撃。\r\n召喚獣サイズ：大型。\r\n※召喚に必要なＡＴＢ消費量２。"
+  },
+  {
+    "index": 329,
+    "ids": [
+      "$Item_M_SUM_106_help"
+    ],
+    "jp": "『オーディン』が召喚できるようになります。"
+  },
+  {
+    "index": 330,
+    "ids": [
+      "$Item_M_SUM_106_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：オーディン】</color>\r\n無属性の強力な攻撃を繰り出す召喚獣。\r\n必殺技『斬鉄剣』は無属性の物理攻撃。\r\n召喚獣サイズ：大型。\r\n※召喚に必要なＡＴＢ消費量２。"
+  },
+  {
+    "index": 331,
+    "ids": [
+      "$Item_M_SUM_107_help"
+    ],
+    "jp": "『ギルガメッシュ』が召喚できるようになります。"
+  },
+  {
+    "index": 332,
+    "ids": [
+      "$Item_M_SUM_107_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：ギルガメッシュ】</color>\r\n武器を使った多彩な攻撃を繰り出す召喚獣。\r\n必殺技『究極幻想』は無属性の物理攻撃。\r\n召喚獣サイズ：中型。\r\n※召喚に必要なＡＴＢ消費量２。"
+  },
+  {
+    "index": 333,
+    "ids": [
+      "$Item_M_SUM_108_help"
+    ],
+    "jp": "『ファンシーチョコボ』が召喚できるようになります。"
+  },
+  {
+    "index": 334,
+    "ids": [
+      "$Item_M_SUM_108_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：ファンシーチョコボ】</color>\r\n四属性の魔法攻撃が得意な召喚獣。\r\n『チョコブースト』で次に発動する魔法強化。\r\n必殺技『チョコメット』は無属性の魔法攻撃。\r\n召喚獣サイズ：小型。"
+  },
+  {
+    "index": 335,
+    "ids": [
+      "$Item_M_SUM_109_help"
+    ],
+    "jp": "『マジックポット』が召喚できるようになります。"
+  },
+  {
+    "index": 336,
+    "ids": [
+      "$Item_M_SUM_109_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：マジックポット】</color>\r\nさまざまなサポート技で守ってくれる召喚獣。\r\n必殺技『マジックえりくさー』は回復技をまとめてプレゼント。\r\n召喚獣サイズ：小型。"
+  },
+  {
+    "index": 337,
+    "ids": [
+      "$Item_M_SUM_110_help"
+    ],
+    "jp": "『モーグリーズ』が召喚できるようになります。"
+  },
+  {
+    "index": 338,
+    "ids": [
+      "$Item_M_SUM_110_help_2"
+    ],
+    "jp": "<color=cyan>【SUMMON INFO：モーグリーズ】</color>\r\n３匹で連携攻撃するのが得意な仲良し召喚獣。\r\n必殺技『クポのワルツ』は無属性の魔法攻撃。\r\n※みんなの連携ゲージを２上げます。\r\n召喚獣サイズ：小型。"
+  },
+  {
+    "index": 339,
+    "ids": [
+      "$Item_M_SUP_001_help"
+    ],
+    "jp": "組にした魔法マテリアの効果範囲を広げます。\r\n\r\n※単体魔法を使用したいときは、コマンド選択時に\r\n<button=magnify> で切り替えできます。"
+  },
+  {
+    "index": 340,
+    "ids": [
+      "$Item_M_SUP_002_help"
+    ],
+    "jp": "組にしたマテリアの属性を武器・防具に付与します。\r\n\r\n※武器は属性攻撃、防具は属性耐性が得られます。\r\n　複数装着したときは最初の組（左側優先）のみが有効です。"
+  },
+  {
+    "index": 341,
+    "ids": [
+      "$Item_M_SUP_002_help_2"
+    ],
+    "jp": "<color=orange>【組み合わせられるマテリア】</color>\r\nほのお・れいき・いかずち・かぜ\r\nほのお＆れいき・いかずち＆かぜ"
+  },
+  {
+    "index": 342,
+    "ids": [
+      "$Item_M_SUP_003_help"
+    ],
+    "jp": "組にしたマテリアの状態異常への耐性が得られます。"
+  },
+  {
+    "index": 343,
+    "ids": [
+      "$Item_M_SUP_003_help_2"
+    ],
+    "jp": "<color=orange>【組み合わせられるマテリア】</color>\r\nどく・ふうじる・じかん・しょうめつ\r\nせきか・どく＆せきか\r\nこうげきバフ・ぼうぎょバフ\r\nデバフこうげき・デバフぼうぎょ"
+  },
+  {
+    "index": 344,
+    "ids": [
+      "$Item_M_SUP_004_help"
+    ],
+    "jp": "組にしたマテリアで与えたダメージに応じてＨＰが回復します。"
+  },
+  {
+    "index": 345,
+    "ids": [
+      "$Item_M_SUP_005_help"
+    ],
+    "jp": "組にしたマテリアで与えたダメージに応じてＭＰが回復します。"
+  },
+  {
+    "index": 346,
+    "ids": [
+      "$Item_M_SUP_006_help"
+    ],
+    "jp": "組にした魔法マテリアでリーダーの攻撃コマンドに追撃します。\r\n※ＡＴＢとＭＰは消費しません。"
+  },
+  {
+    "index": 347,
+    "ids": [
+      "$Item_M_SUP_007_help"
+    ],
+    "jp": "組にしたマテリアのＡＰ獲得量が増えます。"
+  },
+  {
+    "index": 348,
+    "ids": [
+      "$Item_M_SUP_101_help"
+    ],
+    "jp": "組にした魔法マテリアの威力・効果時間が上がります。"
+  },
+  {
+    "index": 349,
+    "ids": [
+      "$Item_M_SUP_102_help"
+    ],
+    "jp": "戦闘中、組にした魔法マテリアの消費ＭＰが減少します。"
+  },
+  {
+    "index": 350,
+    "ids": [
+      "$Item_M_SUP_103_help"
+    ],
+    "jp": "組にした魔法マテリアの詠唱時間を短くします。"
+  },
+  {
+    "index": 351,
+    "ids": [
+      "$Item_M_SUP_104_help"
+    ],
+    "jp": "操作キャラクターでないとき、組にした魔法マテリアを\r\n自動的に使うようになります。"
+  },
+  {
+    "index": 352,
+    "ids": [
+      "$Item_M_SUP_105_help"
+    ],
+    "jp": "組にしたマテリアのレベルが１上がります。\r\n※レベルMAXのマテリアは対象外です。"
+  },
+  {
+    "index": 353,
+    "ids": [
+      "$Item_bigBomber_help",
+      "$item_supergrenade_help"
+    ],
+    "jp": "範囲内の敵に500の物理ダメージを与えます。"
+  },
+  {
+    "index": 354,
+    "ids": [
+      "$M_CMD_001_atk001_help"
+    ],
+    "jp": "一定確率でアイテムを盗みます。"
+  },
+  {
+    "index": 355,
+    "ids": [
+      "$M_CMD_001_atk002_help"
+    ],
+    "jp": "攻撃しつつ、一定確率でアイテムを盗みます。ヒット時：ＡＴＢ増加。空中：発動可能。"
+  },
+  {
+    "index": 356,
+    "ids": [
+      "$M_CMD_002_atk001_help"
+    ],
+    "jp": "敵のステータスや弱点をみやぶります。"
+  },
+  {
+    "index": 357,
+    "ids": [
+      "$M_CMD_003_atk000_help"
+    ],
+    "jp": "風属性の魔法攻撃を放ちます。効果：ブレイブ＋フェイス（物理・魔法攻撃力アップ）。空中：発動可能。"
+  },
+  {
+    "index": 358,
+    "ids": [
+      "$M_CMD_003_atk001_help"
+    ],
+    "jp": "一定時間、雷属性をまとい、ＡＴＢゲージが１段階たまるごとに範囲ダメージを発生させます。"
+  },
+  {
+    "index": 359,
+    "ids": [
+      "$M_CMD_003_atk002_help"
+    ],
+    "jp": "一定時間、自身は動けなくなる代わりに自分と周囲にいる仲間のＨＰを徐々に回復します。"
+  },
+  {
+    "index": 360,
+    "ids": [
+      "$M_CMD_003_atk003_help"
+    ],
+    "jp": "自分の周囲に大ダメージ後、戦闘不能になります。ＡＴＢ２消費。"
+  },
+  {
+    "index": 361,
+    "ids": [
+      "$M_CMD_003_atk004_help"
+    ],
+    "jp": "広範囲に魔法攻撃を放ちます。バースト効果：大。※バトル中１度しか使えません。ＡＴＢ２消費。"
+  },
+  {
+    "index": 362,
+    "ids": [
+      "$M_CMD_003_atk005_help"
+    ],
+    "jp": "広範囲に沈黙／毒／睡眠／ストップ／石化危険の効果をランダムで与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 363,
+    "ids": [
+      "$M_CMD_003_atk006_help"
+    ],
+    "jp": "敵の攻撃が当たると、石化弾を発射する魔法の盾を設置します。空中：発動可能。"
+  },
+  {
+    "index": 364,
+    "ids": [
+      "$M_CMD_005_heal001_help"
+    ],
+    "jp": "自分の損傷ＨＰを割合で回復します。ピンチのときほど有効。『毒』状態も治します。"
+  },
+  {
+    "index": 365,
+    "ids": [
+      "$M_CMD_006_heal001_help"
+    ],
+    "jp": "仲間全員のＨＰを回復します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 366,
+    "ids": [
+      "$M_CMD_007_heal001_help"
+    ],
+    "jp": "発動時にＡＴＢが２倍に増えます。<button=ATB-boost> で発動。"
+  },
+  {
+    "index": 367,
+    "ids": [
+      "$M_CMD_101_atk001_help"
+    ],
+    "jp": "ＨＰを一定量まで減らした敵をアイテムに変えて倒します。"
+  },
+  {
+    "index": 368,
+    "ids": [
+      "$M_CMD_102_atk001_help"
+    ],
+    "jp": "ギルを投げる量に応じて、ダメージを与えます。"
+  },
+  {
+    "index": 369,
+    "ids": [
+      "$M_CMD_102_atk001_help_01"
+    ],
+    "jp": "投げるギルの量を選んでください。所持金：<count=0>ギル。"
+  },
+  {
+    "index": 370,
+    "ids": [
+      "$M_CMD_104_atk001_help"
+    ],
+    "jp": "仲間のリミットゲージを吸収し、自分のリミットゲージを増やします。"
+  },
+  {
+    "index": 371,
+    "ids": [
+      "$M_CMD_105_atk001_help"
+    ],
+    "jp": "竜騎士の如く空に舞い上がり、一定時間、姿を消した後、落下してダメージを与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 372,
+    "ids": [
+      "$M_CMD_106_atk001_help"
+    ],
+    "jp": "アビリティの威力を上げる代償にＨＰが削られる暗黒状態（<button=ankoku>）になります。※もう一度使用すると解除。"
+  },
+  {
+    "index": 373,
+    "ids": [
+      "$M_CMD_107_atk001_help"
+    ],
+    "jp": "パーティメンバーが装着しているマテリアのアビリティ、魔法がランダムで発動します。"
+  },
+  {
+    "index": 374,
+    "ids": [
+      "$M_MAG_001_heal001_help"
+    ],
+    "jp": "ＨＰを小回復します。"
+  },
+  {
+    "index": 375,
+    "ids": [
+      "$M_MAG_001_heal002_help"
+    ],
+    "jp": "ＨＰを中回復します。"
+  },
+  {
+    "index": 376,
+    "ids": [
+      "$M_MAG_001_heal003_help"
+    ],
+    "jp": "ＨＰを少しずつ回復します。"
+  },
+  {
+    "index": 377,
+    "ids": [
+      "$M_MAG_001_heal004_help"
+    ],
+    "jp": "ＨＰを大回復します。"
+  },
+  {
+    "index": 378,
+    "ids": [
+      "$M_MAG_002_heal001_help",
+      "$item_poisona_help"
+    ],
+    "jp": "『毒』状態を治します。"
+  },
+  {
+    "index": 379,
+    "ids": [
+      "$M_MAG_002_heal002_help",
+      "$SU2070_00_Atk002_help",
+      "$item_universal_help"
+    ],
+    "jp": "すべての状態異常を治します。"
+  },
+  {
+    "index": 380,
+    "ids": [
+      "$M_MAG_002_heal003_help"
+    ],
+    "jp": "一定時間、状態異常を防ぎます。"
+  },
+  {
+    "index": 381,
+    "ids": [
+      "$M_MAG_003_heal001_help"
+    ],
+    "jp": "『戦闘不能』を治し、ＨＰを中回復します。"
+  },
+  {
+    "index": 382,
+    "ids": [
+      "$M_MAG_003_heal002_help",
+      "$SU2040_00_Atk002_help"
+    ],
+    "jp": "『戦闘不能』を治し、ＨＰを全回復します。"
+  },
+  {
+    "index": 383,
+    "ids": [
+      "$M_MAG_004_atk001_SP_help"
+    ],
+    "jp": "炎属性の小ダメージを与え、炎の力を一定時間まといます。"
+  },
+  {
+    "index": 384,
+    "ids": [
+      "$M_MAG_004_atk001_help"
+    ],
+    "jp": "炎属性の小ダメージを与えます。"
+  },
+  {
+    "index": 385,
+    "ids": [
+      "$M_MAG_004_atk002_SP_help"
+    ],
+    "jp": "炎属性の中ダメージを与え、炎の力を一定時間まといます。"
+  },
+  {
+    "index": 386,
+    "ids": [
+      "$M_MAG_004_atk002_help"
+    ],
+    "jp": "炎属性の中ダメージを与えます。"
+  },
+  {
+    "index": 387,
+    "ids": [
+      "$M_MAG_004_atk003_SP_help"
+    ],
+    "jp": "炎属性の大ダメージを与え、炎の力を一定時間まといます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 388,
+    "ids": [
+      "$M_MAG_004_atk003_help"
+    ],
+    "jp": "炎属性の大ダメージを与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 389,
+    "ids": [
+      "$M_MAG_005_atk001_SP_help"
+    ],
+    "jp": "氷属性の小ダメージを与え、氷の力を一定時間まといます。"
+  },
+  {
+    "index": 390,
+    "ids": [
+      "$M_MAG_005_atk001_help"
+    ],
+    "jp": "氷属性の小ダメージを与えます。"
+  },
+  {
+    "index": 391,
+    "ids": [
+      "$M_MAG_005_atk002_SP_help"
+    ],
+    "jp": "氷属性の中ダメージを与え、氷の力を一定時間まといます。"
+  },
+  {
+    "index": 392,
+    "ids": [
+      "$M_MAG_005_atk002_help"
+    ],
+    "jp": "氷属性の中ダメージを与えます。"
+  },
+  {
+    "index": 393,
+    "ids": [
+      "$M_MAG_005_atk003_SP_help"
+    ],
+    "jp": "氷属性の大ダメージを与え、氷の力を一定時間まといます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 394,
+    "ids": [
+      "$M_MAG_005_atk003_help"
+    ],
+    "jp": "氷属性の大ダメージを与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 395,
+    "ids": [
+      "$M_MAG_006_atk001_SP_help"
+    ],
+    "jp": "雷属性の小ダメージを与え、雷の力を一定時間まといます。効果：必中。"
+  },
+  {
+    "index": 396,
+    "ids": [
+      "$M_MAG_006_atk001_help"
+    ],
+    "jp": "雷属性の小ダメージを与えます。効果：必中。"
+  },
+  {
+    "index": 397,
+    "ids": [
+      "$M_MAG_006_atk002_SP_help"
+    ],
+    "jp": "雷属性の中ダメージを与え、雷の力を一定時間まといます。効果：必中。"
+  },
+  {
+    "index": 398,
+    "ids": [
+      "$M_MAG_006_atk002_help"
+    ],
+    "jp": "雷属性の中ダメージを与えます。効果：必中。"
+  },
+  {
+    "index": 399,
+    "ids": [
+      "$M_MAG_006_atk003_SP_help"
+    ],
+    "jp": "雷属性の大ダメージを与え、雷の力を一定時間まといます。効果：必中。ＡＴＢ２消費。"
+  },
+  {
+    "index": 400,
+    "ids": [
+      "$M_MAG_006_atk003_help"
+    ],
+    "jp": "雷属性の大ダメージを与えます。効果：必中。ＡＴＢ２消費。"
+  },
+  {
+    "index": 401,
+    "ids": [
+      "$M_MAG_007_atk001_SP_help"
+    ],
+    "jp": "風属性の小ダメージを与え、風の力を一定時間まといます。効果：引き寄せ。"
+  },
+  {
+    "index": 402,
+    "ids": [
+      "$M_MAG_007_atk001_help"
+    ],
+    "jp": "風属性の小ダメージを与えます。効果：引き寄せ。"
+  },
+  {
+    "index": 403,
+    "ids": [
+      "$M_MAG_007_atk002_SP_help"
+    ],
+    "jp": "風属性の中ダメージを与え、風の力を一定時間まといます。効果：引き寄せ。"
+  },
+  {
+    "index": 404,
+    "ids": [
+      "$M_MAG_007_atk002_help"
+    ],
+    "jp": "風属性の中ダメージを与えます。効果：引き寄せ。"
+  },
+  {
+    "index": 405,
+    "ids": [
+      "$M_MAG_007_atk003_SP_help"
+    ],
+    "jp": "風属性の大ダメージを与え、風の力を一定時間まといます。効果：引き寄せ。ＡＴＢ２消費。"
+  },
+  {
+    "index": 406,
+    "ids": [
+      "$M_MAG_007_atk003_help"
+    ],
+    "jp": "風属性の大ダメージを与えます。効果：引き寄せ。ＡＴＢ２消費。"
+  },
+  {
+    "index": 407,
+    "ids": [
+      "$M_MAG_008_atk001_help"
+    ],
+    "jp": "『毒』状態にし、無属性の小ダメージを与えます。効果：必中。"
+  },
+  {
+    "index": 408,
+    "ids": [
+      "$M_MAG_008_atk002_help"
+    ],
+    "jp": "『毒』状態にし、無属性の中ダメージを与えます。効果：必中。"
+  },
+  {
+    "index": 409,
+    "ids": [
+      "$M_MAG_008_atk003_help"
+    ],
+    "jp": "『毒』状態にし、無属性の大ダメージを与えます。効果：必中。"
+  },
+  {
+    "index": 410,
+    "ids": [
+      "$M_MAG_009_atk001_help"
+    ],
+    "jp": "『睡眠』状態にします。"
+  },
+  {
+    "index": 411,
+    "ids": [
+      "$M_MAG_009_atk002_help"
+    ],
+    "jp": "『沈黙』状態にします。"
+  },
+  {
+    "index": 412,
+    "ids": [
+      "$M_MAG_009_atk003_help"
+    ],
+    "jp": "『バーサク』状態にします。※与ダメージ、被ダメージともに増加。"
+  },
+  {
+    "index": 413,
+    "ids": [
+      "$M_MAG_010_atk001_help"
+    ],
+    "jp": "一定時間、敵の行動頻度を減少させます。※強敵には無効。"
+  },
+  {
+    "index": 414,
+    "ids": [
+      "$M_MAG_010_atk002_help"
+    ],
+    "jp": "一定時間、敵の動きを止め行動不能にします。"
+  },
+  {
+    "index": 415,
+    "ids": [
+      "$M_MAG_010_heal001_help"
+    ],
+    "jp": "一定時間、ＡＴＢゲージの増加量が上昇します。"
+  },
+  {
+    "index": 416,
+    "ids": [
+      "$M_MAG_011_atk001_help"
+    ],
+    "jp": "敵のバリア・マバリア・リフレク・シールドを解除します。"
+  },
+  {
+    "index": 417,
+    "ids": [
+      "$M_MAG_011_atk002_help"
+    ],
+    "jp": "敵にかかっている強化効果を解除します。"
+  },
+  {
+    "index": 418,
+    "ids": [
+      "$M_MAG_011_atk003_help"
+    ],
+    "jp": "一定確率で、即死させます。"
+  },
+  {
+    "index": 419,
+    "ids": [
+      "$M_MAG_011_heal001_help"
+    ],
+    "jp": "一定時間、物理ダメージを半減します。"
+  },
+  {
+    "index": 420,
+    "ids": [
+      "$M_MAG_011_heal002_help"
+    ],
+    "jp": "一定時間、魔法ダメージを半減します。"
+  },
+  {
+    "index": 421,
+    "ids": [
+      "$M_MAG_011_heal003_help"
+    ],
+    "jp": "一定時間、物理・魔法ダメージを半減します。"
+  },
+  {
+    "index": 422,
+    "ids": [
+      "$M_MAG_013_heal001_help"
+    ],
+    "jp": "一定時間、物理攻撃力が増加します。"
+  },
+  {
+    "index": 423,
+    "ids": [
+      "$M_MAG_013_heal002_help"
+    ],
+    "jp": "一定時間、魔法攻撃力が増加します。"
+  },
+  {
+    "index": 424,
+    "ids": [
+      "$M_MAG_014_heal001_help"
+    ],
+    "jp": "一定時間、物理防御力が増加します。"
+  },
+  {
+    "index": 425,
+    "ids": [
+      "$M_MAG_014_heal002_help"
+    ],
+    "jp": "一定時間、魔法防御力が増加します。"
+  },
+  {
+    "index": 426,
+    "ids": [
+      "$M_MAG_015_atk001_help"
+    ],
+    "jp": "一定時間、物理攻撃力が減少します。"
+  },
+  {
+    "index": 427,
+    "ids": [
+      "$M_MAG_015_atk002_help"
+    ],
+    "jp": "一定時間、魔法攻撃力が減少します。"
+  },
+  {
+    "index": 428,
+    "ids": [
+      "$M_MAG_016_atk001_help"
+    ],
+    "jp": "一定時間、物理防御力が減少します。"
+  },
+  {
+    "index": 429,
+    "ids": [
+      "$M_MAG_016_atk002_help"
+    ],
+    "jp": "一定時間、魔法防御力が減少します。"
+  },
+  {
+    "index": 430,
+    "ids": [
+      "$M_MAG_101_atk001_help"
+    ],
+    "jp": "『石化危険』状態にし、無属性の小ダメージを与えます。"
+  },
+  {
+    "index": 431,
+    "ids": [
+      "$M_MAG_101_atk002_help"
+    ],
+    "jp": "『石化危険』状態にし、無属性の中ダメージを与えます。"
+  },
+  {
+    "index": 432,
+    "ids": [
+      "$M_MAG_101_atk003_help"
+    ],
+    "jp": "『石化危険』状態にし、無属性の大ダメージを与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 433,
+    "ids": [
+      "$M_MAG_102_atk001_help"
+    ],
+    "jp": "重力を圧縮し、敵のＨＰを3/4に減らします。効果：必中。"
+  },
+  {
+    "index": 434,
+    "ids": [
+      "$M_MAG_102_atk002_help"
+    ],
+    "jp": "重力を圧縮し、敵のＨＰを1/2に減らします。効果：必中。"
+  },
+  {
+    "index": 435,
+    "ids": [
+      "$M_MAG_102_atk003_help"
+    ],
+    "jp": "重力を圧縮し、敵のＨＰを1/4に減らします。効果：必中。"
+  },
+  {
+    "index": 436,
+    "ids": [
+      "$M_MAG_103_atk001_help"
+    ],
+    "jp": "小さな隕石を落下させ、無属性のダメージを与えます。"
+  },
+  {
+    "index": 437,
+    "ids": [
+      "$M_MAG_103_atk002_help"
+    ],
+    "jp": "隕石を落下させ、無属性のダメージを与えます。"
+  },
+  {
+    "index": 438,
+    "ids": [
+      "$M_MAG_111_heal001_help",
+      "$SU2040_00_Atk003_help"
+    ],
+    "jp": "『リレイズ』（戦闘不能から１度だけ自動回復）状態にします。"
+  },
+  {
+    "index": 439,
+    "ids": [
+      "$M_SMN_001_atk001_help"
+    ],
+    "jp": "召喚獣『チョコボ&モーグリ』を召喚します。"
+  },
+  {
+    "index": 440,
+    "ids": [
+      "$M_SMN_002_atk001_help"
+    ],
+    "jp": "召喚獣『デブチョコボ』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 441,
+    "ids": [
+      "$M_SMN_003_atk001_help"
+    ],
+    "jp": "召喚獣『イフリート』を召喚します。"
+  },
+  {
+    "index": 442,
+    "ids": [
+      "$M_SMN_004_atk001_help"
+    ],
+    "jp": "召喚獣『シヴァ』を召喚します。"
+  },
+  {
+    "index": 443,
+    "ids": [
+      "$M_SMN_005_atk001_help"
+    ],
+    "jp": "召喚獣『リヴァイアサン』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 444,
+    "ids": [
+      "$M_SMN_006_atk001_help"
+    ],
+    "jp": "召喚獣『バハムート』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 445,
+    "ids": [
+      "$M_SMN_007_atk001_help"
+    ],
+    "jp": "召喚獣『カーバンクル』を召喚します。"
+  },
+  {
+    "index": 446,
+    "ids": [
+      "$M_SMN_008_atk001_help"
+    ],
+    "jp": "召喚獣『サボテンダー』を召喚します。"
+  },
+  {
+    "index": 447,
+    "ids": [
+      "$M_SMN_009_atk001_help"
+    ],
+    "jp": "召喚獣『コチョコボ』を召喚します。"
+  },
+  {
+    "index": 448,
+    "ids": [
+      "$M_SMN_010_atk001_help"
+    ],
+    "jp": "召喚獣『ラムウ』を召喚します。"
+  },
+  {
+    "index": 449,
+    "ids": [
+      "$M_SMN_101_atk001_help"
+    ],
+    "jp": "召喚獣『タイタン』を召喚します。"
+  },
+  {
+    "index": 450,
+    "ids": [
+      "$M_SMN_102_atk001_help"
+    ],
+    "jp": "召喚獣『フェニックス』を召喚します。"
+  },
+  {
+    "index": 451,
+    "ids": [
+      "$M_SMN_103_atk001_help"
+    ],
+    "jp": "召喚獣『アレクサンダー』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 452,
+    "ids": [
+      "$M_SMN_104_atk001_help"
+    ],
+    "jp": "召喚獣『クジャタ』を召喚します。"
+  },
+  {
+    "index": 453,
+    "ids": [
+      "$M_SMN_105_atk001_help"
+    ],
+    "jp": "召喚獣『バハムート改』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 454,
+    "ids": [
+      "$M_SMN_106_atk001_help"
+    ],
+    "jp": "召喚獣『オーディン』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 455,
+    "ids": [
+      "$M_SMN_107_atk001_help"
+    ],
+    "jp": "召喚獣『ギルガメッシュ』を召喚します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 456,
+    "ids": [
+      "$M_SMN_108_atk001_help"
+    ],
+    "jp": "召喚獣『ファンシーチョコボ』を召喚します。"
+  },
+  {
+    "index": 457,
+    "ids": [
+      "$M_SMN_109_atk001_help"
+    ],
+    "jp": "召喚獣『マジックポット』を召喚します。"
+  },
+  {
+    "index": 458,
+    "ids": [
+      "$M_SMN_110_atk001_help"
+    ],
+    "jp": "召喚獣『モーグリーズ』を召喚します。"
+  },
+  {
+    "index": 459,
+    "ids": [
+      "$Materia_Description_001",
+      "$Materia_Description_002"
+    ],
+    "jp": "『<object=1>』が使える"
+  },
+  {
+    "index": 460,
+    "ids": [
+      "$Materia_Description_001_Chakra"
+    ],
+    "jp": "『<object=1>』が使える\r\n（損傷ＨＰ<count=0>％回復）"
+  },
+  {
+    "index": 461,
+    "ids": [
+      "$Materia_Description_001_Pray1"
+    ],
+    "jp": "『<object=1>』（回復量：微）が使える"
+  },
+  {
+    "index": 462,
+    "ids": [
+      "$Materia_Description_001_Pray2"
+    ],
+    "jp": "『<object=1>』（回復量：小）が使える"
+  },
+  {
+    "index": 463,
+    "ids": [
+      "$Materia_Description_001_Pray3"
+    ],
+    "jp": "『<object=1>』（回復量：中）が使える"
+  },
+  {
+    "index": 464,
+    "ids": [
+      "$Materia_Description_001_Pray4"
+    ],
+    "jp": "『<object=1>』（回復量：大）が使える"
+  },
+  {
+    "index": 465,
+    "ids": [
+      "$Materia_Description_001_Pray5"
+    ],
+    "jp": "『<object=1>』（回復量：特大）が使える"
+  },
+  {
+    "index": 466,
+    "ids": [
+      "$Materia_Description_001_See1"
+    ],
+    "jp": "『<object=1>』（敵単体）が使える"
+  },
+  {
+    "index": 467,
+    "ids": [
+      "$Materia_Description_001_See2"
+    ],
+    "jp": "『<object=1>』（敵全体）が使える"
+  },
+  {
+    "index": 468,
+    "ids": [
+      "$Materia_Description_001_Two"
+    ],
+    "jp": "『<object=1>』と『<object=2>』が使える"
+  },
+  {
+    "index": 469,
+    "ids": [
+      "$Materia_Description_003"
+    ],
+    "jp": "『てきのわざ』を覚えて使える"
+  },
+  {
+    "index": 470,
+    "ids": [
+      "$Materia_Description_004",
+      "$Materia_Description_004_1",
+      "$Materia_Description_004_10",
+      "$Materia_Description_004_11",
+      "$Materia_Description_004_12",
+      "$Materia_Description_004_13",
+      "$Materia_Description_004_14",
+      "$Materia_Description_004_15",
+      "$Materia_Description_004_16",
+      "$Materia_Description_004_17",
+      "$Materia_Description_004_18",
+      "$Materia_Description_004_19",
+      "$Materia_Description_004_2",
+      "$Materia_Description_004_20",
+      "$Materia_Description_004_3",
+      "$Materia_Description_004_4"
+    ],
+    "jp": "『<object=1>』が召喚できる\r\n召喚獣の加護によるステータスアップ"
+  },
+  {
+    "index": 471,
+    "ids": [
+      "$Materia_Description_004_0"
+    ],
+    "jp": "召喚獣レベル１アップ"
+  },
+  {
+    "index": 472,
+    "ids": [
+      "$Materia_Description_004_11_1"
+    ],
+    "jp": "タイタンが『岩石投げ』習得"
+  },
+  {
+    "index": 473,
+    "ids": [
+      "$Materia_Description_004_12_1"
+    ],
+    "jp": "フェニックスが『リレイズ』\r\n『アレイズ』習得"
+  },
+  {
+    "index": 474,
+    "ids": [
+      "$Materia_Description_004_13_1"
+    ],
+    "jp": "アレクサンダーが『グランレーザー』習得"
+  },
+  {
+    "index": 475,
+    "ids": [
+      "$Materia_Description_004_14_1"
+    ],
+    "jp": "クジャタが『イグナイトホーン』\r\n『フィンブルホーン』\r\n『スパーキングホーン』習得"
+  },
+  {
+    "index": 476,
+    "ids": [
+      "$Materia_Description_004_15_1"
+    ],
+    "jp": "バハムート改が\r\n『インフェルノラッシュ』習得"
+  },
+  {
+    "index": 477,
+    "ids": [
+      "$Materia_Description_004_16_1"
+    ],
+    "jp": "オーディンが『カイザークラッシュ』習得"
+  },
+  {
+    "index": 478,
+    "ids": [
+      "$Materia_Description_005"
+    ],
+    "jp": "ＡＴＢ消費なしでアイテムが使える\r\nリチャージまで<count=0>回"
+  },
+  {
+    "index": 479,
+    "ids": [
+      "$Materia_Description_005_1"
+    ],
+    "jp": "『かいひぎり』が使える"
+  },
+  {
+    "index": 480,
+    "ids": [
+      "$Materia_Description_005_2"
+    ],
+    "jp": "『かいひぎり』の威力と効果アップ"
+  },
+  {
+    "index": 481,
+    "ids": [
+      "$Materia_Description_006_1"
+    ],
+    "jp": "『うけながし』が使える"
+  },
+  {
+    "index": 482,
+    "ids": [
+      "$Materia_Description_006_2"
+    ],
+    "jp": "敵にヒットしたときの威力アップ\r\nＡＴＢわずかに増加"
+  },
+  {
+    "index": 483,
+    "ids": [
+      "$Materia_Description_007_1"
+    ],
+    "jp": "ガード時の被ダメージ減少：小\r\nＡＴＢ増加：小"
+  },
+  {
+    "index": 484,
+    "ids": [
+      "$Materia_Description_007_2"
+    ],
+    "jp": "ガード時の被ダメージ減少：中\r\nＡＴＢ増加：中"
+  },
+  {
+    "index": 485,
+    "ids": [
+      "$Materia_Description_007_3"
+    ],
+    "jp": "ガード時の被ダメージ減少：大\r\nＡＴＢ増加：大"
+  },
+  {
+    "index": 486,
+    "ids": [
+      "$Materia_Description_008_1"
+    ],
+    "jp": "ジャストガード受付時間延長"
+  },
+  {
+    "index": 487,
+    "ids": [
+      "$Materia_Description_008_2"
+    ],
+    "jp": "ジャストガード成功時に\r\nバーストダメージアップ"
+  },
+  {
+    "index": 488,
+    "ids": [
+      "$Materia_Description_008_3"
+    ],
+    "jp": "敵の拘束技をジャストガードできる"
+  },
+  {
+    "index": 489,
+    "ids": [
+      "$Materia_Description_009"
+    ],
+    "jp": "『ぶんどる』が使える"
+  },
+  {
+    "index": 490,
+    "ids": [
+      "$Materia_Description_010"
+    ],
+    "jp": "挑発（効果<count=0>秒、クールタイム<count=1>秒）"
+  },
+  {
+    "index": 491,
+    "ids": [
+      "$Materia_Description_011"
+    ],
+    "jp": "『<object=1>』が使える\r\nクールタイム<count=0>秒"
+  },
+  {
+    "index": 492,
+    "ids": [
+      "$Materia_Description_012"
+    ],
+    "jp": "『オート武器アビリティ』発動"
+  },
+  {
+    "index": 493,
+    "ids": [
+      "$Materia_Description_013"
+    ],
+    "jp": "『オート固有アビリティ』発動"
+  },
+  {
+    "index": 494,
+    "ids": [
+      "$Materia_Description_014"
+    ],
+    "jp": "連携アビリティ使用時、連携しなかった\r\n仲間の連携ゲージ<count=0>増加"
+  },
+  {
+    "index": 495,
+    "ids": [
+      "$Materia_Description_015"
+    ],
+    "jp": "リミットゲージの増加分を仲間に分配"
+  },
+  {
+    "index": 496,
+    "ids": [
+      "$Materia_Description_016"
+    ],
+    "jp": "『<object=1>』が使える\r\nＨＰ減少：<count=0>％、威力アップ：<count=1>％"
+  },
+  {
+    "index": 497,
+    "ids": [
+      "$Materia_Description_018"
+    ],
+    "jp": "『<object=1>』が使える\r\n消費ＭＰ<count=0>％減少"
+  },
+  {
+    "index": 498,
+    "ids": [
+      "$Materia_Description_050"
+    ],
+    "jp": "組にしたマテリアの効果を範囲化\r\n範囲化時の効果減少率<count=0>％"
+  },
+  {
+    "index": 499,
+    "ids": [
+      "$Materia_Description_051_1"
+    ],
+    "jp": "武器セット時：追加属性ダメージ<count=1>％\r\n防具セット時：属性耐性「半減」"
+  },
+  {
+    "index": 500,
+    "ids": [
+      "$Materia_Description_051_2"
+    ],
+    "jp": "武器セット時：追加属性ダメージ<count=1>％\r\n防具セット時：属性耐性「無効」"
+  },
+  {
+    "index": 501,
+    "ids": [
+      "$Materia_Description_051_3"
+    ],
+    "jp": "武器セット時：追加属性ダメージ<count=1>％\r\n防具セット時：属性耐性「吸収」"
+  },
+  {
+    "index": 502,
+    "ids": [
+      "$Materia_Description_052"
+    ],
+    "jp": "状態異常の効果時間を<count=0>％減少"
+  },
+  {
+    "index": 503,
+    "ids": [
+      "$Materia_Description_053"
+    ],
+    "jp": "ＨＰ吸収（与えたダメージの<object=0>％）"
+  },
+  {
+    "index": 504,
+    "ids": [
+      "$Materia_Description_054"
+    ],
+    "jp": "ＭＰ吸収（与えたダメージの<object=0>％）"
+  },
+  {
+    "index": 505,
+    "ids": [
+      "$Materia_Description_055"
+    ],
+    "jp": "『まほうついげき』発動"
+  },
+  {
+    "index": 506,
+    "ids": [
+      "$Materia_Description_056"
+    ],
+    "jp": "組にしたマテリアのＡＰ獲得量\r\n<count=0>％アップ"
+  },
+  {
+    "index": 507,
+    "ids": [
+      "$Materia_Description_057"
+    ],
+    "jp": "組にしたマテリアの消費ＭＰを<count=0>％減少"
+  },
+  {
+    "index": 508,
+    "ids": [
+      "$Materia_Description_058"
+    ],
+    "jp": "『オートまほう』発動"
+  },
+  {
+    "index": 509,
+    "ids": [
+      "$Materia_Description_059"
+    ],
+    "jp": "組にしたマテリアのレベルを１アップ"
+  },
+  {
+    "index": 510,
+    "ids": [
+      "$Materia_Description_060"
+    ],
+    "jp": "組にしたマテリアの威力・効果時間\r\n<count=0>％アップ"
+  },
+  {
+    "index": 511,
+    "ids": [
+      "$Materia_Description_061"
+    ],
+    "jp": "組にしたマテリアの詠唱時間<count=0>％短縮"
+  },
+  {
+    "index": 512,
+    "ids": [
+      "$Materia_Description_100"
+    ],
+    "jp": "最大ＨＰが<count=0>％アップ"
+  },
+  {
+    "index": 513,
+    "ids": [
+      "$Materia_Description_101"
+    ],
+    "jp": "最大ＭＰが<count=0>％アップ"
+  },
+  {
+    "index": 514,
+    "ids": [
+      "$Materia_Description_102"
+    ],
+    "jp": "バースト時ＡＴＢが<count=0>アップ"
+  },
+  {
+    "index": 515,
+    "ids": [
+      "$Materia_Description_102_1"
+    ],
+    "jp": "バースト時ＡＴＢ増加：小"
+  },
+  {
+    "index": 516,
+    "ids": [
+      "$Materia_Description_102_2"
+    ],
+    "jp": "バースト時ＡＴＢ増加：中"
+  },
+  {
+    "index": 517,
+    "ids": [
+      "$Materia_Description_102_3"
+    ],
+    "jp": "バースト時ＡＴＢ増加：大"
+  },
+  {
+    "index": 518,
+    "ids": [
+      "$Materia_Description_103"
+    ],
+    "jp": "魔力が<count=0>％アップ"
+  },
+  {
+    "index": 519,
+    "ids": [
+      "$Materia_Description_104"
+    ],
+    "jp": "運が<count=0>％アップ"
+  },
+  {
+    "index": 520,
+    "ids": [
+      "$Materia_Description_105"
+    ],
+    "jp": "ギル獲得が<count=0>％アップ"
+  },
+  {
+    "index": 521,
+    "ids": [
+      "$Materia_Description_106"
+    ],
+    "jp": "経験値獲得が<count=0>％アップ"
+  },
+  {
+    "index": 522,
+    "ids": [
+      "$Materia_Description_107_1"
+    ],
+    "jp": "戦闘開始時ＡＴＢボーナス：小"
+  },
+  {
+    "index": 523,
+    "ids": [
+      "$Materia_Description_107_2"
+    ],
+    "jp": "戦闘開始時ＡＴＢボーナス：中"
+  },
+  {
+    "index": 524,
+    "ids": [
+      "$Materia_Description_107_3"
+    ],
+    "jp": "戦闘開始時ＡＴＢボーナス：大"
+  },
+  {
+    "index": 525,
+    "ids": [
+      "$Materia_Description_108_1"
+    ],
+    "jp": "コマンドを<count=0>種使うと、ＡＴＢ増加：小"
+  },
+  {
+    "index": 526,
+    "ids": [
+      "$Materia_Description_108_2"
+    ],
+    "jp": "コマンドを<count=0>種使うと、ＡＴＢ増加：中"
+  },
+  {
+    "index": 527,
+    "ids": [
+      "$Materia_Description_108_3"
+    ],
+    "jp": "コマンドを<count=0>種使うと、ＡＴＢ増加：大"
+  },
+  {
+    "index": 528,
+    "ids": [
+      "$Materia_Description_109_1"
+    ],
+    "jp": "コマンドを<count=0>回連続で使うと\r\n仲間のＡＴＢ増加：小"
+  },
+  {
+    "index": 529,
+    "ids": [
+      "$Materia_Description_109_2"
+    ],
+    "jp": "コマンドを<count=0>回連続で使うと\r\n仲間のＡＴＢ増加：中"
+  },
+  {
+    "index": 530,
+    "ids": [
+      "$Materia_Description_109_3"
+    ],
+    "jp": "コマンドを<count=0>回連続で使うと\r\n仲間のＡＴＢ増加：大"
+  },
+  {
+    "index": 531,
+    "ids": [
+      "$Materia_Description_110"
+    ],
+    "jp": "戦闘中のアイテムの効果<count=0>%アップ"
+  },
+  {
+    "index": 532,
+    "ids": [
+      "$Materia_Description_111"
+    ],
+    "jp": "力が<count=0>％アップ"
+  },
+  {
+    "index": 533,
+    "ids": [
+      "$Materia_Description_112"
+    ],
+    "jp": "体力が<count=0>％アップ"
+  },
+  {
+    "index": 534,
+    "ids": [
+      "$Materia_Description_113"
+    ],
+    "jp": "精神が<count=0>％アップ"
+  },
+  {
+    "index": 535,
+    "ids": [
+      "$Materia_Description_114"
+    ],
+    "jp": "すばやさが<count=0>％アップ"
+  },
+  {
+    "index": 536,
+    "ids": [
+      "$Materia_Description_115"
+    ],
+    "jp": "最大ＨＰと最大ＭＰの値を入れ替える"
+  },
+  {
+    "index": 537,
+    "ids": [
+      "$Materia_Description_116"
+    ],
+    "jp": "力と魔力の値を入れ替える"
+  },
+  {
+    "index": 538,
+    "ids": [
+      "$Materia_Description_117"
+    ],
+    "jp": "体力と精神の値を入れ替える"
+  },
+  {
+    "index": 539,
+    "ids": [
+      "$Materia_Description_990"
+    ],
+    "jp": "組にしたマテリアの威力を<count=0>％アップ"
+  },
+  {
+    "index": 540,
+    "ids": [
+      "$Materia_Description_992"
+    ],
+    "jp": "組にしたマテリアの魔法の詠唱時間を短縮"
+  },
+  {
+    "index": 541,
+    "ids": [
+      "$PC0000_AtkBurst01_help"
+    ],
+    "jp": "敵を一刀両断し、大ダメージを与えます。空中：発動可能、威力上昇。"
+  },
+  {
+    "index": 542,
+    "ids": [
+      "$PC0000_AtkBurst02_help"
+    ],
+    "jp": "鋭い突きで、間合いを一気に詰めます。バースト効果：大。"
+  },
+  {
+    "index": 543,
+    "ids": [
+      "$PC0000_AtkBurst03_help"
+    ],
+    "jp": "周囲の敵に３回斬りつけます。複数敵ヒットで威力アップ。空中：発動可能。"
+  },
+  {
+    "index": 544,
+    "ids": [
+      "$PC0000_AtkBurst04_help"
+    ],
+    "jp": "必殺の機を狙う、渾身の一撃。バースト時：ダメージアップ。ＡＴＢ２消費。"
+  },
+  {
+    "index": 545,
+    "ids": [
+      "$PC0000_AtkBurst05_help"
+    ],
+    "jp": "前方の敵へ直線状に飛ぶ、無属性魔法の剣圧を飛ばします。"
+  },
+  {
+    "index": 546,
+    "ids": [
+      "$PC0000_AtkBurst06_help"
+    ],
+    "jp": "敵の攻撃を待ち構え、強烈なカウンターを浴びせます。ジャスト時：ダメージ軽減。空中：発動可能。"
+  },
+  {
+    "index": 547,
+    "ids": [
+      "$PC0000_AtkBurst07_help"
+    ],
+    "jp": "威力の高い攻撃をしつつモードチェンジします。ヒット時：ＡＴＢ増加。空中：発動可能。"
+  },
+  {
+    "index": 548,
+    "ids": [
+      "$PC0000_AtkBurst08_help"
+    ],
+    "jp": "剣に炎と雷の属性をまとわせ斬りつけます。空中：発動可能。"
+  },
+  {
+    "index": 549,
+    "ids": [
+      "$PC0000_AtkBurst09_help"
+    ],
+    "jp": "一定時間、ブレイブモードが強化されます。※長押し攻撃が３連続になり、バーサク効果も上昇。"
+  },
+  {
+    "index": 550,
+    "ids": [
+      "$PC0000_AtkBurst10_help"
+    ],
+    "jp": "空中時のみ発動可能、空中から威力の高い攻撃を繰り出します。"
+  },
+  {
+    "index": 551,
+    "ids": [
+      "$PC0000_Limit001_help"
+    ],
+    "jp": "その剣が導く運命は凶、敵を無慈悲に斬りつけます。"
+  },
+  {
+    "index": 552,
+    "ids": [
+      "$PC0000_Limit002_help"
+    ],
+    "jp": "剣で弄び、断末魔の一撃を食らわせます。バースト効果：大。"
+  },
+  {
+    "index": 553,
+    "ids": [
+      "$PC0000_Limit003_help"
+    ],
+    "jp": "内なる龍を呼び覚まし、荒れ狂う竜巻を敵に浴びせ斬りつけます。バースト効果：大。"
+  },
+  {
+    "index": 554,
+    "ids": [
+      "$PC0000_PC0001_BurstChain01_help"
+    ],
+    "jp": "クラウドが斬り込み、バレットが追い撃ちします。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 555,
+    "ids": [
+      "$PC0000_PC0001_BurstChain02_help"
+    ],
+    "jp": "クラウドとバレットが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 556,
+    "ids": [
+      "$PC0000_PC0002_BurstChain01_help"
+    ],
+    "jp": "クラウドがティファを投げ放ち、攻め込みます。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 557,
+    "ids": [
+      "$PC0000_PC0002_BurstChain02_help"
+    ],
+    "jp": "クラウドとティファが空中で回転し、突撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 558,
+    "ids": [
+      "$PC0000_PC0003_BurstChain01_help"
+    ],
+    "jp": "クラウドがエアリスの魔法の力を借りて、遠距離攻撃します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 559,
+    "ids": [
+      "$PC0000_PC0003_BurstChain02_help"
+    ],
+    "jp": "クラウドとエアリスが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 560,
+    "ids": [
+      "$PC0000_PC0004_BurstChain01_help"
+    ],
+    "jp": "クラウドとレッドXIIIが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 561,
+    "ids": [
+      "$PC0000_PC0004_BurstChain02_help"
+    ],
+    "jp": "クラウドとレッドXIIIが熱い想いをたぎらせ、斬り込みます。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 562,
+    "ids": [
+      "$PC0000_PC0005_BurstChain01_help"
+    ],
+    "jp": "クラウドとユフィが雷風の如く、縦横無尽に攻め込みます。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 563,
+    "ids": [
+      "$PC0000_PC0005_BurstChain02_help"
+    ],
+    "jp": "クラウドとユフィが空中に舞い上がり、連撃します。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 564,
+    "ids": [
+      "$PC0000_PC0007_BurstChain01_help"
+    ],
+    "jp": "クラウドにケット・シーが乗っかり、ちゃっかり攻撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 565,
+    "ids": [
+      "$PC0000_PC0007_BurstChain02_help"
+    ],
+    "jp": "クラウドがモーグリに乗っかり、剣を貸して斬り込ませます。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 566,
+    "ids": [
+      "$PC0000_PC0009_BurstChain01_help"
+    ],
+    "jp": "クラウドとザックスがともにソルジャーの誇りを懸けて斬り込みます。\r\nクラウド：リミット技Lvアップ、ザックス：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 567,
+    "ids": [
+      "$PC0000_PC0009_BurstChain02_help"
+    ],
+    "jp": "夢と誇りを剣に祈り、集中力を高めるとともに攻撃を浴びせます。\r\n効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 568,
+    "ids": [
+      "$PC0000_PC0010_BurstChain01_help"
+    ],
+    "jp": "セフィロスの華麗な剣舞に合わせ、クラウドも必死で切り刻みます。\r\nクラウド：リミット技Lvアップ、セフィロス：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 569,
+    "ids": [
+      "$PC0001_AtkBurst01_help"
+    ],
+    "jp": "一定時間、被ダメージが減少し、ひるみにくくなります。"
+  },
+  {
+    "index": 570,
+    "ids": [
+      "$PC0001_AtkBurst02_help"
+    ],
+    "jp": "ＡＴＢを全消費し、高威力の弾を放ちます。バースト効果：大。"
+  },
+  {
+    "index": 571,
+    "ids": [
+      "$PC0001_AtkBurst03_help"
+    ],
+    "jp": "一定時間、自身の最大ＨＰを増加し、仲間がダメージを食らうと自身のＨＰを分け与えます。"
+  },
+  {
+    "index": 572,
+    "ids": [
+      "$PC0001_AtkBurst04_help"
+    ],
+    "jp": "ＡＴＢを全消費し、無数の弾を一気に撃ちこみます。"
+  },
+  {
+    "index": 573,
+    "ids": [
+      "$PC0001_AtkBurst05_help"
+    ],
+    "jp": "地面をたたきつけ、周囲の敵を空中に打ち上げます。"
+  },
+  {
+    "index": 574,
+    "ids": [
+      "$PC0001_AtkBurst06_help"
+    ],
+    "jp": "ＡＴＢを全消費し、至近距離の敵を吹っ飛ばします。"
+  },
+  {
+    "index": 575,
+    "ids": [
+      "$PC0001_AtkBurst07_help"
+    ],
+    "jp": "敵をぶん殴り、打ち上げます。効果：エネルギーリロード。"
+  },
+  {
+    "index": 576,
+    "ids": [
+      "$PC0001_AtkBurst08_help"
+    ],
+    "jp": "特殊な弾を装填し『たたかう』『ぶっぱなす』のバースト効果と威力を強化します。"
+  },
+  {
+    "index": 577,
+    "ids": [
+      "$PC0001_AtkBurst09_help"
+    ],
+    "jp": "一定時間、ＡＴＢの時間上昇量が大幅に増加します。※バトル中１度しか使えません。"
+  },
+  {
+    "index": 578,
+    "ids": [
+      "$PC0001_AtkBurst10_help"
+    ],
+    "jp": "ＡＴＢを全消費し、自身のＨＰを半分にして渾身の射撃を放ちます。"
+  },
+  {
+    "index": 579,
+    "ids": [
+      "$PC0001_Limit001_help"
+    ],
+    "jp": "エネルギーを圧縮し、広範囲に爆発する弾を放ちます。"
+  },
+  {
+    "index": 580,
+    "ids": [
+      "$PC0001_Limit002_help"
+    ],
+    "jp": "渾身の力を込めて、ビームを浴びせます。バースト効果：大。"
+  },
+  {
+    "index": 581,
+    "ids": [
+      "$PC0001_Limit003_help"
+    ],
+    "jp": "星の遙か上空から振り注ぐ光線により、敵を猛撃します。バースト効果：大。"
+  },
+  {
+    "index": 582,
+    "ids": [
+      "$PC0001_PC0002_BurstChain01_help"
+    ],
+    "jp": "バレットとティファがともに攻撃をたたみかけます。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 583,
+    "ids": [
+      "$PC0001_PC0002_BurstChain02_help"
+    ],
+    "jp": "バレットとティファが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 584,
+    "ids": [
+      "$PC0001_PC0003_BurstChain01_help"
+    ],
+    "jp": "バレットがエアリスの魔法を銃弾に宿し、遠距離攻撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 585,
+    "ids": [
+      "$PC0001_PC0003_BurstChain02_help"
+    ],
+    "jp": "バレットとエアリスがかっこつけて、遠距離攻撃します。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 586,
+    "ids": [
+      "$PC0001_PC0004_BurstChain01_help"
+    ],
+    "jp": "バレットとレッドXIIIが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 587,
+    "ids": [
+      "$PC0001_PC0004_BurstChain02_help"
+    ],
+    "jp": "バレットがレッドXIIIを勢いよく、ぶっぱなちます。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 588,
+    "ids": [
+      "$PC0001_PC0005_BurstChain01_help"
+    ],
+    "jp": "バレットとユフィが得意の遠距離攻撃を見せ合います。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 589,
+    "ids": [
+      "$PC0001_PC0005_BurstChain02_help"
+    ],
+    "jp": "バレットとユフィが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 590,
+    "ids": [
+      "$PC0001_PC0007_BurstChain01_help"
+    ],
+    "jp": "バレットがケット・シーを支えに遠距離攻撃を放ちます。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 591,
+    "ids": [
+      "$PC0001_PC0007_BurstChain02_help"
+    ],
+    "jp": "バレットとケット・シーがぐるぐると広範囲に遠距離攻撃します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 592,
+    "ids": [
+      "$PC0002_AtkBurst01_help"
+    ],
+    "jp": "一定時間『たたかう』の連撃数を上げ『強打』を『爆裂拳』『掌打ラッシュ』の順に強化します。"
+  },
+  {
+    "index": 593,
+    "ids": [
+      "$PC0002_AtkBurst02_help"
+    ],
+    "jp": "空中から高威力の蹴りを繰り出します。"
+  },
+  {
+    "index": 594,
+    "ids": [
+      "$PC0002_AtkBurst03_help"
+    ],
+    "jp": "この技の後につづく攻撃で敵をひるませやすくなります。※連続攻撃で効果継続。空中：発動可能。"
+  },
+  {
+    "index": 595,
+    "ids": [
+      "$PC0002_AtkBurst04_help"
+    ],
+    "jp": "猛打を浴びせ、さらに後につづくコマンドの威力を上昇させます。"
+  },
+  {
+    "index": 596,
+    "ids": [
+      "$PC0002_AtkBurst05_help"
+    ],
+    "jp": "自分の正面に魔法の衝撃球を設置します。"
+  },
+  {
+    "index": 597,
+    "ids": [
+      "$PC0002_AtkBurst06_help"
+    ],
+    "jp": "正面の敵を素早く突きます。バースト時：ダメージ倍率アップ。"
+  },
+  {
+    "index": 598,
+    "ids": [
+      "$PC0002_AtkBurst07_help"
+    ],
+    "jp": "回避後、すかさず追撃します。回避成功時：ＡＴＢ増加。空中：発動可能。バースト効果：中。"
+  },
+  {
+    "index": 599,
+    "ids": [
+      "$PC0002_AtkBurst08_help"
+    ],
+    "jp": "風属性で攻撃し、地上の敵は打ち上げ、空中の敵は落とします。効果：引き寄せ。空中：発動可能。"
+  },
+  {
+    "index": 600,
+    "ids": [
+      "$PC0002_AtkBurst09_help"
+    ],
+    "jp": "『秘技解放』の改変技です。解放される技を無属性の魔法攻撃に変え、バースト効果を強化します。"
+  },
+  {
+    "index": 601,
+    "ids": [
+      "$PC0002_AtkBurst10_A_help"
+    ],
+    "jp": "タイミングよく<button=attack> を押すことで３連撃まで攻撃を刻みます。空中：発動可能。"
+  },
+  {
+    "index": 602,
+    "ids": [
+      "$PC0002_Limit001_help"
+    ],
+    "jp": "ザンガン流の格闘術で、敵を激しく蹴り上げます。"
+  },
+  {
+    "index": 603,
+    "ids": [
+      "$PC0002_Limit002_help"
+    ],
+    "jp": "イルカとともに強烈な一撃を浴びせます。バースト効果：大。"
+  },
+  {
+    "index": 604,
+    "ids": [
+      "$PC0002_Limit003_help"
+    ],
+    "jp": "心技体を研ぎ澄まし、降り注ぐ隕石の如く猛打を浴びせます。バースト効果：大。"
+  },
+  {
+    "index": 605,
+    "ids": [
+      "$PC0002_PC0003_BurstChain01_help"
+    ],
+    "jp": "ティファとエアリスが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 606,
+    "ids": [
+      "$PC0002_PC0003_BurstChain02_help"
+    ],
+    "jp": "ティファがエアリスの力を借りて、広範囲に飛び回り連撃します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 607,
+    "ids": [
+      "$PC0002_PC0004_BurstChain01_help"
+    ],
+    "jp": "ティファとレッドXIIIが獣の如く、拳と牙で攻めたてます。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 608,
+    "ids": [
+      "$PC0002_PC0004_BurstChain02_help"
+    ],
+    "jp": "ティファとレッドXIIIが咆哮し広範囲をぶっとばします。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 609,
+    "ids": [
+      "$PC0002_PC0005_BurstChain01_help"
+    ],
+    "jp": "ティファとユフィが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 610,
+    "ids": [
+      "$PC0002_PC0005_BurstChain02_help"
+    ],
+    "jp": "ティファとユフィが空中で回転し蹴り込みます。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 611,
+    "ids": [
+      "$PC0002_PC0007_BurstChain01_help"
+    ],
+    "jp": "ティファがモーグリを広範囲に振り回し、シュートします。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 612,
+    "ids": [
+      "$PC0002_PC0007_BurstChain02_help"
+    ],
+    "jp": "ティファとケット・シーが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 613,
+    "ids": [
+      "$PC0003_AtkBurst01_help"
+    ],
+    "jp": "ＭＰを吸収します。バースト時：吸収量アップ。"
+  },
+  {
+    "index": 614,
+    "ids": [
+      "$PC0003_AtkBurst02_help"
+    ],
+    "jp": "魔法陣の中で攻撃魔法が自動で２連発になります。"
+  },
+  {
+    "index": 615,
+    "ids": [
+      "$PC0003_AtkBurst03_help"
+    ],
+    "jp": "自分の周囲に魔法による範囲攻撃を行います。"
+  },
+  {
+    "index": 616,
+    "ids": [
+      "$PC0003_AtkBurst04_help"
+    ],
+    "jp": "弾系の攻撃を防ぎ、敵を近寄らせない魔法の盾を設置します。"
+  },
+  {
+    "index": 617,
+    "ids": [
+      "$PC0003_AtkBurst05_help"
+    ],
+    "jp": "杖から光線を放ちます。バースト時：ダメージ倍率アップ。"
+  },
+  {
+    "index": 618,
+    "ids": [
+      "$PC0003_AtkBurst06_help"
+    ],
+    "jp": "魔法陣の中でＡＴＢがたまったら、仲間にもＡＴＢを一定量付与します。"
+  },
+  {
+    "index": 619,
+    "ids": [
+      "$PC0003_AtkBurst07_help"
+    ],
+    "jp": "自分の周囲に結界を張り、範囲内の敵が攻撃を発動するとその動きを止めダメージを与えます。"
+  },
+  {
+    "index": 620,
+    "ids": [
+      "$PC0003_AtkBurst08_help"
+    ],
+    "jp": "魔法陣の中で自分の『たたかう』が強化され、自分と仲間も魔法詠唱中ダメージを受けなくなります。"
+  },
+  {
+    "index": 621,
+    "ids": [
+      "$PC0003_AtkBurst09_help"
+    ],
+    "jp": "自分が戦闘不能になるが、仲間全員の戦闘不能／ＨＰ／状態異常を回復します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 622,
+    "ids": [
+      "$PC0003_AtkBurst10_00_help"
+    ],
+    "jp": "魔力をチャージし、再度選択すると魔法攻撃を発動します。チャージMAX：Lv.2。ＡＴＢゲージの横に表示。"
+  },
+  {
+    "index": 623,
+    "ids": [
+      "$PC0003_AtkBurst10_01_help"
+    ],
+    "jp": "魔力を解放し、無属性の魔法攻撃を放ちます。チャージ中：魔法攻撃力アップ、魔法防御力ダウン。"
+  },
+  {
+    "index": 624,
+    "ids": [
+      "$PC0003_AtkBurst10_02_help"
+    ],
+    "jp": "魔力を解放し、無属性の魔法攻撃を放ちます。発動まで：魔法攻撃力アップ、魔法防御力ダウン。"
+  },
+  {
+    "index": 625,
+    "ids": [
+      "$PC0003_Limit001_help"
+    ],
+    "jp": "癒しの風を吹かせ、仲間全員のＨＰを中回復します。"
+  },
+  {
+    "index": 626,
+    "ids": [
+      "$PC0003_Limit002_help"
+    ],
+    "jp": "星に祈り、仲間全員を物理ダメージ無効にして守ります。※バトル中１度しか使えません。"
+  },
+  {
+    "index": 627,
+    "ids": [
+      "$PC0003_Limit003_help"
+    ],
+    "jp": "胸に秘めた怒りを奮い立たせ、自分以外の仲間のリミットゲージを満タンにします。"
+  },
+  {
+    "index": 628,
+    "ids": [
+      "$PC0003_MAtkBurst02_help"
+    ],
+    "jp": "対ひかりテンダー、魔法陣の中で『たたかう』が「対ひかり攻撃」に変わります。"
+  },
+  {
+    "index": 629,
+    "ids": [
+      "$PC0003_MAtkBurst03_help"
+    ],
+    "jp": "対やみテンダー、魔法陣の中で『たたかう』が「対やみ攻撃」に変わります。"
+  },
+  {
+    "index": 630,
+    "ids": [
+      "$PC0003_PC0004_BurstChain01_help"
+    ],
+    "jp": "エアリスがレッドXIIIの咆哮を魔法で放ち、広範囲に遠距離攻撃します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 631,
+    "ids": [
+      "$PC0003_PC0004_BurstChain02_help"
+    ],
+    "jp": "エアリスがレッドXIIIを操り、広範囲に遠距離攻撃します。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 632,
+    "ids": [
+      "$PC0003_PC0005_BurstChain01_help"
+    ],
+    "jp": "エアリスとユフィが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 633,
+    "ids": [
+      "$PC0003_PC0005_BurstChain02_help"
+    ],
+    "jp": "エアリスがユフィを分身させ、にぎやかに攻めたてます。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 634,
+    "ids": [
+      "$PC0003_PC0007_BurstChain01_help"
+    ],
+    "jp": "エアリスがモーグリに魔法を宿らせ、遠距離攻撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 635,
+    "ids": [
+      "$PC0003_PC0007_BurstChain02_help"
+    ],
+    "jp": "エアリスがモーグリを巨大化させ、どーんと放ちます。バースト中：威力アップ＆バースト延長。"
+  },
+  {
+    "index": 636,
+    "ids": [
+      "$PC0004_AtkBurst01_help"
+    ],
+    "jp": "敵を回転して切り刻み、大ダメージを与えます。"
+  },
+  {
+    "index": 637,
+    "ids": [
+      "$PC0004_AtkBurst02_help"
+    ],
+    "jp": "広範囲を攻撃して、大ダメージを与えます。ＡＴＢ２消費。"
+  },
+  {
+    "index": 638,
+    "ids": [
+      "$PC0004_AtkBurst03_help"
+    ],
+    "jp": "攻撃をブロックし、リベンジゲージを大幅に上げる構えをとります。<button=attack> で解除し反撃。"
+  },
+  {
+    "index": 639,
+    "ids": [
+      "$PC0004_AtkBurst04_help"
+    ],
+    "jp": "鋭い爪で敵を切り裂きます。リベンジモード中：リベンジゲージをすべて消費し、威力と範囲アップ。"
+  },
+  {
+    "index": 640,
+    "ids": [
+      "$PC0004_AtkBurst05_help"
+    ],
+    "jp": "攻撃を受けるたびに氷刃を飛ばして反撃します。氷刃が命中するとリベンジゲージがたまります。"
+  },
+  {
+    "index": 641,
+    "ids": [
+      "$PC0004_AtkBurst06_help"
+    ],
+    "jp": "仲間全員にヘイストの効果を付与します。※リベンジモード中のみ発動可能。ＡＴＢ２消費。"
+  },
+  {
+    "index": 642,
+    "ids": [
+      "$PC0004_AtkBurst07_help"
+    ],
+    "jp": "リベンジゲージをすべて消費し、消費した量に応じて仲間全員のＨＰを回復します。"
+  },
+  {
+    "index": 643,
+    "ids": [
+      "$PC0004_AtkBurst08_help"
+    ],
+    "jp": "リベンジゲージをすべて消費し、消費した量に応じて仲間全員のＡＴＢを増加します。ＡＴＢ２消費。"
+  },
+  {
+    "index": 644,
+    "ids": [
+      "$PC0004_AtkBurst09_help"
+    ],
+    "jp": "残りＨＰが少ないほど威力が上昇する攻撃を行います。"
+  },
+  {
+    "index": 645,
+    "ids": [
+      "$PC0004_AtkBurst10_help"
+    ],
+    "jp": "攻撃を受けると、リベンジモードを解除し反撃します。ジャスト時：ダメージ軽減。※リベンジモード中のみ発動可能。ＡＴＢ２消費。"
+  },
+  {
+    "index": 646,
+    "ids": [
+      "$PC0004_Limit001_help"
+    ],
+    "jp": "獣の本能のままに突進し、敵の血潮を味わい自身のＨＰとＭＰを回復します。"
+  },
+  {
+    "index": 647,
+    "ids": [
+      "$PC0004_Limit002_help"
+    ],
+    "jp": "谷の戦士を見守る月へと咆哮し、通常より長い間リベンジモードになります。"
+  },
+  {
+    "index": 648,
+    "ids": [
+      "$PC0004_Limit003_help"
+    ],
+    "jp": "大地を隆起させ、猛威の牙で敵を切り裂きます。バースト効果：大。"
+  },
+  {
+    "index": 649,
+    "ids": [
+      "$PC0004_PC0005_BurstChain01_help"
+    ],
+    "jp": "レッドXIIIとユフィが息の合った攻撃を繰り出します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 650,
+    "ids": [
+      "$PC0004_PC0005_BurstChain02_help"
+    ],
+    "jp": "レッドXIIIとユフィが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 651,
+    "ids": [
+      "$PC0004_PC0007_BurstChain01_help"
+    ],
+    "jp": "レッドXIIIとケット・シーがアニマルパワーで突進します。効果：リミット技Lvアップ。"
+  },
+  {
+    "index": 652,
+    "ids": [
+      "$PC0004_PC0007_BurstChain02_help"
+    ],
+    "jp": "レッドXIIIがモーグリとともに空中からバウンド攻撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 653,
+    "ids": [
+      "$PC0005_AtkBurst01_Buff_1_help"
+    ],
+    "jp": "猛攻を浴びせ、さらに後につづくすべての攻撃の威力を上昇させます。空中：発動可能。"
+  },
+  {
+    "index": 654,
+    "ids": [
+      "$PC0005_AtkBurst01_Buff_2_help"
+    ],
+    "jp": "風林火山の効果により威力を増した風林火山です。空中：発動可能。"
+  },
+  {
+    "index": 655,
+    "ids": [
+      "$PC0005_AtkBurst02_00_help"
+    ],
+    "jp": "一定時間、忍術攻撃を選んだ属性で固定し強化します。"
+  },
+  {
+    "index": 656,
+    "ids": [
+      "$PC0005_AtkBurst02_01_help",
+      "$PC0005_AtkBurst02_02_help",
+      "$PC0005_AtkBurst02_03_help",
+      "$PC0005_AtkBurst02_04_help"
+    ],
+    "jp": "一定時間、忍術攻撃を選んだ属性で固定し強化します。選択時：<button=horz> で属性切替。"
+  },
+  {
+    "index": 657,
+    "ids": [
+      "$PC0005_AtkBurst03_A_Gauge1_help",
+      "$PC0005_AtkBurst03_A_Gauge2_help",
+      "$PC0005_AtkBurst03_A_Gauge3_help",
+      "$PC0005_AtkBurst03_B_Gauge1_help",
+      "$PC0005_AtkBurst03_B_Gauge2_help",
+      "$PC0005_AtkBurst03_B_Gauge3_help",
+      "$PC0005_AtkBurst03_F_Gauge1_help",
+      "$PC0005_AtkBurst03_F_Gauge2_help",
+      "$PC0005_AtkBurst03_F_Gauge3_help",
+      "$PC0005_AtkBurst03_Gauge1_help",
+      "$PC0005_AtkBurst03_Gauge2_help",
+      "$PC0005_AtkBurst03_Gauge3_help",
+      "$PC0005_AtkBurst03_T_Gauge1_help",
+      "$PC0005_AtkBurst03_T_Gauge2_help",
+      "$PC0005_AtkBurst03_T_Gauge3_help"
+    ],
+    "jp": "ＡＴＢを消費するほど威力が高まる忍術攻撃です。忍術変化対象。空中：発動可能。MAX：Lv.3。"
+  },
+  {
+    "index": 658,
+    "ids": [
+      "$PC0005_AtkBurst03_help"
+    ],
+    "jp": "ＡＴＢを消費するほど威力が高まる忍術攻撃です。忍術変化対象。空中：発動可能。\r\n※Lvゲージは『邪気吸収』と共通。MAX：Lv.3。"
+  },
+  {
+    "index": 659,
+    "ids": [
+      "$PC0005_AtkBurst04_help"
+    ],
+    "jp": "瞬時に姿を消して無敵状態になる回避を行います。回避成功時：ＡＴＢ増加。空中：発動可能。"
+  },
+  {
+    "index": 660,
+    "ids": [
+      "$PC0005_AtkBurst05_help"
+    ],
+    "jp": "手裏剣が呼び起こす風圧で周囲の敵を攻撃に巻き込みます。効果：引き寄せ。"
+  },
+  {
+    "index": 661,
+    "ids": [
+      "$PC0005_AtkBurst06_help"
+    ],
+    "jp": "手裏剣が走り回り、広範囲の敵をなぎ倒します。空中発動可。"
+  },
+  {
+    "index": 662,
+    "ids": [
+      "$PC0005_AtkBurst07_help"
+    ],
+    "jp": "動けない状態異常やダメージリアクションのときでも攻撃を放ちます。空中：発動可能。"
+  },
+  {
+    "index": 663,
+    "ids": [
+      "$PC0005_AtkBurst08_help"
+    ],
+    "jp": "一定時間、自分と同じ行動をする分身が出現し戦ってくれます。空中：発動可能。"
+  },
+  {
+    "index": 664,
+    "ids": [
+      "$PC0005_AtkBurst09_Gauge1_help",
+      "$PC0005_AtkBurst09_Gauge2_help",
+      "$PC0005_AtkBurst09_Gauge3_help"
+    ],
+    "jp": "ＡＴＢを消費するほど効果が高まる、ＨＰとＭＰを吸収する攻撃です。空中：発動可能。MAX：Lv.3。"
+  },
+  {
+    "index": 665,
+    "ids": [
+      "$PC0005_AtkBurst09_help"
+    ],
+    "jp": "ＡＴＢを消費するほど効果が高まる、ＨＰとＭＰを吸収する攻撃です。空中：発動可能。\r\n※Lvゲージは『邪鬼退散』と共通。MAX：Lv.3。"
+  },
+  {
+    "index": 666,
+    "ids": [
+      "$PC0005_AtkBurst10_help"
+    ],
+    "jp": "ヴィジョンシンセ時のみ発動可能、ＡＴＢを３消費して放つ強力な攻撃です。空中：発動可能。"
+  },
+  {
+    "index": 667,
+    "ids": [
+      "$PC0005_Limit001_help"
+    ],
+    "jp": "本気のシュシュシュで連続攻撃し、大ダメージを与えます。"
+  },
+  {
+    "index": 668,
+    "ids": [
+      "$PC0005_Limit002_help"
+    ],
+    "jp": "怒濤の連続攻撃を行い、大ダメージを与えます。バースト効果：大。"
+  },
+  {
+    "index": 669,
+    "ids": [
+      "$PC0005_Limit003_help"
+    ],
+    "jp": "がいしゅういっしょく、シノビの秘技で敵を貫きます。バースト効果：大。"
+  },
+  {
+    "index": 670,
+    "ids": [
+      "$PC0005_PC0007_BurstChain01_help"
+    ],
+    "jp": "ユフィがケット・シーとともにシノビの秘技で攻撃します。効果：一定時間ＭＰ消費なし。"
+  },
+  {
+    "index": 671,
+    "ids": [
+      "$PC0005_PC0007_BurstChain02_help"
+    ],
+    "jp": "ユフィとケット・シーが集中力を高め合います。効果：一定時間ＡＴＢゲージが３段階に増加。"
+  },
+  {
+    "index": 672,
+    "ids": [
+      "$PC0007_AtkBurst01_help"
+    ],
+    "jp": "モーグリを呼び出し騎乗します。<button=dodge> で分離。※騎乗中：ジャンプ攻撃＆モーグリＨＰ全回復。"
+  },
+  {
+    "index": 673,
+    "ids": [
+      "$PC0007_AtkBurst02_help"
+    ],
+    "jp": "サイコロの出た目で効果が変わる、気まぐれなネコ技です。"
+  },
+  {
+    "index": 674,
+    "ids": [
+      "$PC0007_AtkBurst03_help"
+    ],
+    "jp": "大ダメージか小ダメージか、運勢の占いもできるネコ技です。"
+  },
+  {
+    "index": 675,
+    "ids": [
+      "$PC0007_AtkBurst04_help"
+    ],
+    "jp": "モーグリ技：敵が踏むと爆発する地雷をばらまきます。バースト効果：中。"
+  },
+  {
+    "index": 676,
+    "ids": [
+      "$PC0007_AtkBurst05_help"
+    ],
+    "jp": "モーグリ技：回避＆モーグリが捨て身で突撃します。回避成功＆ヒット時：ＡＴＢ増加。"
+  },
+  {
+    "index": 677,
+    "ids": [
+      "$PC0007_AtkBurst06_help"
+    ],
+    "jp": "モーグリ技：装備中の召喚マテリアのアビリティをランダムで発動します。\r\n※使用ごとに次回発動可能までの時間延長。召喚獣を呼び出せるバトルのみ使用可能。"
+  },
+  {
+    "index": 678,
+    "ids": [
+      "$PC0007_AtkBurst07_help"
+    ],
+    "jp": "幸運の女神を呼び出し、一定時間、仲間全員のクリティカル率を上昇させます。"
+  },
+  {
+    "index": 679,
+    "ids": [
+      "$PC0007_AtkBurst08_help"
+    ],
+    "jp": "モーグリ技：モーグリが退場するときに、大爆発を起こす状態になります。"
+  },
+  {
+    "index": 680,
+    "ids": [
+      "$PC0007_AtkBurst09_help"
+    ],
+    "jp": "モーグリ技：どでかいパンチを繰り出します。バースト時：ダメージ倍率アップ。"
+  },
+  {
+    "index": 681,
+    "ids": [
+      "$PC0007_AtkBurst10_help"
+    ],
+    "jp": "<button=attack>／<button=decide> でそろえた絵柄で効果が変わるギャンブル技です。\r\n※非操作時ランダム。ＡＴＢ２消費。"
+  },
+  {
+    "index": 682,
+    "ids": [
+      "$PC0007_Limit001_help"
+    ],
+    "jp": "モーグリ技：何が出るかはお楽しみ、敵に大きなカラクリボックスを投げつけます。"
+  },
+  {
+    "index": 683,
+    "ids": [
+      "$PC0007_Limit002_help"
+    ],
+    "jp": "モーグリ技：何が出るかはお楽しみ、敵に特大カラクリボックスを投げつけます。"
+  },
+  {
+    "index": 684,
+    "ids": [
+      "$PC0009_AtkBurst01_help"
+    ],
+    "jp": "ソルジャーの気合いで強力な連続攻撃を行います。MAX：Lv.3。"
+  },
+  {
+    "index": 685,
+    "ids": [
+      "$PC0009_AtkBurst02_help"
+    ],
+    "jp": "飛び上がって、複数の隕石を降らせます。バースト効果：大。空中：発動可能。MAX：Lv.3。"
+  },
+  {
+    "index": 686,
+    "ids": [
+      "$PC0009_AtkBurst03_help"
+    ],
+    "jp": "チャージLv.3で発動可能、タイミングよく<button=attack> を押すことで３連撃まで斬りつけます。空中：発動可能。"
+  },
+  {
+    "index": 687,
+    "ids": [
+      "$PC0009_Limit001_help"
+    ],
+    "jp": "ソルジャーの夢を力に、怒濤の格闘攻撃を浴びせます。"
+  },
+  {
+    "index": 688,
+    "ids": [
+      "$PC0010_AtkBurst01_help"
+    ],
+    "jp": "敵を斬り裂く衝撃波を飛ばします。空中：発動可能。"
+  },
+  {
+    "index": 689,
+    "ids": [
+      "$PC0010_AtkBurst02_help"
+    ],
+    "jp": "上空から敵を突き刺し、ダメージを与えます。"
+  },
+  {
+    "index": 690,
+    "ids": [
+      "$PC0010_Limit001_help"
+    ],
+    "jp": "神速で斬り込み、敵を戦慄させる英雄の剣技です。"
+  },
+  {
+    "index": 691,
+    "ids": [
+      "$PCToad_AtkBurst01_help"
+    ],
+    "jp": "大きく飛び上がり、勢いよく突撃します。"
+  },
+  {
+    "index": 692,
+    "ids": [
+      "$SU0000_00_Atk002_help"
+    ],
+    "jp": "敵の周囲に炎属性の範囲攻撃を行います。"
+  },
+  {
+    "index": 693,
+    "ids": [
+      "$SU0000_00_Atk004_help"
+    ],
+    "jp": "敵の上方から落下攻撃します。"
+  },
+  {
+    "index": 694,
+    "ids": [
+      "$SU0001_00_Atk001_help"
+    ],
+    "jp": "広範囲に爆発する爆弾を投げます。"
+  },
+  {
+    "index": 695,
+    "ids": [
+      "$SU0001_00_Atk002_help"
+    ],
+    "jp": "敵に向かって跳躍した後、強烈な蹴りを浴びせます。バースト効果：大。"
+  },
+  {
+    "index": 696,
+    "ids": [
+      "$SU0002_00_Atk001_help"
+    ],
+    "jp": "敵の頭上に巨大な氷塊を落とします。"
+  },
+  {
+    "index": 697,
+    "ids": [
+      "$SU0002_00_Atk002_help"
+    ],
+    "jp": "周囲に氷属性の範囲攻撃を行います。"
+  },
+  {
+    "index": 698,
+    "ids": [
+      "$SU0004_00_Atk001_help"
+    ],
+    "jp": "水流を浴びせ、敵を左右になぎはらいます。バースト効果：大。"
+  },
+  {
+    "index": 699,
+    "ids": [
+      "$SU0004_00_Atk002_help"
+    ],
+    "jp": "周囲に水の爆発を生じさせて攻撃します。"
+  },
+  {
+    "index": 700,
+    "ids": [
+      "$SU0006_02_Atk001_help"
+    ],
+    "jp": "モーグリがみんなで協力して攻撃します。バースト時：ダメージ倍率アップ。"
+  },
+  {
+    "index": 701,
+    "ids": [
+      "$SU0006_02_Atk002_help"
+    ],
+    "jp": "ＨＰを回復し、連携ゲージを２段階ためます。"
+  },
+  {
+    "index": 702,
+    "ids": [
+      "$SU0009_01_Atk001_help"
+    ],
+    "jp": "チョコボのかわいい無属性魔法で攻撃します。バースト効果：大。"
+  },
+  {
+    "index": 703,
+    "ids": [
+      "$SU0009_01_Atk002_help"
+    ],
+    "jp": "次の通常攻撃で使用する属性魔法が強力な「ガ系」魔法になります。"
+  },
+  {
+    "index": 704,
+    "ids": [
+      "$SU0010_00_Atk001_help"
+    ],
+    "jp": "雷の槍を降らせ攻撃します。槍はしばらく残り、範囲内の敵にダメージを与えます。"
+  },
+  {
+    "index": 705,
+    "ids": [
+      "$SU0010_00_Atk002_help"
+    ],
+    "jp": "ラムウの周囲をレーザーで攻撃します。"
+  },
+  {
+    "index": 706,
+    "ids": [
+      "$SU2000_00_Atk001_help"
+    ],
+    "jp": "巨大な岩石を投げつけ、自分の周囲とターゲットにダメージを与えます。"
+  },
+  {
+    "index": 707,
+    "ids": [
+      "$SU2000_00_Atk002_help"
+    ],
+    "jp": "山を砕く勢いで、敵を激しく殴りつけます。"
+  },
+  {
+    "index": 708,
+    "ids": [
+      "$SU2010_00_Atk001_help"
+    ],
+    "jp": "愛馬スレイプニルで瞬間移動し、周囲の敵にダメージを与えます。バースト時：ダメージアップ。"
+  },
+  {
+    "index": 709,
+    "ids": [
+      "$SU2010_00_Atk002_help"
+    ],
+    "jp": "剣神の威光とともに剣を振りかざし敵を切り刻みます。"
+  },
+  {
+    "index": 710,
+    "ids": [
+      "$SU2020_00_Atk001_help"
+    ],
+    "jp": "敵に荒ぶる躍動で勢いよく突進します。"
+  },
+  {
+    "index": 711,
+    "ids": [
+      "$SU2020_00_Atk002_help"
+    ],
+    "jp": "敵に向けて炎の弾を飛ばして攻撃します。"
+  },
+  {
+    "index": 712,
+    "ids": [
+      "$SU2020_00_Atk003_help"
+    ],
+    "jp": "敵に向けて氷の弾を飛ばして攻撃します。"
+  },
+  {
+    "index": 713,
+    "ids": [
+      "$SU2020_00_Atk004_help"
+    ],
+    "jp": "敵に向けて雷のビームを飛ばして攻撃します。"
+  },
+  {
+    "index": 714,
+    "ids": [
+      "$SU2030_00_Atk001_help"
+    ],
+    "jp": "敵に向かって無数のビームを放ちます。"
+  },
+  {
+    "index": 715,
+    "ids": [
+      "$SU2030_00_Atk002_help"
+    ],
+    "jp": "敵に向かって巨大なビームを放ちます。"
+  },
+  {
+    "index": 716,
+    "ids": [
+      "$SU2040_00_Atk001_help"
+    ],
+    "jp": "自分の周囲の敵に火炎でダメージを与えます。"
+  },
+  {
+    "index": 717,
+    "ids": [
+      "$SU2050_00_Atk001_help"
+    ],
+    "jp": "着弾した位置から四方に拡散する魔法弾を放ちます。"
+  },
+  {
+    "index": 718,
+    "ids": [
+      "$SU2050_00_Atk002_help"
+    ],
+    "jp": "敵に向かって連続攻撃を行います。"
+  },
+  {
+    "index": 719,
+    "ids": [
+      "$SU2060_00_Atk001_help"
+    ],
+    "jp": "斧を叩きつけ、広範囲の敵を巻き込む波動を発生させます。バースト時：ダメージアップ。"
+  },
+  {
+    "index": 720,
+    "ids": [
+      "$SU2060_00_Atk002_help"
+    ],
+    "jp": "ギルナタを素早く回転させつつ、敵に突進します。"
+  },
+  {
+    "index": 721,
+    "ids": [
+      "$SU2070_00_Atk001_help",
+      "$item_caremedicine_help",
+      "$item_phenxtal_help"
+    ],
+    "jp": "『戦闘不能』状態を治し、ＨＰを小回復します。"
+  },
+  {
+    "index": 722,
+    "ids": [
+      "$SU2070_00_Atk003_help"
+    ],
+    "jp": "範囲内の敵に炎属性ダメージを複数回与えます。"
+  },
+  {
+    "index": 723,
+    "ids": [
+      "$item_aicore_help"
+    ],
+    "jp": "エアバスターのＡＩチップです。高値で売却できます。"
+  },
+  {
+    "index": 724,
+    "ids": [
+      "$item_alarm_help"
+    ],
+    "jp": "『睡眠』状態を治します。"
+  },
+  {
+    "index": 725,
+    "ids": [
+      "$item_atel_help"
+    ],
+    "jp": "ＭＰを20回復します。"
+  },
+  {
+    "index": 726,
+    "ids": [
+      "$item_ateldry_help"
+    ],
+    "jp": "ＭＰを100回復します。"
+  },
+  {
+    "index": 727,
+    "ids": [
+      "$item_campitem_001_help"
+    ],
+    "jp": "壊れた休憩ポイントで使用すると休めます。"
+  },
+  {
+    "index": 728,
+    "ids": [
+      "$item_echo_help"
+    ],
+    "jp": "『沈黙』状態を治します。"
+  },
+  {
+    "index": 729,
+    "ids": [
+      "$item_elixir_help"
+    ],
+    "jp": "ＨＰとＭＰを全回復します。"
+  },
+  {
+    "index": 730,
+    "ids": [
+      "$item_goldsaucer_point_help"
+    ],
+    "jp": "ゴールドソーサーで遊ぶほどに貯まるポイントです。\r\nゴールドソーサーの交換所でアイテムと交換できます。"
+  },
+  {
+    "index": 731,
+    "ids": [
+      "$item_gpotion_help"
+    ],
+    "jp": "ＨＰを3000回復します。"
+  },
+  {
+    "index": 732,
+    "ids": [
+      "$item_gravity_help"
+    ],
+    "jp": "範囲内の敵のＨＰを４分の３にします。強敵には効きません。"
+  },
+  {
+    "index": 733,
+    "ids": [
+      "$item_grenade_help"
+    ],
+    "jp": "範囲内の敵に200の物理ダメージを与えます。"
+  },
+  {
+    "index": 734,
+    "ids": [
+      "$item_hatel_help"
+    ],
+    "jp": "ＭＰを50回復します。"
+  },
+  {
+    "index": 735,
+    "ids": [
+      "$item_hiatel_help"
+    ],
+    "jp": "ＭＰを全回復します。"
+  },
+  {
+    "index": 736,
+    "ids": [
+      "$item_hpotion_help"
+    ],
+    "jp": "ＨＰを700回復します。"
+  },
+  {
+    "index": 737,
+    "ids": [
+      "$item_maidenOfKiss_help"
+    ],
+    "jp": "『カエル』状態を治します。"
+  },
+  {
+    "index": 738,
+    "ids": [
+      "$item_material_bone_001_help"
+    ],
+    "jp": "荒野に生息する獣から採取した骨です。"
+  },
+  {
+    "index": 739,
+    "ids": [
+      "$item_material_bone_002_help"
+    ],
+    "jp": "獰猛な獣から採取した硬質な骨です。"
+  },
+  {
+    "index": 740,
+    "ids": [
+      "$item_material_enemy_001_help"
+    ],
+    "jp": "砕いて煎じると妙薬になるという鋭い爪です。"
+  },
+  {
+    "index": 741,
+    "ids": [
+      "$item_material_enemy_002_help"
+    ],
+    "jp": "星の大いなる力を秘めた秘石です。"
+  },
+  {
+    "index": 742,
+    "ids": [
+      "$item_material_enemy_003_help"
+    ],
+    "jp": "荒野に生息する獣から採取した新鮮な肉です。"
+  },
+  {
+    "index": 743,
+    "ids": [
+      "$item_material_grass_001_help"
+    ],
+    "jp": "古くから冒険家に愛用されてきた薬草です。"
+  },
+  {
+    "index": 744,
+    "ids": [
+      "$item_material_grass_002_help"
+    ],
+    "jp": "鎮痛効果のある精油がとれる薬草です。"
+  },
+  {
+    "index": 745,
+    "ids": [
+      "$item_material_grass_003_help"
+    ],
+    "jp": "香味料としても用いられる貴重な薬草です。"
+  },
+  {
+    "index": 746,
+    "ids": [
+      "$item_material_grass_004_help"
+    ],
+    "jp": "さわやかな辛味が特徴の香辛料です。"
+  },
+  {
+    "index": 747,
+    "ids": [
+      "$item_material_grass_005_help"
+    ],
+    "jp": "リラックス効果のあるハーブです。"
+  },
+  {
+    "index": 748,
+    "ids": [
+      "$item_material_grass_006_help"
+    ],
+    "jp": "甘い香りの小さな実をつける薬草です。"
+  },
+  {
+    "index": 749,
+    "ids": [
+      "$item_material_jewelry_001_help"
+    ],
+    "jp": "紅色の輝きを放つ、妖美な貴石です。チョコボのお宝探しで見つけられます。"
+  },
+  {
+    "index": 750,
+    "ids": [
+      "$item_material_jewelry_002_help"
+    ],
+    "jp": "翠色の輝きを放つ、美麗な貴石です。チョコボのお宝探しで見つけられます。"
+  },
+  {
+    "index": 751,
+    "ids": [
+      "$item_material_jewelry_003_help"
+    ],
+    "jp": "蒼色の輝きを放つ、優美な貴石です。チョコボのお宝探しで見つけられます。"
+  },
+  {
+    "index": 752,
+    "ids": [
+      "$item_material_leather_001_help"
+    ],
+    "jp": "荒野に生息する獣から採取した皮です。"
+  },
+  {
+    "index": 753,
+    "ids": [
+      "$item_material_leather_002_help"
+    ],
+    "jp": "獰猛な獣から採取した上質な皮です。"
+  },
+  {
+    "index": 754,
+    "ids": [
+      "$item_material_other_001_help"
+    ],
+    "jp": "星が生み落とした清らかな恵みの品です。"
+  },
+  {
+    "index": 755,
+    "ids": [
+      "$item_material_other_002_help"
+    ],
+    "jp": "星が生み落とした豊かな恵みの品です。"
+  },
+  {
+    "index": 756,
+    "ids": [
+      "$item_material_other_003_help"
+    ],
+    "jp": "星が生み落とした安らかな恵みの品です。"
+  },
+  {
+    "index": 757,
+    "ids": [
+      "$item_material_other_004_help"
+    ],
+    "jp": "星が生み落とした不思議な恵みの品です。"
+  },
+  {
+    "index": 758,
+    "ids": [
+      "$item_material_other_005_help"
+    ],
+    "jp": "エーテルの源泉を吸収した球根です。"
+  },
+  {
+    "index": 759,
+    "ids": [
+      "$item_material_other_006_help"
+    ],
+    "jp": "星が生み落とした聖なる恵みの品です。"
+  },
+  {
+    "index": 760,
+    "ids": [
+      "$item_material_other_007_help"
+    ],
+    "jp": "星が生み落とした神々しい恵みの品です。"
+  },
+  {
+    "index": 761,
+    "ids": [
+      "$item_material_rock_001_help"
+    ],
+    "jp": "鉄を精錬できる鉱物です。"
+  },
+  {
+    "index": 762,
+    "ids": [
+      "$item_material_rock_002_help"
+    ],
+    "jp": "亜鉛を精錬できる鉱物です。"
+  },
+  {
+    "index": 763,
+    "ids": [
+      "$item_material_rock_003_help"
+    ],
+    "jp": "耐食性があり、硬度の高い貴重な鉱物です。"
+  },
+  {
+    "index": 764,
+    "ids": [
+      "$item_material_rock_004_help"
+    ],
+    "jp": "牧草地で発見された耐熱性に優れた鉱物です。"
+  },
+  {
+    "index": 765,
+    "ids": [
+      "$item_material_rock_005_help"
+    ],
+    "jp": "熱を加えると電気を発生させる鉱物です。"
+  },
+  {
+    "index": 766,
+    "ids": [
+      "$item_material_rock_006_help"
+    ],
+    "jp": "装飾品としても人気の高い紫色の鉱物です。"
+  },
+  {
+    "index": 767,
+    "ids": [
+      "$item_material_rock_007_help"
+    ],
+    "jp": "コケのような模様が浮かんだ鉱物です。"
+  },
+  {
+    "index": 768,
+    "ids": [
+      "$item_material_rock_008_help"
+    ],
+    "jp": "染料としても活用されている赤い鉱物です。"
+  },
+  {
+    "index": 769,
+    "ids": [
+      "$item_material_rock_009_help"
+    ],
+    "jp": "月光のような輝きを内包した鉱物です。"
+  },
+  {
+    "index": 770,
+    "ids": [
+      "$item_material_rock_010_help"
+    ],
+    "jp": "かつては重宝されていた神秘的な鉱物です。"
+  },
+  {
+    "index": 771,
+    "ids": [
+      "$item_material_rock_011_help"
+    ],
+    "jp": "大地の成分が浄化された不思議な鉱物です。"
+  },
+  {
+    "index": 772,
+    "ids": [
+      "$item_material_rock_012_help"
+    ],
+    "jp": "星の始原の魔力を秘めた特殊な鉱物です。チョコボのお宝探しで見つけられます。"
+  },
+  {
+    "index": 773,
+    "ids": [
+      "$item_material_rock_013_help"
+    ],
+    "jp": "呪いをはらうとされる黄金色の鉱物です。"
+  },
+  {
+    "index": 774,
+    "ids": [
+      "$item_material_senemy_001_help"
+    ],
+    "jp": "伝説の雷竜から採取した鋭利な爪です。"
+  },
+  {
+    "index": 775,
+    "ids": [
+      "$item_material_senemy_002_help"
+    ],
+    "jp": "闇の怪人から採取した念動力が込められた冠です。"
+  },
+  {
+    "index": 776,
+    "ids": [
+      "$item_material_senemy_003_help"
+    ],
+    "jp": "トンベリの王から採取した黄金のマントです。"
+  },
+  {
+    "index": 777,
+    "ids": [
+      "$item_material_senemy_004_help"
+    ],
+    "jp": "悪臭を放つモルボルから採取したツルです。"
+  },
+  {
+    "index": 778,
+    "ids": [
+      "$item_material_senemy_005_help"
+    ],
+    "jp": "長い眠りから目覚めたドラゴンのツノです。"
+  },
+  {
+    "index": 779,
+    "ids": [
+      "$item_material_senemy_006_help"
+    ],
+    "jp": "巨鳥から採取した血のように赤い羽根です。"
+  },
+  {
+    "index": 780,
+    "ids": [
+      "$item_material_senemy_101_help"
+    ],
+    "jp": "【HARD限定】ケツァルコアトルから採取した貴重な爪です。"
+  },
+  {
+    "index": 781,
+    "ids": [
+      "$item_material_senemy_102_help"
+    ],
+    "jp": "【HARD限定】マインドフレアから採取した貴重な冠です。"
+  },
+  {
+    "index": 782,
+    "ids": [
+      "$item_material_senemy_103_help"
+    ],
+    "jp": "【HARD限定】トンベリキングから採取した貴重なマントです。"
+  },
+  {
+    "index": 783,
+    "ids": [
+      "$item_material_senemy_104_help"
+    ],
+    "jp": "【HARD限定】モルボルグレートから採取した貴重なツルです。"
+  },
+  {
+    "index": 784,
+    "ids": [
+      "$item_material_senemy_105_help"
+    ],
+    "jp": "【HARD限定】ジャバウォックから採取した貴重なツノです。"
+  },
+  {
+    "index": 785,
+    "ids": [
+      "$item_material_senemy_106_help"
+    ],
+    "jp": "【HARD限定】キングズーから採取した貴重な羽根です。"
+  },
+  {
+    "index": 786,
+    "ids": [
+      "$item_material_unique_001_help"
+    ],
+    "jp": "『フラタニティピアス』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 787,
+    "ids": [
+      "$item_material_unique_002_help"
+    ],
+    "jp": "『サイコチャーム』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 788,
+    "ids": [
+      "$item_material_unique_003_help"
+    ],
+    "jp": "『うらみのマフラー』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 789,
+    "ids": [
+      "$item_material_unique_004_help"
+    ],
+    "jp": "『モルボルスフィア』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 790,
+    "ids": [
+      "$item_material_unique_005_help"
+    ],
+    "jp": "『邪竜の指輪』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 791,
+    "ids": [
+      "$item_material_unique_006_help"
+    ],
+    "jp": "『闘争の胸章』を改良するためのクラフト素材です。\r\nゴールドソーサーのポイント交換所で入手できます。"
+  },
+  {
+    "index": 792,
+    "ids": [
+      "$item_material_unique_007_help"
+    ],
+    "jp": "まがまがしいオーラが渦巻いている宝珠です。"
+  },
+  {
+    "index": 793,
+    "ids": [
+      "$item_material_unique_008_help",
+      "$item_material_unique_009_help",
+      "$item_material_unique_010_help",
+      "$item_material_unique_011_help"
+    ],
+    "jp": "いにしえの海賊王が怨念を込めて遺した遺品です。"
+  },
+  {
+    "index": 794,
+    "ids": [
+      "$item_material_unique_012_help"
+    ],
+    "jp": "いにしえの海賊王が遺した海を漂う遺品です。"
+  },
+  {
+    "index": 795,
+    "ids": [
+      "$item_material_wood_001_help"
+    ],
+    "jp": "若い木から採取した材木です。"
+  },
+  {
+    "index": 796,
+    "ids": [
+      "$item_material_wood_002_help"
+    ],
+    "jp": "いにしえの木から採取した材木です。"
+  },
+  {
+    "index": 797,
+    "ids": [
+      "$item_material_wood_003_help"
+    ],
+    "jp": "神として信仰されていた木から採取した材木です。"
+  },
+  {
+    "index": 798,
+    "ids": [
+      "$item_material_wood_004_help"
+    ],
+    "jp": "酒樽としても使用されるかぐわしい香りの材木です。"
+  },
+  {
+    "index": 799,
+    "ids": [
+      "$item_material_wood_005_help"
+    ],
+    "jp": "コンドルが獲物を狙う大木から採取した材木です。"
+  },
+  {
+    "index": 800,
+    "ids": [
+      "$item_material_wood_006_help"
+    ],
+    "jp": "生命の木とも呼ばれる力強い樹木から採取した材木です。"
+  },
+  {
+    "index": 801,
+    "ids": [
+      "$item_material_wood_007_help"
+    ],
+    "jp": "ゴンガダケが生えることで有名な木から採取した材木です。"
+  },
+  {
+    "index": 802,
+    "ids": [
+      "$item_material_wood_008_help"
+    ],
+    "jp": "悠久の時を経た年輪にたくましい生命力を蓄えた材木です。"
+  },
+  {
+    "index": 803,
+    "ids": [
+      "$item_material_wood_009_help"
+    ],
+    "jp": "世界を支えていると伝わる神聖な木から採取した材木です。"
+  },
+  {
+    "index": 804,
+    "ids": [
+      "$item_material_wood_010_help"
+    ],
+    "jp": "昔から薬として活用されてきた解毒の葉です。"
+  },
+  {
+    "index": 805,
+    "ids": [
+      "$item_material_wood_011_help"
+    ],
+    "jp": "炭酸ガスを噴出し、種を拡散させる実です。"
+  },
+  {
+    "index": 806,
+    "ids": [
+      "$item_mistgpotion_help"
+    ],
+    "jp": "仲間全員のＨＰを3000回復します。"
+  },
+  {
+    "index": 807,
+    "ids": [
+      "$item_misthpotion_help"
+    ],
+    "jp": "仲間全員のＨＰを700回復します。"
+  },
+  {
+    "index": 808,
+    "ids": [
+      "$item_mistmpotion_help"
+    ],
+    "jp": "仲間全員のＨＰを1500回復します。"
+  },
+  {
+    "index": 809,
+    "ids": [
+      "$item_mistpotion_help"
+    ],
+    "jp": "仲間全員のＨＰを350回復します。"
+  },
+  {
+    "index": 810,
+    "ids": [
+      "$item_mixhpotion_help"
+    ],
+    "jp": "ＨＰを700、ＭＰを20回復します。"
+  },
+  {
+    "index": 811,
+    "ids": [
+      "$item_mixpotion_help"
+    ],
+    "jp": "ＨＰを350、ＭＰを20回復します。"
+  },
+  {
+    "index": 812,
+    "ids": [
+      "$item_molotov_help"
+    ],
+    "jp": "範囲内の敵に90の炎属性ダメージを複数回与えます。"
+  },
+  {
+    "index": 813,
+    "ids": [
+      "$item_mpotion_help"
+    ],
+    "jp": "ＨＰを1500回復します。"
+  },
+  {
+    "index": 814,
+    "ids": [
+      "$item_plushB_help",
+      "$item_plush_help"
+    ],
+    "jp": "かわいらしいぬいぐるみです。なぜか爆発します。"
+  },
+  {
+    "index": 815,
+    "ids": [
+      "$item_potion_help"
+    ],
+    "jp": "ＨＰを350回復します。"
+  },
+  {
+    "index": 816,
+    "ids": [
+      "$item_sedative_help"
+    ],
+    "jp": "『いかり』状態を治します。"
+  },
+  {
+    "index": 817,
+    "ids": [
+      "$item_slow_help"
+    ],
+    "jp": "範囲内の敵に『スロウ』の効果を付与します。"
+  },
+  {
+    "index": 818,
+    "ids": [
+      "$item_soft_help"
+    ],
+    "jp": "『石化危険』『石化』状態を治します。"
+  },
+  {
+    "index": 819,
+    "ids": [
+      "$item_speed_help"
+    ],
+    "jp": "『ヘイスト』の効果を付与します。"
+  },
+  {
+    "index": 820,
+    "ids": [
+      "$item_stimulant_help"
+    ],
+    "jp": "『かなしい』状態を治します。"
+  },
+  {
+    "index": 821,
+    "ids": [
+      "$item_toxic_help"
+    ],
+    "jp": "範囲内の敵を『毒』状態にし、50の物理ダメージを与えます。"
+  },
+  {
+    "index": 822,
+    "ids": [
+      "$item_xpotion_help"
+    ],
+    "jp": "ＨＰを全回復します。"
+  },
+  {
+    "index": 823,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0001",
+      "$menu_EQSkill_E_ACC_0018_2"
+    ],
+    "jp": "力が5％増えます。"
+  },
+  {
+    "index": 824,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0002"
+    ],
+    "jp": "体力が5％増えます。"
+  },
+  {
+    "index": 825,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0003",
+      "$menu_EQSkill_E_ACC_0020_2"
+    ],
+    "jp": "魔力が5％増えます。"
+  },
+  {
+    "index": 826,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0004"
+    ],
+    "jp": "精神が5％増えます。"
+  },
+  {
+    "index": 827,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0005"
+    ],
+    "jp": "戦闘中『睡眠』状態を完全に防ぎます。"
+  },
+  {
+    "index": 828,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0006"
+    ],
+    "jp": "戦闘中『毒』状態を完全に防ぎます。"
+  },
+  {
+    "index": 829,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0007"
+    ],
+    "jp": "戦闘中『バーサク』状態になります。※与ダメージ、被ダメージともに増加。"
+  },
+  {
+    "index": 830,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0008"
+    ],
+    "jp": "戦闘中『リレイズ』状態になります。発動すると、アクセサリは壊れます。"
+  },
+  {
+    "index": 831,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0009"
+    ],
+    "jp": "戦闘開始時にＡＴＢゲージが少したまった状態で始まります。"
+  },
+  {
+    "index": 832,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0010"
+    ],
+    "jp": "呼び出す召喚獣が強くなります。"
+  },
+  {
+    "index": 833,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0011"
+    ],
+    "jp": "戦闘中、回復行動の効果が上がります。"
+  },
+  {
+    "index": 834,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0012"
+    ],
+    "jp": "ヴィジョン発動時、ＡＴＢゲージが最大までたまります。"
+  },
+  {
+    "index": 835,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0013"
+    ],
+    "jp": "ＡＴＢゲージを消費すると、リミットゲージが増えるようになります。"
+  },
+  {
+    "index": 836,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0014"
+    ],
+    "jp": "ＭＰを消費すると、リミットゲージが増えるようになります。"
+  },
+  {
+    "index": 837,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0018_1"
+    ],
+    "jp": "最大ＨＰが10％増えます。"
+  },
+  {
+    "index": 838,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0019_1"
+    ],
+    "jp": "戦闘中『スロウ』状態を完全に防ぎます。"
+  },
+  {
+    "index": 839,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0019_2"
+    ],
+    "jp": "戦闘中『ストップ』状態を完全に防ぎます。"
+  },
+  {
+    "index": 840,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0020_1"
+    ],
+    "jp": "最大ＭＰが10％増えます。"
+  },
+  {
+    "index": 841,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0021"
+    ],
+    "jp": "敵にかける弱体効果の継続時間が長くなります。"
+  },
+  {
+    "index": 842,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0022"
+    ],
+    "jp": "自分にかかる状態異常の継続時間が短くなります。"
+  },
+  {
+    "index": 843,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0023"
+    ],
+    "jp": "戦闘中ＨＰ25％以下のとき、自分に対する回復効果が上がります。"
+  },
+  {
+    "index": 844,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0024",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_06",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_05",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_06",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_05"
+    ],
+    "jp": "自分がかける強化効果の継続時間が長くなります。"
+  },
+  {
+    "index": 845,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0025"
+    ],
+    "jp": "力が10％増えます。"
+  },
+  {
+    "index": 846,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0026"
+    ],
+    "jp": "体力が10％増えます。"
+  },
+  {
+    "index": 847,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0027"
+    ],
+    "jp": "魔力が10％増えます。"
+  },
+  {
+    "index": 848,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0028"
+    ],
+    "jp": "精神が10％増えます。"
+  },
+  {
+    "index": 849,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0029_1"
+    ],
+    "jp": "戦闘開始時にリミットゲージが満タンになります。"
+  },
+  {
+    "index": 850,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0029_2"
+    ],
+    "jp": "戦闘中、徐々にリミットゲージが増えます。"
+  },
+  {
+    "index": 851,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0209",
+      "$menu_EQSkill_E_ACC_0215_2"
+    ],
+    "jp": "戦闘中『石化』（石化危険）状態を完全に防ぎます。"
+  },
+  {
+    "index": 852,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0210"
+    ],
+    "jp": "戦闘中『カエル』状態を完全に防ぎます。"
+  },
+  {
+    "index": 853,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0211"
+    ],
+    "jp": "攻撃で与えるダメージが9999を超えて限界突破します。"
+  },
+  {
+    "index": 854,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0212"
+    ],
+    "jp": "すばやさが10増えます。"
+  },
+  {
+    "index": 855,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0213"
+    ],
+    "jp": "運が10増えます。"
+  },
+  {
+    "index": 856,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0214"
+    ],
+    "jp": "体力が50、精神が50増えます。"
+  },
+  {
+    "index": 857,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0215_1"
+    ],
+    "jp": "戦闘中『即死』効果を完全に防ぎます。"
+  },
+  {
+    "index": 858,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0217"
+    ],
+    "jp": "体力が30、精神が30増えます。\r\n戦闘中『即死』効果を完全に防ぎます。\r\n戦闘中『スロウ』状態を完全に防ぎます。"
+  },
+  {
+    "index": 859,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0218"
+    ],
+    "jp": "戦闘開始時にリミット技Lvが１上がります。"
+  },
+  {
+    "index": 860,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0219"
+    ],
+    "jp": "最大ＭＰが5％、魔力が5％増えます。\r\n戦闘中『沈黙』状態を完全に防ぎます。"
+  },
+  {
+    "index": 861,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0220",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_06"
+    ],
+    "jp": "ガード成功時のリミットゲージ増加量が上がります。"
+  },
+  {
+    "index": 862,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0221"
+    ],
+    "jp": "敵への弱体効果の継続時間が長くなります。\r\n自分への状態異常の継続時間が短くなります。"
+  },
+  {
+    "index": 863,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0222"
+    ],
+    "jp": "武器アビリティ使用時の消費ＡＴＢが少し節約されます。"
+  },
+  {
+    "index": 864,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0223"
+    ],
+    "jp": "100歩移動するごとに、1ギル自動入手します。"
+  },
+  {
+    "index": 865,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0224",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_09"
+    ],
+    "jp": "リミットゲージの増加量が10％上がります。"
+  },
+  {
+    "index": 866,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0225"
+    ],
+    "jp": "連携アクション・連携アビリティで与えるダメージが10％上がります。"
+  },
+  {
+    "index": 867,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0228"
+    ],
+    "jp": "敵をバーストしたときのリミットゲージ増加量が少し増えます。"
+  },
+  {
+    "index": 868,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0229"
+    ],
+    "jp": "敵をバーストしたときのリミットゲージ増加量が増えます。"
+  },
+  {
+    "index": 869,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0230"
+    ],
+    "jp": "力と魔力が5％増えます。"
+  },
+  {
+    "index": 870,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0231"
+    ],
+    "jp": "力と魔力が10％増えます。"
+  },
+  {
+    "index": 871,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0232"
+    ],
+    "jp": "戦闘開始時に『ヘイスト』状態になります。"
+  },
+  {
+    "index": 872,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0233"
+    ],
+    "jp": "戦闘開始時にＡＴＢゲージが１段階たまった状態で始まります。"
+  },
+  {
+    "index": 873,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0235"
+    ],
+    "jp": "敵をバーストしたとき、自分のＨＰとＭＰが少し回復します。"
+  },
+  {
+    "index": 874,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0236"
+    ],
+    "jp": "最大Lvの『みやぶる』マテリアの能力が使えるようになります。（「みやぶる」全体化）"
+  },
+  {
+    "index": 875,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0237"
+    ],
+    "jp": "最大Lvの『そせい』マテリアの能力が使えるようになります。（「レイズ」「アレイズ」）"
+  },
+  {
+    "index": 876,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0238"
+    ],
+    "jp": "最大Lvの『ＨＰアップ』マテリアの能力が使えるようになります。（最大ＨＰ30％アップ）"
+  },
+  {
+    "index": 877,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0245"
+    ],
+    "jp": "戦闘開始時にリミットゲージが半分たまった状態で始まります。"
+  },
+  {
+    "index": 878,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0246"
+    ],
+    "jp": "最大Lvの『チャクラ』マテリアの能力が使えるようになります。（「チャクラ」損傷ＨＰ40％回復）"
+  },
+  {
+    "index": 879,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0247"
+    ],
+    "jp": "最大Lvの『いのり』マテリアの能力が使えるようになります。（「いのり」回復量：特大）"
+  },
+  {
+    "index": 880,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0248"
+    ],
+    "jp": "最大Lvの『ＭＰアップ』マテリアの能力が使えるようになります。（最大ＭＰ30％アップ）"
+  },
+  {
+    "index": 881,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0249"
+    ],
+    "jp": "最大Lvの『ラッキー』マテリアの能力が使えるようになります。（運50％アップ）"
+  },
+  {
+    "index": 882,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0250"
+    ],
+    "jp": "最大Lvの『ガードきょうか』マテリアの能力が使えるようになります。（ガード時の被ダメージ減少：大、ＡＴＢ増加：大）"
+  },
+  {
+    "index": 883,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0251"
+    ],
+    "jp": "最大Lvの『アイテムたつじん』マテリアの能力が使えるようになります。（アイテムの効果50％アップ）"
+  },
+  {
+    "index": 884,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0252"
+    ],
+    "jp": "最大Lvの『ジャストガードきょうか』マテリアの能力が使えるようになります。（敵の拘束技もジャストガード可能など）"
+  },
+  {
+    "index": 885,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0253"
+    ],
+    "jp": "最大Lvの『ほのお』マテリアの能力が使えるようになります。（「ファイア」「ファイラ」「ファイガ」）"
+  },
+  {
+    "index": 886,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0254"
+    ],
+    "jp": "最大Lvの『れいき』マテリアの能力が使えるようになります。（「ブリザド」「ブリザラ」「ブリザガ」）"
+  },
+  {
+    "index": 887,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0255"
+    ],
+    "jp": "最大Lvの『いかずち』マテリアの能力が使えるようになります。（「サンダー」「サンダラ」「サンダガ」）"
+  },
+  {
+    "index": 888,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0256"
+    ],
+    "jp": "最大Lvの『かぜ』マテリアの能力が使えるようになります。（「エアロ」「エアロラ」「エアロガ」）"
+  },
+  {
+    "index": 889,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0257"
+    ],
+    "jp": "最大Lvの『かいふく』マテリアの能力が使えるようになります。（「ケアル」「ケアルラ」「リジェネ」「ケアルガ」）"
+  },
+  {
+    "index": 890,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0258"
+    ],
+    "jp": "最大Lvの『ちりょう』マテリアの能力が使えるようになります。（「ポイゾナ」「エスナ」「レジスト」）"
+  },
+  {
+    "index": 891,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0259"
+    ],
+    "jp": "最大Lvの『どく』マテリアの能力が使えるようになります。（「バイオ」「バイオラ」「バイオガ」）"
+  },
+  {
+    "index": 892,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0260"
+    ],
+    "jp": "最大Lvの『ふうじる』マテリアの能力が使えるようになります。（「スリプル」「サイレス」「バーサク」）"
+  },
+  {
+    "index": 893,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0261"
+    ],
+    "jp": "最大Lvの『じかん』マテリアの能力が使えるようになります。（「ヘイスト」「スロウ」「ストップ」）"
+  },
+  {
+    "index": 894,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0262"
+    ],
+    "jp": "最大Lvの『バリア』マテリアの能力が使えるようになります。（「バリア」「マバリア」「ウォール」）"
+  },
+  {
+    "index": 895,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0263"
+    ],
+    "jp": "最大Lvの『しょうめつ』マテリアの能力が使えるようになります。（「デバリア」「デスペル」）"
+  },
+  {
+    "index": 896,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0264"
+    ],
+    "jp": "最大Lvの『こうげきバフ』マテリアの能力が使えるようになります。（「ブレイブ」「フェイス」）"
+  },
+  {
+    "index": 897,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0265"
+    ],
+    "jp": "最大Lvの『ぼうぎょバフ』マテリアの能力が使えるようになります。（「プロテス」「シェル」）"
+  },
+  {
+    "index": 898,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0266"
+    ],
+    "jp": "最大Lvの『デバフこうげき』マテリアの能力が使えるようになります。（「デブレイ」「デフェイ」）"
+  },
+  {
+    "index": 899,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0267"
+    ],
+    "jp": "最大Lvの『デバフぼうぎょ』マテリアの能力が使えるようになります。（「デプロテ」「デシェル」）"
+  },
+  {
+    "index": 900,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0268"
+    ],
+    "jp": "連携アクション・連携アビリティで与えるダメージが20％上がります。"
+  },
+  {
+    "index": 901,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0269"
+    ],
+    "jp": "最大ＭＰが8％、魔力が8％増えます。\r\n戦闘中『沈黙』状態を完全に防ぎます。"
+  },
+  {
+    "index": 902,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0270"
+    ],
+    "jp": "体力が50、精神が50増えます。\r\n戦闘中『即死』効果を完全に防ぎます。\r\n戦闘中『スロウ』状態を完全に防ぎます。"
+  },
+  {
+    "index": 903,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0271"
+    ],
+    "jp": "敵への弱体効果の継続時間が長くなります。\r\n自分への状態異常の継続時間が短くなります。\r\n最大ＭＰが5％増えます。"
+  },
+  {
+    "index": 904,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0272"
+    ],
+    "jp": "ガード成功時のリミットゲージ増加量が上がります。\r\n最大ＨＰが5％増えます。"
+  },
+  {
+    "index": 905,
+    "ids": [
+      "$menu_EQSkill_E_ACC_0273"
+    ],
+    "jp": "戦闘開始時にリミット技Lvが最大になります。"
+  },
+  {
+    "index": 906,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1001"
+    ],
+    "jp": "連携で消費するＡＴＢ量が減少します。"
+  },
+  {
+    "index": 907,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1002"
+    ],
+    "jp": "状態変化を防ぎます。"
+  },
+  {
+    "index": 908,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1002_2"
+    ],
+    "jp": "魔法の詠唱中にひるみにくくなります。"
+  },
+  {
+    "index": 909,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1003"
+    ],
+    "jp": "残りＨＰの割合が多いほど与えるダメージが上がります。"
+  },
+  {
+    "index": 910,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1004"
+    ],
+    "jp": "残りＭＰの割合が少ないほど与えるダメージが上がります。"
+  },
+  {
+    "index": 911,
+    "ids": [
+      "$menu_EQSkill_E_ACC_1005"
+    ],
+    "jp": "戦闘開始時に『リレイズ』状態になります。"
+  },
+  {
+    "index": 912,
+    "ids": [
+      "$menu_EQSkill_E_ACC_9001",
+      "$menu_EquipmentSkill_help_0050_0030"
+    ],
+    "jp": "１度だけ、戦闘不能を回避します。（ＨＰが１のときと即死攻撃は対象外）"
+  },
+  {
+    "index": 913,
+    "ids": [
+      "$menu_EQSkill_E_ACC_9002",
+      "$menu_EquipmentSkill_help_0020_0009"
+    ],
+    "jp": "炎・氷・雷・風属性攻撃への防御が上がります。"
+  },
+  {
+    "index": 914,
+    "ids": [
+      "$menu_EQSkill_E_ACC_9201"
+    ],
+    "jp": "まれに素材アイテム採取時の入手個数が増えます。\r\n最大ＨＰが5％増えます。"
+  },
+  {
+    "index": 915,
+    "ids": [
+      "$menu_EQSkill_E_ACC_9202"
+    ],
+    "jp": "敵を倒したときに、自分のＨＰが10％回復します。"
+  },
+  {
+    "index": 916,
+    "ids": [
+      "$menu_EQSkill_E_ARM_4001"
+    ],
+    "jp": "この防具にセットしたマテリアが獲得するＡＰが２倍になります。"
+  },
+  {
+    "index": 917,
+    "ids": [
+      "$menu_EQSkill_E_ARM_4002"
+    ],
+    "jp": "アクセサリ『赤鬼メモリ』『青鬼メモリ』と組み合わせると、その効果が発動します。"
+  },
+  {
+    "index": 918,
+    "ids": [
+      "$menu_EQSkill_E_ARM_4003"
+    ],
+    "jp": "この防具にセットしたマテリアが獲得するＡＰが３倍になります。"
+  },
+  {
+    "index": 919,
+    "ids": [
+      "$menu_EQSkill_E_ARM_ACC_Link"
+    ],
+    "jp": "<color=red>※防具『鬼神の腕輪』専用のアクセサリです。</color>"
+  },
+  {
+    "index": 920,
+    "ids": [
+      "$menu_EQSkill_HP250"
+    ],
+    "jp": "最大ＨＰが250増えます。"
+  },
+  {
+    "index": 921,
+    "ids": [
+      "$menu_EQSkill_HP500"
+    ],
+    "jp": "最大ＨＰが500増えます。"
+  },
+  {
+    "index": 922,
+    "ids": [
+      "$menu_EQSkill_MP3"
+    ],
+    "jp": "最大ＭＰが3増えます。"
+  },
+  {
+    "index": 923,
+    "ids": [
+      "$menu_EQSkill_MP6"
+    ],
+    "jp": "最大ＭＰが6増えます。"
+  },
+  {
+    "index": 924,
+    "ids": [
+      "$menu_EquipmentSkill_help_0000_0000"
+    ],
+    "jp": "最大ＨＰが上がります。"
+  },
+  {
+    "index": 925,
+    "ids": [
+      "$menu_EquipmentSkill_help_0000_0001"
+    ],
+    "jp": "最大ＭＰが上がります。"
+  },
+  {
+    "index": 926,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0000"
+    ],
+    "jp": "物理攻撃力が上がります。"
+  },
+  {
+    "index": 927,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0001"
+    ],
+    "jp": "魔法攻撃力が上がります。"
+  },
+  {
+    "index": 928,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0002"
+    ],
+    "jp": "物理防御力が上がります。"
+  },
+  {
+    "index": 929,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0003"
+    ],
+    "jp": "魔法防御力が上がります。"
+  },
+  {
+    "index": 930,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0004"
+    ],
+    "jp": "クリティカル率が上がります。"
+  },
+  {
+    "index": 931,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0005"
+    ],
+    "jp": "クリティカル時に与えるダメージが上がります。"
+  },
+  {
+    "index": 932,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0006"
+    ],
+    "jp": "運が上がります。"
+  },
+  {
+    "index": 933,
+    "ids": [
+      "$menu_EquipmentSkill_help_0010_0007"
+    ],
+    "jp": "すばやさが上がります。"
+  },
+  {
+    "index": 934,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0000",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_00"
+    ],
+    "jp": "炎属性攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 935,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0001",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_06",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_01"
+    ],
+    "jp": "氷属性攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 936,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0002",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_00"
+    ],
+    "jp": "雷属性攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 937,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0003",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_01"
+    ],
+    "jp": "風属性攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 938,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0004"
+    ],
+    "jp": "炎属性攻撃への防御が上がります。"
+  },
+  {
+    "index": 939,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0005"
+    ],
+    "jp": "氷属性攻撃への防御が上がります。"
+  },
+  {
+    "index": 940,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0006"
+    ],
+    "jp": "雷属性攻撃への防御が上がります。"
+  },
+  {
+    "index": 941,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0007"
+    ],
+    "jp": "風属性攻撃への防御が上がります。"
+  },
+  {
+    "index": 942,
+    "ids": [
+      "$menu_EquipmentSkill_help_0020_0008"
+    ],
+    "jp": "炎・氷・雷・風属性攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 943,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0000",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_06",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_07",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_06",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_05",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_07"
+    ],
+    "jp": "自分にかかる強化効果の継続時間が長くなります。"
+  },
+  {
+    "index": 944,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0001",
+      "$menu_EquipmentSkill_help_0030_0003",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_08"
+    ],
+    "jp": "敵にかける弱体化効果の継続時間が長くなります。"
+  },
+  {
+    "index": 945,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0002"
+    ],
+    "jp": "自分にかかる状態異常に対する耐性が上がります。"
+  },
+  {
+    "index": 946,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0004"
+    ],
+    "jp": "『毒』で与えるダメージが上がります。"
+  },
+  {
+    "index": 947,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0005"
+    ],
+    "jp": "『毒』で受けるダメージが下がります。"
+  },
+  {
+    "index": 948,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0006"
+    ],
+    "jp": "『毒』に対する耐性が上がります。"
+  },
+  {
+    "index": 949,
+    "ids": [
+      "$menu_EquipmentSkill_help_0030_0007"
+    ],
+    "jp": "『睡眠』に対する耐性が上がります。"
+  },
+  {
+    "index": 950,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0000",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_06",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_03",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_00"
+    ],
+    "jp": "物理攻撃ガード時に受けるダメージが下がります。"
+  },
+  {
+    "index": 951,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0001",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_06"
+    ],
+    "jp": "魔法攻撃ガード時に受けるダメージが下がります。"
+  },
+  {
+    "index": 952,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0002"
+    ],
+    "jp": "武器アビリティで与えるダメージが上がります。"
+  },
+  {
+    "index": 953,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0003"
+    ],
+    "jp": "『ブレイバー』の攻撃力が上がります。"
+  },
+  {
+    "index": 954,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0004"
+    ],
+    "jp": "リミット技で与えるダメージが上がります。"
+  },
+  {
+    "index": 955,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0005"
+    ],
+    "jp": "物理攻撃に対するガード率が上がります。"
+  },
+  {
+    "index": 956,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0006"
+    ],
+    "jp": "魔法攻撃に対するガード率が上がります。"
+  },
+  {
+    "index": 957,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0007",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_05"
+    ],
+    "jp": "ブレイブモードのカウンターで与えるダメージが上がります。"
+  },
+  {
+    "index": 958,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0008"
+    ],
+    "jp": "ブレイブモードの『強撃』で与えるダメージが上がります。"
+  },
+  {
+    "index": 959,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0009"
+    ],
+    "jp": "『たたかう』で与えるダメージが上がります。"
+  },
+  {
+    "index": 960,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0010",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_00"
+    ],
+    "jp": "『ぶっぱなす』で与えるダメージが上がります。"
+  },
+  {
+    "index": 961,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0011",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_00"
+    ],
+    "jp": "固有アビリティで与えるダメージが上がります。"
+  },
+  {
+    "index": 962,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0012",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_01"
+    ],
+    "jp": "『テンペスト』で与えるダメージが上がります。"
+  },
+  {
+    "index": 963,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0013"
+    ],
+    "jp": "武器アビリティで攻撃した時のクリティカル率が上がります。"
+  },
+  {
+    "index": 964,
+    "ids": [
+      "$menu_EquipmentSkill_help_0040_0014"
+    ],
+    "jp": "空中時の攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 965,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0000"
+    ],
+    "jp": "ＨＰ75％以上の時に、物理攻撃力が上がります。"
+  },
+  {
+    "index": 966,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0001"
+    ],
+    "jp": "ＨＰ75％以上の時に、魔法攻撃力が上がります。"
+  },
+  {
+    "index": 967,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0002"
+    ],
+    "jp": "ＨＰ75％以上の時に、物理防御力が上がります。"
+  },
+  {
+    "index": 968,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0003"
+    ],
+    "jp": "ＨＰ75％以上の時に、魔法防御力が上がります。"
+  },
+  {
+    "index": 969,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0004"
+    ],
+    "jp": "ＨＰ25％以下の時に、物理攻撃力が上がります。"
+  },
+  {
+    "index": 970,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0005"
+    ],
+    "jp": "ＨＰ25％以下の時に、魔法攻撃力が上がります。"
+  },
+  {
+    "index": 971,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0006"
+    ],
+    "jp": "ＨＰ25％以下の時に、物理防御力が上がります。"
+  },
+  {
+    "index": 972,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0007"
+    ],
+    "jp": "ＨＰ25％以下の時に、魔法防御力が上がります。"
+  },
+  {
+    "index": 973,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0008"
+    ],
+    "jp": "地上の『たたかう』コンボのダメージが上がります。"
+  },
+  {
+    "index": 974,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0009"
+    ],
+    "jp": "空中の『たたかう』コンボのダメージが上がります。"
+  },
+  {
+    "index": 975,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0010"
+    ],
+    "jp": "バースト中の敵に与えるダメージが上がります。"
+  },
+  {
+    "index": 976,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0011"
+    ],
+    "jp": "弱点属性の攻撃で与えるダメージが50％上がります。"
+  },
+  {
+    "index": 977,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0012"
+    ],
+    "jp": "機械系の敵に与えるダメージが上がります。"
+  },
+  {
+    "index": 978,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0013"
+    ],
+    "jp": "敵１体の時に物理攻撃力が大幅に上がります。"
+  },
+  {
+    "index": 979,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0014",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_00"
+    ],
+    "jp": "破壊できる部位に攻撃したときに与えるダメージが上がります。"
+  },
+  {
+    "index": 980,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0015"
+    ],
+    "jp": "攻撃ヒット時のＡＴＢゲージ増加量が上がります。"
+  },
+  {
+    "index": 981,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0016"
+    ],
+    "jp": "ＨＰ25％以下の時にリミットゲージがたまりやすくなります。"
+  },
+  {
+    "index": 982,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0017",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_03",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_07",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_03"
+    ],
+    "jp": "攻撃魔法のＭＰ消費量が下がります。"
+  },
+  {
+    "index": 983,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0018",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_07",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_04"
+    ],
+    "jp": "戦闘中の回復魔法のＭＰ消費量が下がります。"
+  },
+  {
+    "index": 984,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0019"
+    ],
+    "jp": "ＨＰ25％以下の時、自分への回復効果が大幅に上がります。"
+  },
+  {
+    "index": 985,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0020",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_05"
+    ],
+    "jp": "敵を倒したときにＨＰが回復します。"
+  },
+  {
+    "index": 986,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0024"
+    ],
+    "jp": "戦闘中のＭＰ回復時間がそこそこ短くなります。"
+  },
+  {
+    "index": 987,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0025"
+    ],
+    "jp": "戦闘中のＭＰ回復時間がかなり短くなります。"
+  },
+  {
+    "index": 988,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0026"
+    ],
+    "jp": "ＭＰが満タンの時に魔法で与えるダメージが上がります。"
+  },
+  {
+    "index": 989,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0027"
+    ],
+    "jp": "敵の背後から攻撃した時、ダメージが上がります。"
+  },
+  {
+    "index": 990,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0028"
+    ],
+    "jp": "ＨＰ25％以下の時にクリティカル率が大幅に上がります。"
+  },
+  {
+    "index": 991,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0029"
+    ],
+    "jp": "低確率で敵に与えるダメージが50％上がります。"
+  },
+  {
+    "index": 992,
+    "ids": [
+      "$menu_EquipmentSkill_help_0050_0042",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_01"
+    ],
+    "jp": "戦闘開始時に一定確率で『秘技解放』が発動します。"
+  },
+  {
+    "index": 993,
+    "ids": [
+      "$menu_EquipmentSkill_help_0060_0000"
+    ],
+    "jp": "マテリア穴を１段階拡張します。"
+  },
+  {
+    "index": 994,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0001",
+      "$menu_WeaponAbility_Learning_W_GUN_0005",
+      "$menu_WeaponAbility_Learning_W_SHR_0003",
+      "$menu_WeaponAbility_Learning_W_SHR_0005"
+    ],
+    "jp": "敵２体以上にヒットさせる。"
+  },
+  {
+    "index": 995,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0002",
+      "$menu_WeaponAbility_Learning_W_GLV_0001",
+      "$menu_WeaponAbility_Learning_W_GUN_0004",
+      "$menu_WeaponAbility_Learning_W_MGP_0003",
+      "$menu_WeaponAbility_Learning_W_MGP_0004",
+      "$menu_WeaponAbility_Learning_W_SHR_0002",
+      "$menu_WeaponAbility_Learning_W_TSW_0006"
+    ],
+    "jp": "敵にトドメをさす。"
+  },
+  {
+    "index": 996,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0003"
+    ],
+    "jp": "まとった氷刃で敵の弱点属性を突く。"
+  },
+  {
+    "index": 997,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0004",
+      "$menu_WeaponAbility_Learning_W_MGP_0005"
+    ],
+    "jp": "３人同時に効果を発動させる。\r\n（２人パーティ時など対象外）"
+  },
+  {
+    "index": 998,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0005",
+      "$menu_WeaponAbility_Learning_W_CLR_0006"
+    ],
+    "jp": "リベンジゲージMAXで使用する。"
+  },
+  {
+    "index": 999,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_CLR_0007"
+    ],
+    "jp": "ピンチの時に発動させる。"
+  },
+  {
+    "index": 1000,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0002",
+      "$menu_WeaponAbility_Learning_W_TSW_0002"
+    ],
+    "jp": "敵の弱点属性を突く。"
+  },
+  {
+    "index": 1001,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0003"
+    ],
+    "jp": "『たたかう』で連撃する。"
+  },
+  {
+    "index": 1002,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0004"
+    ],
+    "jp": "アビリティ・魔法で連撃する。"
+  },
+  {
+    "index": 1003,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0005"
+    ],
+    "jp": "敵にヒットさせる。"
+  },
+  {
+    "index": 1004,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0006"
+    ],
+    "jp": "効果中に『たたかう』で敵をバーストさせる。"
+  },
+  {
+    "index": 1005,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GLV_0007",
+      "$menu_WeaponAbility_Learning_W_MGP_0007",
+      "$menu_WeaponAbility_Learning_W_ROD_0006",
+      "$menu_WeaponAbility_Learning_W_TSW_0005"
+    ],
+    "jp": "バースト中の敵にヒットさせる。"
+  },
+  {
+    "index": 1006,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GUN_0001",
+      "$menu_WeaponAbility_Learning_W_TSW_0001"
+    ],
+    "jp": "敵をバーストさせる。"
+  },
+  {
+    "index": 1007,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GUN_0002"
+    ],
+    "jp": "特殊な弾20発を発射する。"
+  },
+  {
+    "index": 1008,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GUN_0003"
+    ],
+    "jp": "仲間へのＨＰ付与を発動させる。\r\n（効果中に１回限定）"
+  },
+  {
+    "index": 1009,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GUN_0006"
+    ],
+    "jp": "『ぶっぱなす』のエネルギーを満タンにする。"
+  },
+  {
+    "index": 1010,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_GUN_0007"
+    ],
+    "jp": "効果中にＡＴＢを２段階ためる。"
+  },
+  {
+    "index": 1011,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_MGP_0001"
+    ],
+    "jp": "出目『１』『３』『６』のいずれかが出る。"
+  },
+  {
+    "index": 1012,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_MGP_0002"
+    ],
+    "jp": "地雷をヒットさせて敵をバーストさせる。"
+  },
+  {
+    "index": 1013,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_MGP_0006"
+    ],
+    "jp": "モーグリの自爆をヒットさせる。"
+  },
+  {
+    "index": 1014,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_ROD_0001",
+      "$menu_WeaponAbility_Learning_W_ROD_0005"
+    ],
+    "jp": "魔法陣の効果を発動させる。\r\n（効果中に１回限定）"
+  },
+  {
+    "index": 1015,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_ROD_0002"
+    ],
+    "jp": "敵にヒットさせてストップ効果を発動させる。"
+  },
+  {
+    "index": 1016,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_ROD_0003"
+    ],
+    "jp": "魔法陣上で『たたかう』で敵にトドメをさす。"
+  },
+  {
+    "index": 1017,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_ROD_0004"
+    ],
+    "jp": "敵の攻撃を『光の盾』にヒットさせて防ぐ。\r\n（効果中に１回限定）"
+  },
+  {
+    "index": 1018,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_ROD_0007"
+    ],
+    "jp": "誰かがピンチ／戦闘不能時に使用する。"
+  },
+  {
+    "index": 1019,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_SHR_0001"
+    ],
+    "jp": "変化させた『忍術』で敵の弱点属性を突く。"
+  },
+  {
+    "index": 1020,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_SHR_0004"
+    ],
+    "jp": "分身出現中にトドメをさす。"
+  },
+  {
+    "index": 1021,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_SHR_0006",
+      "$menu_WeaponAbility_Learning_W_SHR_0007"
+    ],
+    "jp": "最大威力Lv.3で敵にヒットさせる。"
+  },
+  {
+    "index": 1022,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_SWD_0001"
+    ],
+    "jp": "※習得済み"
+  },
+  {
+    "index": 1023,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_TSW_0003"
+    ],
+    "jp": "真ブレイブモード中の攻撃でトドメをさす。"
+  },
+  {
+    "index": 1024,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_TSW_0004"
+    ],
+    "jp": "モードチェンジ後『たたかう』\r\nまたは『強撃』をヒットさせる。"
+  },
+  {
+    "index": 1025,
+    "ids": [
+      "$menu_WeaponAbility_Learning_W_TSW_0007"
+    ],
+    "jp": "カウンターを発動させる。"
+  },
+  {
+    "index": 1026,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_00"
+    ],
+    "jp": "リベンジモード発動時HP回復小"
+  },
+  {
+    "index": 1027,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_01"
+    ],
+    "jp": "反撃ダメージ１０％UP"
+  },
+  {
+    "index": 1028,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_02",
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_02",
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_02"
+    ],
+    "jp": "武器アビリティの威力１０％UP"
+  },
+  {
+    "index": 1029,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_03",
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_04",
+      "$menu_WeaponUpgrade_Core_help_CLR_0001_05"
+    ],
+    "jp": "ミスリルカラーのスキルを解放します。"
+  },
+  {
+    "index": 1030,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0002_00"
+    ],
+    "jp": "リベンジモード効果時間２５％UP"
+  },
+  {
+    "index": 1031,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0002_01",
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_00",
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_00"
+    ],
+    "jp": "攻撃で増加するATB量１０％UP"
+  },
+  {
+    "index": 1032,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_CLR_0002_02"
+    ],
+    "jp": "戦闘不能回復時 リベンジゲージ５０％UP"
+  },
+  {
+    "index": 1033,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_00"
+    ],
+    "jp": "秘技解放の効果時間５０％UP"
+  },
+  {
+    "index": 1034,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_01"
+    ],
+    "jp": "秘技解放LVに合わせて効果中攻撃力UP"
+  },
+  {
+    "index": 1035,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0001_05"
+    ],
+    "jp": "レザーグローブのスキルを解放します。"
+  },
+  {
+    "index": 1036,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_01"
+    ],
+    "jp": "戦闘不能回復時 秘技解放発動"
+  },
+  {
+    "index": 1037,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_02"
+    ],
+    "jp": "バトル中MPの回復時間が少し早くなる"
+  },
+  {
+    "index": 1038,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0002_05"
+    ],
+    "jp": "メタルナックルのスキルを解放します。"
+  },
+  {
+    "index": 1039,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_00"
+    ],
+    "jp": "フェザーグラブに内包されている成長マテリア。\r\nティファのスキルポイントを使用し、スキルを解放していくと\r\nフェザーグラブの性能を向上することができます。"
+  },
+  {
+    "index": 1040,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_01",
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_02",
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0003_05"
+    ],
+    "jp": "フェザーグラブのスキルを解放します。"
+  },
+  {
+    "index": 1041,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_00"
+    ],
+    "jp": "ミスリルクローに内包されている成長マテリア。\r\nティファのスキルポイントを使用し、スキルを解放していくと\r\nミスリルクローの性能を向上することができます。"
+  },
+  {
+    "index": 1042,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_01",
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_02",
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0004_05"
+    ],
+    "jp": "ミスリルクローのスキルを解放します。"
+  },
+  {
+    "index": 1043,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_00"
+    ],
+    "jp": "グランドグラブに内包されている成長マテリア。\r\nティファのスキルポイントを使用し、スキルを解放していくと\r\nグランドグラブの性能を向上することができます。"
+  },
+  {
+    "index": 1044,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_01",
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_02",
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0005_05"
+    ],
+    "jp": "グランドグラブのスキルを解放します。"
+  },
+  {
+    "index": 1045,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_00"
+    ],
+    "jp": "ソニックフィストに内包されている成長マテリア。\r\nティファのスキルポイントを使用し、スキルを解放していくと\r\nソニックフィストの性能を向上することができます。"
+  },
+  {
+    "index": 1046,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_01",
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_02",
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_03",
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_04",
+      "$menu_WeaponUpgrade_Core_help_GLV_0006_05"
+    ],
+    "jp": "ソニックフィストのスキルを解放します。"
+  },
+  {
+    "index": 1047,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_00"
+    ],
+    "jp": "ぶっぱなすの自動チャージ速度２５％UP"
+  },
+  {
+    "index": 1048,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_01"
+    ],
+    "jp": "『ぶっぱなす』使用後プロテス付与"
+  },
+  {
+    "index": 1049,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0001_05"
+    ],
+    "jp": "ガトリングガンのスキルを解放します。"
+  },
+  {
+    "index": 1050,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_00"
+    ],
+    "jp": "エネルギーリロードチャージ量２５％UP"
+  },
+  {
+    "index": 1051,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_01"
+    ],
+    "jp": "『ぶっぱなす』威力１５％UP"
+  },
+  {
+    "index": 1052,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_02"
+    ],
+    "jp": "バースト時ぶっぱなすチャージ+１００％"
+  },
+  {
+    "index": 1053,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0002_05"
+    ],
+    "jp": "アサルトガンのスキルを解放します。"
+  },
+  {
+    "index": 1054,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_00"
+    ],
+    "jp": "アトミックシザーに内包されている成長マテリア。\r\nバレットのスキルポイントを使用し、スキルを解放していくと\r\nアトミックシザーの性能を向上することができます。"
+  },
+  {
+    "index": 1055,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_01",
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_02",
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0003_05"
+    ],
+    "jp": "アトミックシザーのスキルを解放します。"
+  },
+  {
+    "index": 1056,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_00"
+    ],
+    "jp": "ラージマウスに内包されている成長マテリア。\r\nバレットのスキルポイントを使用し、スキルを解放していくと\r\nラージマウスの性能を向上することができます。"
+  },
+  {
+    "index": 1057,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_01",
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_02",
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0004_05"
+    ],
+    "jp": "ラージマウスのスキルを解放します。"
+  },
+  {
+    "index": 1058,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_00"
+    ],
+    "jp": "ハートビートに内包されている成長マテリア。\r\nバレットのスキルポイントを使用し、スキルを解放していくと\r\nハートビートの性能を向上することができます。"
+  },
+  {
+    "index": 1059,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_01",
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_02",
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0005_05"
+    ],
+    "jp": "ハートビートのスキルを解放します。"
+  },
+  {
+    "index": 1060,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_00"
+    ],
+    "jp": "キャノンボールに内包されている成長マテリア。\r\nバレットのスキルポイントを使用し、スキルを解放していくと\r\nキャノンボールの性能を向上することができます。"
+  },
+  {
+    "index": 1061,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_01",
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_02",
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_03",
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_04",
+      "$menu_WeaponUpgrade_Core_help_GUN_0006_05"
+    ],
+    "jp": "キャノンボールのスキルを解放します。"
+  },
+  {
+    "index": 1062,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_HPUP_200"
+    ],
+    "jp": "最大ＨＰが200上がります。"
+  },
+  {
+    "index": 1063,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_Lv1",
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_00"
+    ],
+    "jp": "ブレイブモードのカウンターの与ダメージ１５％UP"
+  },
+  {
+    "index": 1064,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_MPUP_003"
+    ],
+    "jp": "最大ＭＰが3上がります。"
+  },
+  {
+    "index": 1065,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_00"
+    ],
+    "jp": "自分が付与する強化効果の時間２５％UP"
+  },
+  {
+    "index": 1066,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_01"
+    ],
+    "jp": "マジカルサーバント効果時間２５％UP"
+  },
+  {
+    "index": 1067,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_02"
+    ],
+    "jp": "魔法陣ワープの硬直減少"
+  },
+  {
+    "index": 1068,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0001_05"
+    ],
+    "jp": "ガードロッドのスキルを解放します。"
+  },
+  {
+    "index": 1069,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_00"
+    ],
+    "jp": "弱体効果付与時間２５％UP"
+  },
+  {
+    "index": 1070,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_01"
+    ],
+    "jp": "魔法陣効果時間２５％UP"
+  },
+  {
+    "index": 1071,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_02"
+    ],
+    "jp": "自分が使用する行動の回復量５０％UP"
+  },
+  {
+    "index": 1072,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0002_05"
+    ],
+    "jp": "シルバーロッドのスキルを解放します。"
+  },
+  {
+    "index": 1073,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_00"
+    ],
+    "jp": "ストライクロッドに内包されている成長マテリア。\r\nエアリスのスキルポイントを使用し、スキルを解放していくと\r\nストライクロッドの性能を向上することができます。"
+  },
+  {
+    "index": 1074,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_01",
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_02",
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0003_05"
+    ],
+    "jp": "ストライクロッドのスキルを解放します。"
+  },
+  {
+    "index": 1075,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_00"
+    ],
+    "jp": "ミスリルロッドに内包されている成長マテリア。\r\nエアリスのスキルポイントを使用し、スキルを解放していくと\r\nミスリルロッドの性能を向上することができます。"
+  },
+  {
+    "index": 1076,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_01",
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_02",
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0004_05"
+    ],
+    "jp": "ミスリルロッドのスキルを解放します。"
+  },
+  {
+    "index": 1077,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_00"
+    ],
+    "jp": "フルメタルロッドに内包されている成長マテリア。\r\nエアリスのスキルポイントを使用し、スキルを解放していくと\r\nフルメタルロッドの性能を向上することができます。"
+  },
+  {
+    "index": 1078,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_01",
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_02",
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0005_05"
+    ],
+    "jp": "フルメタルロッドのスキルを解放します。"
+  },
+  {
+    "index": 1079,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_00"
+    ],
+    "jp": "マジカルロッドに内包されている成長マテリア。\r\nエアリスのスキルポイントを使用し、スキルを解放していくと\r\nマジカルロッドの性能を向上することができます。"
+  },
+  {
+    "index": 1080,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_01",
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_02",
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_03",
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_04",
+      "$menu_WeaponUpgrade_Core_help_ROD_0006_05"
+    ],
+    "jp": "マジカルロッドのスキルを解放します。"
+  },
+  {
+    "index": 1081,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_01"
+    ],
+    "jp": "ブレイブモード中防御力25％UP"
+  },
+  {
+    "index": 1082,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_03"
+    ],
+    "jp": "最大MP+20\r\n魔法攻撃力+20"
+  },
+  {
+    "index": 1083,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_04"
+    ],
+    "jp": "最大HP+300\r\n物理攻撃力+30"
+  },
+  {
+    "index": 1084,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0001_05"
+    ],
+    "jp": "最大MP+30\r\n魔法攻撃力+30"
+  },
+  {
+    "index": 1085,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_01"
+    ],
+    "jp": "ブレイブモードの『強撃』の連続回数が増えます。"
+  },
+  {
+    "index": 1086,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_03",
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_04",
+      "$menu_WeaponUpgrade_Core_help_TSW_0002_05"
+    ],
+    "jp": "アイアンブレードのスキルを解放します。"
+  },
+  {
+    "index": 1087,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_00"
+    ],
+    "jp": "ハードブレイカーに内包されている成長マテリア。\r\nクラウドのスキルポイントを使用し、スキルを解放していくと\r\nハードブレイカーの性能を向上することができます。"
+  },
+  {
+    "index": 1088,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_01",
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_03",
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_04",
+      "$menu_WeaponUpgrade_Core_help_TSW_0003_05"
+    ],
+    "jp": "ハードブレイカーのスキルを解放します。"
+  },
+  {
+    "index": 1089,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_00"
+    ],
+    "jp": "ミスリルセイバーに内包されている成長マテリア。\r\nクラウドのスキルポイントを使用し、スキルを解放していくと\r\nミスリルセイバーの性能を向上することができます。"
+  },
+  {
+    "index": 1090,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_01",
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_03",
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_04",
+      "$menu_WeaponUpgrade_Core_help_TSW_0004_05"
+    ],
+    "jp": "ミスリルセイバーのスキルを解放します。"
+  },
+  {
+    "index": 1091,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_00"
+    ],
+    "jp": "ツインスティンガーに内包されている成長マテリア。\r\nクラウドのスキルポイントを使用し、スキルを解放していくと\r\nツインスティンガーの性能を向上することができます。"
+  },
+  {
+    "index": 1092,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_01",
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_03",
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_04",
+      "$menu_WeaponUpgrade_Core_help_TSW_0005_05"
+    ],
+    "jp": "ツインスティンガーのスキルを解放します。"
+  },
+  {
+    "index": 1093,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_00"
+    ],
+    "jp": "釘バットに内包されている成長マテリア。\r\nクラウドのスキルポイントを使用し、スキルを解放していくと\r\n釘バットの性能を向上することができます。"
+  },
+  {
+    "index": 1094,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_01",
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_02",
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_03",
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_04",
+      "$menu_WeaponUpgrade_Core_help_TSW_0006_05"
+    ],
+    "jp": "釘バットのスキルを解放します。"
+  },
+  {
+    "index": 1095,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_03",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_05",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_05"
+    ],
+    "jp": "武器アビリティで与えるダメージが5％上がります。"
+  },
+  {
+    "index": 1096,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_03",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_01"
+    ],
+    "jp": "リベンジモードの継続時間が長くなります。"
+  },
+  {
+    "index": 1097,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_05",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_03",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_00"
+    ],
+    "jp": "『ドレインバイト』で吸収するＨＰが増えます。"
+  },
+  {
+    "index": 1098,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0001_08",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_04",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_06",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_03",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_04",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_01"
+    ],
+    "jp": "『たたかう』で与えるダメージが5％上がります。"
+  },
+  {
+    "index": 1099,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_07",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_09",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_08",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_05",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_06",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_06",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_07",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_06"
+    ],
+    "jp": "『たたかう』などの行動時のＡＴＢゲージ増加量が上がります。"
+  },
+  {
+    "index": 1100,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_02"
+    ],
+    "jp": "戦闘不能回復時にリベンジゲージが増えます。"
+  },
+  {
+    "index": 1101,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_04"
+    ],
+    "jp": "自分が受けるＨＰ回復量が25％上がります。"
+  },
+  {
+    "index": 1102,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_06",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_00",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_08"
+    ],
+    "jp": "リベンジゲージの増加量が上がります。"
+  },
+  {
+    "index": 1103,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0106_05",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_05",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_07",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_01",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_08",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_03",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_08",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_07",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_05",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_06",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_03"
+    ],
+    "jp": "物理攻撃力が20上がります。"
+  },
+  {
+    "index": 1104,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0102_08",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_03",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_06",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_05",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_05",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_06",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_03",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_06",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_01",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_04",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0106_02"
+    ],
+    "jp": "魔法攻撃力が20上がります。"
+  },
+  {
+    "index": 1105,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0103_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_06",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_06",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_05",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_06",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_03",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_08"
+    ],
+    "jp": "リミット技で与えるダメージが10％上がります。"
+  },
+  {
+    "index": 1106,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_05"
+    ],
+    "jp": "戦闘開始時にＡＴＢゲージが少し増えます。"
+  },
+  {
+    "index": 1107,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0104_09",
+      "$menu_WeaponUpgrade_Core_help_W_CLR_0105_06",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_04",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_09",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_08",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_03",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0101_09"
+    ],
+    "jp": "武器アビリティ使用時の消費ＡＴＢが節約されます。"
+  },
+  {
+    "index": 1108,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0103_07"
+    ],
+    "jp": "『秘技解放』効果の継続時間が長くなります。"
+  },
+  {
+    "index": 1109,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0001_01",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_00",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_00"
+    ],
+    "jp": "『秘技解放』効果中の攻撃力が上がります。"
+  },
+  {
+    "index": 1110,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_06",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_05",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_03"
+    ],
+    "jp": "連携アクション、連携アビリティで与えるダメージが上がります。"
+  },
+  {
+    "index": 1111,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0102_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_03"
+    ],
+    "jp": "敵をバーストしたときのリミットゲージ増加量が上がります。"
+  },
+  {
+    "index": 1112,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_07"
+    ],
+    "jp": "自分が行うＨＰ回復量が10％上がります。"
+  },
+  {
+    "index": 1113,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0104_09"
+    ],
+    "jp": "バースト中の敵に固有アビリティで攻撃するとＨＰが回復します。"
+  },
+  {
+    "index": 1114,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0105_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_06"
+    ],
+    "jp": "最大ＭＰが15上がります。"
+  },
+  {
+    "index": 1115,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_02",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_05",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_03",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_07",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_04",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_03",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_07",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_00",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_08"
+    ],
+    "jp": "クリティカル率が5％上がります。"
+  },
+  {
+    "index": 1116,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_03",
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_02",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_04",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_07",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_09"
+    ],
+    "jp": "クリティカル時に与えるダメージが10％上がります。"
+  },
+  {
+    "index": 1117,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GLV_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0103_09",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_02",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0104_06"
+    ],
+    "jp": "武器アビリティのクリティカル率が上がります。"
+  },
+  {
+    "index": 1118,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0001_07",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_01"
+    ],
+    "jp": "『ぶっぱなす』後に自身へのプロテスが発動します。"
+  },
+  {
+    "index": 1119,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0104_04",
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_02"
+    ],
+    "jp": "敵をバーストしたときに『ぶっぱなす』のエネルギーがたまります。"
+  },
+  {
+    "index": 1120,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0102_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_09",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_06",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_07",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_06",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_02"
+    ],
+    "jp": "１度だけ戦闘不能をＨＰ１で耐えます。"
+  },
+  {
+    "index": 1121,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0105_05"
+    ],
+    "jp": "バースト中の敵に『ぶっぱなす』で攻撃するとＨＰが回復します。"
+  },
+  {
+    "index": 1122,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_GUN_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_04",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_09",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_09"
+    ],
+    "jp": "ＡＴＢゲージ消費に応じてリミットゲージが増えます。"
+  },
+  {
+    "index": 1123,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_00",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_00",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_00"
+    ],
+    "jp": "モーグリが敵に狙われやすくなります。"
+  },
+  {
+    "index": 1124,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0103_08",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_00"
+    ],
+    "jp": "モーグリが受けるダメージが下がります。"
+  },
+  {
+    "index": 1125,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_00",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_05",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0106_01"
+    ],
+    "jp": "モーグリ騎乗時に運が上がります。"
+  },
+  {
+    "index": 1126,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0001_03",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0101_00",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0102_01",
+      "$menu_WeaponUpgrade_Core_help_W_MGP_0105_00"
+    ],
+    "jp": "モーグリの攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 1127,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_01",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_01",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_00",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_05",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_01"
+    ],
+    "jp": "マジカルサーバントの出現時間が長くなります。"
+  },
+  {
+    "index": 1128,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_03",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_08",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_02",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0106_02"
+    ],
+    "jp": "『アスピル』で吸収するＭＰが増えます。"
+  },
+  {
+    "index": 1129,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0001_05",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_01",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0102_01",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_02"
+    ],
+    "jp": "魔法陣の出現時間が長くなります。"
+  },
+  {
+    "index": 1130,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0101_04",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0103_07",
+      "$menu_WeaponUpgrade_Core_help_W_ROD_0105_04"
+    ],
+    "jp": "『魔法陣ワープ』再使用までの時間が短くなります。"
+  },
+  {
+    "index": 1131,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_02"
+    ],
+    "jp": "『ぬすむ』成功時に自身へのブレイブが発動します。"
+  },
+  {
+    "index": 1132,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0001_05",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0102_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_00",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0106_02"
+    ],
+    "jp": "手裏剣の滞空時間が長くなります。"
+  },
+  {
+    "index": 1133,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_02",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0104_01",
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0105_09"
+    ],
+    "jp": "ジャストガード成功時にＡＴＢゲージが増えます。"
+  },
+  {
+    "index": 1134,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_SHR_0101_03"
+    ],
+    "jp": "ジャストガード成功時に自身へのリジェネが発動します。"
+  },
+  {
+    "index": 1135,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0001_02",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_05"
+    ],
+    "jp": "ブレイブモード中の攻撃で与えるダメージが上がります。"
+  },
+  {
+    "index": 1136,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0102_07"
+    ],
+    "jp": "ＭＰ満タン時にＭＰ消費攻撃のダメージが上がります。"
+  },
+  {
+    "index": 1137,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_06",
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0105_01"
+    ],
+    "jp": "ブレイブモードの防御力が上がります。"
+  },
+  {
+    "index": 1138,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_07"
+    ],
+    "jp": "物理防御力が50上がります。"
+  },
+  {
+    "index": 1139,
+    "ids": [
+      "$menu_WeaponUpgrade_Core_help_W_TSW_0103_08"
+    ],
+    "jp": "ガード成功時のリミットゲージの増加量が上がります。"
+  }
+]

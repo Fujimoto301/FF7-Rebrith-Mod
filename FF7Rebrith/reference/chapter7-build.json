@@ -1,0 +1,17 @@
+{
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "source": "translations/working-through-chapter7-th.json",
+  "stage": "staging/ThaiJP_ThroughChapter7_Working",
+  "qa": "qa/chapter7",
+  "cluster_map": "reference/through-chapter7-cluster-map.json",
+  "seed": "reference/ch1-6-recheck-cluster-map.json",
+  "punctuation_policy": "reference/dialogue-punctuation-policy.json"
+}

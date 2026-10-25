@@ -1,0 +1,6977 @@
+[
+  {
+    "index": 2461,
+    "id": "$CARDG_QST_08_0100_0100_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう　怖い……\r\nでも　バウトしたい",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Unnnhhh... I want to play, but...what if I lose?",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2462,
+    "id": "$CARDG_QST_08_0100_0200_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うう……自分から話しかけてみようかな\r\nでも　負けたらどうしよう",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "I should just go up and challenge someone. Yeah! No─wait, what if they're better than me?",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2463,
+    "id": "$CARDG_QST_08_0100_0300_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう　弱いバウターが\r\n話しかけてくれないかなあ",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Maybe if I look pathetic enough some QB rookie'll take pity on me...",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2464,
+    "id": "$CARDG_QST_08_0200_0100_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うわ　ななな　なんですか\r\nびっくりするじゃないですか！",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Eep! Wh-what do you want!?\r\nDon't scare me like that!",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2465,
+    "id": "$CARDG_QST_08_0200_0200_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もしかしてクイーンズ・ブラッドですか？\r\nええ……やだなあ　見るからに強そうだもんな～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "You...you don't wanna play Queen's Blood, do you? I was hoping that... Oh, what am I thinking? You look like you'd murder me.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2466,
+    "id": "$CARDG_QST_08_0200_0300_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう……怖いよう",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Oh god, this is too much. I think I'm gonna throw up.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2467,
+    "id": "$CARDG_QST_08_0200_0400_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ああ　その顔\r\nいきなり大人が泣き始めて　呆れていますね",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Don't give me that look! It's perfectly healthy for adults to cry too, y'know!",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2468,
+    "id": "$CARDG_QST_08_0200_0500_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう……僕は『泣き虫のシェド』",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "People call me Crybaby Ned...",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2469,
+    "id": "$CARDG_QST_08_0200_0600_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "泣けば泣くほど　強くなるんです！\r\nううう……対戦よろしくお願いします～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Because the more tears I shed, the better I get at Queen's Blood! Please play a round with me!",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2470,
+    "id": "$CARDG_QST_08_0200_0700_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう……\r\n泣き虫の相手はしたくないんですね",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "...I get it. No one wants to play with a crybaby.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2471,
+    "id": "$CARDG_QST_08_0200_0800_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう……また来たんですね\r\n怖いよう　でも負けたくないよ～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Eep! Oh no, you're back! I don't wanna lose...but I do wanna play.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2472,
+    "id": "$CARDG_QST_08_0200_0900_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ばばば　バウトするんですか？",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Would you go a round with me?",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2473,
+    "id": "$CARDG_QST_08_0300_0100_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あちゃ～　負けちゃったか～\r\nでも　たくさん泣いてスッキリしました！",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Oh god, I lost! But...I feel a lot better\r\nafter having a good cry.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2474,
+    "id": "$CARDG_QST_08_0300_0200_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "やっぱり　ストレス解消には\r\nカードバウトがいちばんですね",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "There's nothing like a game of\r\nQueen's Blood to relieve some stress.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2475,
+    "id": "$CARDG_QST_08_0300_0300_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "おやおや～\r\nあなたも　相当なストレスを溜め込んでますね",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Speaking of... You look like you've\r\ngot a lot weighing you down too.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2476,
+    "id": "$CARDG_QST_08_0300_0400_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "顔を見ればわかります\r\n大泣きバウト　オススメですよ～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "It's written all over your face.\r\nTrust me: crying does wonders.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2477,
+    "id": "$CARDG_QST_08_0300_0500_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ぜひ　やってみてください！",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "You really oughta try it!",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2478,
+    "id": "$CARDG_QST_08_0300_0600_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これが　泣き虫の力です～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Never underestimate a crybaby...",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2479,
+    "id": "$CARDG_QST_08_0300_0700_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "泣き虫だって　噛みつくんですよ……",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Even crybabies can fight back...",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2480,
+    "id": "$CARDG_QST_08_0300_0800_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ううう　スッキリしない結果だよ～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "That didn't make me feel better at all...",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2481,
+    "id": "$CARDG_QST_08_0300_0900_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いや～　清々しいほどに負けました！",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Whew... That was so refreshing!",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2482,
+    "id": "$CARDG_QST_08_0300_1000_00_shd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "負けると　気分が晴れるんですよね～",
+    "MetaData": {
+      "ACTOR": "シェド"
+    },
+    "English": {
+      "Text": "Losing always makes me feel much better.",
+      "MetaData": {
+        "ACTOR": "Ned"
+      }
+    }
+  },
+  {
+    "index": 2483,
+    "id": "$CARDG_QST_08_0400_0100_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お嬢ちゃんはホント\r\nクイーンズ・ブラッドが好きだねえ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "A little birdie told me you can't get enough of that card game, Queen's Blood.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2484,
+    "id": "$CARDG_QST_08_0400_0200_00_nen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うん……好き",
+    "MetaData": {
+      "ACTOR": "ネネ"
+    },
+    "English": {
+      "Text": "Yeah... It's true.",
+      "MetaData": {
+        "ACTOR": "Nene"
+      }
+    }
+  },
+  {
+    "index": 2485,
+    "id": "$CARDG_QST_08_0400_0300_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さあ　次はどのスットコドッコイと\r\nバウトするかな",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Alright. How's about we give these two-bit chumps a whoopin'!?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2486,
+    "id": "$CARDG_QST_08_0400_0400_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "新しく仕入れたカードはどうだい？\r\nしっかり使いこなせているかい",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Looks like you got yourself some new cards. So, you figured out what to do with 'em?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2487,
+    "id": "$CARDG_QST_08_0400_0500_00_nen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "う～ん　むずかしい",
+    "MetaData": {
+      "ACTOR": "ネネ"
+    },
+    "English": {
+      "Text": "No... Not yet.",
+      "MetaData": {
+        "ACTOR": "Nene"
+      }
+    }
+  },
+  {
+    "index": 2488,
+    "id": "$CARDG_QST_08_0400_0600_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ビビらず　どんどん使って慣れるこった",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Well, ya ain't gonna learn nothin' unless ya try 'em out!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2489,
+    "id": "$CARDG_QST_08_0500_0100_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お～っと　新しい挑戦者が来やがったぜ！",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Ooh, lookie here!\r\nI'd say we got ourselves a contender!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2490,
+    "id": "$CARDG_QST_08_0500_0110_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ヘイ　兄ちゃん\r\nいっちょ　バウトしていくか？",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "So how 'bout it, pretty boy?\r\nYou wanna throw down?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2491,
+    "id": "$CARDG_QST_08_0500_0200_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このお嬢ちゃんは\r\n『腹話術師のネネ』っていうんだ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "But first, lemme introduce you to\r\nNene, master ventriloquist.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2492,
+    "id": "$CARDG_QST_08_0500_0300_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ちょっとシャイだが　ここぞという時は大爆発する\r\n絶賛成長中のバウターさ！",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Now, she ain't much of a talker, but give her a deck of cards, and she'll wipe the floor with ya so fast,\r\nit'll make your head spin!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2493,
+    "id": "$CARDG_QST_08_0500_0400_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ナメてかかると　痛い目をみるぜ？",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Ready to get your ass handed to ya?\r\nWell, are ya?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2494,
+    "id": "$CARDG_QST_08_0500_0500_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なんだ　ビビってんのか？",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Aw, what's the matter? Ya scared?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2495,
+    "id": "$CARDG_QST_08_0500_0600_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "おっ　いいところに来たな\r\nお嬢ちゃんの相手になってやってくんねえか？",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Just so you know, Nene and her cards are ready for a game...if you got the guts.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2496,
+    "id": "$CARDG_QST_08_0500_0700_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よう兄ちゃん　ヒマしてんなら\r\nお嬢ちゃんとバウトしていってくれよ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Pretty boy couldn't stay away, I see. If you're here to get your ass kicked, then step right up!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2497,
+    "id": "$CARDG_QST_08_0600_0100_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あちゃ～　負けちまったな\r\nまあ　そんな時もあるさ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Whew, this guy packs one hell of a punch!\r\nBut hey, ya can't win 'em all!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2498,
+    "id": "$CARDG_QST_08_0600_0200_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お嬢ちゃんは　強えヤツに挑んだ\r\nそのチャレンジ精神を忘れちゃいけねえ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Besides, what really matters is you were brave enough to take on a bona fide card shark like pretty boy here.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2499,
+    "id": "$CARDG_QST_08_0600_0300_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "負けを恐れてちゃあ　強くなれねえからな",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Sometimes, ya gotta take the L if you're serious about uppin' your game.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2500,
+    "id": "$CARDG_QST_08_0600_0400_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お嬢ちゃんの爆発　しっかりと見届けたぜ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Listen, kid, ya got what it takes to be a champ.\r\nI'd bet my bottom gil on it!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2501,
+    "id": "$CARDG_QST_08_0600_0410_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さあ　いっしょに遊んでくれた兄ちゃんに\r\nお礼を言いな！",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Now why don'tcha show blondie your appreciation for bein' such a good sport?",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2502,
+    "id": "$CARDG_QST_08_0600_0500_00_nen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "対戦　ありがとうございました",
+    "MetaData": {
+      "ACTOR": "ネネ"
+    },
+    "English": {
+      "Text": "Thank you for playing cards with me, mister.",
+      "MetaData": {
+        "ACTOR": "Nene"
+      }
+    }
+  },
+  {
+    "index": 2503,
+    "id": "$CARDG_QST_08_0600_0600_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どうだ　見たか！\r\nうちのお嬢ちゃん　キレキレだったろ",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Pow! How do ya like them apples? She might be small, but she's got power where it counts!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2504,
+    "id": "$CARDG_QST_08_0600_0700_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ハッハー　どんなもんよ\r\nこれがうちのお嬢ちゃんの爆発力よ！",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Didja see that? Oughta be grateful, pal.\r\nYa just got schooled by a future champ!",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2505,
+    "id": "$CARDG_QST_08_0600_0800_00_hem",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うちのお嬢ちゃん相手に引き分けるたあ\r\nなかなか　やるじゃねえか！",
+    "MetaData": {
+      "ACTOR": "ヘモヘモ"
+    },
+    "English": {
+      "Text": "Hey, not bad. Ya gotta be a top-level player to even draw against Nene, y'know.",
+      "MetaData": {
+        "ACTOR": "Mr. Cuddlesworth"
+      }
+    }
+  },
+  {
+    "index": 2506,
+    "id": "$CARDG_QST_08_0600_0900_00_nen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すごく勉強になりました\r\nまた遊んでください",
+    "MetaData": {
+      "ACTOR": "ネネ"
+    },
+    "English": {
+      "Text": "Thank you, I learned a lot.\r\nCome back again, please.",
+      "MetaData": {
+        "ACTOR": "Nene"
+      }
+    }
+  },
+  {
+    "index": 2507,
+    "id": "$CARDG_QST_08_0600_1000_00_nen",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いっしょに遊んでくれて　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "ネネ"
+    },
+    "English": {
+      "Text": "You're a really great player...\r\nThanks again, mister.",
+      "MetaData": {
+        "ACTOR": "Nene"
+      }
+    }
+  },
+  {
+    "index": 2508,
+    "id": "$CARDG_QST_08_0700_0100_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "フフフ　なんて美しい壁\r\n壁に囲まれていると安心するわ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "...What a glorious wall, keeping us safe and secure. I could gaze at it all day.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2509,
+    "id": "$CARDG_QST_08_0700_0200_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そそりたつ壁のように\r\n私も　強くなりたいものね",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Oh, I only hope I can someday become as strong as our bailey here.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2510,
+    "id": "$CARDG_QST_08_0700_0300_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームの壁に比べて\r\nなんともろいバウターばかりか",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "The players here are so frail in comparison to this majestic wall.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2511,
+    "id": "$CARDG_QST_08_0800_0100_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私の壁を壊して入ってくるなんて　失礼な人ね",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Excuse me.\r\nThat was my barricade you just destroyed.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2512,
+    "id": "$CARDG_QST_08_0800_0200_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なに　あなたもカームの壁を鑑賞しにきたの？",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Oh, come to admire the bailey?\r\nIt is something.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2513,
+    "id": "$CARDG_QST_08_0800_0300_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それとも　私とクイーンズ・ブラッドが\r\nやりたいのかしら",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Or maybe...you're here to get your\r\nass handed to you in a QB match?",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2514,
+    "id": "$CARDG_QST_08_0800_0400_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私は『鉄壁のジーヴル』",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "I'm Zahira. A pleasure.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2515,
+    "id": "$CARDG_QST_08_0800_0500_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームの壁のように　何事にも動じず\r\n凛々しく　美しく守り切るカードバウター",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Just like Kalm's wall, I yield to no one─refusing to give a single inch to my opponents.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2516,
+    "id": "$CARDG_QST_08_0800_0600_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私という壁にぶつかって\r\nただで済んだ者はいないわ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Don't presume you'll emerge unscathed\r\nif you decide to go up against me.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2517,
+    "id": "$CARDG_QST_08_0800_0610_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "生半可な気持ちで挑戦するなら　やめておきなさい",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Because you <i>will</i> wind up\r\nwith more than just a few bruises.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2518,
+    "id": "$CARDG_QST_08_0800_0700_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "壁は逃げないわ　またいつでもどうぞ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Challenging me would've been like banging your head against the wall.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2519,
+    "id": "$CARDG_QST_08_0800_0800_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームの壁を見て　勉強してきた？",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Well, don't say I didn't warn you.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2520,
+    "id": "$CARDG_QST_08_0800_0900_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "守りだけじゃなく　攻めを覚えた私は強いわよ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "I'm skilled not only in defense,\r\nbut in offensive strategies as well.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2521,
+    "id": "$CARDG_QST_08_0900_0100_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そんな……難攻不落の守りが崩されるなんて\r\nあなた何者？",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Impossible. How could someone break through my perfect defense? Who <i>are</i> you?",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2522,
+    "id": "$CARDG_QST_08_0900_0200_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うすうす感じていたの\r\n壁の中で閉じこもっているだけではダメだって",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "...Deep down, I always knew. I knew I\r\ncouldn't stay holed up in here forever.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2523,
+    "id": "$CARDG_QST_08_0900_0300_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "壁は優しく守ってくれるけど\r\nいつかは乗り越えないといけないのよね",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Walls can keep people safe, but even\r\nthe sturdiest ones eventually crumble.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2524,
+    "id": "$CARDG_QST_08_0900_0400_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うん　決めた\r\n今日からは　あなたが私の壁よ！",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Right. Starting today, <i>you</i> will be\r\nmy new \"wall,\" as it were.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2525,
+    "id": "$CARDG_QST_08_0900_0500_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "必ず越えてみせるから　覚悟してなさい",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "And I am going to enjoy watching you crumble.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2526,
+    "id": "$CARDG_QST_08_0900_0600_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "壁が高すぎたようね",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Guess I was too formidable for you.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2527,
+    "id": "$CARDG_QST_08_0900_0700_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "壁に守り方を教えてもらいなさい",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Perhaps you should shore up your own defenses.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2528,
+    "id": "$CARDG_QST_08_0900_0800_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まさに双璧　やるじゃないの",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Well, it seems we're both equally unassailable.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2529,
+    "id": "$CARDG_QST_08_0900_0900_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "障壁は高ければ高いほど燃えるわ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "No matter the obstacle, I <i>will</i> surmount it.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2530,
+    "id": "$CARDG_QST_08_0900_1000_00_gvr",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さすがね　ますます挑みがいがあるわ",
+    "MetaData": {
+      "ACTOR": "ジーヴル"
+    },
+    "English": {
+      "Text": "Well played. I always learn something new from you.",
+      "MetaData": {
+        "ACTOR": "Zahira"
+      }
+    }
+  },
+  {
+    "index": 2531,
+    "id": "$MOGLE_QST_01_0100_0100_00_cld",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ここは……？",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "What the...?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    }
+  },
+  {
+    "index": 2532,
+    "id": "$MOGLE_QST_01_0100_0200_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリショップに　ようこそクポ！",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Welcome to our moogle emporium!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2533,
+    "id": "$MOGLE_QST_01_0100_0210_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "でも　ごめんなさいクポ\r\nまだ開店前クポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Though I'm sorry to say we aren't open quite yet, and I'm not even sure when we will be.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2534,
+    "id": "$MOGLE_QST_01_0100_0300_00_lmg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クポクポ～！",
+    "MetaData": {
+      "ACTOR": "コモーグリ"
+    },
+    "English": {
+      "Text": "Kupo! Kupo!",
+      "MetaData": {
+        "ACTOR": "Mooglets"
+      }
+    }
+  },
+  {
+    "index": 2535,
+    "id": "$MOGLE_QST_01_0100_0400_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの子たちが帰ってこなくて\r\nお店を開けられないのクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Those mooglets are refusing to come back, and we can't do business without them, kupo.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2536,
+    "id": "$MOGLE_QST_01_0100_0500_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そこで　お客さんにお願いがあるのクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Actually... Maybe you wouldn't mind helping?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2537,
+    "id": "$MOGLE_QST_01_0100_0600_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "遊んでいる子供たちを\r\nこのモーグリハウスに連れ戻してほしいクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "The mooglets are having too much fun to come back on their own, so I want you to round them up.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2538,
+    "id": "$MOGLE_QST_01_0100_0700_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そうすれば\r\nモーグリショップを開店できるのクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "And then we can open up the emporium─and everyone will be happy, kupo!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2539,
+    "id": "$MOGLE_QST_01_0100_0800_00_cld",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わかった　手を貸そう",
+    "MetaData": {
+      "ACTOR": "クラウド"
+    },
+    "English": {
+      "Text": "Fine. I'll see what I can do.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    }
+  },
+  {
+    "index": 2540,
+    "id": "$MOGLE_QST_01_0100_0900_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ありがとうクポ！",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Thanks so much, kupo!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2541,
+    "id": "$MOGLE_QST_01_0200_0100_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うちの子たちを連れ戻してほしいクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Please bring back all the mooglets for me, kupo!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2542,
+    "id": "$MOGLE_QST_01_0200_0200_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "子供たちを集めてほしいクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Would you mind rounding up all the mooglets for me?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2543,
+    "id": "$MOGLE_QST_01_0200_0300_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "子供たちが遊んでて　開店できないのクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "The mooglets are all having too much fun playing, and I can't open the shop without them.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2544,
+    "id": "$MOGLE_QST_01_0200_0400_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "『モーグリ・コープ』に挑戦しますか？",
+    "MetaData": {},
+    "English": {
+      "Text": "Play Moogle Mischief?"
+    }
+  },
+  {
+    "index": 2545,
+    "id": "$MOGLE_QST_01_0200_0500_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "はい",
+    "MetaData": {},
+    "English": {
+      "Text": "Yes"
+    }
+  },
+  {
+    "index": 2546,
+    "id": "$MOGLE_QST_01_0200_0600_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いいえ",
+    "MetaData": {},
+    "English": {
+      "Text": "No"
+    }
+  },
+  {
+    "index": 2547,
+    "id": "$MOGLE_QST_01_0200_0700_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "またお願いするクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Maybe another time, then?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2548,
+    "id": "$MOGLE_QST_01_0200_0800_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "はやく開店したいクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "I was really hoping to open the emporium.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2549,
+    "id": "$MOGLE_QST_01_0200_0900_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "困った子たちクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Those mooglets are such a pawful.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2550,
+    "id": "$MOGLE_QST_01_0300_0100_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もう帰るクポ？",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "You're leaving already?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2551,
+    "id": "$MOGLE_QST_01_0300_0200_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "やめちゃうクポ？",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Do you wanna stop?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2552,
+    "id": "$MOGLE_QST_01_0300_0300_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あきらめちゃうクポ？",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "You're giving up, kupo?",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2553,
+    "id": "$MOGLE_QST_01_0300_0400_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "元の世界に戻りますか？",
+    "MetaData": {},
+    "English": {
+      "Text": "Return to your world?"
+    }
+  },
+  {
+    "index": 2554,
+    "id": "$MOGLE_QST_01_0300_0500_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "はい",
+    "MetaData": {},
+    "English": {
+      "Text": "Yes"
+    }
+  },
+  {
+    "index": 2555,
+    "id": "$MOGLE_QST_01_0300_0600_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いいえ",
+    "MetaData": {},
+    "English": {
+      "Text": "No"
+    }
+  },
+  {
+    "index": 2556,
+    "id": "$MOGLE_QST_01_0400_0100_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うちの子たちは手ごわいクポ\r\nがんばってクポ！",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Those mooglets can be a real pain in the pom. Good luck!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2557,
+    "id": "$MOGLE_QST_01_0400_0200_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "子供たちをよろしく頼んだクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "I'm counting on you to bring them back, kupo!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2558,
+    "id": "$MOGLE_QST_01_0400_0300_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みんな　いたずらっ子だから\r\n気をつけるクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Word of warning: they're all huge troublemakers.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2559,
+    "id": "$MOGLE_QST_01_1000_0100_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ありがとうクポ\r\nこれで　お店をひらけるクポ！",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Thanks so much, kupo!\r\nNow we can finally open the emporium.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2560,
+    "id": "$MOGLE_QST_01_1000_0200_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みんなで集めたメイヒン　チンピンを\r\n『モーグリメダル』と交換するクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Here you can exchange moogle medals for cool stuff we've found lying around. Everything's great, I promise!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2561,
+    "id": "$MOGLE_QST_01_1000_0300_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリハウスは\r\n世界にあと６つあるクポ",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Just so you know, there are six more mogstools out there, kupo.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2562,
+    "id": "$MOGLE_QST_01_1000_0310_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "見つけたら　助けてあげてほしいクポ～",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "So be sure to say hi to my friends if you find one.",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2563,
+    "id": "$MOGLE_QST_01_1000_0400_00_mog",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お店が増えれば　商品もどんどん増えていくクポ\r\nぜひ　協力をお願いするクポ！",
+    "MetaData": {
+      "ACTOR": "モーグリ店長"
+    },
+    "English": {
+      "Text": "Also, the more emporiums we open up, the more stuff we'll have for you to buy! That's a win-win situation in my books, kupo!",
+      "MetaData": {
+        "ACTOR": "Moogle Merchant"
+      }
+    }
+  },
+  {
+    "index": 2564,
+    "id": "$WORLD_CDV_01_0100_0100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\n本日は　どういった研究をしましょうか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Hello, Cloud. Would you care to assist me with my research?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2565,
+    "id": "$WORLD_CDV_01_0100_0200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ワールドレポートの進捗はいかがですか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "How goes the hunt for world intel?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2566,
+    "id": "$WORLD_CDV_01_0100_0300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もし　困っていることがあったら\r\nなんでも言ってくださいね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Should you require assistance, please do not hesitate to ask.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2567,
+    "id": "$WORLD_CDV_01_0100_0400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさんと再会して\r\nボク自身の　ドキドキを検知",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Seeing you again has elicited quite the emotional response in me...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2568,
+    "id": "$WORLD_CDV_01_0100_0410_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どんなレポートをいただけるか楽しみです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I must be excited to see your progress!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2569,
+    "id": "$WORLD_CDV_01_0100_0500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん　旅はいいですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "What a beautiful thing it is, to travel the world.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2570,
+    "id": "$WORLD_CDV_01_0100_0600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "遅まきながら　実際に目で見て\r\n手で触れる良さに気がつきました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I only wish that I had been afforded the opportunity to do so sooner.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2571,
+    "id": "$WORLD_CDV_01_0100_0700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ふむふむ　クラウドさんの健康状態をチェック\r\nバイタルは正常ですが　すこし寝不足みたいですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Checking vitals... It would appear you are in fine health, Cloud─if perhaps a little fatigued. Nothing a good night's sleep can't address though, I'm sure.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2572,
+    "id": "$WORLD_CDV_01_0100_0800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "休めるときに　しっかり休んでくださいね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Please rest at your earliest convenience.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2573,
+    "id": "$WORLD_CDV_01_0100_1300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さあ　お話はこのへんにして\r\n本日も研究を進めていきましょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Now then, let us get down to business. Our research won't conduct itself!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2574,
+    "id": "$WORLD_CDV_01_0100_1400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すこし話しすぎましたね\r\n今日は　どういったご用件ですか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "But we can exchange pleasantries some other time. How may I help you?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2575,
+    "id": "$WORLD_CDV_01_0100_1500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それでは　そろそろ本題に入りましょうか",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Anyway. To what do I owe the pleasure?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2576,
+    "id": "$WORLD_CDV_01_0100_1600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさんも　カームにいらっしゃったんですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I see you've made your way back to Kalm!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2577,
+    "id": "$WORLD_CDV_01_0100_1700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "見てください　この美しい街並み\r\nさすがは神羅社員の移住したい街ランキング第１位",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "This town's bucolic atmosphere and charming architecture have made it a popular retirement destination for former Shinra employees.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2578,
+    "id": "$WORLD_CDV_01_0100_1710_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "実際に目で見て　その理由がわかった気がします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "And now that I am here, it is not difficult to see why.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2579,
+    "id": "$WORLD_CDV_01_0100_1800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームの魔晄タンクは見ましたか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "No doubt you've noticed the mako tank.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2580,
+    "id": "$WORLD_CDV_01_0100_1900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あそこに　ミッドガルから送られてきた魔晄を\r\n貯蔵しているのですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "As the town has no reactor, it relies entirely on the mako Midgar harvests.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2581,
+    "id": "$WORLD_CDV_01_0100_1910_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カーム独自の魔晄供給システム　興味深いです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "A portion of said yield is retained in this tank as a reserve supply.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2582,
+    "id": "$WORLD_CDV_01_0100_2000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この街の歴史を　すこし調べてみました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Kalm has a truly fascinating history.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2583,
+    "id": "$WORLD_CDV_01_0100_2100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームは　共和国時代にグラスランドの\r\n交通網を支える宿場として発展したようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Founded as a way station for travelers in the time of the republic, it grew into a prosperous town...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2584,
+    "id": "$WORLD_CDV_01_0100_2200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミッドガル建設時にも活躍したそうですよ",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "and played a pivotal role in Midgar's construction!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2585,
+    "id": "$WORLD_CDV_01_0100_2300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この街は　どうやら約１０年前に\r\n神羅の手によって再建されているようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "According to my research, Shinra rebuilt Kalm from the ground up approximately ten years ago.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2586,
+    "id": "$WORLD_CDV_01_0100_2400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なぜか　その時期の記録が抹消されていて\r\n詳細は不明です　いったいなにがあったんでしょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Curiously, however, records from that time appear to have been erased. What could have necessitated such a large-scale reconstruction?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2587,
+    "id": "$WORLD_CDV_01_0100_2500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\nミスリルマインには行かれましたか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud! Have you been to the Mythril Mine yet?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2588,
+    "id": "$WORLD_CDV_01_0100_2600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミスリルの需要低下により\r\nずいぶんと昔に閉山したのですが",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Though operations were suspended due to a lack of demand quite a while ago...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2589,
+    "id": "$WORLD_CDV_01_0100_2610_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "しばらくは　観光スポットとして\r\n賑わっていたそうです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "the mines served as a tourist attraction for some time.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2590,
+    "id": "$WORLD_CDV_01_0100_2700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミスリルの洞窟　きっときれいなんでしょうね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "A cavern filled with mythril must be a sight to behold.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2591,
+    "id": "$WORLD_CDV_01_0100_2800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドのチョコボたちは\r\n豊かな草原に恵まれているおかげか",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The chocobos in this region are more docile than most, as you might have noticed.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2592,
+    "id": "$WORLD_CDV_01_0100_2900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "穏やかで　優しい性格をしていますね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The grasslands' verdancy may play a role in this.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2593,
+    "id": "$WORLD_CDV_01_0100_2910_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "初心者が乗るには　最適なチョコボだと思います",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Regardless, they're perfect for first-timers.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2594,
+    "id": "$WORLD_CDV_01_0100_3000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "す～は～　草原のかおりは安らぎますね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You can just smell life on the wind here, can't you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2595,
+    "id": "$WORLD_CDV_01_0100_3100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このあたりは　緑豊かな平地を利用して\r\n家畜を育てることで栄えてきました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The grasslands' rolling hills have long been used by ranchers to raise all manner of livestock.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2596,
+    "id": "$WORLD_CDV_01_0100_3200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "しかし　近年はミッドガルの魔晄炉の影響か\r\n生産量が落ちているようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Unfortunately, Midgar's mako reactors have impaired the land's ability to sustain life.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2597,
+    "id": "$WORLD_CDV_01_0200_0100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それでは　引き続き\r\nワールドレポートをよろしくお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I wish you all the best in your ongoing hunt for world intel.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2598,
+    "id": "$WORLD_CDV_01_0200_0200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "また　なにかお困りのことがありましたら\r\nいつでも声をかけてくださいね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "If there's anything else I can do for you, please let me know. I'm always happy to help.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2599,
+    "id": "$WORLD_CDV_01_0200_0300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "では　引き続き\r\n調査報告はこまめにお願いしますね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I look forward to seeing what new discoveries you make in your travels.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2600,
+    "id": "$WORLD_CDV_01_0200_0400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "次は　どこでクラウドさんとお会いできるのか\r\nいまからワクワクしています",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I can't help but wonder where we'll meet next. So many fascinating possibilities...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2601,
+    "id": "$WORLD_CDV_01_0200_0500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "旅はなにがあるかわかりません\r\nくれぐれも　気をつけてくださいね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Needless to say, many hazards await you on the road, so take care.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2602,
+    "id": "$WORLD_CDV_01_0200_0600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ご武運を祈ります　お気をつけて",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Good luck and...stay safe.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2603,
+    "id": "$WORLD_CDV_01_0200_0700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの　クラウドさん\r\n最近ワールドレポートの報告がないようですが",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I hope you won't mind my mentioning, but...I've observed that world intel collection has stalled of late.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2604,
+    "id": "$WORLD_CDV_01_0200_0800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まさか　世界でいちばんのなんでも屋さんが\r\n依頼を忘れるわけないですよね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm certain, however, a veteran mercenary like you would never abandon a task.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2605,
+    "id": "$WORLD_CDV_01_0200_0900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お忙しいかと思いますが　よろしくお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I know you must be busy, but I'd appreciate your help.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2606,
+    "id": "$WORLD_CDV_01_0200_1000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ところで　クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "By the way, Cloud...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2607,
+    "id": "$WORLD_CDV_01_0200_1100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お願いしてあった　エンシェントマターの調査は\r\nその後いかがでしょう？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Have you made any progress lately in the hunt for that protorelic I mentioned before?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2608,
+    "id": "$WORLD_CDV_01_0200_1200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "決して急かすつもりはありませんが\r\nボク　ず～っと待ってますからね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "If not, don't worry. I'm sure you have more pressing matters to attend to.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2609,
+    "id": "$WORLD_CDV_01_0200_1210_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どうか　よろしくお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Anyway, just checking in!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2610,
+    "id": "$WORLD_CDV_01_0200_1300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そういえば　クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Before I forget...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2611,
+    "id": "$WORLD_CDV_01_0200_1400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフスポットの調査で判明した\r\n希少モンスターの討伐はどうなっていますか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I was wondering if you might have time to study the unique fiend we identified earlier.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2612,
+    "id": "$WORLD_CDV_01_0200_1410_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "貴重な生体データを入手するチャンスです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Engaging it may yield valuable data.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2613,
+    "id": "$WORLD_CDV_01_0200_1500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "手強い相手だと思いますが\r\nしっかりと準備をしたうえで挑戦をお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "While combat does have its risks, with due preparation, I'm certain you would be up to the task.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2614,
+    "id": "$WORLD_CDV_01_0300_0100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "タイタンの鎮圧　お見事でした！\r\n大地を粉砕する剛腕は　まさに伝説級でしたね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Congratulations on toppling Titan! Though legendary, his earth-shattering strength was no match for your own.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2615,
+    "id": "$WORLD_CDV_01_0300_0200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "屈強な巨人は　きっとみなさんの旅を\r\nガッチリと支えてくれるはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm sure he'll provide you with steadfast support. You're in good hands now.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2616,
+    "id": "$WORLD_CDV_01_0300_0300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "頼もしい仲間を手に入れましたね！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "And rather large ones, at that!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2617,
+    "id": "$WORLD_CDV_01_0300_2300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すばらしいデータがとれました\r\nありがとうございます！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "This data is incredible!\r\nThank you for your contribution.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2618,
+    "id": "$WORLD_CDV_01_0300_2400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "華麗な勝利　お見事です！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You made short work of that simulation.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2619,
+    "id": "$WORLD_CDV_01_0300_2500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "シミュレーターでは物足りないですか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Are my trials not challenging enough?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2620,
+    "id": "$WORLD_CDV_01_0300_2600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "余裕の表情を検知　さすがですね！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I gather from your expression that you're eager for more.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2621,
+    "id": "$WORLD_CDV_01_0300_2700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさんのバトルデータが\r\n着実に集まってきました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Thanks to you, my archives are filling up with combat data.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2622,
+    "id": "$WORLD_CDV_01_0300_2800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "また　いつでも挑戦してください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I encourage you to try again sometime.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2623,
+    "id": "$WORLD_CDV_01_0300_2900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "何度でも挑戦できるのが\r\nシミュレーターのいいところですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Endless replayability is the simulator's greatest strength.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2624,
+    "id": "$WORLD_CDV_01_0300_3000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "今回の負けを　次に活かしましょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Analyzing one's failures can prove instructive.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2625,
+    "id": "$WORLD_CDV_01_0300_3100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "調子が悪い日もありますよね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Perhaps you're having an \"off day.\"",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2626,
+    "id": "$WORLD_CDV_01_0300_3200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "失敗した時のデータもしっかり活用するので\r\nご安心ください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Don't worry, even incomplete trials can provide me with useful data.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2627,
+    "id": "$WORLD_CDV_02_0100_0100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん　このあたりに\r\n『クラフトチップ』が埋まっているはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Hey, Cloud! It seems that a transmuter chip is buried nearby!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2628,
+    "id": "$WORLD_CDV_02_0100_0200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの嗅覚を使って\r\n周囲を探してみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You should be able to \"sniff it out\" with the aid of a chocobo.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2629,
+    "id": "$WORLD_CDV_02_0100_0300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あやしい場所を見つけたら\r\nあとはクチバシで掘り起こすだけです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Once you pinpoint its location, you can ask your bird to dig it up.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2630,
+    "id": "$WORLD_CDV_02_0100_0400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "では　レッツ・お宝探しです！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "With that, let the treasure hunt begin!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2631,
+    "id": "$WORLD_CDV_02_0100_0500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2632,
+    "id": "$WORLD_CDV_02_0100_0600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップをお探しでしたら\r\nチョコボを呼んでみてはいかがでしょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "If you're searching for a transmuter chip, you should summon a chocobo.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2633,
+    "id": "$WORLD_CDV_02_0100_0700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2634,
+    "id": "$WORLD_CDV_02_0100_0800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップの場所がわからない場合は\r\nチョコボの嗅覚で探してみるといいですよ",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "If you're struggling to locate the chip, you could rely on your chocobo's sense of smell.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2635,
+    "id": "$WORLD_CDV_02_0100_0900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\nライフスポットを発見しましたね！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Look at that─you've stumbled upon a lifespring!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2636,
+    "id": "$WORLD_CDV_02_0100_1000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "早速　端末を使って調べてみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Why don't you try scanning it─see what you uncover.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2637,
+    "id": "$WORLD_CDV_02_0100_1100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "星の知識にアクセスすることで\r\nその土地の情報が手に入るはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Accessing the planet's figurative database should help us learn about the area.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2638,
+    "id": "$WORLD_CDV_02_0100_1200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフスポットの情報をいただきました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Confirmed─data received.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2639,
+    "id": "$WORLD_CDV_02_0100_1300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "こういった　ライフストリームの泉が\r\n各地に点在しています",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Lifesprings such as this can be discovered in every region.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2640,
+    "id": "$WORLD_CDV_02_0100_1400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "エネルギーに転用するには小さすぎるため\r\n神羅は見向きもしませんが",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Their potential energy output is far too minuscule for Shinra to exploit.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2641,
+    "id": "$WORLD_CDV_02_0100_1500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ボクらにとっては大切な情報源です",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "But to us, they're fonts of intel.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2642,
+    "id": "$WORLD_CDV_02_0100_1510_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "引き続き　ライフスポットの探索をお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I encourage you to seek out more of these lifesprings.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2643,
+    "id": "$WORLD_CDV_02_0100_2300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\n周辺に美しい鉱石はありませんか？",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Hey, Cloud. Do you notice any\r\nsparkling minerals nearby?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2644,
+    "id": "$WORLD_CDV_02_0100_2400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それらは『誘導石』と呼ばれ\r\n旅人を　召喚獣の祠まで導いてくれるそうです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "These are known as \"guidestones\"─crystals that direct travelers to shrines to the divine.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2645,
+    "id": "$WORLD_CDV_02_0100_2500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "誘導石は破壊することで　導きの光を発します\r\n見つけたら　どんどん壊してみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The stones emit light when they shatter, producing an illuminated path. If ever you're lost, try smashing one!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2646,
+    "id": "$WORLD_CDV_02_0100_2600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "誘導石の光を追いかけると　各地で語り継がれている\r\n『召喚獣の祠』が見つかるはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Following the light should lead you to a sanctuary said to honor the tutelary deity of a given region.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2647,
+    "id": "$WORLD_CDV_02_0100_2700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "その中には　召喚獣の知識が結晶化した\r\n巨大なクリスタルが眠っています",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The shrines contain untold divine knowledge, slumbering within massive crystals.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2648,
+    "id": "$WORLD_CDV_02_0100_2800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "召喚マテリアを強化するためにも　祠の発見\r\nおよび　クリスタルの解析をお願いします！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I can use this knowledge to strengthen your summoning materia, so I encourage you to seek out said sanctuaries.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2649,
+    "id": "$WORLD_CDV_02_0100_2900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\nこの近くに　召喚獣の祠があるはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Hey, Cloud. I believe that there is a sanctuary in your vicinity.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2650,
+    "id": "$WORLD_CDV_02_0100_2910_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "誘導石があれば　壊してみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "If you see a guidestone, shatter it.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2651,
+    "id": "$WORLD_CDV_02_0100_3000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん　召喚獣の波動を感知しました\r\nクリスタル解析の準備をお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm detecting divine wavelengths nearby. I suggest you prepare for crystalline analysis.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2652,
+    "id": "$WORLD_CDV_02_0100_3100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この先に高エネルギー反応あり\r\nクラウドさん　召喚獣の祠があるはずです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "High energy readings up ahead, Cloud. I suspect this means you're approaching a divine shrine.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2653,
+    "id": "$WORLD_CDV_02_0100_3200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "特殊な反響音を検出しました\r\nクラウドさん　召喚獣の祠を探してみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm detecting peculiar reverberations. Survey the area and see if there's a sanctuary nearby.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2654,
+    "id": "$WORLD_CDV_02_0100_3300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クリスタル反応を検知しました\r\nクラウドさん　召喚獣の知識を得るチャンスですよ",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Crystal frequency detected. This may be an opportunity to glean new divine knowledge!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2655,
+    "id": "$WORLD_CDV_02_0100_3400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん　近くに誘導石がありませんか？\r\n召喚獣の祠に導いてもらいましょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud, do you see a guidestone nearby? If so, you can use it to locate a sanctuary!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2656,
+    "id": "$WORLD_CDV_02_0100_3500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん　すごいですね！\r\nこんなに大きなクリスタルは初めて見ました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "This is positively incredible, Cloud! I can't recall ever seeing a crystal of this caliber before!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2657,
+    "id": "$WORLD_CDV_02_0100_3600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この中に　召喚獣の知識が……\r\n早速　端末を使って解析していきましょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "To think the secrets of the divine dwell within...\r\nI cannot wait to see what sort of intel our analysis will yield!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2658,
+    "id": "$WORLD_CDV_02_0100_3700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "召喚獣のデータを抽出するには\r\nクリスタルとシンクロする必要があります",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You'll need to synchronize with the crystal before I can extract data on the deiform entity.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2659,
+    "id": "$WORLD_CDV_02_0100_3800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "がんばってくださいね！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm counting on you!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2660,
+    "id": "$WORLD_CDV_02_0100_3900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "解析成功です！　クリスタルから\r\n召喚獣のデータを抽出しました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Analysis complete! I managed to extract the necessary data from the crystal.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2661,
+    "id": "$WORLD_CDV_02_0100_4000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これで召喚マテリアを強化することができます",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "This should allow me to strengthen your materia.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2662,
+    "id": "$WORLD_CDV_02_0100_4300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "無事　召喚獣のデータを抽出できました\r\nありがとうございます！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Thanks to you, Cloud, I was able to successfully extract data on the deity.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2663,
+    "id": "$WORLD_CDV_02_0100_4400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うまくいきましたね！\r\nこの調子で　ほかのクリスタルもお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Excellent work! I hope we can procure data from other crystals as well.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2664,
+    "id": "$WORLD_CDV_02_0100_4500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "バッチリでしたね　クラウドさんのおかげで\r\n召喚獣の知識が手に入りました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "That was perfect! Thanks to your hard work, I've obtained invaluable divine intel!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2665,
+    "id": "$WORLD_CDV_02_0100_4600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "見事なシンクロでした！\r\n引き続き　ほかの祠の調査もお願いしますね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Splendid synchronization! Let's hope our investigation of other shrines goes as smoothly.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2666,
+    "id": "$WORLD_CDV_02_0100_4700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まるで　クリスタルとクラウドさんが\r\n語り合っているようでした　さすがです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "That was incredible... It was as if you and the crystal were actually communicating with one another!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2667,
+    "id": "$WORLD_CDV_02_0100_4800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なかなか　手強いですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The timing <i>is</i> rather tricky.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2668,
+    "id": "$WORLD_CDV_02_0100_4900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クリスタルに嫌われてしまいましたね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You've fallen out of favor with the crystal.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2669,
+    "id": "$WORLD_CDV_02_0100_5000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさんなら　もっとうまくできそうです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I'm confident you'll succeed next time!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2670,
+    "id": "$WORLD_CDV_02_0100_5100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "次は落ちついて\r\nクリスタルのパターンを見極めてみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Take a deep breath, and pay close attention to the pattern.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2671,
+    "id": "$WORLD_CDV_02_0200_0100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\nライフスポットの調査を進めた結果",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud! That data has revealed an intriguing site!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2672,
+    "id": "$WORLD_CDV_02_0200_0200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドに生息する怪鳥\r\n『ケツァルコアトル』のすみかがわかりました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The nest of the quetzalcoatl, a rare bird native to these lands!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2673,
+    "id": "$WORLD_CDV_02_0200_0300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "滅多に人のまえに姿を現さない希少種です\r\nぜひ　生体データの収集をお願いします！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "So rare, in fact, that few have ever seen it. This is a prime research opportunity for us!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2674,
+    "id": "$WORLD_CDV_02_0200_0400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それに『風車のギア』を作るのに必要な素材も\r\n手に入りますよ",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I should also mention that you'll need its talons to transmute the part the windmill requires.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2675,
+    "id": "$WORLD_CDV_02_0200_0500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドの風車村で　ミルドさんがお待ちです\r\n早めの討伐をお願いしますね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Mildred is anxiously awaiting your return, so I recommend subduing the creature with haste.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2676,
+    "id": "$WORLD_CDV_02_0200_0600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん\r\nライフストリームを調べたところ",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud! By analyzing the lifespring data...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2677,
+    "id": "$WORLD_CDV_02_0200_0700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "共和国時代のクラフトチップが\r\n埋まっている場所がわかりました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I was able to locate an old republic transmuter chip.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2678,
+    "id": "$WORLD_CDV_02_0200_0900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "現在では手に入らない\r\n貴重なレシピが見つかるかもしれません",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "This chip likely contains an exceptionally rare formula.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2679,
+    "id": "$WORLD_CDV_02_0200_1000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ぜひとも　探索をお願いします",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I recommend searching for it.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2680,
+    "id": "$WORLD_CDV_02_0200_1100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2681,
+    "id": "$WORLD_CDV_02_0200_1110_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフスポットから得た情報を分析した結果\r\n新たなクラフトチップを発見しました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Upon analyzing the data from the lifespring, I was able to locate a new transmuter chip.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2682,
+    "id": "$WORLD_CDV_02_0200_1200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どうやら　魔晄パイプの廃棄場所に\r\n眠っているようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "It's among the refuse left over from the pipeline's construction.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2683,
+    "id": "$WORLD_CDV_02_0200_1300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドの景色を楽しみつつ\r\nチョコボといっしょに向かってみてはいかがでしょう",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Though a touch far from your current location, it's a rather short chocobo ride.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2684,
+    "id": "$WORLD_CDV_02_0200_1400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの討伐　お疲れ様でした",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "That was a very impressive battle just now!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2685,
+    "id": "$WORLD_CDV_02_0200_1500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お疲れ様でした！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Well done!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2686,
+    "id": "$WORLD_CDV_02_0200_1600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "先ほどの戦闘データを参考に",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Based on the battle data you provided...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2687,
+    "id": "$WORLD_CDV_02_0200_1700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "バトルシミュレーターに\r\n新たなコンバットコースを作成しました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I was able to generate a new virtual combat trial.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2688,
+    "id": "$WORLD_CDV_02_0200_1800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わたくしも　お手伝いしました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Oh, and I helped too!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2689,
+    "id": "$WORLD_CDV_02_0200_1900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "気が向いた時にでも　挑戦してみてくださいね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Feel free to try it whenever the mood takes you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2690,
+    "id": "$WORLD_CDV_02_0200_2000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "くださいね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Go on!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2691,
+    "id": "$WORLD_CDV_02_0200_2100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドさん――",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Cloud─",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2692,
+    "id": "$WORLD_CDV_02_0200_2200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウド様　討伐ミッションクリア\r\nおめでとうございます！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Cloud! I see that you completed that challenge with grace and panache!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2693,
+    "id": "$WORLD_CDV_02_0200_2300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ちょっと　割り込まないでください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Don't you know it's rude to interrupt?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2694,
+    "id": "$WORLD_CDV_02_0200_2400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さて　なんのことでしょう",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Why, I did no such thing!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2695,
+    "id": "$WORLD_CDV_02_0200_2500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あらためまして　クラウドさん",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "In any case, Cloud...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2696,
+    "id": "$WORLD_CDV_02_0200_2600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "先ほどの戦闘データを解析して\r\n新しいコンバットコースを作りましたので",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I've analyzed the battle data you sent and constructed a new virtual combat trial.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2697,
+    "id": "$WORLD_CDV_02_0200_2610_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よかったら　挑戦してみてください",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "I hope it's to your liking.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2698,
+    "id": "$WORLD_CDV_02_0200_2700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ブラボー　すばらしい戦いでした！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Bravo! That was an extraordinary display!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2699,
+    "id": "$WORLD_CDV_02_0200_2800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウド様が大活躍したデータを使って",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The data you collected will prove invaluable!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2700,
+    "id": "$WORLD_CDV_02_0200_2810_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "マスターが　新しいコンバットコースを\r\n作ったそうなので　挑戦してみてくださいね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "In fact, we've already used it to produce a new combat trial! Check it out!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2701,
+    "id": "$WORLD_CDV_02_0200_2900_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なっ……ＭＡＩにぜんぶ言われてしまいました\r\nボクから付け加えることは　ありません",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Wha─!? I see that MAI has already covered everything. Which means, I have nothing to add at this time.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2702,
+    "id": "$WORLD_CDV_02_0200_3000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドには\r\n『タイタン』の祠があるようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The grasslands are home to Titan's sanctuaries.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2703,
+    "id": "$WORLD_CDV_02_0200_3100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "神話の時代　地底に封じ込められていたタイタンが\r\n目覚めた時に　大規模な地震が起こったそうです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "In the age of myths, when Titan rose from his subterranean prison, he created a massive earthquake.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2704,
+    "id": "$WORLD_CDV_02_0200_3300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "その地震によって　海から隆起した大地が\r\nグラスランドになったと言われています",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Thus did a vast swath of land rise from the sea, becoming the grasslands.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2705,
+    "id": "$WORLD_CDV_02_0200_3400_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドに残る伝承によると\r\n巨人タイタンの剛腕はすさまじく",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "According to local legends, Titan possesses earth-shattering strength.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2706,
+    "id": "$WORLD_CDV_02_0200_3500_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "手で地割れを塞ぎ　拳で山を砕いたそうです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "He is capable of crushing whole mountains with his fist.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2707,
+    "id": "$WORLD_CDV_02_0200_3600_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もしかしたら　グラスランドの美しい平原は\r\nタイタンのおかげでできたのかもしれませんね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Perhaps we have him to thank for the rolling hills and verdant plains that comprise this region of the planet.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2708,
+    "id": "$WORLD_CDV_02_0200_3700_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "グラスランドでは　巨人タイタンを怒らせると\r\n地震が起こると信じられていました",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "The people of the grasslands once believed that earthquakes would occur if they angered Titan.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2709,
+    "id": "$WORLD_CDV_02_0200_3800_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "現在カームで行われている収穫祭も　元々は\r\nタイタンに作物を捧げるのが目的だったようです",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Kalm's present-day harvest festival most likely originated as a ritual offering of crops meant to appease him.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2710,
+    "id": "$WORLD_CDV_02_0200_4000_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これで　グラスランドにあるクリスタルは\r\nすべて解析できました　お疲れ様です",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "That concludes our analysis of the grasslands summon crystals. Thank you.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2711,
+    "id": "$WORLD_CDV_02_0200_4100_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これでタイタンが　さらに力強くなるわけです\r\n頼もしいですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Now Titan will become an even more formidable ally. Congratulations.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2712,
+    "id": "$WORLD_CDV_02_0200_4200_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "でも　クラウドさんは\r\nまだ召喚マテリアをお持ちじゃなかったですね",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "Though you have yet to obtain the requisite materia, as I recall.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2713,
+    "id": "$WORLD_CDV_02_0200_4300_00_chd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まずは　バトルシミュレーターで\r\n召喚獣に挑戦してみてください！",
+    "MetaData": {
+      "ACTOR": "チャドリー"
+    },
+    "English": {
+      "Text": "You'll first need to confront the divine via the combat simulator!",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    }
+  },
+  {
+    "index": 2714,
+    "id": "$WORLD_MGV_01_0100_0100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "警告　警告！",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Alert! Alert!",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    }
+  },
+  {
+    "index": 2715,
+    "id": "$WORLD_MGV_01_0100_0200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "特殊なモンスターの反応を確認しました\r\n戦闘に備えてください",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Dangerous fiend detected in your vicinity. Please ensure you are prepared before engaging.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    }
+  },
+  {
+    "index": 2716,
+    "id": "$WORLD_MGV_01_0100_0300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "『いまの音声は一体？』という困惑を検知",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "...My sensors are picking up some understandable confusion.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    }
+  },
+  {
+    "index": 2717,
+    "id": "$WORLD_MGV_01_0100_0400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "はじめまして　クラウド様",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "It's a pleasure to meet you, Cloud.",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    }
+  },
+  {
+    "index": 2718,
+    "id": "$WORLD_MGV_01_0100_0500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わたくしは『Monster Assessment Instrument』\r\n通称　ＭＡＩと申します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I am your personal Monster Assessment Instrument. But since that's a mouthful, you can call me \"MAI\"!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2719,
+    "id": "$WORLD_MGV_01_0100_0600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チャドリー博士によってプログラムされた\r\nモンスターガイド用の音声アシスタントです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Chadley programmed me to assist you by providing detailed analyses of the fiends you encounter.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2720,
+    "id": "$WORLD_MGV_01_0100_0700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　みなさまのモンスター討伐を\r\nサポートいたします！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I hope I can be of service to you in the many battles ahead!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2721,
+    "id": "$WORLD_MGV_01_0100_0800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さっそくですが　この先で\r\n特殊なモンスター反応を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "With that out of the way... I'm picking up unusual fiend activity nearby.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2722,
+    "id": "$WORLD_MGV_01_0100_0900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウド様　バトルミッションをクリアしつつ\r\n生体データの収集をお願いします",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "To procure the biological data that we require, you'll need to complete specific objectives during combat.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2723,
+    "id": "$WORLD_MGV_01_0100_1000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わたくしも　ガイドとしてお供します\r\nいっしょにがんばりましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "But don't worry, because I'll be here to help you succeed. Good luck!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2724,
+    "id": "$WORLD_MGV_01_0100_1100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さっそくですが\r\n特殊なモンスターの生息地に到着しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "With that out of the way... You've entered the territory of a unique fiend.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2725,
+    "id": "$WORLD_MGV_01_0100_1200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どうやら　相手は隠れているようです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "However, it appears to be in hiding.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2726,
+    "id": "$WORLD_MGV_01_0100_1300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウド様　装備をしっかりと整えてから\r\nモンスターを呼び出してください",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Before seeking to instigate a confrontation, I recommend taking a moment to ensure that you're prepared.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2727,
+    "id": "$WORLD_MGV_01_0100_1400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わたくしも　ガイドとしてお供します\r\nいっしょにがんばりましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I will do everything in my power to help you succeed. Good luck!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2728,
+    "id": "$WORLD_MGV_01_0100_1500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "強力なモンスターの反応を感知\r\nみなさま　戦闘のご準備を！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Dangerous fiend detected in the vicinity. Please ensure that you are well prepared, everyone!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2729,
+    "id": "$WORLD_MGV_01_0100_1600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "周辺にモンスターの反応あり\r\n早速　調査といきましょう",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "My sensors indicate a unique fiend is nearby. Time to survey the area!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2730,
+    "id": "$WORLD_MGV_01_0100_1700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさま　気をつけて\r\nモンスターの気配を感じます",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Be on your guard, everyone. I'm picking up a monstrous signal.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2731,
+    "id": "$WORLD_MGV_01_0100_1800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの情報を収集中……",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Currently gathering combat data on target...",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2732,
+    "id": "$WORLD_MGV_01_0100_1900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "生態情報を分析中……",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Analyzing biological data...",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2733,
+    "id": "$WORLD_MGV_01_0100_2000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "周辺をスキャン中……",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Scanning immediate surroundings...",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2734,
+    "id": "$WORLD_MGV_01_0100_2100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "データを更新中……",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Updating fiend intel...",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2735,
+    "id": "$WORLD_MGV_01_0100_2200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "フレ～　フレ～！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I believe in you!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2736,
+    "id": "$WORLD_MGV_01_0100_2300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさま　ファイト～！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I know you can do this!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2737,
+    "id": "$WORLD_MGV_01_0100_2400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いけいけ　やっちゃえ～！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "C'mon! Keep it up!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2738,
+    "id": "$WORLD_MGV_01_0100_2500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "盛りあがってきましたね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Wow, what a fight!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2739,
+    "id": "$WORLD_MGV_01_0100_2600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "応援はＭＡＩにおまかせを！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Just know I'm cheering for you!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2740,
+    "id": "$WORLD_MGV_01_0100_2610_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "らららららら　ララララララ～♪",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Doo duh-duh-duh-duh-duh-duh,\r\ndoo-doo-doo-doo.♪",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2741,
+    "id": "$WORLD_MGV_01_0100_2700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "その調子です！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Now that's the spirit!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2742,
+    "id": "$WORLD_MGV_01_0100_2800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほれぼれしちゃいます",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Spectacular!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2743,
+    "id": "$WORLD_MGV_01_0100_2900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さすがですね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Can't say I'm surprised!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2744,
+    "id": "$WORLD_MGV_01_0100_3000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさま　強すぎです～！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Your strength knows no bounds!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2745,
+    "id": "$WORLD_MGV_01_0100_3100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もう勝ったも同然ですね",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Victory is all but guaranteed!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2746,
+    "id": "$WORLD_MGV_01_0100_3200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "安心して見てられます",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "You've got this under control!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2747,
+    "id": "$WORLD_MGV_01_0100_3300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "向かうところ敵ナシですね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "No fiend can stand against you!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2748,
+    "id": "$WORLD_MGV_01_0100_3400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "敵がかわいそうになってきました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Wow. I almost feel sorry for them...",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2749,
+    "id": "$WORLD_MGV_01_0100_3500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "大丈夫ですか？",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Are...are you okay!?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2750,
+    "id": "$WORLD_MGV_01_0100_3600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あわわ　わたくしどうしたら！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Oh no! What do I do!?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2751,
+    "id": "$WORLD_MGV_01_0100_3700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いまのうちに回復を！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Heal up while you can!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2752,
+    "id": "$WORLD_MGV_01_0100_3800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさま　どうか落ち着いて！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Just take a deep breath! You can do it!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2753,
+    "id": "$WORLD_MGV_01_0100_3900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ああ　どなたか救いの手を～！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Someone, anyone! We need help!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2754,
+    "id": "$WORLD_MGV_01_0100_4000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ＭＡＩがついていますよ！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "It's okay! Hang in there!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2755,
+    "id": "$WORLD_MGV_01_0100_4100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みなさまなら立て直せます！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "You can still turn this around!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2756,
+    "id": "$WORLD_MGV_01_0100_4200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まだまだ　ここからです！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "We're just warming up!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2757,
+    "id": "$WORLD_MGV_01_0100_4300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "見事　ミッションコンプリートです\r\nお疲れさまでした！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Congratulations! You managed to complete all intel objectives!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2758,
+    "id": "$WORLD_MGV_01_0100_4400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミッションコンプリートです\r\nデータ収集　ありがとうございました！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "All objectives completed. We've accrued a lot of great data─thanks to you!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2759,
+    "id": "$WORLD_MGV_01_0100_4500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミッションコンプリートです\r\nさすがみなさま　完璧でした",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Battle objectives completed. I knew you had it in you! Way to go!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2760,
+    "id": "$WORLD_MGV_01_0100_4600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミッションコンプリート\r\nおめでとうございます\r\nもしかして　簡単すぎましたか？",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Excellent work completing our combat objectives! Though I suspect it wasn't much of a challenge.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2761,
+    "id": "$WORLD_MGV_01_0100_4700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お疲れさまでした！\r\n残りのミッションもまたお願いしますね",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Well fought! Though perhaps you could polish off those objectives next time?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2762,
+    "id": "$WORLD_MGV_01_0100_4800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "討伐　ご苦労さまでした\r\n次はミッションコンプリートを\r\n目指しましょう",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Threat eliminated! Next time, see if you can clear all the objectives too!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2763,
+    "id": "$WORLD_MGV_01_0100_4900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すばらしい戦いっぷりでしたが\r\n少しミッションが残ってしまいましたね",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Though it was quite the victory, you were unable to complete all the objectives. Might you try again?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2764,
+    "id": "$WORLD_MGV_01_0100_5000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ミッションコンプリートならず～\r\nリベンジ　お待ちしてますね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "While that was glorious, I can't give you full marks. Objectives yet remain!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2765,
+    "id": "$WORLD_MGV_01_0100_5100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あら　ミッションが残っちゃいましたね\r\n再挑戦は　いつでも大歓迎ですよ！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "I see you haven't completed your objectives for that battle... Well, you're always welcome to make another attempt!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2766,
+    "id": "$WORLD_MGV_01_0100_5200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "データ収集完了です　お疲れさまでした\r\nさすがはみなさま　余裕でしたね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Data collection complete. Most expertly done, everyone! You made that look like child's play!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2767,
+    "id": "$WORLD_MGV_01_0100_5300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "討伐　ご苦労さまです\r\nおかげさまで\r\n貴重なデータが手に入りました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "That was a smashing victory! Thanks to you, we've obtained some eye-opening data!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2768,
+    "id": "$WORLD_MGV_01_0100_5400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お疲れさまでした\r\nわたくしのガイドはいかがでしたか？",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Wonderful work! I trust my guidance was crucial to your success?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2769,
+    "id": "$WORLD_MGV_01_0100_5500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すばらしいデータが取れました\r\nマスターも　きっと喜んでいるはずです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "What fascinating data this is! I'm certain Chadley will be over the moon!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2770,
+    "id": "$WORLD_MGV_01_0200_0100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウド様\r\nケツァルコアトルの生息地に到着しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Cloud! You have arrived in the lair of the majestic quetzalcoatl.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2771,
+    "id": "$WORLD_MGV_01_0200_0200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "準備を整えて　おびき寄せてみましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Make certain you're prepared before attempting to challenge it!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2772,
+    "id": "$WORLD_MGV_01_0200_0300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ケツァルコアトルの出現を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Confirmed. Quetzalcoatl identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2773,
+    "id": "$WORLD_MGV_01_0200_0400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2774,
+    "id": "$WORLD_MGV_01_0200_0500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ケツァルコアトルは\r\n鳥とドラゴンを掛け合わせたような\r\n美しい見た目をしており",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "A cross between a dragon and a bird, the solitary quetzalcoatl is simply breathtaking.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2775,
+    "id": "$WORLD_MGV_01_0200_0600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "群れを持たぬ孤高さもあいまって\r\n神として崇められていたと言います",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Indeed, it's little wonder that the ancient peoples of this region revered it as a god.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2776,
+    "id": "$WORLD_MGV_01_0200_0700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ケツァルコアトルは本来\r\nほとんど人前へは姿を見せませんが\r\n近年は　目撃情報が増えています",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "While the creature typically prefers to keep to its hunting grounds and nest, it's been sighted near agrarian communities in recent years.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2777,
+    "id": "$WORLD_MGV_01_0200_0800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "魔晄採掘の影響でエサが取れなくなり\r\n家畜を襲うようになったそうです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Mako's deleterious effects on its habitat have likely driven it to prey on livestock.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2778,
+    "id": "$WORLD_MGV_01_0200_0900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ケツァルコアトルの情報が集まれば\r\nいずれ　共存の道も見つかるはずです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Gaining more intel on it may help us discover a way in which we can coexist once more.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2779,
+    "id": "$WORLD_MGV_01_0200_1000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そのためにも　調査をお願いします！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The grasslands' ecosystem is in your hands!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2780,
+    "id": "$WORLD_MGV_01_0200_1200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "バイオラットの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare toxirat variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2781,
+    "id": "$WORLD_MGV_01_0200_1300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2782,
+    "id": "$WORLD_MGV_01_0200_1400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "バイオラットには悪臭腺があり\r\n強烈なニオイで外敵から身を守りながら\r\n着実に数を増やしてきました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The pungent odor that these fiends release when threatened is so effective at driving away predators that their population has exploded.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2783,
+    "id": "$WORLD_MGV_01_0200_1500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "希少種は　その悪臭腺から\r\n毒性の強い分泌液を発しながら\r\n集団で襲いかかることで",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "This particular variant is extremely dangerous, capable of spitting toxic fluids on its prey before attacking en masse.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2784,
+    "id": "$WORLD_MGV_01_0200_1600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "自分より　ずっと大きな\r\nエレファダンクを倒してしまうそうです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Such tactics allow them to hunt creatures as large as elphadunks.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2785,
+    "id": "$WORLD_MGV_01_0200_1700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "小さな体であらゆる場所へ潜り込む\r\nバイオラットの被害は\r\n年々　増加の一途を辿っています",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Imagine something like that creeping into every corner it can find, and you'll understand why they're considered such a menace.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2786,
+    "id": "$WORLD_MGV_01_0200_1800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "今後の対策を検討するためにも\r\n情報収集を進めていきましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "With any luck, the data we collect here will aid us in finding a way to reduce their numbers.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2787,
+    "id": "$WORLD_MGV_01_0200_2100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "エレファダンクの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare elphadunk variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2788,
+    "id": "$WORLD_MGV_01_0200_2200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2789,
+    "id": "$WORLD_MGV_01_0200_2300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "温厚な性格のエレファダンクは\r\n家畜として人間の生活に寄り添い\r\n農作業や移動手段　時には\r\n戦力としても活用されてきました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The docile disposition of the elphadunk led to its widespread adoption as a beast of burden. Applications included agriculture, transportation, and even warfare.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2790,
+    "id": "$WORLD_MGV_01_0200_2400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "希少種の持つ　めずらしい色の皮や牙は\r\n工芸品の素材としても人気だったとか",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Variants like these, however, were valued as a source of hides and tusks used for arts and crafts.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2791,
+    "id": "$WORLD_MGV_01_0200_2500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "しかしながら飼育に手間と時間のかかる\r\nエレファダンクは　やがてその座を\r\nチョコボにゆずることとなりました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Unfortunately, they are a notoriously difficult creature to raise in captivity, and were usurped by the now-ubiquitous chocobo.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2792,
+    "id": "$WORLD_MGV_01_0200_2600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "現在は　野生化した個体が\r\nグラスランド近隣に生息するのみ",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "At present, the only remaining wild elphadunks can be found here in the grasslands.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2793,
+    "id": "$WORLD_MGV_01_0200_2700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "希少種は凶暴化が進んでいると言います",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Most are aggressive─especially these ones.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2794,
+    "id": "$WORLD_MGV_01_0200_2800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このまま害獣となってしまわないよう\r\nいまのうちに調査を進めていきましょう",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Which is why we must study them thoroughly, before they become a threat to both animals and humans.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2795,
+    "id": "$WORLD_MGV_01_0200_3000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ムーの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare mu variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2796,
+    "id": "$WORLD_MGV_01_0200_3100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2797,
+    "id": "$WORLD_MGV_01_0200_3200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ムーは高度な情報収集能力を有しており\r\n目を付けられたが最後\r\nどこに逃れようとも居場所を捕捉され\r\n袋叩きにされると言います",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The ever-vigilant mu possesses an incredible memory, meaning that once you've trespassed on its territory, it can and will track you down in order to exact revenge.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2798,
+    "id": "$WORLD_MGV_01_0200_3300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "地中に張り巡らされた巣穴\r\n通称『ムー・ネットワーク』は\r\nわたくしとマスターが築いた情報網に\r\n勝るとも劣りません",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The mu have a massive underground network through which they exchange information on food sources and predators. Frankly, it rivals Chadley's own network!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2799,
+    "id": "$WORLD_MGV_01_0200_3400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "大きな尻尾を揺らす愛らしい姿に\r\n決して　だまされないでくださいね！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "So don't you be deceived by their adorably twitchy tails and unassuming demeanor!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2800,
+    "id": "$WORLD_MGV_01_0200_3500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "『ムー・ネットワーク』を解明し\r\n我々の情報網をさらに強化するためにも\r\nぜひ　ムーのデータ収集をお願いします",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Further analysis of these crafty creatures will no doubt shed light on their communication methods─and maybe help us to improve ours as well!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2801,
+    "id": "$WORLD_MGV_01_0200_3800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "マンドラゴラの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare mandragora variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2802,
+    "id": "$WORLD_MGV_01_0200_3900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2803,
+    "id": "$WORLD_MGV_01_0200_4000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの　うごめく草は\r\nただの植物ではございません",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "It may look like nothing more than a wriggling plant, but don't be fooled!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2804,
+    "id": "$WORLD_MGV_01_0200_4100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "マンドラゴラの根は\r\n脚の役割を果たしており\r\n日当たりの良い場所を求めて\r\n自ら移動することができるのです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Mandragora roots are capable of functioning as legs, allowing them to actively pursue sunlit locations as they shift throughout the day.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2805,
+    "id": "$WORLD_MGV_01_0200_4200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ちなみに　マンドラゴラの種は\r\nチョコボの大好物らしいのですが\r\n希少種の種は\r\nどんな味がするのでしょう？",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "In case you didn't know, chocobos seem to adore feasting on the fiend's seeds. I can't help but wonder what this variant's might taste like.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2806,
+    "id": "$WORLD_MGV_01_0200_4300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "研究を進めていけば\r\nチョコボの育成に役立つかもしれません",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Further research may prove beneficial to any chocobo-raising activities.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2807,
+    "id": "$WORLD_MGV_01_0200_4400_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "可愛いチョコボたちのためにも\r\nはりきって　草刈りといきましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "So for the sake of your feathered friends, mow those mandragoras down!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2808,
+    "id": "$WORLD_MGV_01_0200_4600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "レブリコンの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare levrikon variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2809,
+    "id": "$WORLD_MGV_01_0200_4700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これより　ガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2810,
+    "id": "$WORLD_MGV_01_0200_4800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ご覧ください　あのたくましい手脚！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Observe its prodigiously powerful appendages!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2811,
+    "id": "$WORLD_MGV_01_0200_4900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "獲物を発見するやいなや\r\n発達した脚で猛牛の如く突進し\r\n強靱な爪で\r\n掘り起こした岩を投げつけます",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "These impressive legs not only allow it to run down prey in the blink of an eye, but also hurl rocks with tremendous force.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2812,
+    "id": "$WORLD_MGV_01_0200_5000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "また　希少種のレブリコンにはなんと\r\n獲物を大好物のカエルに変えてしまう\r\n毒液が備わっているのだとか",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "And if that doesn't scare you, this variant is capable of spewing a toxin that transforms its quarry into a frog─its favorite snack!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2813,
+    "id": "$WORLD_MGV_01_0200_5100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わざわざ　自分の好物に変えるなんて\r\nグルメというか偏食というか",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Whether this qualifies it as a true gourmet or merely a picky eater is still a matter of contention.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2814,
+    "id": "$WORLD_MGV_01_0200_5200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "レブリコンを調査することで\r\n食事と　たくましい肉体の関係が\r\n明らかになるかもしれません",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Whatever the case may be, further research could help us to understand how its diet sustains its physique.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2815,
+    "id": "$WORLD_MGV_01_0200_5300_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ノックダウンされないよう気をつけつつ\r\nシュシュシュッとファイトです！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "So get in there and give it a good beating! Without being KO'd, of course.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2816,
+    "id": "$WORLD_MGV_01_0200_5500_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームファングの希少種を確認しました",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Rare grasslands wolf variant identified.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2817,
+    "id": "$WORLD_MGV_01_0200_5600_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これよりガイドを開始します",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Commencing guidance protocol.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2818,
+    "id": "$WORLD_MGV_01_0200_5700_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの逆立つタテガミをご覧ください",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "See the way that its mane stands on end?",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2819,
+    "id": "$WORLD_MGV_01_0200_5800_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームファングの希少種は\r\nパイプから漏れ出た魔晄の影響で\r\n帯電するようになったと考えられます",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "The electricity coursing through its body and keeping its hair upright is the product of overexposure to mako.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2820,
+    "id": "$WORLD_MGV_01_0200_5900_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "原種と比べて　動きはより機敏に\r\n性格はより獰猛になっています",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "This has also contributed to a significant increase in aggression, agility, and speed.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2821,
+    "id": "$WORLD_MGV_01_0200_6000_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "獲物を見つけると　電光石火の早業で\r\nあっという間に捕食してしまうそうです",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "In fact, eyewitnesses report that it is capable of catching prey with lightning quickness.",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2822,
+    "id": "$WORLD_MGV_01_0200_6100_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "希少種のデータを得ることで\r\n我々もより迅速　かつ確実に\r\nモンスター討伐を行えるようになるはず",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "By studying this predator's hunting habits, perhaps we too will be able to develop swifter, more efficient ways of felling fiends!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2823,
+    "id": "$WORLD_MGV_01_0200_6200_00_msg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "次なるステップを目指して\r\nズババっと調査を進めましょう！",
+    "MetaData": {
+      "ACTOR": "ＭＡＩ"
+    },
+    "English": {
+      "Text": "Now hurry and collect our data, before that nimble wolf gets the best of you!",
+      "MetaData": {
+        "ACTOR": "MAI"
+      }
+    }
+  },
+  {
+    "index": 2824,
+    "id": "$WORLD_PCV_01_0100_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よ～し　ちょっくら登ってくか",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Who's up for some climbin'? Anyone?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2825,
+    "id": "$WORLD_PCV_01_0100_0200_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔を起動すんの　忘れんなよ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "So you know, that tower ain't gonna activate itself.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2826,
+    "id": "$WORLD_PCV_01_0100_0300_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔　寄ってくか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Let's get that tower up and runnin', huh?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2827,
+    "id": "$WORLD_PCV_01_0100_0400_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの塔　使わせてもらおうぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "We gonna put that tower to use or what?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2828,
+    "id": "$WORLD_PCV_01_0100_0500_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "おうおう　でっけえ塔だぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Damn... Those things sure are big.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2829,
+    "id": "$WORLD_PCV_01_0100_0600_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔があるね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Oh, a tower.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2830,
+    "id": "$WORLD_PCV_01_0100_0700_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔　起動してく？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Anybody wanna check out that tower?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2831,
+    "id": "$WORLD_PCV_01_0100_0800_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの通信塔　登ってみる？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "I'm up for climbing that tower if you guys are.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2832,
+    "id": "$WORLD_PCV_01_0100_0900_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このあたりの探索データ　集まるかな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "I know <i>I'd</i> like to get some more data on this region...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2833,
+    "id": "$WORLD_PCV_01_0100_1000_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "古い塔だね　壊れてないといいけど",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "That tower looks pretty old... Hope it still works.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2834,
+    "id": "$WORLD_PCV_01_0100_1100_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔　み～つけた！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "I spy a remnawave tower!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2835,
+    "id": "$WORLD_PCV_01_0100_1200_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔さん　起こしてく？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Wanna try activating that tower?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2836,
+    "id": "$WORLD_PCV_01_0100_1300_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ねえ　通信塔　寄っていこ？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Hey. Shall we pay that tower a visit?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2837,
+    "id": "$WORLD_PCV_01_0100_1400_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さあ　星のこと　調べてもらお！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Anyone else feel like learning a little more about the planet?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2838,
+    "id": "$WORLD_PCV_01_0100_1500_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よ～し　探索探索！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Let's turn on that tower and see what's out there!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2839,
+    "id": "$WORLD_PCV_01_0100_1600_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔がお待ちかねだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Another remnawave tower.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2840,
+    "id": "$WORLD_PCV_01_0100_1700_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔まで　もうすこしだな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Communications tower sighted.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2841,
+    "id": "$WORLD_PCV_01_0100_1800_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "眠りし塔を　起こしに行くか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Let us awaken that sleeping giant.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2842,
+    "id": "$WORLD_PCV_01_0100_1900_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔まで　かけっこする？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Anybody wanna race to that tower?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2843,
+    "id": "$WORLD_PCV_01_0100_2000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔が　オイラたちを待ってるよ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Should we go activate that thing or what?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2844,
+    "id": "$WORLD_PCV_01_0100_2100_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "通信塔見つけると　興奮しちゃうな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Ah, nothing beats the thrill of discovery!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2845,
+    "id": "$WORLD_PCV_01_0200_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "見ろよ　チョコボの足跡があんぞ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Hey, check it out. Got some chocobo tracks.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2846,
+    "id": "$WORLD_PCV_01_0200_0200_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの群れがいやがんな",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Looks like chocobo country.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2847,
+    "id": "$WORLD_PCV_01_0200_0300_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このへんにチョコボがいるみてえだぞ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Where there's tracks, there's birds.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2848,
+    "id": "$WORLD_PCV_01_0200_0400_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの足跡だね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Looks like chocobos came through here.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2849,
+    "id": "$WORLD_PCV_01_0200_0500_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "近くにチョコボがいるみたい",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Chocobos must be close.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2850,
+    "id": "$WORLD_PCV_01_0200_0600_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの気配がするね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "You see any chocobos?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2851,
+    "id": "$WORLD_PCV_01_0200_0700_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あっ　チョコボの足跡！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Ooh! Chocobo tracks!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2852,
+    "id": "$WORLD_PCV_01_0200_0800_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボのお友達　作ってく？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Wanna go make some new chocobo friends?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2853,
+    "id": "$WORLD_PCV_01_0200_0900_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボ　会えるかな？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Wonder if we'll see some chocobos.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2854,
+    "id": "$WORLD_PCV_01_0200_1000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボのかおりがするな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I smell chocobos...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2855,
+    "id": "$WORLD_PCV_01_0200_1100_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このあたりに　チョコボがいるようだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Keep a lookout for chocobos.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2856,
+    "id": "$WORLD_PCV_01_0200_1200_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの足跡　たどってみる？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "We're gonna follow these tracks, right?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2857,
+    "id": "$WORLD_PCV_01_0200_1300_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "オイラ　チョコボと遊びたいな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Oh, I can't wait to play with a chocobo!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2858,
+    "id": "$WORLD_PCV_01_0300_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なんだ　ありゃ？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "What in the hell?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2859,
+    "id": "$WORLD_PCV_01_0300_0200_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あれって　キノコ？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Is...that a mushroom?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2860,
+    "id": "$WORLD_PCV_01_0300_0300_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "みてみて　キノコのおうち！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Oh wow, that mushroom has a door!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2861,
+    "id": "$WORLD_PCV_01_0300_0400_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あのキノコは？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "That mushroom...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2862,
+    "id": "$WORLD_PCV_01_0300_0500_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ねえ　キノコの家があるよ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Look, it's a little mushroom house!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2863,
+    "id": "$WORLD_PCV_01_0300_0800_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "出たな　キノコハウス！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Well, hello there, moogles!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2864,
+    "id": "$WORLD_PCV_01_0300_0900_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ヘヘ　モーグリと遊んでくか",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Who wants to play with the moogles?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2865,
+    "id": "$WORLD_PCV_01_0300_1000_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クポクポクポクポ～！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Kupo kupo kupo kupooo!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2866,
+    "id": "$WORLD_PCV_01_0300_1100_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリハウスに寄ってく？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "D'you think the moogles are in?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2867,
+    "id": "$WORLD_PCV_01_0300_1200_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリと遊んでいこうか",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Wanna hang out with the moogles?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2868,
+    "id": "$WORLD_PCV_01_0300_1300_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリに挨拶する　クポ？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Anyone else wanna see what the moogles're up to, kupo?",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2869,
+    "id": "$WORLD_PCV_01_0300_1400_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリのおうちクポ～！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "It's a moogle house, kupo!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2870,
+    "id": "$WORLD_PCV_01_0300_1500_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリさんたちと遊んでく？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Wanna drop in on the moogles?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2871,
+    "id": "$WORLD_PCV_01_0300_1600_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "キノコのおうち　ちょっと住みたいかも",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "I wonder what it'd be like to live inside a mushroom.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2872,
+    "id": "$WORLD_PCV_01_0300_1700_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリに挨拶しておくか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Shall we say hello to the moogles?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2873,
+    "id": "$WORLD_PCV_01_0300_1800_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリと戯れるのもいいだろう",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Anyone care to meet with a moogle?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2874,
+    "id": "$WORLD_PCV_01_0300_1900_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "オイラ　モーグリと遊びたい！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Can we play with the moogles? Please?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2875,
+    "id": "$WORLD_PCV_01_0300_2000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モーグリと　追いかけっこする？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "We gotta go party with the moogles!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2876,
+    "id": "$WORLD_PCV_01_0400_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よっしゃ　いっちょ暴れてくか！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Fiends, huh? Been itchin' for a fight.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2877,
+    "id": "$WORLD_PCV_01_0400_0200_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターのおでましか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Think we've got fiends on our hands.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2878,
+    "id": "$WORLD_PCV_01_0400_0300_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "強えの　出てこい！",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Alright, bring on the monsters!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2879,
+    "id": "$WORLD_PCV_01_0400_0400_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの気配　感じるね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "We're in monster territory now...",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2880,
+    "id": "$WORLD_PCV_01_0400_0500_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "戦いの準備　できてる？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Okay, guys. Gloves up.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2881,
+    "id": "$WORLD_PCV_01_0400_0600_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "気をつけたほうがよさそう",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Better not let your guard down.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2882,
+    "id": "$WORLD_PCV_01_0400_0700_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いや～な気配　するね",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Ugh... I don't like the look of this.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2883,
+    "id": "$WORLD_PCV_01_0400_0800_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "う～ん　戦っていく？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "So...what? We doing this?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2884,
+    "id": "$WORLD_PCV_01_0400_0900_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "気をつけて　モンスターいるよ",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Uh-oh... Fiend alert.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2885,
+    "id": "$WORLD_PCV_01_0400_1000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの縄張りのようだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Fiends roam this place...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2886,
+    "id": "$WORLD_PCV_01_0400_1100_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターのニオイだ",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I smell fiends.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2887,
+    "id": "$WORLD_PCV_01_0400_1200_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの気配がする　注意して",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Anyone else smell monsters? 'Cause I do.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2888,
+    "id": "$WORLD_PCV_01_0400_1300_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この辺にモンスターのすみかがあるね",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "This place reeks of monster...",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2889,
+    "id": "$WORLD_PCV_01_0500_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なんか　光ってねえか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "It just me, or is something glowin'?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2890,
+    "id": "$WORLD_PCV_01_0500_0200_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あれってもしかして　ライフストリーム？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Hey, you see that? I think it's the lifestream!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2891,
+    "id": "$WORLD_PCV_01_0500_0300_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すごい　あれ　ぜんぶライフストリームだよ！",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Look! The lifestream! Isn't it incredible?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2892,
+    "id": "$WORLD_PCV_01_0500_0400_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あの泉は　ライフストリームか？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Could that be...the lifestream?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2893,
+    "id": "$WORLD_PCV_01_0500_0500_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うわ～　懐かしいニオイがする",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Oh wow, it smells just like home!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2894,
+    "id": "$WORLD_PCV_01_0500_0800_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフスポットを調べとくか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Should we check out that spring?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2895,
+    "id": "$WORLD_PCV_01_0500_0900_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "星の力を感じるぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Pulse of the planet's real strong here, isn't it?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2896,
+    "id": "$WORLD_PCV_01_0500_1000_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフストリームが呼んでるぜ～",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "When the lifestream calls, you gotta answer!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2897,
+    "id": "$WORLD_PCV_01_0500_1100_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフストリームがわいてるね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Look, another lifespring.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2898,
+    "id": "$WORLD_PCV_01_0500_1200_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフスポットを調べないと",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Couldn't hurt to check out the spring.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2899,
+    "id": "$WORLD_PCV_01_0500_1300_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "泉に　このあたりのこと教えてもらおう",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Let's scan the spring and get our bearings.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2900,
+    "id": "$WORLD_PCV_01_0500_1400_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "星が呼んでるよ",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Do you hear that?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2901,
+    "id": "$WORLD_PCV_01_0500_1500_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "星と　お話ししてく？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "How about a chat with the planet?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2902,
+    "id": "$WORLD_PCV_01_0500_1600_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ここにくると　ホッとするね",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Can't help but find these places comforting.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2903,
+    "id": "$WORLD_PCV_01_0500_1700_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "星の知識を借りることにしよう",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Let us partake of the planet's wisdom.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2904,
+    "id": "$WORLD_PCV_01_0500_1800_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "生命の流れに触れてみるか",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Shall we commune with the planet?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2905,
+    "id": "$WORLD_PCV_01_0500_1900_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ライフストリームのニオイがするよ！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Smell that? It's the lifestream!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2906,
+    "id": "$WORLD_PCV_01_0500_2000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "泉で　ひと休みするのもいいかもね",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Anyone else wanna stop and rest by the spring?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2907,
+    "id": "$WORLD_PCV_01_0800_0100_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップが埋まってんのか？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "There's a chip buried around here.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2908,
+    "id": "$WORLD_PCV_01_0800_0200_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップを探そうぜ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Let's get searchin' for that chip.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2909,
+    "id": "$WORLD_PCV_01_0800_0300_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "さ～て　クラフトチップはどこだ～？",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Alright, transmuter chip...\r\nCome out, come out, wherever you are!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2910,
+    "id": "$WORLD_PCV_01_0800_0400_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップがありそうだね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "That chip's gotta be nearby!",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2911,
+    "id": "$WORLD_PCV_01_0800_0500_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "新しいレシピ　手に入るかな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Wonder if we'll find a new formula here.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2912,
+    "id": "$WORLD_PCV_01_0800_0600_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボの嗅覚の出番かな",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Time to call in a feathery favor.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2913,
+    "id": "$WORLD_PCV_01_0800_0700_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップを探す　クエ？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Kweh-dy or not, chip, here we come!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2914,
+    "id": "$WORLD_PCV_01_0800_0800_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よし　クラフトチップ　探そっか",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Alright! Time to find that transmuter chip.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2915,
+    "id": "$WORLD_PCV_01_0800_0900_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップは　どこかな～？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Now where could that chip be hiding?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2916,
+    "id": "$WORLD_PCV_01_0800_1000_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップを探してみるか？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Shall we search here for that chip?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2917,
+    "id": "$WORLD_PCV_01_0800_1100_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップが埋まっていそうだな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "A chip may be buried nearby.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2918,
+    "id": "$WORLD_PCV_01_0800_1200_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップを探すぞ～！",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Time to sniff out that transmuter chip!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2919,
+    "id": "$WORLD_PCV_01_0800_1300_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップ　どこかな～？",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Gotta be a chip around here somewhere.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2920,
+    "id": "$WORLD_PCV_01_0800_1900_00_blt",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボなら　クラフトチップを見つけられんだろ",
+    "MetaData": {
+      "ACTOR": "バレット"
+    },
+    "English": {
+      "Text": "Unless you're dyin' to do the legwork, let a bird find the chip.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    }
+  },
+  {
+    "index": 2921,
+    "id": "$WORLD_PCV_01_0800_2000_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラフトチップ探し　チョコボに助けてもらう？",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "It might be easier to find that chip if we used a chocobo.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2922,
+    "id": "$WORLD_PCV_01_0800_2100_00_art",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボにクラフトチップ　見つけてもらう？",
+    "MetaData": {
+      "ACTOR": "エアリス"
+    },
+    "English": {
+      "Text": "Maybe we could get a chocobo to help us hunt down that chip.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    }
+  },
+  {
+    "index": 2923,
+    "id": "$WORLD_PCV_01_0800_2200_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボなら\r\nクラフトチップも見つけられるだろう",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "Perhaps a feathered friend could assist us in the search.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2924,
+    "id": "$WORLD_PCV_01_0800_2300_00_red",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "チョコボにチップ探しのコツ　教えてもらおうかな",
+    "MetaData": {
+      "ACTOR": "レッドXIII"
+    },
+    "English": {
+      "Text": "I oughta have a chocobo teach me how to hunt for these chips.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    }
+  },
+  {
+    "index": 2925,
+    "id": "$WORLD_PCV_01_1000_0100_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "クラウドのところに急がないと",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "We have to find the others first.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2926,
+    "id": "$WORLD_PCV_01_1000_0200_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "寄り道してる場合じゃないね",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "No time for distractions.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  },
+  {
+    "index": 2927,
+    "id": "$WORLD_PCV_01_1000_0300_00_tif",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "魔晄炉に行かないと",
+    "MetaData": {
+      "ACTOR": "ティファ"
+    },
+    "English": {
+      "Text": "Get to the reactor.",
+      "MetaData": {
+        "ACTOR": "Tifa"
+      }
+    }
+  }
+]

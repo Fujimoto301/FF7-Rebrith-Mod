@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0400_0500_00_sys",
+      "before": "<color=yellow>【Galactic Saviors】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【Galactic Saviors】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【シューティングコースター】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0500_0300_00_sys",
+      "before": "<color=yellow>【Musclehead Colosseum】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【Musclehead Colosseum】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【マッスルコロシアム】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0600_0200_00_sys",
+      "before": "<color=yellow>【Chocobo Racing】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【Chocobo Racing】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【チョコボレース】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0700_0300_00_sys",
+      "before": "<color=yellow>【G-Bike】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【G-Bike】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【Ｇバイク】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_0800_0200_00_sys",
+      "before": "<color=yellow>【Queen’s Blood】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【Queen’s Blood】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【クイーンズ・ブラッド】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$GOLDE_QST_03_1400_0300_00_sys",
+      "before": "<color=yellow>【3D Brawler】</color>\r\nต้องการท้าทายผู้จัดการ Shinra หรือไม่?",
+      "after": "<color=yellow>【3D Brawler】</color>\r\nต้องการท้าทายหัวหน้าแผนก Shinra หรือไม่?",
+      "jp": "<color=yellow>【３Ｄバトラー】</color>\r\n神羅課長に挑戦しますか？",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    },
+    {
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGE_QST_05_1200_1400_00_sys",
+      "before": "ท่าทีที่ชวนให้คิด",
+      "after": "ท่าทีที่ชวนให้สงสัย",
+      "jp": "思わせぶりな態度について",
+      "reason": "Question occupation aligned with dialogue; Cissnei option asks about suggestive/evasive behavior, avoiding vague wording."
+    }
+  ]
+}

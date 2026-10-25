@@ -1,0 +1,4730 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$C2710_MAIN_3500_0600_00_zaf",
+    "Japanese": {
+      "Text": "まったく　戦争が始まるまえに\r\n顔くらい見せればいいものを",
+      "MetaData": {
+        "ACTOR": "ザックスの父"
+      }
+    },
+    "English": {
+      "Text": "Way the world's going, least he could do is drop us a line─let his folks know he's okay.",
+      "MetaData": {
+        "ACTOR": "Zack's Father"
+      }
+    },
+    "template": 267,
+    "group": "speech",
+    "reason": "Later war reaction from Zack parents"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$C2710_MAIN_3600_0100_00_zam",
+    "Japanese": {
+      "Text": "また戦争が始まるなんて噂もあるんでしょ？\r\nザックスも　忙しくなるのかねえ",
+      "MetaData": {
+        "ACTOR": "ザックスの母"
+      }
+    },
+    "English": {
+      "Text": "All this talk of another war has me worried... But I know I'm not the only mother afraid for her son.",
+      "MetaData": {
+        "ACTOR": "Zack's Mother"
+      }
+    },
+    "template": 268,
+    "group": "speech",
+    "reason": "Later war reaction from Zack parents"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$C2710_MAIN_3600_0600_00_zam",
+    "Japanese": {
+      "Text": "戦争で活躍すれば　新聞に載るんでしょう？\r\n村にも届くといいんだけど",
+      "MetaData": {
+        "ACTOR": "ザックスの母"
+      }
+    },
+    "English": {
+      "Text": "Everyone loves war heroes, don't they? If Zack makes a name for himself, I'm sure we'll get to read all about him in the papers.",
+      "MetaData": {
+        "ACTOR": "Zack's Mother"
+      }
+    },
+    "template": 272,
+    "group": "speech",
+    "reason": "Later war reaction from Zack parents"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$C2710_MAIN_3600_0700_00_zam",
+    "Japanese": {
+      "Text": "戦争の英雄なんて　不謹慎よね",
+      "MetaData": {
+        "ACTOR": "ザックスの母"
+      }
+    },
+    "English": {
+      "Text": "Not that I want him to risk his life chasing fame and glory...",
+      "MetaData": {
+        "ACTOR": "Zack's Mother"
+      }
+    },
+    "template": 273,
+    "group": "speech",
+    "reason": "Later war reaction from Zack parents"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0100_00_leg",
+    "Japanese": {
+      "Text": "馬鹿な　わらわが負けただと？",
+      "MetaData": {
+        "ACTOR": "黒紅の女王"
+      }
+    },
+    "English": {
+      "Text": "Impossible! What foul sorcery...!?",
+      "MetaData": {
+        "ACTOR": "The Shadowblood Queen"
+      }
+    },
+    "template": 706,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0200_00_leg",
+    "Japanese": {
+      "Text": "おのれ　魔女め……\r\nまた　わらわを阻むか！",
+      "MetaData": {
+        "ACTOR": "黒紅の女王"
+      }
+    },
+    "English": {
+      "Text": "Accursed witch!\r\nEven in death, you would thwart me!",
+      "MetaData": {
+        "ACTOR": "The Shadowblood Queen"
+      }
+    },
+    "template": 707,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0400_00_leg",
+    "Japanese": {
+      "Text": "クラウド……",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "Cloud?",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 274,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0500_00_cld",
+    "Japanese": {
+      "Text": "平気か？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You good?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 708,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0600_00_leg",
+    "Japanese": {
+      "Text": "女王は……？",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "What about...?",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 709,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0700_00_cld",
+    "Japanese": {
+      "Text": "もう　大丈夫だ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "She's gone.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 710,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_0800_00_leg",
+    "Japanese": {
+      "Text": "はたしてそうかな？",
+      "MetaData": {
+        "ACTOR": "黒紅の女王"
+      }
+    },
+    "English": {
+      "Text": "Oh, she is, is she?",
+      "MetaData": {
+        "ACTOR": "The Shadowblood Queen"
+      }
+    },
+    "template": 711,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1010_00_leg",
+    "Japanese": {
+      "Text": "さあ　傀儡らしく　わらわのものになれ",
+      "MetaData": {
+        "ACTOR": "黒紅の女王"
+      }
+    },
+    "English": {
+      "Text": "Be still, little puppet. You belong to me now!",
+      "MetaData": {
+        "ACTOR": "The Shadowblood Queen"
+      }
+    },
+    "template": 712,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1200_00_vin",
+    "Japanese": {
+      "Text": "クラウド！",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Cloud!",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 433,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1300_00_vin",
+    "Japanese": {
+      "Text": "女王のカードを！",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Use the card!",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 713,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1400_00_leg",
+    "Japanese": {
+      "Text": "させるか！",
+      "MetaData": {
+        "ACTOR": "黒紅の女王"
+      }
+    },
+    "English": {
+      "Text": "Don't you dare!",
+      "MetaData": {
+        "ACTOR": "The Shadowblood Queen"
+      }
+    },
+    "template": 714,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1500_00_cld",
+    "Japanese": {
+      "Text": "遊びは終わりだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Game over!",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 715,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1700_00_leg",
+    "Japanese": {
+      "Text": "ありがとう　クラウド",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "Thank you, Cloud.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 716,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1710_00_leg",
+    "Japanese": {
+      "Text": "女王を……わたしを止めてくれて",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "For stopping her... For stopping <i>me</i>.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 717,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1800_00_leg",
+    "Japanese": {
+      "Text": "天才なんて持ち上げられて\r\nいい気になってたんだよね",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "Guess I really let all that \"genius\" crap\r\ngo to my head, huh?",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 718,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1900_00_leg",
+    "Japanese": {
+      "Text": "そのくせ　裏では負けることに怯えて\r\nがむしゃらに力を求めた",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "After a while, losing became my worst nightmare.\r\nI'd do anything to win.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 719,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_1910_00_leg",
+    "Japanese": {
+      "Text": "その結果が　これ",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "And look where it got me.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 720,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2000_00_vin",
+    "Japanese": {
+      "Text": "掘り起こした伝承が悪かったな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "You are not to blame for this.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 721,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2100_00_vin",
+    "Japanese": {
+      "Text": "あれは　心の隙間に入り込み\r\n広まることで力を持つ　そういう存在だ",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Evil like that preys on our deepest, darkest fears,\r\nand worms its way into our hearts.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 722,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2200_00_vin",
+    "Japanese": {
+      "Text": "抗うことは難しい",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Few ever break free.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 723,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2300_00_cld",
+    "Japanese": {
+      "Text": "ただの天才なんて存在しない\r\nぜんぶ　努力の結果だろ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You're the best because you worked your ass off. Not because you're a \"genius.\"",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 724,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2310_00_cld",
+    "Japanese": {
+      "Text": "胸を張れ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Got it?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 725,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2400_00_leg",
+    "Japanese": {
+      "Text": "うん……",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "Got it.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 726,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2510_00_leg",
+    "Japanese": {
+      "Text": "いちから　頑張らなきゃ",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "Well, on that note...",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 727,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2600_00_leg",
+    "Japanese": {
+      "Text": "もし　また女王が蘇ろうとしたら\r\n今度はわたしが倒せるように",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "I'd better get back to it.\r\nAfter all, there can only be <i>one</i> card queen.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 728,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2700_00_leg",
+    "Japanese": {
+      "Text": "次は負けないから　また勝負しようね",
+      "MetaData": {
+        "ACTOR": "レジー"
+      }
+    },
+    "English": {
+      "Text": "So next time you wanna throw down,\r\nyou best come prepared.",
+      "MetaData": {
+        "ACTOR": "Regina"
+      }
+    },
+    "template": 729,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2800_00_cld",
+    "Japanese": {
+      "Text": "ああ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Right.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 243,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_2900_00_vin",
+    "Japanese": {
+      "Text": "では　私も戻ることにしよう",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "All's well that ends well, I suppose.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 730,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_3000_00_cld",
+    "Japanese": {
+      "Text": "助かった",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Thanks to you.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 731,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$CARDG_QST_07_0300_3100_00_vin",
+    "Japanese": {
+      "Text": "こんなところで死なれては困るからな",
+      "MetaData": {
+        "ACTOR": "ヴィンセント"
+      }
+    },
+    "English": {
+      "Text": "Couldn't have you dying on me just yet.",
+      "MetaData": {
+        "ACTOR": "Vincent"
+      }
+    },
+    "template": 732,
+    "group": "speech",
+    "reason": "Late Queen Blood finale with Vincent and Regina, outside Ch9"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0100_0100_00_csn",
+    "Japanese": {
+      "Text": "大丈夫　大丈夫",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Relax, I'll be fine.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1446,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0100_0200_00_mfa",
+    "Japanese": {
+      "Text": "そんなワケないでしょ\r\nひとりじゃ　危険だって",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "Not on your own, you won't. It's way too dangerous out there!",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1447,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0100_0300_00_mma",
+    "Japanese": {
+      "Text": "俺たちも行くよ",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "We're going with you.",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1448,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0100_0400_00_csn",
+    "Japanese": {
+      "Text": "はあ　さっさと終わらせたいの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "...It's just faster to do it myself.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1449,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0100_0500_00_anm",
+    "Japanese": {
+      "Text": "クエ～……",
+      "MetaData": {
+        "ACTOR": "チョコボ"
+      }
+    },
+    "English": {
+      "Text": "Kweh...",
+      "MetaData": {
+        "ACTOR": "Chocobo"
+      }
+    },
+    "template": 1450,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0100_00_csn",
+    "Japanese": {
+      "Text": "いらっしゃい",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Hey there.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1451,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0200_00_art",
+    "Japanese": {
+      "Text": "おでかけ？",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Heading out?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1452,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0300_00_csn",
+    "Japanese": {
+      "Text": "見まわり　ちょっと気になる報告があってね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "On patrol. Got a slightly troubling report.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1453,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0400_00_mfa",
+    "Japanese": {
+      "Text": "団長ったら　ひとりで行くって言うから",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "But not \"troubling\" enough to let us go with her.",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1454,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0500_00_csn",
+    "Japanese": {
+      "Text": "だって　それがいちばん合理的よ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "I'm captain. It just makes sense for me to go.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1455,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0600_00_mma",
+    "Japanese": {
+      "Text": "俺たちから見ると　そうじゃない",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "Yeah, but not by yourself.",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1456,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0700_00_csn",
+    "Japanese": {
+      "Text": "またそこに戻る？",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "We're talking in circles.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1457,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0800_00_art",
+    "Japanese": {
+      "Text": "はいは～い！",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "If I may!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1458,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_0900_00_art",
+    "Japanese": {
+      "Text": "ご存知のとおり　うちのクラウド\r\nそういうの　すっごく得意なの",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "As you can tell by looking at him, Cloud here has a lot of experience taking care of \"trouble.\"",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1459,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1000_00_art",
+    "Japanese": {
+      "Text": "見まわり　クラウドにまかせてみる？",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "So why don't you send him on patrol instead?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1460,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1100_00_cld",
+    "Japanese": {
+      "Text": "俺が代わりに行く\r\n気が済むまで　話し合え",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Don't worry─I'll go. Give you time to talk things over.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1461,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1200_00_mfa",
+    "Japanese": {
+      "Text": "頼んじゃう？",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "Whaddya think?",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1462,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1300_00_csn",
+    "Japanese": {
+      "Text": "そうだね　今回は甘えちゃおうか",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Okay, then. If you've got time to spare.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1463,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1400_00_csn",
+    "Japanese": {
+      "Text": "最近　村の近くで\r\n危険なモンスターの目撃情報があってね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Recently, folks have spotted some foul-looking fiends outside the village.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1464,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1500_00_csn",
+    "Japanese": {
+      "Text": "高台にある物見塔にのぼって\r\nなにか異常がないか　様子を見てきてほしいの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "I want you to head to the observation tower. Take a look around─see if you notice anything suspicious.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1465,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0200_1600_00_art",
+    "Japanese": {
+      "Text": "うん　まかせて",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Just leave it to him.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1466,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0300_0100_00_csn",
+    "Japanese": {
+      "Text": "高台に　古い物見塔があるの\r\nそこからなら　あたり一帯を見渡せるはずよ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "The tower's up on the outlook. It should serve as a good vantage point for surveying the surrounding area.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1467,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0400_0100_00_mfa",
+    "Japanese": {
+      "Text": "頼ってばかりで　悪いね",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "Sorry for getting you wrapped up in all this.",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1468,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0400_0200_00_mma",
+    "Japanese": {
+      "Text": "見まわりのシフト問題は　定期的に発生するんだ\r\n団長がひとりで行きたがるせいさ",
+      "MetaData": {
+        "ACTOR": "青年団"
+      }
+    },
+    "English": {
+      "Text": "Wasn't the first argument we've had about patrol duty. The captain can be pretty stubborn sometimes.",
+      "MetaData": {
+        "ACTOR": "Youth Coalition Member"
+      }
+    },
+    "template": 1469,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0500_0100_00_art",
+    "Japanese": {
+      "Text": "わあ～！",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "It's beautiful!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1470,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0500_0200_00_cld",
+    "Japanese": {
+      "Text": "モンスターを探そう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "No time for sightseeing.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1471,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0600_0100_00_cld",
+    "Japanese": {
+      "Text": "あそこが怪しい　行ってみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Activity over there. Let's go.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1472,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0600_0200_00_cld",
+    "Japanese": {
+      "Text": "モンスターの影が見えた　調べてみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Think I spotted something. Let's check it out.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1473,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0800_0100_00_cld",
+    "Japanese": {
+      "Text": "このあたりでよく見かけるモンスターだ\r\nシスネが警戒しているのとは　別物だろう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Hmm. You can find fiends like these anywhere. Cissnei must've been referring to something else.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1474,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0800_0200_00_cld",
+    "Japanese": {
+      "Text": "高台に戻るぞ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Back to the outlook.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1475,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0800_0300_00_cld",
+    "Japanese": {
+      "Text": "いまのも違うか……\r\nもういちど　高台へ戻ってみよう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Nope, not the fiend we want. Should probably take another peek from the outlook.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1476,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_0900_0100_00_art",
+    "Japanese": {
+      "Text": "クラウド　あそこ！\r\nいま　なんか動いた",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Cloud, look over there! I just saw something moving!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1477,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1000_0100_00_cld",
+    "Japanese": {
+      "Text": "あいつだな　見失うまえに向かうぞ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Bingo. Let's not lose sight of it.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1478,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1100_0100_00_art",
+    "Japanese": {
+      "Text": "うわっ　巨大！",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Whoa, that's ginormous!",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1479,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0100_00_csn",
+    "Japanese": {
+      "Text": "いい動きしてるわね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "That's some fine work.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1480,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0200_00_art",
+    "Japanese": {
+      "Text": "えっ　いつの間に",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Huh? When did you get here?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1481,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0300_00_csn",
+    "Japanese": {
+      "Text": "コソコソついて来ちゃった\r\nクラウドは　気づいてたかもね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Been following you for a while. But I'm sure Cloud already knew that.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1482,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0400_00_cld",
+    "Japanese": {
+      "Text": "まあ……な",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Yeah, well...",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1483,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0500_00_csn",
+    "Japanese": {
+      "Text": "なかなか　いい眺めだったでしょ？",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "View from the outlook was pretty nice, huh?",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1484,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0600_00_csn",
+    "Japanese": {
+      "Text": "あそこからなら　村にやってくる人も\r\nいちはやく見つけることができるの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "I like to relax there. Plus, it's easy to spot people coming our way well in advance.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1485,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0700_00_art",
+    "Japanese": {
+      "Text": "もしかして　だれか待ってる？",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Wait, are you expecting someone?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1486,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0800_00_cld",
+    "Japanese": {
+      "Text": "あんたには　いろいろ聞きたいと思っていたんだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "I've got a lotta questions I've been meaning to ask you, y'know.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1487,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_0900_00_csn",
+    "Japanese": {
+      "Text": "そう？　じゃあ\r\n話せることなら答えるわ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "That so? Fine, but I don't have all day.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1488,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1000_00_csn",
+    "Japanese": {
+      "Text": "ただし　質問はひとつだけよ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You get one question, and one question only.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1489,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1100_00_sys",
+    "Japanese": {
+      "Text": "なにを聞きますか？\r\n（質問はひとつだけです）"
+    },
+    "English": {
+      "Text": "What is the one question you'll ask Cissnei?"
+    },
+    "template": 1490,
+    "group": "system",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1200_00_sys",
+    "Japanese": {
+      "Text": "待ち人について"
+    },
+    "English": {
+      "Text": "Who are you waiting for?"
+    },
+    "template": 1491,
+    "group": "system",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1300_00_sys",
+    "Japanese": {
+      "Text": "シスネの正体について"
+    },
+    "English": {
+      "Text": "Who are you, really?"
+    },
+    "template": 1492,
+    "group": "system",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1400_00_sys",
+    "Japanese": {
+      "Text": "思わせぶりな態度について"
+    },
+    "English": {
+      "Text": "What is it you're hiding from us?"
+    },
+    "template": 1493,
+    "group": "system",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1500_00_sys",
+    "Japanese": {
+      "Text": "聞くことはない"
+    },
+    "English": {
+      "Text": "Actually, I'm good."
+    },
+    "template": 1494,
+    "group": "system",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1600_00_csn",
+    "Japanese": {
+      "Text": "私の待ち人は……もう死んでしまったの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "As silly as it sounds...someone who isn't with us anymore.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1495,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1700_00_csn",
+    "Japanese": {
+      "Text": "でも　全然そんな気がしなくて",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "But he doesn't feel gone.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1496,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1800_00_csn",
+    "Japanese": {
+      "Text": "そういうヤツなの\r\nある日　ひょこっと帰ってきそうで",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "It's like I wouldn't be surprised if I woke up one day and saw him outside our gates.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1497,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1900_00_csn",
+    "Japanese": {
+      "Text": "恋愛めいた感情があるわけじゃないわ\r\nでも　気になって仕方がない",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "He's not an ex or anything like that. Dunno what he was, but...I really miss the guy.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1498,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_1900_09_art",
+    "Japanese": {
+      "Text": "うん……",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "I get it.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 726,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2000_00_csn",
+    "Japanese": {
+      "Text": "顔を見て　安心したいんだよね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Wish I could see him again. Make sure he's alright.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1499,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2100_00_csn",
+    "Japanese": {
+      "Text": "そう　これは彼のためじゃなくて\r\n私のため",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Though if I'm bein' honest─it's just for my sake, isn't it? Not his.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1500,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2200_00_cld",
+    "Japanese": {
+      "Text": "なにがあったんだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Something happen between you?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1501,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2300_00_csn",
+    "Japanese": {
+      "Text": "彼の人生の一部を奪ってしまった\r\nその責任の一端は　私にもある",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "This is gonna sound cryptic and weird, I know, but...I stole part of his life from him─and I gotta carry that.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1502,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2400_00_csn",
+    "Japanese": {
+      "Text": "あっ！",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Hold on!",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1071,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2500_00_csn",
+    "Japanese": {
+      "Text": "質問はひとつだけって言ったじゃない",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Didn't I say <i>one</i> question?",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1503,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2600_00_csn",
+    "Japanese": {
+      "Text": "私の正体は――",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Well, the truth is...",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1504,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2700_00_csn",
+    "Japanese": {
+      "Text": "ああ　これはパス\r\n言いたくない",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "The truth is, that's none of your business.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1505,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2800_00_cld",
+    "Japanese": {
+      "Text": "元神羅の一員　それは確実だ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You're ex-Shinra. That much I know for a fact.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1506,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_2900_00_cld",
+    "Japanese": {
+      "Text": "いや　タークスの施設で会ったよな\r\n元じゃなくて　現役か",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Then again, we ran into you at a Turks' facility, so you might still be working for some asshole in a suit.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1507,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3000_00_cld",
+    "Japanese": {
+      "Text": "でも　神羅の社員なんて大勢いる\r\n元社員だって珍しくもない",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "But it's a big company. Nothing weird about crossing paths with someone who's got ties to it, current or former.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1508,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3100_00_cld",
+    "Japanese": {
+      "Text": "それを隠すのは　なにか特別な職種──",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Which means there's no reason to hide them. Unless you were part of some─",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1509,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3200_00_csn",
+    "Japanese": {
+      "Text": "あなたの想像は当たらずとも遠からず\r\nでも　村の人たちには知られたくないの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You're more than welcome to think whatever theories you like. I'd appreciate it, though, if you didn't share them with the villagers.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1510,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3300_00_csn",
+    "Japanese": {
+      "Text": "都会から来た　やけに強いお姉さん\r\nまたは娘　あるいは孫",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "I enjoy a very unique position in Gongaga. The big city girl with a mysterious past.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1511,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3400_00_csn",
+    "Japanese": {
+      "Text": "その立場を　楽しませて",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Unless you spoil the fun for me.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1512,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3500_00_csn",
+    "Japanese": {
+      "Text": "あなたの敵ではないし　邪魔もしない\r\nだから──",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Know that I'm no enemy of yours, and I won't get in your way. So please.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1513,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3600_00_csn",
+    "Japanese": {
+      "Text": "秘密厳守で　お願い",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Just let me live my life.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1514,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3700_00_csn",
+    "Japanese": {
+      "Text": "それは　なに？",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Not sure I follow.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1515,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3800_00_csn",
+    "Japanese": {
+      "Text": "私が　思わせぶりな態度で\r\nあなたの気を引こうとしたとか？",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You say you think I'm hiding something? I say you're reading too much into nothing.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1516,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3900_00_cld",
+    "Japanese": {
+      "Text": "俺のことを前から知っている",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You knew who I was when we showed up.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1517,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_3910_00_cld",
+    "Japanese": {
+      "Text": "そんな雰囲気を出していた",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Was written all over your face.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1518,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4000_00_art",
+    "Japanese": {
+      "Text": "クラウド　気がつくなんて　よっぽど",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Cloud does have a sixth sense about this kinda thing.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1519,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4010_00_art",
+    "Japanese": {
+      "Text": "実は　わたしも思ってた\r\nなんかあやしいって",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "And, honestly, I got that feeling too. Something's up.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1520,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4100_00_csn",
+    "Japanese": {
+      "Text": "じゃあ　言っちゃうね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Oh, fine... You caught me.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1521,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4110_00_csn",
+    "Japanese": {
+      "Text": "クラウドと私は　会ったことがあるの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Cloud. You and I have met before.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1522,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4200_00_cld",
+    "Japanese": {
+      "Text": "いつ　どこで？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Alright. When and where?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1523,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4300_00_csn",
+    "Japanese": {
+      "Text": "質問はひとつの約束よ　それに\r\nこれはクラウドに思い出してもらわなくちゃ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Now now─only <i>one</i> question. I'm afraid you're gonna have to remember those details without any hints.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1524,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4400_00_csn",
+    "Japanese": {
+      "Text": "そうじゃないと　悔しいもの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Though I'll be crushed if you can't manage.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1525,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4500_00_csn",
+    "Japanese": {
+      "Text": "深～い関係じゃないわ　安心して",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "It's not like that, I promise. Don't worry.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1526,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4700_00_art",
+    "Japanese": {
+      "Text": "クラウド　どうなの？",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Got anything to say, Cloud?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1527,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_4900_00_csn",
+    "Japanese": {
+      "Text": "じゃあ　宿題ね",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You can try again later.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1528,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5000_00_csn",
+    "Japanese": {
+      "Text": "そうね　それもいいのかもしれないわ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Oh, really? Well, that's probably for the best.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1529,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5100_00_csn",
+    "Japanese": {
+      "Text": "いまはまだ　その時じゃないもの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "There are times to talk...and times to not.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1530,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5200_00_csn",
+    "Japanese": {
+      "Text": "さてと……",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Anyway...",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1531,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5300_00_csn",
+    "Japanese": {
+      "Text": "これから世界は　大きく動き出すわ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "This world of ours is about to change.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1532,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5400_00_csn",
+    "Japanese": {
+      "Text": "勘じゃないわよ\r\n色々なニュースを見てると　わかるの",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "That's not my gut talking. The writing's been on the wall for a while now.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1533,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5500_00_csn",
+    "Japanese": {
+      "Text": "あ～あ　無力",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "And there's nothing we can do to stop what's coming.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1534,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5600_00_art",
+    "Japanese": {
+      "Text": "そんなこと　ないと思う",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "I bet you could, if anyone.",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1535,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5700_00_csn",
+    "Japanese": {
+      "Text": "ありがとう",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "That's sweet.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 157,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5800_00_csn",
+    "Japanese": {
+      "Text": "エアリス　あなたは本当にいい人\r\nステキだし……納得",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You know, I think I see it now. What he saw in you. Yeah...",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1536,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_5900_00_art",
+    "Japanese": {
+      "Text": "えっ……ええ？",
+      "MetaData": {
+        "ACTOR": "エアリス"
+      }
+    },
+    "English": {
+      "Text": "Uh... \"Yeah\" what?",
+      "MetaData": {
+        "ACTOR": "Aerith"
+      }
+    },
+    "template": 1537,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_6000_00_csn",
+    "Japanese": {
+      "Text": "ねっ？",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Yeah?",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1538,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_6100_00_cld",
+    "Japanese": {
+      "Text": "ああ……",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Yeah...?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 429,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_6101_00_cld",
+    "Japanese": {
+      "Text": "ああ……",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Y-yeah...?",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 429,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1200_6200_00_csn",
+    "Japanese": {
+      "Text": "じゃあ　村へ戻ろう",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "And on that note, let's head back.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1539,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1300_0100_00_csn",
+    "Japanese": {
+      "Text": "もうすこししたら　村に帰るわ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "On second thought, I think I'll take a moment.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1540,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1300_0200_00_csn",
+    "Japanese": {
+      "Text": "心配しないで",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "You worried about me?",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1541,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1300_0300_00_csn",
+    "Japanese": {
+      "Text": "そのへんのモンスターにやられるほど\r\nヤワじゃないから",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "Don't be. I'm capable of handling the fiends around here.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1542,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1400_0100_00_csn",
+    "Japanese": {
+      "Text": "この村と森は守りたいの\r\n青年団で　がんばらなくちゃ",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "As a member of the GYC, I'll do all I can for this village and the jungle.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1543,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_05_1400_0200_00_csn",
+    "Japanese": {
+      "Text": "ここに来たときくらい　のんびりしていって",
+      "MetaData": {
+        "ACTOR": "シスネ"
+      }
+    },
+    "English": {
+      "Text": "I hope you're able to get some R & R while you're here.",
+      "MetaData": {
+        "ACTOR": "Cissnei"
+      }
+    },
+    "template": 1544,
+    "group": "speech",
+    "reason": "Later Woodland Vigil odd job / return-state Cissnei patrol"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0100_0100_00_mib",
+    "Japanese": {
+      "Text": "はあ　インスピレーションこな～い",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "Ugh... Will my muse ever strike...?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1545,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0100_0200_00_mib",
+    "Japanese": {
+      "Text": "あ～あ　モデルが地味なのよ～",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "There has to be something more interesting for me to shoot...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1546,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0100_0300_00_mib",
+    "Japanese": {
+      "Text": "なにか　これは！\r\nというネタはないかしら",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "None of these scream \"Take my picture\" in any way, shape, or form...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1547,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0100_00_blt",
+    "Japanese": {
+      "Text": "なにやってんだ　あんた？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Mind tellin' us what you're doin'?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1548,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0200_00_mib",
+    "Japanese": {
+      "Text": "ひいいい～！",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "Ahhh!",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1549,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0300_00_blt",
+    "Japanese": {
+      "Text": "やめろ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Cut it out!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1550,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0310_00_mib",
+    "Japanese": {
+      "Text": "はあああ　ウットリ～……",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "Ahhh... I've died and gone to heaven...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1551,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0400_00_cld",
+    "Japanese": {
+      "Text": "１枚　２０００ギルだ",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "That's gonna cost you two grand.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1552,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0500_00_mib",
+    "Japanese": {
+      "Text": "うええっ！",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "Two grand!?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1553,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0600_00_mib",
+    "Japanese": {
+      "Text": "でも　その価値はあるかもしれませんね",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "Although...for a visage of such pulchritude...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1554,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0700_00_mib",
+    "Japanese": {
+      "Text": "お金があれば払うんですけど　ごめんなさい",
+      "MetaData": {
+        "ACTOR": "？？？？"
+      }
+    },
+    "English": {
+      "Text": "If I had the money I'd pay your price in a heartbeat, but alas...",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "template": 1555,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0800_00_blt",
+    "Japanese": {
+      "Text": "こっちは　ほったらかしかよ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "I'll pay <i>you</i> if you rein it in!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1556,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_0900_00_cld",
+    "Japanese": {
+      "Text": "ここで　なにをしている？",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "Don't think I caught your name.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1557,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1000_00_mib",
+    "Japanese": {
+      "Text": "大変失礼いたしました\r\nわたくし　絵本作家のミーベと申します",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "My sincerest apologies! I'm Maeve, and I write children's books for a living.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1558,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1100_00_mib",
+    "Japanese": {
+      "Text": "と言っても　売れない　しがない\r\nビンボー作家……",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "...Which sounds fun, but...it's not, since right now, I'm flat broke.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1559,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1200_00_mib",
+    "Japanese": {
+      "Text": "新作絵本の題材を求め　手がけた紙芝居の収入で\r\nはるばる取材にやってきたのですが",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "I spent my last remaining gil to come scout out this village. I was hoping to use something here in my next book, but...",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1560,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1400_00_mib",
+    "Japanese": {
+      "Text": "どこまで行っても　立ち塞がるのは壁ばかり",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "The spectre of failure stalks me─looming from behind every corner!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1561,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1500_00_mib",
+    "Japanese": {
+      "Text": "人生とは　かくも\r\n終わりのない迷路なのでございましょうか！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Will my creative instincts ever return─or am I doomed to chase them like a rat in a life-sized maze!?",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1562,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1600_00_blt",
+    "Japanese": {
+      "Text": "いま　なんつった？\r\n人生は――",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Wait─what did you say? That sounded a lot like...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1563,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1700_00_blt",
+    "Japanese": {
+      "Text": "『人生は　終わりのない迷路だぜ』",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "\"I'm a rat trapped in a life-sized maze!\"",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1564,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1800_00_blt",
+    "Japanese": {
+      "Text": "あんた　もしかしてあの『どんづまり大迷宮』の\r\nミーベ・メーベル先生か！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Sorry, but I just gotta ask. You're Maeve Mabel, aren't you? Author of <i>Life in the Endless Maze</i>?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1565,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_1900_00_blt",
+    "Japanese": {
+      "Text": "うちの娘の　大のお気に入りなんだ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "That's my daughter's favorite book in the whole world!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1566,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2000_00_blt",
+    "Japanese": {
+      "Text": "サイン……いや　握手\r\n握手してもらってもいいか",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Can I get an autograph─wait, <i>actually</i>─can I shake your hand?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1567,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2100_00_mib",
+    "Japanese": {
+      "Text": "はっ　はい！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Ah... Of course!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1568,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2200_00_mib",
+    "Japanese": {
+      "Text": "まさか　実在しないとさえ思っていた\r\nどんづまり大迷宮の読者様にお会いできるなんて",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Anything for a fan! I mean, I always assumed I didn't have any, but─it's an incredible honor to finally meet an aficionado of my work!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1569,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2300_00_blt",
+    "Japanese": {
+      "Text": "絵本の取材中っつったよな\r\nよかったら　協力させてくれ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "You said you were scoutin' this village for book ideas, yeah? If it's alright with you, we'd love to help!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1570,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2400_00_blt",
+    "Japanese": {
+      "Text": "ちょうどいいモデルになるのがいるぞ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Got the perfect guy to serve as inspiration too.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1571,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2500_00_red",
+    "Japanese": {
+      "Text": "えっ？",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "What?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 881,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2600_00_mib",
+    "Japanese": {
+      "Text": "すばらしいです！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "You <i>are</i> perfect!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1572,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2700_00_red",
+    "Japanese": {
+      "Text": "ええっ！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "I am!?",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1573,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2800_00_mib",
+    "Japanese": {
+      "Text": "赤き獣の戦士……\r\nはああ　イメージがモリモリと！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Yes, I can see it now... A warrior beast with fur as fiery as his burning soul!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1574,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_2900_00_mib",
+    "Japanese": {
+      "Text": "ああ　イメージが頭からこぼれ落ちる\r\n記録がまにあわない！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Curse this feeble frame! My mind races, yet my hands plod along as if trapped in treacle!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1575,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3000_00_blt",
+    "Japanese": {
+      "Text": "大丈夫か　ミーベ先生",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Ms. Mabel─are you alright?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1576,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3100_00_mib",
+    "Japanese": {
+      "Text": "『決意』『苦悩』『旅立ち』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"Resolve.\" \"Suffering.\" \"Odyssey.\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1577,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3200_00_mib",
+    "Japanese": {
+      "Text": "みなさん　この３つのイメージで\r\n写真を撮っていただけますでしょうか",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Help me to express these themes by taking pictures which embody them. I beseech you!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1578,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3300_00_blt",
+    "Japanese": {
+      "Text": "『決意』『苦悩』『旅立ち』……\r\nいいじゃねえか！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "\"Resolve,\" \"suffering,\" and \"odyssey\"... Those are great themes!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1579,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3310_00_blt",
+    "Japanese": {
+      "Text": "こういうのは　撮影地にもこだわらねえとな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "We're gonna need locations that do 'em justice though.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1580,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3400_00_blt",
+    "Japanese": {
+      "Text": "森の入口に　良さげな浅瀬があったろ\r\nほら　行ってみようぜ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "There's a riverbed by the edge of the forest that'll work. C'mon, let's hit it up!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1581,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0200_3500_00_mib",
+    "Japanese": {
+      "Text": "よろしくお願いします\r\nわたくし　文章をまとめますので！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "I can't wait to see your photos. They're sure to help me write a story like no other.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1582,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0300_0100_00_mib",
+    "Japanese": {
+      "Text": "どんな写真が届くか　楽しみにしておりますね！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Don't keep me in suspense! I need that inspiration!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1583,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0300_0200_00_mib",
+    "Japanese": {
+      "Text": "ああ～　妄想がモクモクと\r\nトキメキが止まりません！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Ooh, even the mere thought of seeing those amazing photos... My heart's beating a mile a minute!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1584,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0100_00_blt",
+    "Japanese": {
+      "Text": "よっし　ここのテーマは『決意』だ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Alright! First up, we gotta capture \"resolve\"!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1585,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0200_00_blt",
+    "Japanese": {
+      "Text": "生い茂る森を抜け　必ず魔晄炉へと辿り着く！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "And in my humble opinion, there ain't no better backdrop than right here─where jungle meets desert!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1586,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0300_00_blt",
+    "Japanese": {
+      "Text": "あの時の　勇ましい気持ちを思い出して\r\nバチッと決めてくれよ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Look right at the camera and think of when we made our heroic charge straight into this godforsaken tangle!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1587,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0400_00_red",
+    "Japanese": {
+      "Text": "うん　バッチリ決めるよ！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Alright! Make sure to get my good side!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1588,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0500_00_blt",
+    "Japanese": {
+      "Text": "次の撮影地は～……\r\nこの勢いに乗って　目指せゴンガガ魔晄炉だな！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Let's see, next we're off to, uh... Oh, I know! The mako reactor! C'mon, we gotta keep this thing rollin'!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1589,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0600_00_blt",
+    "Japanese": {
+      "Text": "森を抜け　いざゆかんってか！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Just like the book: \"Escape the maze and be free!\"",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1590,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0700_00_sys",
+    "Japanese": {
+      "Text": "この写真でいいですか？"
+    },
+    "English": {
+      "Text": "Are you happy with this picture?"
+    },
+    "template": 1591,
+    "group": "system",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0800_00_sys",
+    "Japanese": {
+      "Text": "はい"
+    },
+    "English": {
+      "Text": "Yes."
+    },
+    "template": 766,
+    "group": "system",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0400_0900_00_sys",
+    "Japanese": {
+      "Text": "撮り直す"
+    },
+    "English": {
+      "Text": "Nope. Let's retake it."
+    },
+    "template": 1592,
+    "group": "system",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0410_0100_00_red",
+    "Japanese": {
+      "Text": "クラウド～　こっちこっち！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Cloud! Over here! C'mon, c'mon!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1593,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0410_0200_00_red",
+    "Japanese": {
+      "Text": "ナナキ　いきま～す！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Okay, make way for the model!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1594,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0410_0300_00_red",
+    "Japanese": {
+      "Text": "オイラ　キメちゃうよ！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "This is gonna be the best one yet!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1595,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0410_0400_00_red",
+    "Japanese": {
+      "Text": "クラウド～　みてみて～！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Make sure to catch my good side, alright!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1596,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0410_0500_00_red",
+    "Japanese": {
+      "Text": "フッ　私の出番のようだな",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Hmph. Step aside; I'll show you how it's done.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1597,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0100_00_blt",
+    "Japanese": {
+      "Text": "来てみたはいいが\r\nここには　あんまイイ思い出はねえか",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Well, here we are... Can't say I've got fond memories of this dump, considerin'...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1598,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0200_00_blt",
+    "Japanese": {
+      "Text": "まあ　テーマ『苦悩』にピッタリだな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "But hey─that's why it's perfect for capturin' the theme of \"suffering\"!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1599,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0300_00_blt",
+    "Japanese": {
+      "Text": "スカーレットのツラでも思い出して\r\n思いっきり　悩ましげに頼む",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "All you gotta do is picture Scarlet's ugly mug and we're golden. Easy as pie, am I right?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1600,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0400_00_red",
+    "Japanese": {
+      "Text": "悩めるナナキだね　まかせて！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Okay! One pensive-lookin' Nanaki, coming up!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1601,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0500_00_blt",
+    "Japanese": {
+      "Text": "残るテーマは『旅立ち』だな\r\nとくりゃあ　場所は空港しかねえだろ",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Okay, the last one is \"odyssey.\" Don't know about you, but that screams airstrip to me.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1602,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0500_0600_00_blt",
+    "Japanese": {
+      "Text": "大空に夢の翼を広げ　共に羽ばたかんってな！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "\"Let us fly on the wings of dreams together and claim our freedom!\" Y'know, like the book.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1603,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0600_0100_00_blt",
+    "Japanese": {
+      "Text": "最後の１枚だ　気合い入れてけ～！\r\nテーマは『旅立ち』",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "This is the last one, so make sure you look extra spiffy, Red! Theme is...\"odyssey.\"",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1604,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0600_0200_00_blt",
+    "Japanese": {
+      "Text": "ここから聖地コスモキャニオンへ飛び立った時の\r\n希望と喜びを　全力で表してくれ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Recall the way you felt about settin' off for Cosmo Canyon. The nerves, the excitement, the joy─the hope!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1605,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0600_0300_00_blt",
+    "Japanese": {
+      "Text": "ポーズは　そうだな……",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "So...strike a pose like, um...",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1606,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0600_0400_00_red",
+    "Japanese": {
+      "Text": "オイラにまかせて！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "No worries. I got it!",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1607,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0600_0500_00_blt",
+    "Japanese": {
+      "Text": "よっしゃ　ミーベ先生のところへ戻るとするか！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Perfect! Better hurry and get these back to Ms. Mabel.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1608,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0100_00_blt",
+    "Japanese": {
+      "Text": "待たせたな　先生\r\nこんなもんでどうだ？",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Here ya go, Ms. Mabel!\r\nThink these'll spark your imagination?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1609,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0200_00_mib",
+    "Japanese": {
+      "Text": "こここっ　これは！\r\n物語のイメージがメッキメキと",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "What is this feeling!? It's as if my hand has become a conduit for the gods of prose!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1610,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0300_00_mib",
+    "Japanese": {
+      "Text": "裏切りの罪で森を追われた　赤き戦士",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "There once was a crimson warrior who wronged his village.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1611,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0301_00_mib",
+    "Japanese": {
+      "Text": "裏切りの罪で森を追われた　赤き戦士",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "There once was a crimson warrior who wronged his village.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1611,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0400_00_mib",
+    "Japanese": {
+      "Text": "戦士は……なんだかよくわからないのですが\r\nひとり　見知らぬ土地へと旅立ちました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "For his crimes he was forced to leave. And so the former \"King of the Forest\" embarked on a journey into unknown lands.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1612,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0401_00_mib",
+    "Japanese": {
+      "Text": "戦士は……なんだかよくわからないのですが\r\nひとり　見知らぬ土地へと旅立ちました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "For this he was forced to leave. So the former \"King of the Forest\" embarked on a journey into unknown lands.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1612,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0500_00_mib",
+    "Japanese": {
+      "Text": "森の王として皆に慕われる　赤き戦士",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "There once was a crimson warrior who everyone loved.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1613,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0600_00_mib",
+    "Japanese": {
+      "Text": "戦士は真の強さを求め\r\nひとり　見知らぬ土地へと旅立ちました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "He was so strong they called him the \"King of the Forest\"─but he wanted to be even stronger! So he went on an adventure.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1614,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0700_00_cld",
+    "Japanese": {
+      "Text": "出だしは　悪くない",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "That's actually not too bad of a start.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1615,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0800_00_mib",
+    "Japanese": {
+      "Text": "旅の途中　戦士の前に現れた３人の姫\r\n姫たちは戦士に詰め寄りました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "On his journey, he met three princesses, all of whom fell in love with him. But then one of the princesses spoke up in anger!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1616,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0801_00_mib",
+    "Japanese": {
+      "Text": "旅の途中　戦士の前に現れた３人の姫\r\n姫たちは戦士に詰め寄りました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "On his journey, he met three princesses, all of whom fell in love with him. But then...one of the princesses spoke up in anger!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1616,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0900_00_mib",
+    "Japanese": {
+      "Text": "『この浮気者　本命はいったい誰なのよ！』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"You can't love all of us!\r\nYou have to pick one, so who'll it be?\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1617,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0901_00_mib",
+    "Japanese": {
+      "Text": "『この浮気者　本命はいったい誰なのよ！』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"You can't love all of us!\r\nYou have to pick one, so who'll it be?\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1617,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0910_00_mib",
+    "Japanese": {
+      "Text": "『アンタなの？』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"Well, it won't be you.\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1618,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_0920_00_mib",
+    "Japanese": {
+      "Text": "『えっ　アンタ？』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"Hah! Like it's you!\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1619,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1000_00_mib",
+    "Japanese": {
+      "Text": "旅の途中　戦士の前に現れた３人の騎士\r\n騎士たちは戦士に告げました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "While on his journey, he came across a group of three brave knights. The knights were very impressed, and they told him:",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1620,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1100_00_mib",
+    "Japanese": {
+      "Text": "『あなたこそが運命の王\r\n　さあ　共に戦いましょう！』",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"You are the king of which the legends foretold! Please, lead our people to victory!\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1621,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1200_00_red",
+    "Japanese": {
+      "Text": "うわ　おもしろいね！",
+      "MetaData": {
+        "ACTOR": "レッドXIII"
+      }
+    },
+    "English": {
+      "Text": "Oh, wow. I like where this is going.",
+      "MetaData": {
+        "ACTOR": "Red XIII"
+      }
+    },
+    "template": 1622,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1300_00_mib",
+    "Japanese": {
+      "Text": "戦士はヤケクソになり　遠吠えしました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "What else could he do but put his head back and howl─",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1623,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1301_00_mib",
+    "Japanese": {
+      "Text": "戦士はヤケクソになり　遠吠えしました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "What else could he do but put his head back and howl─",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1623,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1400_00_mib",
+    "Japanese": {
+      "Text": "『人生は　なにが起こるかわからない\r\n　過去のあやまちは忘れ　いまを楽しもう』と",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"You can never predict what life has in store for you. So don't dwell on your past mistakes─live every day like it's your last!\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1624,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1401_00_mib",
+    "Japanese": {
+      "Text": "『人生は　なにが起こるかわからない\r\n　過去のあやまちは忘れ　いまを楽しもう』と",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"You can never predict what life has in store for you. So! Don't dwell on your past mistakes─live every day like it's your last!\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1624,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1500_00_mib",
+    "Japanese": {
+      "Text": "戦士は広がる世界を目にして　覚悟しました",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "He gazed off into the distance and with conviction declared:",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1625,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1600_00_mib",
+    "Japanese": {
+      "Text": "『森の王では終わらない　新たな戦い\r\n　我が未来は　その先にある』と！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "\"Though I began my journey as King of the Forest, that is not where I shall end it. My future lies far beyond the woods!\"",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1626,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1700_00_blt",
+    "Japanese": {
+      "Text": "こいつは　大ヒット間違いなしだぜ！",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "This is bound for the bestseller list─a surefire hit!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1627,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1710_00_blt",
+    "Japanese": {
+      "Text": "なあ　クラウド",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Right, Cloud!?",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1628,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1800_00_cld",
+    "Japanese": {
+      "Text": "どうだろう",
+      "MetaData": {
+        "ACTOR": "クラウド"
+      }
+    },
+    "English": {
+      "Text": "You never know.",
+      "MetaData": {
+        "ACTOR": "Cloud"
+      }
+    },
+    "template": 1629,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_1900_00_blt",
+    "Japanese": {
+      "Text": "かあ～っ　わかってねえなあ\r\nいいか　こういう時はな",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Ugh! Man, you really just don't get it, do you?\r\nListen, you gotta have faith!",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1630,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_2000_00_mib",
+    "Japanese": {
+      "Text": "『売れないはずがねえと信じるのが大事』\r\nで　ございますね！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "If you don't write something you think will sell,\r\nit won't─so believe! Trite, but quite true.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1631,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_2100_00_blt",
+    "Japanese": {
+      "Text": "マリンにも　はやく読ませてやりてえ\r\n完成を楽しみにしてるぜ　先生",
+      "MetaData": {
+        "ACTOR": "バレット"
+      }
+    },
+    "English": {
+      "Text": "Oh, I can't wait to read this to my Marlene. Don't wanna rush ya, but I hope you can finish it soon.",
+      "MetaData": {
+        "ACTOR": "Barret"
+      }
+    },
+    "template": 1632,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_2200_00_mib",
+    "Japanese": {
+      "Text": "はい　書きあげましたら\r\n必ずバレットさん親子にお届けいたします",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Thank you! And I promise that the instant it's complete, I'll make sure to send you and your daughter a copy.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1633,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0700_2300_00_mib",
+    "Japanese": {
+      "Text": "もちろん　勇敢な獣の戦士さんにも！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Oh, right! And one for our bestial brainchild!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1634,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0800_0100_00_mib",
+    "Japanese": {
+      "Text": "『モーグリ・モグ物語』を超える\r\n名作誕生の予感だわ！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "This book's gonna be bigger than <i>The Many Misadventures of Mog</i>; I can just feel it!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1635,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0800_0200_00_mib",
+    "Japanese": {
+      "Text": "わたくしのどんづまり人生\r\nこの作品で　ぶちやぶってみせますとも！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Though I lost my way artistically for a time, I finally see the proverbial light at the end of the tunnel!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1636,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0900_0100_00_mib",
+    "Japanese": {
+      "Text": "はいはい　みんな～！\r\n赤き戦士の物語の　はじまりはじまり～",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Okay, everyone, listen up! I'm going to tell you about a hero called the Crimson Warrior!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1637,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0900_0200_00_mib",
+    "Japanese": {
+      "Text": "はい　つづきは\r\n絵本が完成してからのお楽しみ～",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "That's all for today! If you wanna hear more, you'll have to wait until the book's published.",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1638,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGE_QST_06_0900_0300_00_mib",
+    "Japanese": {
+      "Text": "みんな　ちゃんとおねだりして\r\n絵本を買ってもらってくださいね～！",
+      "MetaData": {
+        "ACTOR": "ミーベ"
+      }
+    },
+    "English": {
+      "Text": "Remember─if you beg your parents really hard every day, they might buy it for you!",
+      "MetaData": {
+        "ACTOR": "Maeve"
+      }
+    },
+    "template": 1639,
+    "group": "speech",
+    "reason": "Later Escape from Endless Writers Block photo writer return-state quest"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGV_NPC_10_0100_8000_00_mfa",
+    "Japanese": {
+      "Text": "戦争になるかもって聞いたんだけど\r\n本当かい？"
+    },
+    "English": {
+      "Text": "All these rumors about a war... They're just rumors, right?",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1718,
+    "group": "speech",
+    "reason": "Later impending-war village reaction; review before later chapter inclusion"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGV_NPC_10_0100_8100_00_mfa",
+    "Japanese": {
+      "Text": "この村は　みんな\r\n家族みたいなものなのよ"
+    },
+    "English": {
+      "Text": "The people here, we're like family. We look out for one another.",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 1719,
+    "group": "speech",
+    "reason": "Later impending-war village reaction; review before later chapter inclusion"
+  },
+  {
+    "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+    "id": "$GONGV_NPC_10_0100_8200_00_mfa",
+    "Japanese": {
+      "Text": "モンスターが多い日は\r\n森のニオイでわかるんだ"
+    },
+    "English": {
+      "Text": "There's something in the air when a lotta monsters're out and about."
+    },
+    "template": 1720,
+    "group": "speech",
+    "reason": "Later impending-war village reaction; review before later chapter inclusion"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_0400_00_chd",
+    "Japanese": {
+      "Text": "それに　キリエさんに頼まれていた",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "And regarding your request from Kyrie...",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2125,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_0500_00_chd",
+    "Japanese": {
+      "Text": "『伝説の撒き餌』を作るのに必要な素材も\r\n手に入るかもしれません",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "this expedition might yield some materials you require for the bait.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2126,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_0600_00_chd",
+    "Japanese": {
+      "Text": "コスタの海で暴れるモンスターを倒すためにも\r\nよろしくお願いしますね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "One good deed could in turn help you carry out another. Isn't that great?",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2127,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_1100_00_chd",
+    "Japanese": {
+      "Text": "これで　キリエさんに頼まれていた\r\n『伝説の撒き餌』が作れますね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "With this, you should be able to craft the legendary bait Kyrie spoke of.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2132,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_1200_00_chd",
+    "Japanese": {
+      "Text": "このエサで　コスタの海を荒らしているモンスターを\r\nおびき寄せられるはずです",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Those fiends befouling the beaches of Costa del Sol won't be able to resist it.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2133,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_1300_00_chd",
+    "Japanese": {
+      "Text": "手が空いたら　コスタの遊泳禁止区域に\r\n向かってみください",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "Head to the off-limits beach and take care of those monsters when you can.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2134,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_1400_00_chd",
+    "Japanese": {
+      "Text": "キリエさんに頼まれていた\r\n『伝説の撒き餌』に必要な素材が手に入りましたね",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "I believe this is one of the materials required to craft Kyrie's legendary bait.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2135,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$WORLD_CDV_02_0500_1500_00_chd",
+    "Japanese": {
+      "Text": "コスタの海を荒らしているモンスターを倒すためにも\r\nはやく残りの素材を探しましょう",
+      "MetaData": {
+        "ACTOR": "チャドリー"
+      }
+    },
+    "English": {
+      "Text": "But to lure those monsters out of the water, you'll need to acquire the other one first.",
+      "MetaData": {
+        "ACTOR": "Chadley"
+      }
+    },
+    "template": 2136,
+    "group": "speech",
+    "reason": "Later Trouble in Paradise odd job legendary-bait reactions; preserve for regional return"
+  }
+]

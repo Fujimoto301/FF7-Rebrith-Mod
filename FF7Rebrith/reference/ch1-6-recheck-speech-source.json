@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "$PHOTO_QST_00_0100_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "こんにちは",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Hello there.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0110_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あなたも　この風景に引き寄せられましたか？",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Inspiring, isn't it? The view.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私は　フォーカス",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I'm Snaps, by the way.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "写真愛好家協会『フォトクラブ』に所属する\r\n旅するフォトグラファーです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Shutterbug and card-carrying member of the Association of Photography Aficionados.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "出会いを記念して　１枚いいですか？",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Mind if I get a shot of you? For posterity.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0500_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ふふ　絵になりますね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Heh, pretty as a picture.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0510_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あなたには　なんだかセンスを感じます",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "You got what it takes to be in front of the camera...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0520_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "それに腕も立ちそうだ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "but what about behind it?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0600_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "実は　このエリアに\r\nいい撮影スポットがあるらしいのですが",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "So. Apparently, there's a rather scenic spot not far from here.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0610_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "道中が危険で行くことができないんですよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Thing is, this terrain's a bit perilous.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0620_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "よければ　私の代わりに\r\n撮影スポットを見つけてきてくれませんか？",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "At least, for your average photog like me...but maybe not for you?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0630_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "スポットを見つけたら",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "If you find the spot...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0100_0700_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ぜひ　写真家になったつもりで\r\n目のまえに広がる景色を眺めてみてください",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "take a moment to appreciate it. Try to view it as a professional photographer might.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0200_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ステキな撮影スポットを教えてもらったので",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "You did me a good turn, so I did you one too.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0200_0110_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あなたを『ビギナーカメラマン』に\r\n推薦しておきました",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I convinced the association to make you a member.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0200_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "これで　写真愛好家協会\r\nフォトクラブの一員です",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Of course, you're starting on the bottom rung,\r\nbut you'll work your way up.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0200_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "引き続き　旅をしながら\r\nいろんな風景を見つけていきましょう",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "And the more locations you find, the faster you'll climb that ladder.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0300_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "おめでとうございます\r\n『ピンボケカメラマン』に認定されましたよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Good going. Association was impressed too.\r\nBumped you up a rank.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0300_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まだまだ粗削りではありますが\r\nあなたには　キラリとひかるものを感じます",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Your technique isn't exactly where it needs to be, but you've got promise, that's for sure.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_00_0300_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "そのセンスをさらに磨き\r\nぜひ　世界に発信していってください",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "If you can develop your talents more, I guarantee you'll go places.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0100_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この圧倒的な包容力\r\nなんて美しい壁なんだ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Imposing yet welcoming... Beautiful yet haunting.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0100_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "モンスターの侵入を阻むのみならず\r\n街に一体感を生み出すことにも\r\n成功している",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "How it keeps the outside world at bay while engendering a sense of community.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0100_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "細部を見ると　職人のクセが見てとれる\r\nそこがまたチャーミングでいいな",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "A striking work of craftsmanship too. Every detail was seen to with such care.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0200_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "またお会いしましたね\r\nでは　壁をバックにして記念に１枚",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "So we meet again. Why don't you stand there? I'll take your photo with the bailey.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームの外壁は見てまわられました？",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Have you taken a walk around the bailey yet?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "街が辿ってきた　複雑な歴史が刻まれていて\r\nシャッターを押す指が止まりません",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "So much history is hidden within these walls─it's an endless source of inspiration.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0210_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかにも　いい撮影スポットがあったら\r\n教えてください",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "If you find any other scenic locations, let me know.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "壁のような平面をカメラに収めるのは\r\n案外　難しいんです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "It's tough to capture something so large in one well-composed shot.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "アングルや構図に工夫が必要なんですよね\r\nいやはや　挑みがいがありますよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "You have to consider the vantage point, the shadows... It can be daunting, but it's a fun challenge.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0300_0500_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかにも　これはという風景があったら\r\nぜひ教えてくださいね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I'm always looking for new spots, so if you happen to know any...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "オススメ撮影スポットを\r\n見つけてくれたんですね　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Hey there. Thank you for tracking down that spot. Quite the view you captured.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "今日の壁は　元気いっぱいって感じですね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "The bailey's in fine spirits today, don't you think?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "知っていました？\r\n壁にも表情があるんですよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I'm serious. This wall can be very expressive.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0310_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私のオススメは　雨の日です",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Particularly on rainy days.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "街の人々を守りながらも戦いの悲惨さや虚しさに\r\n涙しているといった物悲しい雰囲気がいいんですよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "It appears as if to be weeping. Like it's recalling an ancient battle that transpired, and the horrors to which it bore witness.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0400_0500_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "思わず私も　シャッターを押しながら\r\n涙ぐんでしまいました",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Impossible not to get a little weepy-eyed myself when I see it.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0500_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カームは高い塔も多いので\r\n見おろすアングルというのも面白そうです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Just imagine the panoramic shots one could get from atop the clock tower.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_01_0500_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "塔の上から　望遠で\r\nミッドガルの夜景を撮るのも良さそうですね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "With a telescopic lens, I could capture the beauty of Midgar at night.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 2
+  },
+  {
+    "id": "$PHOTO_QST_02_0100_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "潮風をあびた古い家屋たち\r\nまるで街全体が熟成されているようだ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Brittle houses in the sea air, paint chipping and wood bending. Time moving on.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0100_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "要塞都市ジュノンが被さっているからか\r\n光の差し込み方が絶妙だな",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "And the light here─the way it bounces off the ocean below and the metal above.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0100_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "巨大な柱　古い家屋　干された魚\r\nこのコントラストはほかでは見られない",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "A pastiche of contrasts. The stark, steel beams; the weather-beaten homes; the drying fish...!",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0200_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "またお会いしましたね\r\nでは　要塞都市を見あげながら記念に１枚",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Oh. Made your way out here, huh? Mind if I get a shot of you? I've got the perfect backdrop.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "アンダージュノンは　興味深いですね\r\n特にあの　恐ろしくも美しい海の色",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Under Junon's a fascinating little town. Their waters especially so. I mean, the color.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "海底魔晄炉の影響なのでしょうか\r\n撮影して　残しておく価値がありそうです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "This beauty comes at a dangerously high price, though. It's worth documenting before it's gone.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかにも　面白そうな被写体があったら\r\nまた教えてくださいね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Anyway─if you know any other camera-worthy subjects...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "アンダージュノンは空が覆われているので\r\n露出の調整が難しいんですよ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Getting the exposure correct down here can be a bit tricky, what with the lack of sunlight.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0500_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "カメラマンの腕が試されます",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I truly appreciate the challenge.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0300_0600_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかに良さそうな撮影スポットがあったら\r\nぜひ　教えてくださいね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "As always, I'd welcome tips about other promising spots.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0400_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "オススメ撮影スポットを\r\n見つけてくれたんですね　ありがとうございます",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Hey there. Thank you for tracking down that spot. Quite the view you captured.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0400_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "この街は一見　さびれているようですが\r\n人々の顔に活気があるんですよね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Though this town may appear to be on its last legs, its people are most certainly not.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0400_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いや　怒りと言ったほうがいいかもしれません",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "There's a fire in them─or rather, an anger.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0400_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "戦争によって海に沈んだジュノン共和国の首都も\r\nいつか撮影したいと考えています",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Not hard to see why─their capital sunk to the depths... Wish I could get a picture.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0500_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "要塞都市ジュノンのほうも　興味深いですよね\r\n階層ごとに特色があって飽きません",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Each level of Junon is like its own world, with its own unique culture. It's remarkable, really.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_02_0500_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "海から　ジュノンの大砲を撮りたいんですよね\r\nこうなったら小型船をチャーターするかな",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I would love to get a shot of the cannon from the ocean. I wonder if I could charter a dinghy for a day.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PHOTO_QST_03_0100_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "風情のある宿だな　歴史を感じさせる",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "What a charming inn. Wonder how long it's been here.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0100_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "かつて　コスタ・デル・ソルが\r\nひなびた漁村だった頃の名残だろうか",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "A relic from Costa del Sol's time as a fishing village, perhaps?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0100_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "くたびれた壁　乱れた屋根\r\nしなだれた柱……",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "The crumbling walls, the hole-pocked roof, the rotting beams...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0100_0310_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "このまま朽ちて\r\n自然に帰ろうとしているようだ",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Nature seems poised to reclaim it at any moment...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0100_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "こんなに遠くから海を眺めているなんて\r\n恥ずかしがり屋なのかな？",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Tucked away from everything, like it's bashful─trying to hide from someone.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0200_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "コスタ～　またお会いしましたね\r\nでは　太陽をあびながら記念に１枚",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Hang loose! Looks like another fine day in paradise. Shall we commemorate it with a photo?",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あなたも　この宿に目をつけましたか？\r\nさすがのセンスです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Did this inn catch your eye as well? Figured it might.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "一流ホテルではなく　こういった\r\n隠れ家的な宿のほうが　絵になるんですよね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "While it's a far cry from the five-star hotels on Main Street, it has a certain appeal.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかにも　隠れた撮影スポットを見つけたら\r\nぜひ教えてください",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "I suspect this area has a plethora of photogenic spots.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0400_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "コスタ・デル・ソルは　まぶしいですね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Everything seems to shine brighter here.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0500_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "太陽の光が降り注ぐ砂浜と海",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "The sun, the sand, the sea...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0510_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "陽気な魅力にあふれたダンサー\r\nトロピカルな料理",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "The beautiful, spirited dancers. The tropical cuisine...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0600_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "どれも色とりどりで　写真映えします",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "All of it yearns to be preserved.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0300_0700_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ほかにも　良い撮影スポットがあったら\r\n教えてくださいね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Surely there are more lovely sights to be found in this region...",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0500_0100_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "海に潜って撮影してみるのも　面白そうですね",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "Could mix things up by snapping some underwater shots.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0500_0200_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "コスタ特有の海洋生物たちは\r\nフォトクラブ会員の中でも人気なんです",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "A lot of the Aficionados are big fans of the aquatic life native to this region.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PHOTO_QST_03_0500_0300_00_fcs",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "新作水着の撮影を　毎年頼まれてるんです\r\n今年はどんなデザインになったのかな",
+    "MetaData": {
+      "ACTOR": "フォーカス"
+    },
+    "English": {
+      "Text": "They always book me to photograph the latest swimsuit line. Wonder what designs they came up with this year.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "chapter": 6
+  },
+  {
+    "id": "$PIANO_QST_01_0100_0100_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ラララララ～　ラララララ～♪",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Lalalalala, lalalalala...♪",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0100_0110_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノに興味がおありですかな？",
+    "MetaData": {
+      "ACTOR": "？？？？"
+    },
+    "English": {
+      "Text": "Curious about this old clavier?",
+      "MetaData": {
+        "ACTOR": "???"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0100_0200_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私は　ピアノ普及協会特派員のピアソラ",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "I'm Dorian─representative of the Piano Outreach Association.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0100_0300_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "楽譜にそって　巧みな演奏をしていただける方を\r\nささやかながら応援しております",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "It is my duty to support those who liberate music from the page and bring it to life with their performances.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0100_0400_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノの素晴らしさを世に広めるため\r\nお力添えのほど　よろしくお願い申し上げます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "I hope you will aid me in my humble mission to spread the joy of the piano to every corner of the world.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0100_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "演奏のご報告でございますか？",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Would you care to share a performance with me?",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0200_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ご用件はなんでございましょう？",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "How may I be of service to you?",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0300_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノの音色は実に心が安らぎます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "There's no finer sound in all the world than the voice of a humble piano.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0400_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノ演奏結果の報告を行いますか？\r\n（各曲Ａランク以上で景品を受け取ることができます）",
+    "MetaData": {},
+    "English": {
+      "Text": "Tell Dorian how you performed?\r\nYou will earn a reward for achieving an A rank on a song."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0500_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "はい",
+    "MetaData": {},
+    "English": {
+      "Text": "Yes"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0600_00_sys",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いいえ",
+    "MetaData": {},
+    "English": {
+      "Text": "No"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0700_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いま　さしあげるべき報酬はないようですね\r\n引き続き　演奏に励んでくださいませ",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "I regret that I've nothing to award you at this time. Nevertheless, I trust you will continue on your musical journey.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0800_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "美しき調べでピアノの素晴らしさを\r\n普及していただき　感謝の極みでございます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Mellifluous melodies are all the more pleasing when played on the piano. Thank you for sharing such joy with the world.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0200_0900_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "今後とも　ご協力のほど\r\nよろしくお願い申し上げます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "I hope you will enchant us with even more splendid performances in time.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0100_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "私どもが配布している楽譜は　各地にございます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "We've gone to great lengths to distribute our sheet music far and wide.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0200_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "新たな楽譜を手に入れた際には\r\nぜひ挑戦なさってみてください",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Should you stumble upon a piece in your travels, I hope you'll take to the keys and give it a try.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0300_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノに寄り添い\r\n心のうちよりあふれだすメロディーに身をまかせる",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Surrender to the music. We are vessels through which it may flow─the melody, our guide.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0400_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "上達への　いちばんの近道でございます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Become one with the piano, and all will be effortless.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0500_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノ普及の道は　長く果てしない",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Of course, the path to musical enlightenment is without end.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0400_0600_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "引き続き　我々の協会に\r\nお力添えいただけますと幸いです",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Which is why I ask your continued assistance in sharing the joy of music with the world.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0500_0100_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "本日も絶好のピアノ日和にございますね",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Oh, it's a wonderful day for a melody, wouldn't you agree?",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0500_0200_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ピアノのある場所　どこへなりとも馳せ参じます",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "Where there is music and a piano on which to play, there too is a place for me.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_0500_0300_00_pia",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あなた様のピアノで\r\nこの世界に彩りを与えてくださいませ",
+    "MetaData": {
+      "ACTOR": "ピアソラ"
+    },
+    "English": {
+      "Text": "The piano is here for you, that you may add your own unique color to the soundscape of our world.",
+      "MetaData": {
+        "ACTOR": "Dorian"
+      }
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0100_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "すばらしかったよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "That was incredible!"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0200_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ヒュ～　やるな！",
+    "MetaData": {},
+    "English": {
+      "Text": "Whoa, are you like a pro or something?"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0300_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ずっと聴いていたいな",
+    "MetaData": {},
+    "English": {
+      "Text": "I'd sure love an encore..."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0400_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "感動したよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Bravo!"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0500_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ステキだったわ",
+    "MetaData": {},
+    "English": {
+      "Text": "That's just lovely!"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0600_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "きれいな音色……",
+    "MetaData": {},
+    "English": {
+      "Text": "So beautiful..."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0700_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "うっとりしちゃう",
+    "MetaData": {},
+    "English": {
+      "Text": "That was mesmerizing!"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0800_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "癒やされる～",
+    "MetaData": {},
+    "English": {
+      "Text": "Music to my ears."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_0900_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "お疲れさま",
+    "MetaData": {},
+    "English": {
+      "Text": "It's a tough piece..."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1000_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "悪くはなかったよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Not too shabby!"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1100_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "ん～　まあまあってとこか",
+    "MetaData": {},
+    "English": {
+      "Text": "Just keep practicing those scales."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1200_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "へえ　そこそこやるな",
+    "MetaData": {},
+    "English": {
+      "Text": "Huh... You take private lessons?"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1300_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "わりと普通だったわ",
+    "MetaData": {},
+    "English": {
+      "Text": "Well, that was...nice."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1400_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "心には響かないかな",
+    "MetaData": {},
+    "English": {
+      "Text": "Didn't really sound like your heart was in it."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1500_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "あともうちょっとかな～",
+    "MetaData": {},
+    "English": {
+      "Text": "You certainly gave it your best."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1600_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まあ　暇つぶしにはなったわね",
+    "MetaData": {},
+    "English": {
+      "Text": "Well, that was a nice little diversion."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1700_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "なんだかな～",
+    "MetaData": {},
+    "English": {
+      "Text": "That was...something."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1800_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "まあ　頑張れよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Don't quit your day job."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_1900_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "いまのって練習？",
+    "MetaData": {},
+    "English": {
+      "Text": "Just warming up?"
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_2000_00_mma",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "俺のほうが　うまいかも",
+    "MetaData": {},
+    "English": {
+      "Text": "I could do better than that."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_2100_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "次は頑張って",
+    "MetaData": {},
+    "English": {
+      "Text": "Keep practicing."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_2200_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "う～ん　残念",
+    "MetaData": {},
+    "English": {
+      "Text": "Too avant garde for my tastes."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_2300_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "聴いて損したかも",
+    "MetaData": {},
+    "English": {
+      "Text": "What a waste of time..."
+    },
+    "chapter": 4
+  },
+  {
+    "id": "$PIANO_QST_01_1000_2400_00_mfa",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "Text": "もっと練習しないとね",
+    "MetaData": {},
+    "English": {
+      "Text": "Practice makes perfect..."
+    },
+    "chapter": 4
+  }
+]

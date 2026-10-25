@@ -1,0 +1,72 @@
+[
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_ITEM_000",
+    "Japanese": {
+      "Text": "連絡船　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_ITEM_001",
+    "Japanese": {
+      "Text": "連絡船　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_ITEM_002",
+    "Japanese": {
+      "Text": "連絡船　カードショップ"
+    },
+    "English": {
+      "Text": "Queen's Blood Vendor"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_ITEM_003",
+    "Japanese": {
+      "Text": "連絡船　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_MAGIC_000",
+    "Japanese": {
+      "Text": "連絡船　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_MAGIC_001",
+    "Japanese": {
+      "Text": "連絡船　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    }
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$FERRY_MAGIC_003",
+    "Japanese": {
+      "Text": "連絡船　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    }
+  }
+]

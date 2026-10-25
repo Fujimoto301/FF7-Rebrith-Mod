@@ -1,0 +1,637 @@
+{
+  "records": [
+    {
+      "index": 16,
+      "asset": "End/Content/Text/JP/4000-MIDGR_TxtRes.uasset",
+      "id": "$MIDGR_NPC_10_0100_6200_00_mma",
+      "before": "นายจะทำยังไงต่อ?",
+      "after": "แล้วจะทำยังไงต่อ?",
+      "reason": "Ambient conversation does not identify the addressee; omit the unnecessary gendered second person.",
+      "jp": "おまえさ　これからどうする？",
+      "us": "How you gonna spend your final days?",
+      "actor": "",
+      "accepted_before": [
+        "นายจะทำยังไงต่อ?"
+      ]
+    },
+    {
+      "index": 19,
+      "asset": "End/Content/Text/JP/8700-NIBLE_TxtRes.uasset",
+      "id": "$C1910_MAIN_0700_1600_00_cld",
+      "before": "ทั้งที่อยากเป็นวีรบุรุษแบบนายแท้ ๆ",
+      "after": "ทั้งที่อยากเป็นวีรบุรุษแบบคุณแท้ ๆ",
+      "reason": "Young Cloud admires his hero Sephiroth; respectful คุณ fits that relationship.",
+      "jp": "あんたみたいな　英雄になりたいのにさ",
+      "us": "I joined up so I could be a hero like you.",
+      "actor": "Cloud",
+      "accepted_before": [
+        "ทั้งที่อยากเป็นวีรบุรุษแบบนายแท้ ๆ"
+      ]
+    },
+    {
+      "index": 105,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_10_0100_7900_00_mfa",
+      "before": "ก็เธอจู่ๆ บอกว่า\r\nให้หนีมาคาล์มนี่นา",
+      "after": "ก็คุณจู่ๆ บอกว่า\r\nให้หนีมาคาล์มนี่นา",
+      "reason": "Refugee couple speaking to each other, not Cloud; neutral คุณ avoids assuming partner gender.",
+      "jp": "あなたが急に\r\nカームに避難しようなんて言うから",
+      "us": "Well, it was your bright idea to pack up and flee to Kalm!",
+      "actor": "",
+      "accepted_before": [
+        "ก็เธอจู่ๆ บอกว่า\r\nให้หนีมาคาล์มนี่นา"
+      ]
+    },
+    {
+      "index": 110,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_10_0600_10010_00_mma",
+      "before": "แต่เงินที่เธอหาได้ทั้งเดือน\r\nฉันหาได้ใน 1วันเลยนะ",
+      "after": "แต่เงินที่คุณหาได้ทั้งเดือน\r\nฉันหาได้ใน 1วันเลยนะ",
+      "reason": "Boast addressed to another resident; no identified addressee gender. Use neutral คุณ.",
+      "jp": "まあ　きみが毎月稼ぐ金を\r\n１日で稼いでいたぞ",
+      "us": "Though it paid well enough. One day's earnings were about what an average man makes in a month.",
+      "actor": "",
+      "accepted_before": [
+        "แต่เงินที่เธอหาได้ทั้งเดือน\r\nฉันหาได้ใน 1วันเลยนะ"
+      ]
+    },
+    {
+      "index": 112,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_20_0100_3100_00_mfa",
+      "before": "ใช่ ตอนเธอโดนต่อยนี่เยี่ยมที่สุดเลย!",
+      "after": "ใช่ ตอนคุณโดนต่อยนี่เยี่ยมที่สุดเลย!",
+      "reason": "Dating partner responds to preceding remark; use neutral คุณ rather than feminizing the partner.",
+      "jp": "そうね　あなたが殴られたのは最高！",
+      "us": "Yeah─and when that guy decked you, whoa!",
+      "actor": "",
+      "accepted_before": [
+        "ใช่ ตอนเธอโดนต่อยนี่เยี่ยมที่สุดเลย!"
+      ]
+    },
+    {
+      "index": 114,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_20_0100_8700_00_mfa",
+      "before": "อ๋อ งั้น\r\nแจ้งจับเธอดีไหม",
+      "after": "อ๋อ งั้น\r\nแจ้งจับคุณดีไหม",
+      "reason": "Response to the resident suggesting arbitrary reports. No explicit listener identity; neutral คุณ.",
+      "jp": "そっか　じゃあ\r\nあんたを通報しようか",
+      "us": "Oh yeah? How 'bout I start by reporting you?",
+      "actor": "",
+      "accepted_before": [
+        "อ๋อ งั้น\r\nแจ้งจับเธอดีไหม"
+      ]
+    },
+    {
+      "index": 115,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_20_0600_3000_00_mfa",
+      "before": "เดี๋ยว แต่คนคนนั้น\r\nไม่ใช่เธอนะ อย่าเพิ่งด่วนดีใจ",
+      "after": "เดี๋ยว แต่คนคนนั้น\r\nไม่ใช่คุณนะ อย่าเพิ่งด่วนดีใจ",
+      "reason": "Rejects the preceding confession hopeful, not a woman established in the text. Use neutral คุณ.",
+      "jp": "おっと　でも相手は\r\nあなたじゃないから早まらないで",
+      "us": "Whoa there, I, uh... I never said I'd be spilling my heart to <i>you</i>.",
+      "actor": "",
+      "accepted_before": [
+        "เดี๋ยว แต่คนคนนั้น\r\nไม่ใช่เธอนะ อย่าเพิ่งด่วนดีใจ"
+      ]
+    },
+    {
+      "index": 116,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_30_0100_4600_00_mfa",
+      "before": "เวลาออกเดตกับเธอ\r\nมีเรื่องเกิดขึ้นทุกครั้งเลยนะ",
+      "after": "เวลาออกเดตกับคุณ\r\nมีเรื่องเกิดขึ้นทุกครั้งเลยนะ",
+      "reason": "Dating conversation with the same returning NPC couple; neutral คุณ.",
+      "jp": "あなたとのデート\r\n毎回毎回なにか起きるわね",
+      "us": "Something crazy happens every time we go on a date! What's up with that?",
+      "actor": "",
+      "accepted_before": [
+        "เวลาออกเดตกับเธอ\r\nมีเรื่องเกิดขึ้นทุกครั้งเลยนะ"
+      ]
+    },
+    {
+      "index": 117,
+      "asset": "End/Content/Text/JP/8100-GRASE_TxtRes.uasset",
+      "id": "$KALMT_NPC_30_0100_5100_00_mfa",
+      "before": "ว้าว อยู่กับเธอนี่\r\nเดาไม่ออกจริงๆ ว่าจะเกิดอะไรขึ้น!",
+      "after": "ว้าว อยู่กับคุณนี่\r\nเดาไม่ออกจริงๆ ว่าจะเกิดอะไรขึ้น!",
+      "reason": "Reply to the partner proposing marriage; consistent neutral คุณ.",
+      "jp": "わお　ほんとあなたって\r\nなにが起きるかわからないわ！",
+      "us": "That's the truth! I never know what kind of trouble you'll attract.",
+      "actor": "",
+      "accepted_before": [
+        "ว้าว อยู่กับเธอนี่\r\nเดาไม่ออกจริงๆ ว่าจะเกิดอะไรขึ้น!"
+      ]
+    },
+    {
+      "index": 153,
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$keyitem_collection_002_help",
+      "before": "ยินดีด้วยที่ผ่าน Glide de Chocobo!\r\nดีใจที่นายได้ใช้สนามร่อนแทนฉัน\r\nฉันตั้งตารอวันที่เราจะได้แข่งขันกัน\r\nในฐานะคู่แข่งในการแข่งโจโกโบะ\r\n\r\n――Shani นักแข่งโจโกโบะแห่งฟาร์ม Kamaria――",
+      "after": "ยินดีด้วยที่ผ่าน Glide de Chocobo!\r\nดีใจที่คุณได้ใช้สนามร่อนแทนฉัน\r\nฉันตั้งตารอวันที่เราจะได้แข่งขันกัน\r\nในฐานะคู่แข่งในการแข่งโจโกโบะ\r\n\r\n――Shani นักแข่งโจโกโบะแห่งฟาร์ม Kamaria――",
+      "reason": "Glide de Chocobo certificate does not name a male recipient; the quest includes Yuffie and Cloud. Use neutral คุณ.",
+      "jp": "フープ・デ・チョコボのクリアおめでとう！\r\n私のかわりに滑空場を役立ててくれて良かった。\r\nいつかチョコボレースのライバルとして\r\n競い合える日を楽しみにしてる。\r\n\r\n――キママ牧場チョコボレーサー・シシカ――",
+      "us": "My mom's gliding course is no joke, but you passed it with flying colors. I'm impressed, I have to say. Just so you know, though, I'll be back in the saddle soon, and once I am, you can kiss that record of yours goodbye.\r\n─Shani",
+      "actor": "",
+      "accepted_before": [
+        "ยินดีด้วยที่ผ่าน Glide de Chocobo!\r\nดีใจที่นายได้ใช้สนามร่อนแทนฉัน\r\nฉันตั้งตารอวันที่เราจะได้แข่งขันกัน\r\nในฐานะคู่แข่งในการแข่งโจโกโบะ\r\n\r\n――Shani นักแข่งโจโกโบะแห่งฟาร์ม Kamaria――"
+      ]
+    },
+    {
+      "index": 155,
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$keyitem_collection_010_help",
+      "before": "ยิงผ่านด่านเรือโจรสลัดได้ยอดเยี่ยมมาก\r\nสายตาอันเฉียบคมที่จ้องเป้าทำเอาฉันขนลุกเลย\r\nนายน่าจะเป็นลูกเรือของราชาโจรสลัดได้แน่\r\n\r\n――ทีมงาน Pirate's Rampage――",
+      "after": "ยิงผ่านด่านเรือโจรสลัดได้ยอดเยี่ยมมาก\r\nสายตาอันเฉียบคมที่จ้องเป้าทำเอาฉันขนลุกเลย\r\nคุณน่าจะเป็นลูกเรือของราชาโจรสลัดได้แน่\r\n\r\n――ทีมงาน Pirate's Rampage――",
+      "reason": "Pirate shooting certificate is not addressed to a named man; neutral recipient wording also covers Aerith.",
+      "jp": "見事に海賊船ステージを撃ち抜いたね。\r\nマトを見つめる鋭い眼光に震えたよ。\r\n君なら海賊王の船員になれるかもね。\r\n\r\n――『パイレーツ・ランページ』スタッフ――",
+      "us": "Nothing can escape your eagle eyes, no sir! The look that came over you as you stared down the barrel of the gun...why, I bet you would have made the perfect first mate to the pirate king!\r\n─Pirate's Rampage Staff Member",
+      "actor": "",
+      "accepted_before": [
+        "ยิงผ่านด่านเรือโจรสลัดได้ยอดเยี่ยมมาก\r\nสายตาอันเฉียบคมที่จ้องเป้าทำเอาฉันขนลุกเลย\r\nนายน่าจะเป็นลูกเรือของราชาโจรสลัดได้แน่\r\n\r\n――ทีมงาน Pirate's Rampage――"
+      ]
+    },
+    {
+      "index": 156,
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$keyitem_collection_011_help",
+      "before": "ยินดีด้วยที่พิชิตด่านเรือผี!\r\nท่าทางที่ยิงเป้าแตกต่อเนื่องนั้นยิงทะลุหัวใจฉันเลย\r\nนายคือมือปืนของราชาโจรสลัดผู้ครองทุกท้องทะเล!\r\n\r\n――ทีมงาน Pirate's Rampage――",
+      "after": "ยินดีด้วยที่พิชิตด่านเรือผี!\r\nท่าทางที่ยิงเป้าแตกต่อเนื่องนั้นยิงทะลุหัวใจฉันเลย\r\nคุณคือมือปืนของราชาโจรสลัดผู้ครองทุกท้องทะเล!\r\n\r\n――ทีมงาน Pirate's Rampage――",
+      "reason": "Same Pirate shooting certificate family; neutral recipient wording.",
+      "jp": "幽霊船ステージの撃破、おめでとう！\r\n次々とマトを撃ち抜く姿に、心を撃ち抜かれたよ。\r\n君こそがすべての海を支配する海賊王の狙撃手だ！\r\n\r\n――『パイレーツ・ランページ』スタッフ――",
+      "us": "Avast, ye've sunk the dread Ghost Ship with that fearsome sharpshooting of yers! Now the high seas are safe to sail once more thanks to you, me hearties!\r\n─Pirate's Rampage Staff Member",
+      "actor": "",
+      "accepted_before": [
+        "ยินดีด้วยที่พิชิตด่านเรือผี!\r\nท่าทางที่ยิงเป้าแตกต่อเนื่องนั้นยิงทะลุหัวใจฉันเลย\r\nนายคือมือปืนของราชาโจรสลัดผู้ครองทุกท้องทะเล!\r\n\r\n――ทีมงาน Pirate's Rampage――"
+      ]
+    },
+    {
+      "index": 161,
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$keyitem_collection_046_help",
+      "before": "โดนเล่นงานซะแล้ว\r\nนายนี่เก่งใช้ได้เลย\r\nเจ้าบ้าเอ๊ย จำไว้ให้ดีเถอะ\r\n\r\n――Test 0 แห่ง Beast Battleground――",
+      "after": "โดนเล่นงานซะแล้ว\r\nคุณนี่เก่งใช้ได้เลย\r\nเจ้าบ้าเอ๊ย จำไว้ให้ดีเถอะ\r\n\r\n――Test 0 แห่ง Beast Battleground――",
+      "reason": "Beast Battleground certificate does not name a male recipient. Neutral คุณ also matches Kansai あんさん.",
+      "jp": "やラレてもうたー\r\nあんさん　やルやんかー\r\nこんにゃロめ　おぼえとけよー\r\n\r\n――ビーストバトルグラウンド・テスト０――",
+      "us": "Nice one, buddy!\r\nI must say, you put on a fine performance.\r\nBetter watch your back, you punk-ass bitch!\r\n─Test 0",
+      "actor": "",
+      "accepted_before": [
+        "โดนเล่นงานซะแล้ว\r\nนายนี่เก่งใช้ได้เลย\r\nเจ้าบ้าเอ๊ย จำไว้ให้ดีเถอะ\r\n\r\n――Test 0 แห่ง Beast Battleground――"
+      ]
+    },
+    {
+      "index": 162,
+      "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+      "id": "$keyitem_collection_047_help",
+      "before": "โดนเล่นงานอีกแล้ว\r\nนายนี่เก่งใช้ได้เลย\r\nงั้นก็มาส่ายหางกันหน่อย!\r\n\r\n――Test 0 แห่ง Beast Battleground――",
+      "after": "โดนเล่นงานอีกแล้ว\r\nคุณนี่เก่งใช้ได้เลย\r\nงั้นก็มาส่ายหางกันหน่อย!\r\n\r\n――Test 0 แห่ง Beast Battleground――",
+      "reason": "Same Test0 certificate family, neutral recipient wording.",
+      "jp": "また　やラレてもうたー\r\nあんさん　やルやんかー\r\nほなラ　おっぽふリふリや～\r\n\r\n――ビーストバトルグラウンド・テスト０――",
+      "us": "Ooh wee, buddy, you're super good!\r\nYou truly are a sight to behold.\r\nDo the Tentatail Shake!\r\n─Test 0",
+      "actor": "",
+      "accepted_before": [
+        "โดนเล่นงานอีกแล้ว\r\nนายนี่เก่งใช้ได้เลย\r\nงั้นก็มาส่ายหางกันหน่อย!\r\n\r\n――Test 0 แห่ง Beast Battleground――"
+      ]
+    },
+    {
+      "index": 253,
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$C2310_MAIN_5400_0200_00_leg",
+      "before": "บอกไว้ก่อนนะ\r\nถ้าเป็นเธอ ฉันก็อยากแข่งด้วยอีก",
+      "after": "บอกไว้ก่อนนะ\r\nถ้าเป็นนาย ฉันก็อยากแข่งด้วยอีก",
+      "reason": "Regina addresses her tournament opponent Cloud, consistent with her earlier lines.",
+      "jp": "いちおう　言っておく\r\nあなたとなら　また対戦してみたい",
+      "us": "I don't tell a lot of people this, but for what it's worth, I wouldn't mind playing you again.",
+      "actor": "Regina",
+      "accepted_before": [
+        "บอกไว้ก่อนนะ\r\nถ้าเป็นเธอ ฉันก็อยากแข่งด้วยอีก"
+      ]
+    },
+    {
+      "index": 254,
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$C2310_MAIN_5400_0400_00_leg",
+      "before": "หากมีโอกาสเมื่อไหร่\r\nฉันก็อยากแข่งกับเธอดูบ้าง",
+      "after": "หากมีโอกาสเมื่อไหร่\r\nฉันก็อยากแข่งกับคุณดูบ้าง",
+      "reason": "Regina addresses an additional prospective opponent; คุณ preserves the unspecific addressee without gender inference.",
+      "jp": "いずれ　機会があれば\r\nあなたとも対戦してみたいわ",
+      "us": "Could be fun going up against you. If you get the chance, that is.",
+      "actor": "Regina",
+      "accepted_before": [
+        "หากมีโอกาสเมื่อไหร่\r\nฉันก็อยากแข่งกับเธอดูบ้าง",
+        "หากมีโอกาสเมื่อไหร่\r\nฉันก็อยากแข่งกับเธออีก"
+      ]
+    },
+    {
+      "index": 260,
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$FERRY_NPC_10_0400_11110_00_mma",
+      "before": "นายสุดยอดมากเลย คุณคลาวด์!",
+      "after": "สุดยอดมากเลย คุณคลาวด์!",
+      "reason": "Keep the explicit คุณคลาวด์ address; remove the inconsistent second-person นาย from the same sentence.",
+      "jp": "アンタすごかったよ　クラウドさん！",
+      "us": "Damn─you're a QB shark!",
+      "actor": "",
+      "accepted_before": [
+        "นายสุดยอดมากเลย คุณคลาวด์!"
+      ]
+    },
+    {
+      "index": 272,
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$JNONT_NPC_10_0600_1300_00_mfa",
+      "before": "ขอบคุณ เพราะเธอ\r\nคอยช่วยสนับสนุนนั่นแหละ",
+      "after": "ขอบคุณ เพราะคุณ\r\nคอยช่วยสนับสนุนนั่นแหละ",
+      "reason": "Business partners discussing a project; professional neutral คุณ fits the relationship.",
+      "jp": "ありがとう　あなたが\r\nサポートしてくれたおかげよ",
+      "us": "Thanks. It wouldn't have gone so smoothly without your help.",
+      "actor": "",
+      "accepted_before": [
+        "ขอบคุณ เพราะเธอ\r\nคอยช่วยสนับสนุนนั่นแหละ"
+      ]
+    },
+    {
+      "index": 287,
+      "asset": "End/Content/Text/JP/8200-JUNOE_TxtRes.uasset",
+      "id": "$JUNOE_QST_02_0700_1300_00_blt",
+      "before": "แม่ของนายจ้างมา\r\nให้เป็นบอดี้การ์ดโคฮาดะ",
+      "after": "แม่ของนายเป็นคนจ้าง\r\nให้พวกเรามาเป็นบอดี้การ์ดโคฮาดะ",
+      "reason": "Barret addresses Toby, the client’s son. Disambiguate แม่ของนายจ้าง (your mother hired us), which can read as employer’s mother.",
+      "jp": "あんたの母ちゃんに雇われた\r\nコハダのボディガードだ",
+      "us": "We're Sam's bodyguards.\r\nYour mom hired us to keep him safe.",
+      "actor": "Barret",
+      "accepted_before": [
+        "แม่ของนายจ้างมา\r\nให้เป็นบอดี้การ์ดโคฮาดะ"
+      ]
+    },
+    {
+      "index": 298,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2410_MAIN_4500_0100_00_hjo",
+      "before": "เธอก็คงถูกเรียกมาเหมือนกันสินะ",
+      "after": "นายก็คงถูกเรียกมาเหมือนกันสินะ",
+      "reason": "Hojo addresses Cloud as another subject responding to the Reunion, not the swimsuit staff in the preceding scene.",
+      "jp": "君も呼ばれて来たのだろう",
+      "us": "So you heeded the call too, did you?",
+      "actor": "Hojo",
+      "accepted_before": [
+        "เธอก็คงถูกเรียกมาเหมือนกันสินะ"
+      ]
+    },
+    {
+      "index": 299,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2410_MAIN_4500_0310_00_hjo",
+      "before": "ดูสิ พี่น้องของเธอก็มารวมกันแล้ว",
+      "after": "ดูสิ พี่น้องของนายก็มารวมกันแล้ว",
+      "reason": "Same Hojo-to-Cloud exchange: the brothers are fellow robed subjects.",
+      "jp": "見たまえ　君の兄弟たちも集まってきたぞ",
+      "us": "As you can see, your brothers down there are having a little get-together.",
+      "actor": "Hojo",
+      "accepted_before": [
+        "ดูสิ พี่น้องของเธอก็มารวมกันแล้ว"
+      ]
+    },
+    {
+      "index": 313,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2510_MAIN_4800_0800_00_tif",
+      "before": "ดูจะถูกใจเธอแล้วนะ",
+      "after": "ดูจะถูกใจนายแล้วนะ",
+      "reason": "Tifa comments on the chick favoring Barret; preceding Barret protest and following Yuffie line explicitly name him.",
+      "jp": "気に入られちゃったね",
+      "us": "Someone has a fan!",
+      "actor": "Tifa",
+      "accepted_before": [
+        "ดูจะถูกใจเธอแล้วนะ"
+      ]
+    },
+    {
+      "index": 335,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_02_0100_0100_00_frn",
+      "before": "เธอคือคนที่สู้กับดอกเตอร์ของชินระใช่ไหม",
+      "after": "นายคือคนที่สู้กับดอกเตอร์ของชินระใช่ไหม",
+      "reason": "Fran addresses Cloud about his fight with Hojo.",
+      "jp": "あなた　神羅の博士と戦ってた人でしょ",
+      "us": "You're the one who got into it with that Shinra scientist.",
+      "actor": "Swimsuit Girl",
+      "accepted_before": [
+        "เธอคือคนที่สู้กับดอกเตอร์ของชินระใช่ไหม"
+      ]
+    },
+    {
+      "index": 336,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_02_0100_0600_00_frn",
+      "before": "เข้าเรื่องเลยนะ\r\nเธอสนใจทำงานหน่อยไหม?",
+      "after": "เข้าเรื่องเลยนะ\r\nนายสนใจทำงานหน่อยไหม?",
+      "reason": "Fran offers the job to Cloud; Aerith is his proposed date.",
+      "jp": "さっそくなんだけど\r\nあなた　仕事をしてみない？",
+      "us": "And <i>we</i> would like to hire <i>you</i> for a job. Interested?",
+      "actor": "Fran",
+      "accepted_before": [
+        "เข้าเรื่องเลยนะ\r\nเธอสนใจทำงานหน่อยไหม?"
+      ]
+    },
+    {
+      "index": 337,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_02_0100_0800_00_nem",
+      "before": "คือว่า อยากให้เธอกับแฟนสาว\r\nไปเดตกันน่ะ!",
+      "after": "คือว่า อยากให้นายกับแฟนสาว\r\nไปเดตกันน่ะ!",
+      "reason": "Naomi asks Cloud to date his girlfriend; second person is Cloud, not Aerith.",
+      "jp": "えっとね　彼女さんとふたりで\r\nデートしてほしいの！",
+      "us": "It's simple. Girl and boy go on a date.\r\nEasy-peasy, right?",
+      "actor": "Naomi",
+      "accepted_before": [
+        "คือว่า อยากให้เธอกับแฟนสาว\r\nไปเดตกันน่ะ!",
+        "คือว่า อยากให้เธอสองคน\r\nไปเดตกับแฟนสาวน่ะ!"
+      ]
+    },
+    {
+      "index": 338,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_02_0100_2100_00_frn",
+      "before": "เธอน่ะ ขัดใจใครไม่เก่งใช่ไหมล่ะ",
+      "after": "นายน่ะ ขัดใจใครไม่เก่งใช่ไหมล่ะ",
+      "reason": "Fran says Cloud is easily pressured; the next line separately addresses assertive Aerith.",
+      "jp": "あなた　ズバリ押しに弱いでしょ",
+      "us": "'Cause we can tell you like your women assertive.",
+      "actor": "Fran",
+      "accepted_before": [
+        "เธอน่ะ ขัดใจใครไม่เก่งใช่ไหมล่ะ"
+      ]
+    },
+    {
+      "index": 364,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLV_NPC_10_0900_5600_00_mma",
+      "before": "มองพรสวรรค์ฉันออกด้วย\r\nพวกเธอตาถึงดีนี่!",
+      "after": "มองพรสวรรค์ฉันออกด้วย\r\nพวกคุณตาถึงดีนี่!",
+      "reason": "The recipient is the recruiting group in the preceding lines, not an established group of women. Use neutral พวกคุณ.",
+      "jp": "俺の才能を見抜くとは\r\nあんたたち　見る目あるな！",
+      "us": "Haha! Well, it's clear you've both got eyes for skill.",
+      "actor": "",
+      "accepted_before": [
+        "มองพรสวรรค์ฉันออกด้วย\r\nพวกเธอตาถึงดีนี่!"
+      ]
+    },
+    {
+      "index": 366,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0300_13600_00_mma",
+      "before": "อยากเห็นเธอยิ้ม เลยทุ่มเต็มที่เลย",
+      "after": "อยากเห็นคุณยิ้ม เลยทุ่มเต็มที่เลย",
+      "reason": "The preceding conversation explicitly mentions two men vacationing together (男ふたり). Keep the romantic tone with neutral คุณ.",
+      "jp": "君の喜ぶ顔が見たくてね　奮発したんだ",
+      "us": "Honestly, the expense was completely worth it to see you so happy.",
+      "actor": "",
+      "accepted_before": [
+        "อยากเห็นเธอยิ้ม เลยทุ่มเต็มที่เลย"
+      ]
+    },
+    {
+      "index": 362,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLV_NPC_10_0200_2200_00_mma",
+      "before": "ใจเย็น หัวหน้าไม่อยู่แล้ว\r\nไม่มีใครจะซ้อมนายหรอก",
+      "after": "ใจเย็น หัวหน้าไม่อยู่แล้ว\r\nไม่มีใครจะมาซ้อมหรอก",
+      "reason": "Ambient reassurance leaves listener identity unspecified. Thai can omit the object without changing who is being reassured.",
+      "jp": "落ち着け　ボスはもういねえよ\r\n誰もおまえをボコボコにはしねえ",
+      "us": "Hey, deep breaths. The boss ain't here. No one's gonna hurt you, promise.",
+      "actor": "",
+      "accepted_before": [
+        "ใจเย็น หัวหน้าไม่อยู่แล้ว\r\nไม่มีใครจะซ้อมนายหรอก"
+      ]
+    },
+    {
+      "index": 365,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0100_13900_00_mma",
+      "before": "คุยกับเธอไม่รู้เรื่อง\r\nเรียกผู้รับผิดชอบมา!",
+      "after": "คุยกับคุณไม่รู้เรื่อง\r\nเรียกผู้รับผิดชอบมา!",
+      "reason": "Angry telephone customer cannot know the agent’s gender from this text; neutral คุณ, consistent with preceding line.",
+      "jp": "おまえじゃ話にならん\r\n責任者を出せ！",
+      "us": "Look: you're clearly incapable of helping. Put the manager on!",
+      "actor": "",
+      "accepted_before": [
+        "คุยกับเธอไม่รู้เรื่อง\r\nเรียกผู้รับผิดชอบมา!"
+      ]
+    },
+    {
+      "index": 368,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0300_5200_00_mma",
+      "before": "เอ๊ะ เธอคือคนที่ฟ้าลิขิตให้ฉันหรือเปล่า",
+      "after": "เอ๊ะ คุณคือคนที่ฟ้าลิขิตให้ฉันหรือเปล่า",
+      "reason": "Amor customer asks a passing participant to partner up; no named recipient, so neutral คุณ.",
+      "jp": "あれ　キミがボクの運命の人かな？",
+      "us": "I dunno about you, but this feels like fate to me!",
+      "actor": "",
+      "accepted_before": [
+        "เอ๊ะ เธอคือคนที่ฟ้าลิขิตให้ฉันหรือเปล่า"
+      ]
+    },
+    {
+      "index": 369,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0600_12700_00_mma",
+      "before": "อืม ของขวัญน่ะ\r\nให้เธอไง",
+      "after": "อืม ของขวัญน่ะ\r\nให้คุณไง",
+      "reason": "Customer flirts with the flower-shop employee; polite neutral คุณ fits an employee not explicitly named in the line.",
+      "jp": "うん　プレゼント用だよ\r\n君へのね",
+      "us": "Good...because it's for you. <i>Mi amor</i>.",
+      "actor": "",
+      "accepted_before": [
+        "อืม ของขวัญน่ะ\r\nให้เธอไง"
+      ]
+    },
+    {
+      "index": 370,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0600_13200_00_mfa",
+      "before": "นี่ เธอน่ะ\r\nรดน้ำเสร็จหรือยัง",
+      "after": "นี่ คุณน่ะ\r\nรดน้ำเสร็จหรือยัง",
+      "reason": "Household couple: neutral คุณ suits the familiar adult relationship and avoids assuming partner gender.",
+      "jp": "ちょっとあなた\r\n水やりは終わった？",
+      "us": "Honey, did you forget to water the flowers?",
+      "actor": "",
+      "accepted_before": [
+        "นี่ เธอน่ะ\r\nรดน้ำเสร็จหรือยัง"
+      ]
+    },
+    {
+      "index": 371,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0600_7200_00_mfa",
+      "before": "เธอลนลานเกินไปแล้วนะ",
+      "after": "คุณลนลานเกินไปแล้วนะ",
+      "reason": "Ring conversation with a partner; neutral คุณ preserves the teasing tone.",
+      "jp": "あなた　動揺しすぎよ",
+      "us": "Please, dear. You're making a scene!",
+      "actor": "",
+      "accepted_before": [
+        "เธอลนลานเกินไปแล้วนะ"
+      ]
+    },
+    {
+      "index": 372,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_NPC_10_0700_1600_00_mfa",
+      "before": "พร้อมเป็นอามอร์\r\nให้เธอได้ทุกเมื่อ",
+      "after": "พร้อมเป็นอามอร์\r\nให้คุณได้ทุกเมื่อ",
+      "reason": "Flirtatious offer addressed to a passing participant, potentially Cloud. Neutral คุณ fits any participant.",
+      "jp": "いつでもあなたの\r\nアモールになってあげる",
+      "us": "I'll be your amor any day, darling!",
+      "actor": "",
+      "accepted_before": [
+        "พร้อมเป็นอามอร์\r\nให้เธอได้ทุกเมื่อ"
+      ]
+    },
+    {
+      "index": 383,
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$COSTT_QST_05_0200_0200_00_snk",
+      "before": "ถ้าไม่ได้ละก็ เธอน่ะ!\r\nมาเป็นคู่ให้ฉันหน่อยได้ไหม",
+      "after": "ถ้าไม่ได้ละก็ คุณน่ะ!\r\nมาเป็นคู่ให้ฉันหน่อยได้ไหม",
+      "reason": "Middle Manager asks the studio employee to become his partner. Neutral คุณ suits the customer-staff exchange.",
+      "jp": "ダメだというなら　君！\r\n君が　パートナーになってくれないか",
+      "us": "Oh! Or you─you could be my partner!\r\nWould that be okay?",
+      "actor": "Shinra Middle Manager",
+      "accepted_before": [
+        "ถ้าไม่ได้ละก็ เธอน่ะ!\r\nมาเป็นคู่ให้ฉันหน่อยได้ไหม"
+      ]
+    },
+    {
+      "index": 405,
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$C2630_MAIN_0400_0710_00_ges",
+      "before": "นายเหรอ? นาย? หรือนาย?",
+      "after": "คนนี้เหรอ? คนนี้? หรือคนนี้?",
+      "reason": "Gus pretends to identify Cloud among a mixed party. Deictic wording avoids assigning นาย to every person he points at.",
+      "jp": "おまえか？　おまえか？　おまえか？",
+      "us": "Is it you? You? Maybe you?",
+      "actor": "Gus",
+      "accepted_before": [
+        "นายเหรอ? นาย? หรือนาย?"
+      ]
+    },
+    {
+      "index": 432,
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$UNDRS_QST_05_0200_0800_00_mma",
+      "before": "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างเธออยู่",
+      "after": "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างนายอยู่",
+      "reason": "Card Collector recommends cards to Cloud, the player of the completed Queen’s Blood job.",
+      "jp": "そうだ　きみのような凄腕バウターに\r\nオススメのカードがあるんだ",
+      "us": "Before you go, though, I have some cards I'd highly recommend for a player as skilled as yourself.",
+      "actor": "Card Collector",
+      "accepted_before": [
+        "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างเธออยู่"
+      ]
+    },
+    {
+      "index": 433,
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$UNDRS_QST_05_0900_0200_00_mma",
+      "before": "เพราะเธอช่วยชนะให้",
+      "after": "เพราะนายช่วยชนะให้",
+      "reason": "Same Card Collector thanks Cloud for winning.",
+      "jp": "きみが勝ってくれたおかげで",
+      "us": "Thanks to your efforts...",
+      "actor": "Card Collector",
+      "accepted_before": [
+        "เพราะเธอช่วยชนะให้"
+      ]
+    },
+    {
+      "index": 434,
+      "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+      "id": "$UNDRS_QST_05_0900_0500_00_mma",
+      "before": "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างเธออยู่",
+      "after": "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างนายอยู่",
+      "reason": "Repeated Card Collector recommendation to Cloud, consistent with the earlier variant.",
+      "jp": "そうだ　きみのような凄腕バウターに\r\nオススメのカードがあるんだ",
+      "us": "Before you go, though, I have some cards I'd highly recommend for a player as skilled as yourself.",
+      "actor": "Card Collector",
+      "accepted_before": [
+        "จริงสิ มีไพ่ที่อยากแนะนำ\r\nให้นักแข่งยอดฝีมืออย่างเธออยู่"
+      ]
+    },
+    {
+      "index": 463,
+      "asset": "End/Content/Text/JP/8500-GONGE_TxtRes.uasset",
+      "id": "$GONGV_NPC_10_0400_6400_00_mfa",
+      "before": "อ๋อ นายสินะ\r\nสัตว์ไม่ชอบมาตั้งแต่ไหนแต่ไรแล้วนี่",
+      "after": "อ๋อ ก็สัตว์ไม่ชอบ\r\nมาตั้งแต่ไหนแต่ไรแล้วนี่",
+      "reason": "Ambient exchange gives no explicit listener identity; omit gendered second person while retaining the familiar reply.",
+      "jp": "ああ　アンタ\r\n昔から動物に嫌われてるもんね",
+      "us": "Right. Suppose your mug <i>would</i> strike fear into the hearts of animals everywhere.",
+      "actor": "",
+      "accepted_before": [
+        "อ๋อ นายสินะ\r\nสัตว์ไม่ชอบมาตั้งแต่ไหนแต่ไรแล้วนี่"
+      ]
+    },
+    {
+      "index": 492,
+      "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+      "id": "$CSMOC_NPC_10_0300_2400_00_mma",
+      "before": "ฉันพาเธอที่เป็นคนสำคัญของงานออกมา\r\nหลังจากนั้นคงไม่เป็นอะไรใช่ไหม?",
+      "after": "ฉันพาคุณที่เป็นคนสำคัญของงานออกมา\r\nหลังจากนั้นคงไม่เป็นอะไรใช่ไหม?",
+      "reason": "Conversation about the departed Royal Concert pianist does not identify the recipient by name; use neutral คุณ.",
+      "jp": "主役だったキミを連れ出してしまったが\r\nあのあと　大丈夫だったのかな",
+      "us": "Think they pulled it off? I mean, you were their star pianist before we...",
+      "actor": "",
+      "accepted_before": [
+        "ฉันพาเธอที่เป็นคนสำคัญของงานออกมา\r\nหลังจากนั้นคงไม่เป็นอะไรใช่ไหม?"
+      ]
+    },
+    {
+      "index": 493,
+      "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+      "id": "$CSMOC_NPC_10_0400_20600_00_mfa",
+      "before": "เรื่องที่เธอเล่า ดีมากเลยนะ",
+      "after": "เรื่องที่คุณเล่า ดีมากเลยนะ",
+      "reason": "Reply praises the next conversation partner’s presentation. Neutral คุณ avoids misgendering the respondent.",
+      "jp": "あなたの発表　すごく良かった",
+      "us": "That was a really moving speech. You did great.",
+      "actor": "",
+      "accepted_before": [
+        "เรื่องที่เธอเล่า ดีมากเลยนะ"
+      ]
+    },
+    {
+      "index": 494,
+      "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+      "id": "$CSMOC_NPC_10_0400_20700_00_mfa",
+      "before": "ตอนที่เราพบกัน\r\nก็เป็นช่วงที่เธอกำลังทุกข์ใจอยู่เหมือนกันสินะ",
+      "after": "ตอนที่เราพบกัน\r\nก็เป็นช่วงที่คุณกำลังทุกข์ใจอยู่เหมือนกันสินะ",
+      "reason": "Same personal-history conversation; keep neutral คุณ across both lines.",
+      "jp": "私たちが出会ったのも\r\nあなたが苦しんでいた頃だったわよね",
+      "us": "Come to think of it...you were going through quite the rough patch the first time we met too.",
+      "actor": "",
+      "accepted_before": [
+        "ตอนที่เราพบกัน\r\nก็เป็นช่วงที่เธอกำลังทุกข์ใจอยู่เหมือนกันสินะ"
+      ]
+    },
+    {
+      "index": 496,
+      "asset": "End/Content/Text/JP/8600-COSME_TxtRes.uasset",
+      "id": "$CSMOC_NPC_10_0500_2900_00_mma",
+      "before": "อืม ฝากไว้กับฉันได้เลย\r\nจะดึงเสน่ห์ทั้งหมดของเธอออกมาให้เอง",
+      "after": "อืม ฝากไว้กับฉันได้เลย\r\nจะดึงเสน่ห์ทั้งหมดของคุณออกมาให้เอง",
+      "reason": "Standalone photographer-like remark does not identify its recipient; neutral คุณ retains the compliment without inferring gender.",
+      "jp": "うん　僕にまかせておけば大丈夫\r\n君の魅力のすべてを引き出してあげるよ",
+      "us": "Don't you worry, my dear. I'll find a way to bring out the full depths of your beauty. Cross my heart.",
+      "actor": "",
+      "accepted_before": [
+        "อืม ฝากไว้กับฉันได้เลย\r\nจะดึงเสน่ห์ทั้งหมดของเธอออกมาให้เอง"
+      ]
+    }
+  ],
+  "all499_candidates_reviewed": true
+}

@@ -1,0 +1,23 @@
+{
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source": "translations/working-through-chapter13-th.json",
+  "stage": "staging/ThaiJP_ThroughChapter13_Working",
+  "qa": "qa/chapter13",
+  "cluster_map": "reference/through-chapter13-cluster-map.json",
+  "seed": "reference/through-chapter12-cluster-map.json",
+  "punctuation_policy": "reference/dialogue-punctuation-policy.json"
+}

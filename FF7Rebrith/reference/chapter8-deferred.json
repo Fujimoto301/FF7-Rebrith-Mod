@@ -1,0 +1,2257 @@
+[
+  {
+    "index": 1001,
+    "id": "$C2630_MAIN_3320_0300_00_est",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "戦争になったら\r\nいいチョコボから順番に取られちゃうからね",
+    "MetaData": {
+      "ACTOR": "エスト"
+    },
+    "English": {
+      "Text": "I just know Shinra's gonna swoop in and steal our best birds for their troopers.",
+      "MetaData": {
+        "ACTOR": "Esther"
+      }
+    },
+    "template": 910,
+    "reason": "later Wutai war reaction from Esther"
+  },
+  {
+    "index": 1002,
+    "id": "$C2630_MAIN_3320_0310_00_est",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "やめてくんないかな",
+    "MetaData": {
+      "ACTOR": "エスト"
+    },
+    "English": {
+      "Text": "War's one dirty business...",
+      "MetaData": {
+        "ACTOR": "Esther"
+      }
+    },
+    "template": 911,
+    "reason": "later Wutai war reaction from Esther"
+  },
+  {
+    "index": 1003,
+    "id": "$C2630_MAIN_3320_0400_00_est",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "聞いたわよ\r\nゴールドカップ　おめでとう！",
+    "MetaData": {
+      "ACTOR": "エスト"
+    },
+    "English": {
+      "Text": "Well, look who it is─the Gold Cup champ himself!",
+      "MetaData": {
+        "ACTOR": "Esther"
+      }
+    },
+    "template": 912,
+    "reason": "Chapter12 Gold Cup victory reaction from Esther"
+  },
+  {
+    "index": 1004,
+    "id": "$C2630_MAIN_3320_0500_00_est",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ジョーのやつ　悔しがってたでしょ",
+    "MetaData": {
+      "ACTOR": "エスト"
+    },
+    "English": {
+      "Text": "I bet Joe's absolutely fuming!",
+      "MetaData": {
+        "ACTOR": "Esther"
+      }
+    },
+    "template": 913,
+    "reason": "Chapter12 Gold Cup victory reaction from Esther"
+  },
+  {
+    "index": 1476,
+    "id": "$GOLDS_NPC_10_0300_5900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイの放送　見たか？\r\nったく　楽しい気分が台無しだよな",
+    "MetaData": {},
+    "English": {
+      "Text": "You catch that broadcast outta Wutai? Yeesh. Talk about a major buzzkill."
+    },
+    "template": 1360,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1477,
+    "id": "$GOLDS_NPC_10_0300_6000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドソーサーにも\r\n反神羅連絡会の連中がまぎれてたりして",
+    "MetaData": {},
+    "English": {
+      "Text": "Apparently the Shinra Resistance Committee's even got people here at the Gold Saucer!"
+    },
+    "template": 1361,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1478,
+    "id": "$GOLDS_NPC_10_0300_6100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "宇宙戦争ならまだしも\r\nリアルな戦争なんて勘弁してくれよ",
+    "MetaData": {},
+    "English": {
+      "Text": "That space shooter coaster they got here is more than enough war for me, thank you very much."
+    },
+    "template": 1362,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1479,
+    "id": "$GOLDS_NPC_10_0300_6200_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "こんな場所　ウータイにはないからな\r\nヤツら嫉妬してやがんのさ",
+    "MetaData": {},
+    "English": {
+      "Text": "No way Wutai's got anything even half as cool as this. They're just jealous!"
+    },
+    "template": 1363,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1480,
+    "id": "$GOLDS_NPC_10_0300_6300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイのことなんか忘れて\r\n遊びまわろうぜ",
+    "MetaData": {},
+    "English": {
+      "Text": "Bro, let's party so hard we forget Wutai even exists!"
+    },
+    "template": 1364,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1481,
+    "id": "$GOLDS_NPC_10_0300_6400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ねえ　戦争が始まるんでしょ？\r\nこのまま遊んでていいのかな",
+    "MetaData": {},
+    "English": {
+      "Text": "They say we're going to war soon... Should we really be goofing around at a time like this?"
+    },
+    "template": 1365,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1482,
+    "id": "$GOLDS_NPC_10_0300_6500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "戦争がちらついて\r\nスピードスクエアが楽しめないんだよね",
+    "MetaData": {},
+    "English": {
+      "Text": "I was hyped for Speed Square, but after that broadcast, I'm just not feeling it..."
+    },
+    "template": 1366,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1483,
+    "id": "$GOLDS_NPC_10_0300_6600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイの人たちも\r\nゴールドソーサーで遊べばいいのに",
+    "MetaData": {},
+    "English": {
+      "Text": "Is it naive to think if Wutai had a place like this, there'd be no war?"
+    },
+    "template": 1367,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1484,
+    "id": "$GOLDS_NPC_10_0300_6700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイのせいでここが閉鎖されたら\r\nわたし　絶対許さないから！",
+    "MetaData": {},
+    "English": {
+      "Text": "If this place gets shut down because of Wutai, there's gonna be hell to pay!"
+    },
+    "template": 1368,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1485,
+    "id": "$GOLDS_NPC_10_0300_6800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "いつかウータイと仲良くなったら\r\nシノビのスクエアとかできるのかな？",
+    "MetaData": {},
+    "English": {
+      "Text": "If we were friends with Wutai, maybe the Gold Saucer could do a Ninja Square or something!"
+    },
+    "template": 1369,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 1492,
+    "id": "$GOLDS_NPC_10_0300_7500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "マッスルコロシアムで\r\nスペシャルマッチだってよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "There's some event going on at the colosseum!"
+    },
+    "template": 1376,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1493,
+    "id": "$GOLDS_NPC_10_0300_7600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ園長と誰が勝負するんだ？",
+    "MetaData": {},
+    "English": {
+      "Text": "Is Dio gonna throw down with somebody?"
+    },
+    "template": 1377,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1494,
+    "id": "$GOLDS_NPC_10_0300_7700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "コルネオって\r\nウォール・マーケットのコルネオか？",
+    "MetaData": {},
+    "English": {
+      "Text": "\"Corneo\"? As in the Wall Market sleazebag!?"
+    },
+    "template": 1378,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1495,
+    "id": "$GOLDS_NPC_10_0300_7800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "明日はバトルスクエアで決まりだな",
+    "MetaData": {},
+    "English": {
+      "Text": "Showdown tomorrow at the colosseum!"
+    },
+    "template": 1379,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1496,
+    "id": "$GOLDS_NPC_10_0300_7900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドソーサーの名前を賭けて\r\n園長とコルネオってヤツが戦うんだと",
+    "MetaData": {},
+    "English": {
+      "Text": "The identity of the Gold Saucer is riding on a fight between Dio and the don!?"
+    },
+    "template": 1380,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1497,
+    "id": "$GOLDS_NPC_10_0300_8000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "断然　ディオ園長を応援するわ！",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm Team Dio for life! For life, you hear me!?"
+    },
+    "template": 1381,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1498,
+    "id": "$GOLDS_NPC_10_0300_8100_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "うわ～　バトルスクエア\r\n盛りあがりそうね",
+    "MetaData": {},
+    "English": {
+      "Text": "Whoa! It sounds like Battle Square is where the real action is!"
+    },
+    "template": 1382,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1499,
+    "id": "$GOLDS_NPC_10_0300_8200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "明日はコロシアムに行ってみよっか",
+    "MetaData": {},
+    "English": {
+      "Text": "Gotta check out the colosseum tomorrow!"
+    },
+    "template": 1383,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1500,
+    "id": "$GOLDS_NPC_10_0300_8300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "えっ　なんでコルネオがここにいるの？",
+    "MetaData": {},
+    "English": {
+      "Text": "Can someone tell me why Don Corneo's here?"
+    },
+    "template": 1384,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1501,
+    "id": "$GOLDS_NPC_10_0300_8400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "え～　ゴールドソーサーの名前\r\n変わっちゃうの？",
+    "MetaData": {},
+    "English": {
+      "Text": "Wait, for real!? They're gonna change the Gold Saucer's name?"
+    },
+    "template": 1385,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1508,
+    "id": "$GOLDS_NPC_10_0300_9600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ軍団とコルネオファミリーによる\r\n歴史的な１戦のゴングが",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "History will be made in Battle Square tomorrow, when our very own Dio's Champions...",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1392,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1509,
+    "id": "$GOLDS_NPC_10_0300_9610_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "明日　バトルスクエアで鳴り響きます",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "clash with Wall Market's Corneo Family!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1393,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1510,
+    "id": "$GOLDS_NPC_10_0300_9700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "皆様　決してお見逃しのないように",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Get your tickets and see the spectacle in person!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1394,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1511,
+    "id": "$GOLDS_NPC_10_0300_9800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "注目のビッグイベントが　明日\r\nマッスルコロシアムで開催されます",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Don't miss out on this epic showdown─tomorrow at the Musclehead Colosseum!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1395,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1512,
+    "id": "$GOLDS_NPC_10_0300_9900_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ園長の熱き戦いを\r\nみんなで応援しましょう！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Come support our park director as he takes on notorious criminals!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1396,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1545,
+    "id": "$GOLDS_NPC_10_0400_3300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドカップのジョーは別格さ\r\n完璧に仕上げてくるからな",
+    "MetaData": {},
+    "English": {
+      "Text": "Joe, as in \"Gold Cup Joe\"? That man's in a league of his own."
+    },
+    "template": 1429,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1546,
+    "id": "$GOLDS_NPC_10_0400_3400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まさかグリン牧場のチョコボが\r\nゴールドカップに出るとはな",
+    "MetaData": {},
+    "English": {
+      "Text": "Can't say I ever expected to see a bird from Bill's ranch compete at this level."
+    },
+    "template": 1430,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1547,
+    "id": "$GOLDS_NPC_10_0400_3500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最高峰のレースだ\r\n俺も最高額で応えるぜ～！",
+    "MetaData": {},
+    "English": {
+      "Text": "Racing doesn't get any bigger than this! Only the best of the best get a shot at the cup!"
+    },
+    "template": 1431,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1548,
+    "id": "$GOLDS_NPC_10_0400_3600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "さすがはゴールドカップ\r\n選りすぐりのチョコボが集まったな",
+    "MetaData": {},
+    "English": {
+      "Text": "You ain't gonna find a better crop of chocobos than what we got lined up here today!"
+    },
+    "template": 1432,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1549,
+    "id": "$GOLDS_NPC_10_0400_3700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドカップ　誰が勝つのかな？",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't even begin to guess who might take home the trophy today!"
+    },
+    "template": 1433,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1550,
+    "id": "$GOLDS_NPC_10_0400_3800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "どのチョコボも\r\nゴールドカップに合わせて\r\n調整してきてるわね",
+    "MetaData": {},
+    "English": {
+      "Text": "Those chocobos are decked out. Their owners didn't spare any expense."
+    },
+    "template": 1434,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1551,
+    "id": "$GOLDS_NPC_10_0400_3900_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "今回のゴールドカップも\r\nジョーのトウホウフハイで決まりでしょ",
+    "MetaData": {},
+    "English": {
+      "Text": "Why even bother having the race? We all know Hyperion's gonna take it again."
+    },
+    "template": 1435,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1552,
+    "id": "$GOLDS_NPC_10_0400_4000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "わたし　大穴中の大穴\r\nグリン牧場に賭けてみようかな",
+    "MetaData": {},
+    "English": {
+      "Text": "I've got a good feeling about that mother of all long shots─the chocobo from Bill's ranch!"
+    },
+    "template": 1436,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1553,
+    "id": "$GOLDS_NPC_10_0400_4100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドカップ優勝　おめでとう！",
+    "MetaData": {},
+    "English": {
+      "Text": "Congratulations on winning the Gold Cup!"
+    },
+    "template": 1437,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1554,
+    "id": "$GOLDS_NPC_10_0400_4200_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まさかグリン牧場が優勝するなんてな",
+    "MetaData": {},
+    "English": {
+      "Text": "One of <i>Bill's</i> chocobos won? Get out!"
+    },
+    "template": 1438,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1555,
+    "id": "$GOLDS_NPC_10_0400_4300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド騎手　最高のレースだった\r\n一瞬たりとも目が離せなかったよ",
+    "MetaData": {},
+    "English": {
+      "Text": "That race was insane! One of the best I've ever seen! I couldn't take my eyes off it!"
+    },
+    "template": 1439,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1556,
+    "id": "$GOLDS_NPC_10_0400_4400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "これからのチョコボ界を担う\r\nスター騎手の登場だな！",
+    "MetaData": {},
+    "English": {
+      "Text": "There he is, the superstar of the chocobo racing world!"
+    },
+    "template": 1440,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1557,
+    "id": "$GOLDS_NPC_10_0400_4500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まさか　トウホウフハイが\r\n負けるなんて……",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't believe it! Hyperion actually lost the race!?"
+    },
+    "template": 1441,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1558,
+    "id": "$GOLDS_NPC_10_0400_4600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "今回のクラウド騎手とチョコボの走りは\r\n歴史に残るわね",
+    "MetaData": {},
+    "English": {
+      "Text": "Cloud and his chocobo were in perfect sync. That race'll go down in history!"
+    },
+    "template": 1442,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1559,
+    "id": "$GOLDS_NPC_10_0400_4700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最高のレースだったわよ　おめでとう！",
+    "MetaData": {},
+    "English": {
+      "Text": "You ran a brilliant race! Congratulations!"
+    },
+    "template": 1443,
+    "reason": "later Gold Cup regional odd job"
+  },
+  {
+    "index": 1695,
+    "id": "$GOLDS_NPC_10_0600_3400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "マッスルコロシアム始まって以来の\r\nビッグイベントだな",
+    "MetaData": {},
+    "English": {
+      "Text": "Has the colosseum ever hosted a match this big before?"
+    },
+    "template": 1578,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1696,
+    "id": "$GOLDS_NPC_10_0600_3500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "第２のウォール・マーケットが\r\n誕生しちまうかもな",
+    "MetaData": {},
+    "English": {
+      "Text": "We might just witness the birth of another Wall Market."
+    },
+    "template": 1579,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1697,
+    "id": "$GOLDS_NPC_10_0600_3600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ軍団のメンバーが気になるな",
+    "MetaData": {},
+    "English": {
+      "Text": "I am dyin' to know who Dio's Champions are."
+    },
+    "template": 1580,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1698,
+    "id": "$GOLDS_NPC_10_0600_3700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "俺は　ディオ園長の筋肉を信じる\r\n筋肉は絶対に負けない！",
+    "MetaData": {},
+    "English": {
+      "Text": "Dio's rippling muscles'll carry the day, you'll see. Nobody can stop those buns of steel!"
+    },
+    "template": 1581,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1699,
+    "id": "$GOLDS_NPC_10_0600_3800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "コルネオを舐めてると痛い目にあうぜ\r\nそういうヤツを何人も見てきたよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Dio's champs're in for a world of hurt if they think the family's going down easy, tell ya that much!"
+    },
+    "template": 1582,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1700,
+    "id": "$GOLDS_NPC_10_0600_3900_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドソーサーを守るためにも\r\nディオ園長を応援しないと！",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm pulling for Dio! The Gold Saucer wouldn't be the same without him."
+    },
+    "template": 1583,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1701,
+    "id": "$GOLDS_NPC_10_0600_4000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ軍団とコルネオファミリー\r\nどっちが勝つと思う？",
+    "MetaData": {},
+    "English": {
+      "Text": "Who you think's gonna come out on top? The Champs or the Family?"
+    },
+    "template": 1584,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1702,
+    "id": "$GOLDS_NPC_10_0600_4100_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "こういうビッグイベントがあるから\r\nゴールドソーサーって飽きないのよね",
+    "MetaData": {},
+    "English": {
+      "Text": "This kinda stuff is exactly what keeps me coming back. There's always something going on!"
+    },
+    "template": 1585,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1703,
+    "id": "$GOLDS_NPC_10_0600_4200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウォール・マーケットを知ってる人なら\r\nこの試合のヤバさがわかるわよね",
+    "MetaData": {},
+    "English": {
+      "Text": "Anyone who knows anything about Wall Market could tell you just how much is riding on this match."
+    },
+    "template": 1586,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1704,
+    "id": "$GOLDS_NPC_10_0600_4300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "コルネオは神羅から逃げてるんでしょ\r\nこんなに目立って大丈夫なの？",
+    "MetaData": {},
+    "English": {
+      "Text": "Can Corneo afford to do something like this? Isn't he on the run from Shinra?"
+    },
+    "template": 1587,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1705,
+    "id": "$GOLDS_NPC_10_0600_4300_01_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　がんばれ！",
+    "MetaData": {},
+    "English": {
+      "Text": "You got this one, Cloud!"
+    },
+    "template": 1588,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1706,
+    "id": "$GOLDS_NPC_10_0600_4300_02_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　期待してるぞ",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm counting on you to win it all, man!"
+    },
+    "template": 1589,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1707,
+    "id": "$GOLDS_NPC_10_0600_4300_03_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　応援するぜ",
+    "MetaData": {},
+    "English": {
+      "Text": "Don't let anyone stop you, Cloud!"
+    },
+    "template": 1590,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1708,
+    "id": "$GOLDS_NPC_10_0600_4300_04_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさんなら　絶対勝てる！",
+    "MetaData": {},
+    "English": {
+      "Text": "You show 'em who's boss, alright!?"
+    },
+    "template": 1591,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1709,
+    "id": "$GOLDS_NPC_10_0600_4300_05_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさん　がんばって～！",
+    "MetaData": {},
+    "English": {
+      "Text": "Hey, Cloud! You rock!"
+    },
+    "template": 1592,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1710,
+    "id": "$GOLDS_NPC_10_0600_4300_06_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　いいぞ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Hell yeah, Cloud!"
+    },
+    "template": 1593,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1711,
+    "id": "$GOLDS_NPC_10_0600_4300_07_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　勢いにのってけ！",
+    "MetaData": {},
+    "English": {
+      "Text": "C'mon, you got this in the bag!"
+    },
+    "template": 1594,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1712,
+    "id": "$GOLDS_NPC_10_0600_4300_08_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "アンタなら絶対勝てるよ　クラウド",
+    "MetaData": {},
+    "English": {
+      "Text": "C'mon, Cloud! I wanna see you kick some ass!"
+    },
+    "template": 1595,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1713,
+    "id": "$GOLDS_NPC_10_0600_4300_09_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　がんばって！",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm rootin' for you, Cloud!"
+    },
+    "template": 1596,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1714,
+    "id": "$GOLDS_NPC_10_0600_4300_10_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　いけるよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "I believe in you, Cloud!"
+    },
+    "template": 1597,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1715,
+    "id": "$GOLDS_NPC_10_0600_4300_11_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさん　勝ってください！",
+    "MetaData": {},
+    "English": {
+      "Text": "Can we take a selfie? I mean, if you're not too busy!"
+    },
+    "template": 1598,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1716,
+    "id": "$GOLDS_NPC_10_0600_4300_12_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさん　ファイト！",
+    "MetaData": {},
+    "English": {
+      "Text": "Time to knuckle down and bring it home!"
+    },
+    "template": 1599,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1717,
+    "id": "$GOLDS_NPC_10_0600_4300_13_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさん　やっちゃって！",
+    "MetaData": {},
+    "English": {
+      "Text": "Show us how it's done, Cloud!"
+    },
+    "template": 1600,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1718,
+    "id": "$GOLDS_NPC_10_0600_4300_14_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドさ～ん　ハイタッチして～！",
+    "MetaData": {},
+    "English": {
+      "Text": "Hey, Cloud! Gimme a high five!"
+    },
+    "template": 1601,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1719,
+    "id": "$GOLDS_NPC_10_0600_4300_15_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "キャ～　こっち見てクラウド～！",
+    "MetaData": {},
+    "English": {
+      "Text": "Cloud, Cloud! Over here!"
+    },
+    "template": 1602,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1720,
+    "id": "$GOLDS_NPC_10_0600_4300_16_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "勝ったら　いっしょにお祝いしようね！",
+    "MetaData": {},
+    "English": {
+      "Text": "Let's share a bottle if you win this one, Cloud!"
+    },
+    "template": 1603,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1721,
+    "id": "$GOLDS_NPC_10_0600_4400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゴールドソーサーを守ってくれて\r\nありがとな！",
+    "MetaData": {},
+    "English": {
+      "Text": "Thanks a lot for standing up for the Gold Saucer!"
+    },
+    "template": 1604,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1722,
+    "id": "$GOLDS_NPC_10_0600_4500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "すげえイイ試合だったぞ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Holy shit, that ruled!"
+    },
+    "template": 1605,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1723,
+    "id": "$GOLDS_NPC_10_0600_4600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "またディオ軍団で出場してくれよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Lookin' forward to your next fight, Champs!"
+    },
+    "template": 1606,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1724,
+    "id": "$GOLDS_NPC_10_0600_4700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "連戦連勝だったな　お疲れさん！",
+    "MetaData": {},
+    "English": {
+      "Text": "Wow! You guys were unstoppable!"
+    },
+    "template": 1607,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1725,
+    "id": "$GOLDS_NPC_10_0600_4800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "あんたの剣さばき　シビれたよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Gotta say, you're one hell of a swordsman!"
+    },
+    "template": 1608,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1726,
+    "id": "$GOLDS_NPC_10_0600_4900_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ軍団　最高だったわよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Omigosh, you guys seriously cleaned up!"
+    },
+    "template": 1609,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1727,
+    "id": "$GOLDS_NPC_10_0600_5000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "コルネオをぶっ飛ばしてくれて\r\nありがとね～！",
+    "MetaData": {},
+    "English": {
+      "Text": "Thanks for showing that ugly skeezeball who's boss!"
+    },
+    "template": 1610,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1728,
+    "id": "$GOLDS_NPC_10_0600_5100_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ナイスファイト！\r\n最高の試合だったわ",
+    "MetaData": {},
+    "English": {
+      "Text": "Nice one! That's the best match I've seen in a minute!"
+    },
+    "template": 1611,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1729,
+    "id": "$GOLDS_NPC_10_0600_5200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "コルネオランドにならなくて\r\nホントよかった",
+    "MetaData": {},
+    "English": {
+      "Text": "Glad we dodged that bullet. Can you imagine?"
+    },
+    "template": 1612,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1730,
+    "id": "$GOLDS_NPC_10_0600_5300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ルーファウス社長が出てくるなんて\r\nスペシャルにもほどがあるでしょ",
+    "MetaData": {},
+    "English": {
+      "Text": "That match lived up to its billing! Didn't think the president would show!"
+    },
+    "template": 1613,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1731,
+    "id": "$GOLDS_NPC_10_0600_6400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "明日　ここバトルスクエアにてネーミングライツを\r\n賭けた決戦　スペシャルマッチを開催いたします！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Tomorrow, Musclehead Colosseum will host an epic contest to decide the fate of the Gold Saucer!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1614,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1732,
+    "id": "$GOLDS_NPC_10_0600_6500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "観戦希望の方はチケットをご購入ください！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Pick up your tickets for the match before it's too late!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1615,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1733,
+    "id": "$GOLDS_NPC_10_0600_6600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "我らがカリスマディオ園長が明日ゴールドソーサーを\r\n背負いスペシャルマッチに挑みます！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "The very destiny of the Gold Saucer rests upon the shoulders of our Director Dio and his mighty champions.",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1616,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1734,
+    "id": "$GOLDS_NPC_10_0600_6700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "皆様　応援をよろしくお願いします！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Let's make sure they know we're all rooting for them!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1617,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1735,
+    "id": "$GOLDS_NPC_10_0600_6800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まもなく\r\nスペシャルマッチが始まります",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "The battle of the ages is here!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1618,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1736,
+    "id": "$GOLDS_NPC_10_0600_6900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウォール・マーケットからの刺客\r\nコルネオファミリーが",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "To the victor go the naming rights to the Gold Saucer!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1619,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1737,
+    "id": "$GOLDS_NPC_10_0600_7000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ディオ軍団とネーミングライツを賭けて\r\n熱いバトルを繰り広げます！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "This clash will pit the Corneo Family against Dio's Champions!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1620,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1738,
+    "id": "$GOLDS_NPC_10_0600_7100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "決して　お見逃しのないように！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "You won't wanna miss it!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1621,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1739,
+    "id": "$GOLDS_NPC_10_0600_7200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "これより　園長率いるディオ軍団とコルネオ\r\nファミリーがマッスルコロシアムにて激突します！",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Director Dio is about to lead his champions into battle against the Corneo Family at the Musclehead Colosseum.",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1622,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1740,
+    "id": "$GOLDS_NPC_10_0600_7400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "観戦チケットは　まだございます\r\nいっしょにディオ園長を応援しましょう",
+    "MetaData": {
+      "ACTOR": "スタッフ"
+    },
+    "English": {
+      "Text": "Tickets are still available, so grab yours now and show your support for the director!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "template": 1623,
+    "reason": "Chapter12 Dio-Corneo naming-rights battle"
+  },
+  {
+    "index": 1837,
+    "id": "$GOLDS_NPC_10_0800_4000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "歌詞コンテストの結果　楽しみだよね",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't wait to see who wins the contest!"
+    },
+    "template": 1718,
+    "reason": "Chapter12 lyric contest"
+  },
+  {
+    "index": 1838,
+    "id": "$GOLDS_NPC_10_0800_4100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "歌詞コンテストは俺がもらったぜ\r\n最高傑作を応募したからな！",
+    "MetaData": {},
+    "English": {
+      "Text": "There's no way I didn't win the contest. Those are the absolute best lyrics I've ever written!"
+    },
+    "template": 1719,
+    "reason": "Chapter12 lyric contest"
+  },
+  {
+    "index": 1940,
+    "id": "$GOLDS_NPC_10_1000_3100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "今夜の『LOVELESS』は　演出も音楽も\r\nすべてが特別な豪華版らしいよ",
+    "MetaData": {},
+    "English": {
+      "Text": "From what I've heard, they're pulling out all the stops for tonight's production of <i>Loveless</i>!"
+    },
+    "template": 1821,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1941,
+    "id": "$GOLDS_NPC_10_1000_3200_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "歌詞コンテストは俺がもらったぜ\r\n最高傑作を応募したからな！",
+    "MetaData": {},
+    "English": {
+      "Text": "There's no way I didn't win the contest. Those are the absolute best lyrics I've ever written!"
+    },
+    "template": 1719,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1942,
+    "id": "$GOLDS_NPC_10_1000_3300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "この公演をずっと楽しみにしてたんだよ\r\nまさか　上演してくれるとは",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm so glad they put this show together. I've been waiting forever to see it in person!"
+    },
+    "template": 1822,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1943,
+    "id": "$GOLDS_NPC_10_1000_3400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "『Gエディション』は\r\n観客参加型の特別なプログラムらしいぜ",
+    "MetaData": {},
+    "English": {
+      "Text": "The G Edition of the show allows for audience participation. Isn't that exciting?"
+    },
+    "template": 1823,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1944,
+    "id": "$GOLDS_NPC_10_1000_3500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "歌詞コンテストの作品を読んだけど\r\nフラワーなんとかって人のが良かったな",
+    "MetaData": {},
+    "English": {
+      "Text": "I read all the entries for the songwriting contest, and I really liked the one by that Maycomb person."
+    },
+    "template": 1824,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1945,
+    "id": "$GOLDS_NPC_10_1000_3600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "歌詞コンテストの結果　楽しみだよね",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't wait to see who wins the contest!"
+    },
+    "template": 1718,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1946,
+    "id": "$GOLDS_NPC_10_1000_3700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "『LOVELESS・Gエディション』は\r\n主演女優が降板して\r\nずっとお蔵入りしてたんだって",
+    "MetaData": {},
+    "English": {
+      "Text": "Apparently, the reason <i>Loveless</i> got shelved for so long is 'cause the lead actress quit without warning."
+    },
+    "template": 1825,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1947,
+    "id": "$GOLDS_NPC_10_1000_3800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "わたし　八番街育ちだからね\r\n『LOVELESS』にはうるさいわよ",
+    "MetaData": {},
+    "English": {
+      "Text": "I grew up in Sector 8, so trust me when I say I know everything about <i>Loveless</i>."
+    },
+    "template": 1826,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1948,
+    "id": "$GOLDS_NPC_10_1000_3900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "新機軸の『LOVELESS』だったな！",
+    "MetaData": {},
+    "English": {
+      "Text": "I've never seen <i>Loveless</i> like that before!"
+    },
+    "template": 1827,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1949,
+    "id": "$GOLDS_NPC_10_1000_4000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最後に出てきた歌手って誰？",
+    "MetaData": {},
+    "English": {
+      "Text": "Who was that singer at the end of the show?"
+    },
+    "template": 1828,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1950,
+    "id": "$GOLDS_NPC_10_1000_4100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "エンディングの曲って\r\n歌詞コンテストのやつだろ？",
+    "MetaData": {},
+    "English": {
+      "Text": "Was the final number the one from the songwriting contest?"
+    },
+    "template": 1829,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1951,
+    "id": "$GOLDS_NPC_10_1000_4200_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "女神役の役者が良かったな\r\n次の作品も絶対に見るよ",
+    "MetaData": {},
+    "English": {
+      "Text": "That talent who played the Goddess was divine! I <i>need</i> to see what they're in next."
+    },
+    "template": 1830,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1952,
+    "id": "$GOLDS_NPC_10_1000_4300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "うう……俺\r\n感動でなにも言えねえ",
+    "MetaData": {},
+    "English": {
+      "Text": "...I don't know what to say... That was beautiful."
+    },
+    "template": 1831,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1953,
+    "id": "$GOLDS_NPC_10_1000_4400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "こんな舞台　はじめて！",
+    "MetaData": {},
+    "English": {
+      "Text": "I've never seen a play like that before!"
+    },
+    "template": 1832,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1954,
+    "id": "$GOLDS_NPC_10_1000_4500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "フラワー・キーパーさんの歌詞\r\n胸に染みたわ",
+    "MetaData": {},
+    "English": {
+      "Text": "Maycomb Blume's lyrics hit me like an arrow straight to the heart."
+    },
+    "template": 1833,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1955,
+    "id": "$GOLDS_NPC_10_1000_4600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最後の曲　販売されたら絶対買う！",
+    "MetaData": {},
+    "English": {
+      "Text": "I hope they release that song as a single. I need it!"
+    },
+    "template": 1834,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1956,
+    "id": "$GOLDS_NPC_10_1000_4700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "アルフリードのファンになっちゃった",
+    "MetaData": {},
+    "English": {
+      "Text": "I think I just became Alphreid's number one fan!"
+    },
+    "template": 1835,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1957,
+    "id": "$GOLDS_NPC_10_1000_4800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "本当にお芝居の中にいるみたいだった",
+    "MetaData": {},
+    "English": {
+      "Text": "Wow... It felt like I was right there in the middle of the action."
+    },
+    "template": 1836,
+    "reason": "Chapter12 LOVELESS G-edition and lyric contest"
+  },
+  {
+    "index": 1998,
+    "id": "$GOLDS_NPC_10_1100_0300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "バトルスクエアの迫力　ヤバかったね！",
+    "MetaData": {},
+    "English": {
+      "Text": "Man, everything about Battle Square was badass!"
+    },
+    "template": 1347,
+    "reason": "Chapter12 colosseum victory reaction"
+  },
+  {
+    "index": 1999,
+    "id": "$GOLDS_NPC_10_1100_0400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "くっそ～\r\nクラウドに賭けときゃよかった",
+    "MetaData": {},
+    "English": {
+      "Text": "Son of a bitch! Shoulda just trusted my gut!"
+    },
+    "template": 1424,
+    "reason": "Chapter12 colosseum victory reaction"
+  },
+  {
+    "index": 2000,
+    "id": "$GOLDS_NPC_10_1100_0500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウド　勝ってくれて\r\n本当にありがとう！",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't thank you enough for winning, Cloud! You're the best!"
+    },
+    "template": 1426,
+    "reason": "Chapter12 colosseum victory reaction"
+  },
+  {
+    "index": 2003,
+    "id": "$GOLDS_NPC_10_1200_0100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "あそこにいるのって\r\n究極の遊び人だろ？",
+    "MetaData": {},
+    "English": {
+      "Text": "Yo. Isn't that the Ultimate Party Animal?"
+    },
+    "template": 1879,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2004,
+    "id": "$GOLDS_NPC_10_1200_0200_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "おお　神羅課長が勝負するのか？",
+    "MetaData": {},
+    "English": {
+      "Text": "Oh snap, is the UPA gonna throw down?"
+    },
+    "template": 1880,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2005,
+    "id": "$GOLDS_NPC_10_1200_0300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "挑戦者のお手並み拝見といこうか",
+    "MetaData": {},
+    "English": {
+      "Text": "Alright then, let's see what this challenger can do!"
+    },
+    "template": 1881,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2006,
+    "id": "$GOLDS_NPC_10_1200_0400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "究極の遊び人からの挑戦状だって！",
+    "MetaData": {},
+    "English": {
+      "Text": "The Ultimate Party Animal's putting on his own event!"
+    },
+    "template": 1882,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2007,
+    "id": "$GOLDS_NPC_10_1200_0500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "神羅課長に勝てるワケないのに",
+    "MetaData": {},
+    "English": {
+      "Text": "Like anybody'd have a chance against that dude!"
+    },
+    "template": 1883,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2008,
+    "id": "$GOLDS_NPC_10_1200_0600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "だれが神羅課長に挑戦するの？",
+    "MetaData": {},
+    "English": {
+      "Text": "I wonder who's gonna take on the champion."
+    },
+    "template": 1884,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2009,
+    "id": "$GOLDS_NPC_10_1200_0700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "やっぱ強えな　神羅課長",
+    "MetaData": {},
+    "English": {
+      "Text": "Yep, nobody can touch the king."
+    },
+    "template": 1885,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2010,
+    "id": "$GOLDS_NPC_10_1200_0800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "いい勝負だったのに　残念だったな",
+    "MetaData": {},
+    "English": {
+      "Text": "That was a great match. Shame about the end."
+    },
+    "template": 1886,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2011,
+    "id": "$GOLDS_NPC_10_1200_0900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "リベンジ　楽しみにしてるぞ",
+    "MetaData": {},
+    "English": {
+      "Text": "I'm looking forward to round two!"
+    },
+    "template": 1887,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2012,
+    "id": "$GOLDS_NPC_10_1200_1000_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "究極への道は険しいわね",
+    "MetaData": {},
+    "English": {
+      "Text": "The road to the top is rough and winding."
+    },
+    "template": 1888,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2013,
+    "id": "$GOLDS_NPC_10_1200_1100_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "応援してるから　次も頑張って",
+    "MetaData": {},
+    "English": {
+      "Text": "You can do it─I believe in you!"
+    },
+    "template": 1889,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2014,
+    "id": "$GOLDS_NPC_10_1200_1200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "神羅課長が強すぎるのよ",
+    "MetaData": {},
+    "English": {
+      "Text": "That guy's something else, huh?"
+    },
+    "template": 1890,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2015,
+    "id": "$GOLDS_NPC_10_1200_1300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "すげえな！\r\n究極の遊び人に勝っちまいやがった",
+    "MetaData": {},
+    "English": {
+      "Text": "Dude, how crazy is it that you beat <i>the</i> party animal!"
+    },
+    "template": 1891,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2016,
+    "id": "$GOLDS_NPC_10_1200_1400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まさか　神羅課長が負けるなんて",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't believe the UPA actually lost."
+    },
+    "template": 1892,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2017,
+    "id": "$GOLDS_NPC_10_1200_1500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ナイスファイト　面白かったぞ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Killer fight, dude! Great stuff!"
+    },
+    "template": 1893,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2018,
+    "id": "$GOLDS_NPC_10_1200_1600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "究極の遊び人が負けたってホント？",
+    "MetaData": {},
+    "English": {
+      "Text": "The Ultimate Party Animal seriously lost?"
+    },
+    "template": 1894,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2019,
+    "id": "$GOLDS_NPC_10_1200_1700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "うそ　挑戦者が勝っちゃったの？",
+    "MetaData": {},
+    "English": {
+      "Text": "The party animal lost!? No way!"
+    },
+    "template": 1895,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2020,
+    "id": "$GOLDS_NPC_10_1200_1800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "神羅課長に遊びで勝つなんて……",
+    "MetaData": {},
+    "English": {
+      "Text": "Didn't think <i>anyone</i> partied harder than him."
+    },
+    "template": 1896,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2021,
+    "id": "$GOLDS_NPC_10_1200_1900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最高峰の遊び人バトル\r\nシビれたぜ！",
+    "MetaData": {},
+    "English": {
+      "Text": "That was wild─like, clash-of-the-gods wild!"
+    },
+    "template": 1897,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2022,
+    "id": "$GOLDS_NPC_10_1200_2000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "究極の遊び人になった気分はどうだ？",
+    "MetaData": {},
+    "English": {
+      "Text": "How's it feel to be crowned the new UPA?"
+    },
+    "template": 1898,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2023,
+    "id": "$GOLDS_NPC_10_1200_2100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "すげえ３Ｄバトルだったな！",
+    "MetaData": {},
+    "English": {
+      "Text": "I've never seen a match like that!"
+    },
+    "template": 1899,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2024,
+    "id": "$GOLDS_NPC_10_1200_2200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ふたりの遊びっぷりに感動しちゃった",
+    "MetaData": {},
+    "English": {
+      "Text": "You two were amazing─inspirational!"
+    },
+    "template": 1900,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2025,
+    "id": "$GOLDS_NPC_10_1200_2300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クラウドと神羅課長　どっちも最高！",
+    "MetaData": {},
+    "English": {
+      "Text": "Both of you guys belong in the party animal hall of fame!"
+    },
+    "template": 1901,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2026,
+    "id": "$GOLDS_NPC_10_1200_2400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "究極の遊び人・クラウドの誕生だね",
+    "MetaData": {},
+    "English": {
+      "Text": "I can't believe I got to witness the birth of a new legend!"
+    },
+    "template": 1902,
+    "reason": "endgame Ultimate Party Animal quest"
+  },
+  {
+    "index": 2338,
+    "id": "$UNDRS_NPC_10_0400_10000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "見たぞ　すげえパーティーだったな",
+    "MetaData": {},
+    "English": {
+      "Text": "You see that!? What a show, man!"
+    },
+    "template": 2214,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2339,
+    "id": "$UNDRS_NPC_10_0400_10100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "まさか　ジョーカーを\r\n倒しちまうなんて",
+    "MetaData": {},
+    "English": {
+      "Text": "Where are the screams? The precious screams of pain!?"
+    },
+    "template": 2215,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2340,
+    "id": "$UNDRS_NPC_10_0400_10300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "すげえ　やっちまったのかよ！",
+    "MetaData": {},
+    "English": {
+      "Text": "That was the shit! You're a stone-cold killer!"
+    },
+    "template": 2216,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2341,
+    "id": "$UNDRS_NPC_10_0400_10400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "マジかよ　生きて帰ったか",
+    "MetaData": {},
+    "English": {
+      "Text": "How did you survive that? What <i>are</i> you?"
+    },
+    "template": 2217,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2342,
+    "id": "$UNDRS_NPC_10_0400_10500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ジョーカーをいじめやがって",
+    "MetaData": {},
+    "English": {
+      "Text": "How dare you, you...bully!"
+    },
+    "template": 2218,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2343,
+    "id": "$UNDRS_NPC_10_0400_10700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ヒュ～　盛りあがったな！",
+    "MetaData": {},
+    "English": {
+      "Text": "Ain't never seen anything that intense!"
+    },
+    "template": 2219,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2344,
+    "id": "$UNDRS_NPC_10_0400_10900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゲスパーティー　最高！",
+    "MetaData": {},
+    "English": {
+      "Text": "Now <i>that</i> was quality entertainment!"
+    },
+    "template": 2220,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2346,
+    "id": "$UNDRS_NPC_10_0400_11100_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "あ～ん　ゾクゾクしたわ",
+    "MetaData": {},
+    "English": {
+      "Text": "Oh, that was thrilling!"
+    },
+    "template": 2222,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2347,
+    "id": "$UNDRS_NPC_10_0400_11200_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "最高のパーティー！",
+    "MetaData": {},
+    "English": {
+      "Text": "How the hell did you do that!?"
+    },
+    "template": 2223,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2348,
+    "id": "$UNDRS_NPC_10_0400_11300_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "キャーーー！\r\nあたしの応援　聞こえた？",
+    "MetaData": {},
+    "English": {
+      "Text": "Didja hear me cheerin' you on!? Didja!?"
+    },
+    "template": 2224,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2349,
+    "id": "$UNDRS_NPC_10_0400_11400_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "あんた　やるわね\r\nアタシとやらない？",
+    "MetaData": {},
+    "English": {
+      "Text": "You're not half bad. Wanna tussle with me next?"
+    },
+    "template": 2225,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2350,
+    "id": "$UNDRS_NPC_10_0400_11500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "フォーウ\r\nゲスパーティー最高！",
+    "MetaData": {},
+    "English": {
+      "Text": "Woo!\r\nMore! I wanna see more!"
+    },
+    "template": 2226,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2351,
+    "id": "$UNDRS_NPC_10_0400_11600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "フォーフォーフォーウ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Woo-ha-hoo!"
+    },
+    "template": 2227,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2355,
+    "id": "$UNDRS_NPC_10_0400_1500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "おまえ　ゲスパーティーに出るって\r\nホントか？",
+    "MetaData": {},
+    "English": {
+      "Text": "You seriously sign up for the boss's challenge?"
+    },
+    "template": 2231,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2356,
+    "id": "$UNDRS_NPC_10_0400_1600_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ああ　ずっと挑戦したいって\r\n思ってたんだ",
+    "MetaData": {},
+    "English": {
+      "Text": "Bet your ass I did. Always wanted to put my skills to the test."
+    },
+    "template": 2232,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2357,
+    "id": "$UNDRS_NPC_10_0400_1700_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "すっげえなあ",
+    "MetaData": {},
+    "English": {
+      "Text": "Damn, man. You're somethin' else."
+    },
+    "template": 2233,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2358,
+    "id": "$UNDRS_NPC_10_0400_1710_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "でもよ　ゲスパーティーって\r\n５人組じゃないとダメだろ？",
+    "MetaData": {},
+    "English": {
+      "Text": "Wait, but...don't you need a group of five people to compete? Who else you got?"
+    },
+    "template": 2234,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2359,
+    "id": "$UNDRS_NPC_10_0400_1800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "そうなのか？",
+    "MetaData": {},
+    "English": {
+      "Text": "Whoa...really?"
+    },
+    "template": 2235,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2360,
+    "id": "$UNDRS_NPC_10_0400_1810_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "クソ　せっかくジョーカーと戦えると\r\n思ったけど　あきらめるしかないか",
+    "MetaData": {},
+    "English": {
+      "Text": "Damn. I had no idea you couldn't fight solo. Was looking forward to showin' off, but rules are rules."
+    },
+    "template": 2236,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2361,
+    "id": "$UNDRS_NPC_10_0400_1900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "俺が５人　集めてやろうか",
+    "MetaData": {},
+    "English": {
+      "Text": "I'll round up some guys for you!",
+      "MetaData": {
+        "ACTOR": ""
+      }
+    },
+    "template": 2237,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2362,
+    "id": "$UNDRS_NPC_10_0400_2000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "大丈夫　大丈夫！\r\nすご～く残念だけどあきらめるよ",
+    "MetaData": {},
+    "English": {
+      "Text": "Nah, s'all good! Don't wanna risk anyone else's lives, you know?"
+    },
+    "template": 2238,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2376,
+    "id": "$UNDRS_NPC_10_0400_9000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゲスパーティー　イイぃ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Yeah, bring it! I wanna see some blood!"
+    },
+    "template": 2252,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2377,
+    "id": "$UNDRS_NPC_10_0400_9100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "フォウ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Woo hoo!"
+    },
+    "template": 696,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2378,
+    "id": "$UNDRS_NPC_10_0400_9300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ジョーカーを味わいな",
+    "MetaData": {},
+    "English": {
+      "Text": "This asshole doesn't stand a chance!"
+    },
+    "template": 2253,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2379,
+    "id": "$UNDRS_NPC_10_0400_9500_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ゲスパーティーへ　ようこそ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Oh, you're in for it now, shithead!"
+    },
+    "template": 2254,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2380,
+    "id": "$UNDRS_NPC_10_0400_9600_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "フォウ！",
+    "MetaData": {},
+    "English": {
+      "Text": "Woo hoo!"
+    },
+    "template": 696,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2381,
+    "id": "$UNDRS_NPC_10_0400_9700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "アハハハ　がんばってね！",
+    "MetaData": {},
+    "English": {
+      "Text": "Ahahaha! Good luck!"
+    },
+    "template": 2255,
+    "reason": "Chapter12 Sand and Circuses / Gus party crowd and results"
+  },
+  {
+    "index": 2412,
+    "id": "$UNDRS_NPC_10_0600_2700_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "『戦争上等』\r\n『来やがれウータイ！』\r\n『砂漠でピース』……",
+    "MetaData": {},
+    "English": {
+      "Text": "\"Make art, not war!\" \"Do your worst, Wutai!\" \"Corel belongs to the people!\""
+    },
+    "template": 2286,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 2413,
+    "id": "$UNDRS_NPC_10_0600_2710_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "う～ん　なんて描こうかな",
+    "MetaData": {},
+    "English": {
+      "Text": "Nah, not feelin' it."
+    },
+    "template": 2287,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 2414,
+    "id": "$UNDRS_NPC_10_0600_2800_00_mfa",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "『ようこそ　反神羅連絡会』\r\nとかでもいいかも！",
+    "MetaData": {},
+    "English": {
+      "Text": "Oh, I've got it! How about \"Saluting the SRC\"?"
+    },
+    "template": 2288,
+    "reason": "later Wutai broadcast reaction"
+  },
+  {
+    "index": 2627,
+    "id": "$UNDRS_QST_03_1100_0800_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "みなさん\r\nウータイの映像はご覧になりましたか",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "My friends, I presume you've seen the broadcast out of Wutai.",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2491,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2628,
+    "id": "$UNDRS_QST_03_1100_0810_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "私はあれを見て　心底感嘆いたしました",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "So shocking. I could scarce believe my eyes and ears.",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2492,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2629,
+    "id": "$UNDRS_QST_03_1100_0900_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "嘘と真実の混ぜ方\r\n話術とボディランゲージ",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "The way they twisted words and visuals, interweaving fact with fiction...",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2493,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2630,
+    "id": "$UNDRS_QST_03_1100_0910_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "どれをとっても一級品です！",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "It was a master class in deception!",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2494,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2631,
+    "id": "$UNDRS_QST_03_1100_1000_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "実は特別に\r\n録画映像を入手しましたので",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "As it happens, I managed to procure a recording of the broadcast.",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2495,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2632,
+    "id": "$UNDRS_QST_03_1100_1100_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "みなさんに格別のお値段で\r\nお譲りしたいと考えています",
+    "MetaData": {
+      "ACTOR": "詐欺師のカリオス"
+    },
+    "English": {
+      "Text": "And I'm offering copies to you at a very special pupil discount!",
+      "MetaData": {
+        "ACTOR": "Conniving Caglio"
+      }
+    },
+    "template": 2496,
+    "reason": "later Wutai broadcast seminar reaction"
+  },
+  {
+    "index": 2676,
+    "id": "$UNDRS_QST_05_1000_0300_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイの放送は見た？\r\n久しぶりに場が動きそうだ　面白くなってきた",
+    "MetaData": {
+      "ACTOR": "カードコレクター"
+    },
+    "English": {
+      "Text": "Did you see Wutai's broadcast? Sounds like things are about to get very interesting. Personally, I can't wait.",
+      "MetaData": {
+        "ACTOR": "Card Collector"
+      }
+    },
+    "template": 2533,
+    "reason": "later Wutai broadcast card collector reaction"
+  },
+  {
+    "index": 2699,
+    "id": "$UNDRS_QST_06_0600_0400_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "ウータイのことがあって\r\n酒をちょっと　濃くしたんだ",
+    "MetaData": {
+      "ACTOR": "マスター"
+    },
+    "English": {
+      "Text": "Been watering down the drinks less, what with the news outta Wutai.",
+      "MetaData": {
+        "ACTOR": "Bartender"
+      }
+    },
+    "template": 2555,
+    "reason": "later Wutai broadcast bartender reaction"
+  },
+  {
+    "index": 2700,
+    "id": "$UNDRS_QST_06_0600_0500_00_mma",
+    "asset": "End/Content/Text/JP/8400-GOLDE_TxtRes.uasset",
+    "Text": "酔えるうちに　酔っとかねえとな",
+    "MetaData": {
+      "ACTOR": "マスター"
+    },
+    "English": {
+      "Text": "Can't deal with that shit sober.",
+      "MetaData": {
+        "ACTOR": "Bartender"
+      }
+    },
+    "template": 2556,
+    "reason": "later Wutai broadcast bartender reaction"
+  }
+]

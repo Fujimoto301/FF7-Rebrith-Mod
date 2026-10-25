@@ -1,0 +1,13 @@
+{
+  "codepoints": [
+    8230
+  ],
+  "anchor": "Original ASCII full stop ink bottom",
+  "change": "Only vertical origin of U+2026; preserve pixels, bearings, advance, original ASCII, icons and Thai alignment",
+  "reason": "User screenshots 2026-10-18 show midline ellipsis; requested baseline dots as in supplied low-dot reference.",
+  "references": [
+    "Screenshot 2026-10-18 113848.png",
+    "Screenshot 2026-10-18 114018.png",
+    "Screenshot 2026-10-18 161004.png"
+  ]
+}

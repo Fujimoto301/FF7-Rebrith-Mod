@@ -1,0 +1,22 @@
+{
+  "japanese_ids": [
+    "$help_message_0010_0000",
+    "$help_message_0010_0010",
+    "$help_message_0010_0011",
+    "$menu_options_0002_0034_help",
+    "$menu_options_0002_0035",
+    "$menu_options_0002_0035_help",
+    "$menu_options_0002_0036_help",
+    "$menu_options_0002_0037_help",
+    "$menu_options_0002_0000"
+  ],
+  "protected_english": {
+    "$menu_options_0002_0009": "CLASSIC",
+    "$menu_options_0002_0010": "EASY",
+    "$menu_options_0002_0011": "NORMAL",
+    "$menu_options_0002_0012": "HARD",
+    "$menu_options_0002_0034": "ADVANCED",
+    "$menu_options_0002_0036": "ACTION",
+    "$menu_options_0002_0037": "CLASSIC"
+  }
+}

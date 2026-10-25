@@ -1,0 +1,16 @@
+{
+  "scope": "Chapter 2 main dialogue, Kalm initial/raid NPC phases, five initial Grasslands odd jobs, Grasslands protorelic dialogue and Midgardsormr battle dialogue; includes shared Resident main/protorelic entries",
+  "rows": 2461,
+  "source_sha256": "93403acad47af2a36ac36f6b35a22bc3538f124d5e1c23a4fdec0fe68e3b4608",
+  "excluded": {
+    "C2110 and MYTHM": "Chapter 3 Mythril Mine",
+    "KALMT_NPC_30": "Later return phase contains Junon ceremony reports",
+    "GRASE_QST_06": "Hustle and Grind later quest",
+    "GRASE_QST_05 stages1200+": "Later Broden-absent replacement quest dialogue",
+    "mv_psbl0_0920": "Remake Intergrade ending recap before Rebirth",
+    "generic system and item skill databases": "Unrequested database/UI work; shared voiced C2010 tutorial explanations are included"
+  },
+  "shared_rows": 467,
+  "shared_source_sha256": "ac831363a1fe3052aa4ec3262a6cdf14230b94d9ed4dd0e6f54761369e4c22bd",
+  "shared_scope": "Kalm Queen’s Blood opponents; Grasslands/common initial Chadley, MAI and party exploration dialogue; first Moogle shop. Later regions, all-world completion and later-party members excluded."
+}

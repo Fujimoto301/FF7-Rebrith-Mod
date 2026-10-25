@@ -1,0 +1,3758 @@
+[
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL11_TutorialBtl_01",
+    "Japanese": {
+      "Text": "クラウドが挑戦するチュートリアルバトルコースです。\r\nクラウドの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Cloud. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL12_TutorialBtl_01",
+    "Japanese": {
+      "Text": "バレットが挑戦するチュートリアルバトルコースです。\r\nバレットの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Barret. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL13_TutorialBtl_01",
+    "Japanese": {
+      "Text": "ティファが挑戦するチュートリアルバトルコースです。\r\nティファの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Tifa. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL14_TutorialBtl_01",
+    "Japanese": {
+      "Text": "エアリスが挑戦するチュートリアルバトルコースです。\r\nエアリスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Aerith. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL15_TutorialBtl_01",
+    "Japanese": {
+      "Text": "レッドXIIIが挑戦するチュートリアルバトルコースです。\r\nレッドXIIIの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Red XIII. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL16_TutorialBtl_01",
+    "Japanese": {
+      "Text": "ユフィが挑戦するチュートリアルバトルコースです。\r\nユフィの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Yuffie. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL17_TutorialBtl_01",
+    "Japanese": {
+      "Text": "ケット・シーが挑戦するチュートリアルバトルコースです。\r\nケット・シーの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Cait Sith. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL1S_TutorialBtl_01",
+    "Japanese": {
+      "Text": "セフィロスが挑戦するチュートリアルバトルコースです。\r\nセフィロスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Sephiroth. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL1Z_TutorialBtl_01",
+    "Japanese": {
+      "Text": "ザックスが挑戦するチュートリアルバトルコースです。\r\nザックスの戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of solo battles for Zack. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL20_TutorialBtl_01",
+    "Japanese": {
+      "Text": "クラウドとバレットの２人組で挑戦するチュートリアルバトルコースです。基礎的な戦闘方法を体験して学びましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of two-person battles for Cloud and Barret. Participate in training exercises designed to teach novices the basics of combat.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。コレルの海岸を訪れる観光客にも度々被害を出している凶暴なモンスターたちの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about the bloodthirsty fiends that stalk Corel's most popular beaches.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 325,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。コレルの地中にうごめくモンスターたちの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who are oft found snaking through the desert dunes.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 326,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。海と山の間に広大な砂漠地帯を有するコレル特有のモンスターたちの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who thrive in the region's ever-expanding wastelands.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 327,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。神羅が編成した指名手配犯捜索隊との交戦を想定した模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against a squadron of Shinra troopers ordered to pursue a band of fleeing fugitives.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 328,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。荒涼たる大地をたくましく生き抜く強者たちとの模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Fight fiends whose temperaments have been made savage and cruel by the harsh, unforgiving climes of the desert wastes.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 329,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of their behavioral patterns, but also a skill unique to this species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CORLA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。星降る谷に生きる選りすぐりのトリックスターたちの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who eke out an existence in the arid, windswept vale.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 331,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。コスモエリアの広大な自然そのものとも言えるモンスターたちの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends as wild and untamed as the lands they call home.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 332,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。いにしえよりコスモの谷とともに歩むモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about creatures who have walked the vale since time out of memory.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 333,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。反神羅組織によるテロを想定して編成された鎮圧部隊との模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Take on virtually simulated riot-control units trained to subdue anti-Shinra terrorist organizations.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 334,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。はるか昔からこの星に生きるモンスターの命の神秘に迫るため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against fiends who have lived on the planet since before recorded history.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 335,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of their behavioral patterns, but also a skill unique to this species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_CSMOA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。押し寄せる大量の敵との連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat a large horde of fiends that have descended upon you.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 336,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。厄介な性質を持つがゆえに嫌われてしまったモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat fiends who have gained a reputation for being particularly troublesome.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 337,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。一筋縄ではいかない強者ぞろいのモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat formidable fiends who are known to outsmart and outmaneuver even the worthiest of fighters.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 338,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_04",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。数多いるモンスターの中でも屈指の実力を誇るモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat fiends considered by many to be the most bloodthirsty and dangerous in the world.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 339,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_04_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。生態系の頂点に君臨するトップ・オブ・モンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat fiends that have long resided comfortably at the top of the food chain.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 340,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。異世界を統べる伝説の召喚獣たちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person fights in which you pick your team. Defeat deiform entities that rule over worlds unseen.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 341,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_07",
+    "Japanese": {
+      "Text": "クラウド１人で挑戦するソロバトルコースです。鋼の肉体と精神を持つ屈強な戦士たちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Cloud. Defeat renowned warriors who are as mighty as they are valiant.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 342,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_08",
+    "Japanese": {
+      "Text": "バレット１人で挑戦するソロバトルコースです。怪力から電磁力まで、あらゆる力を駆使して襲いかかるモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Barret. Defeat a variety of fiends who draw upon their strange and mechanical might to tear their opponents asunder.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 343,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_08_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_09",
+    "Japanese": {
+      "Text": "ティファ１人で挑戦するソロバトルコースです。俊敏な動きで攻撃を繰り出す武闘派たちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Tifa. Defeat agile, unpredictable enemies capable of hand-to-hand combat.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 344,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_09_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_10",
+    "Japanese": {
+      "Text": "エアリス１人で挑戦するソロバトルコースです。巧みに魔力を操るモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Aerith. Defeat fiends who deftly wield immense magical might.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 345,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_10_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_11",
+    "Japanese": {
+      "Text": "レッドXIII１人で挑戦するソロバトルコースです。自然界の厳しい掟を生き抜く歴戦の猛者たちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Red XIII. Defeat the most savage fiends the natural world has ever produced, and establish a new pecking order.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 346,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_11_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_12",
+    "Japanese": {
+      "Text": "ユフィ１人で挑戦するソロバトルコースです。神羅による実験や魔晄汚染の影響に苦しむ者たちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Yuffie. Put an end to the unfortunate souls suffering from the effects of Shinra's nefarious experimentation.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 347,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_12_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_13",
+    "Japanese": {
+      "Text": "ケット・シー１人で挑戦するソロバトルコースです。各地で問題視されている異端のモンスターたちとの連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of solo fights for Cait Sith. Defeat a number of nasty fiends causing all manner of mayhem around the world.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 348,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_13_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_14",
+    "Japanese": {
+      "Text": "クラウドとセフィロスの２人組で挑戦するペアバトルコースです。英雄セフィロスに並びたつ伝説のソルジャーとなるための連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of two-person fights for Cloud and Sephiroth. Do battle against myriad enemies to prove that you have what it takes to stand shoulder-to-shoulder with the legendary SOLDIER himself.\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 349,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_14_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_15",
+    "Japanese": {
+      "Text": "クラウドとザックスの２人組で挑戦するペアバトルコースです。時空を越えた共闘を可能とする絆の力で連戦バトルに勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>\r\n<color=orange-middle>※難易度はHARD固定になります。</color>"
+    },
+    "English": {
+      "Text": "A series of two-person fights for Cloud and Zack. Defy the laws of time and space to reunite with a long-lost comrade and defeat a variety of foes.\r\n\r\n<color=orange>Items cannot be used.</color>\r\n<color=orange-middle>Only available on Hard difficulty.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 350,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_EXTRA_15_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。状態異常を引き起こす危険な能力を持つモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends capable of enfeebling prey with myriad ailments.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 372,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。ゴンガガの森の豊かなエネルギーを糧に生きるモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends nourished by the jungle's rich deposits of energy.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 373,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。ゴンガガに生い茂る木々をも容易になぎ倒す力を持つモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who possess strength enough to fell even the jungle's sturdiest trees in a single stroke.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 374,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。廃魔晄炉への侵入者対策として編成された部隊との交戦を想定した模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against a variety of foes who can be found within derelict mako reactors─Shinra forces included.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 375,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。魔晄汚染による生態系への影響を調査するため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage the creatures of the jungle in simulated combat to further understand the effects of mako pollution on the region's fauna.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 376,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of their behavioral patterns, but also a skill unique to this species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GONGA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_00",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。モンスターの性質をより詳細に解析するために作られたコースに挑戦し、勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage in simulated combat against a pack of fiends to more thoroughly analyze their behavioral patterns and social hierarchy.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 377,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_00_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。グラスランドに棲まう大小様々なモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about the kaleidoscopic variety of fiends seen in the grasslands.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 378,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。グラスランドの大自然を駆けるモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who live wild and free on the grasslands' sprawling plains.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 379,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。グラスランドの大地を熟知したモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who know the grasslands like the back of their talons.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 380,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。草原を生きる者たちの性質を理解するため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to gain an even deeper understanding of the creatures who call the grasslands home.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 381,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。モンスターたちの弱肉強食の関係性を解き明かすため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to reveal the true nature of the grasslands' brutal cycle of life.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 382,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of its behavioral patterns, but also a skill unique to its species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_GRASA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。ジュノンの潮風に乗り大空を舞うモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about the fiend who rules the proverbial roost.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 383,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。吹き荒れる海風にも負けないモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who thrive in raging ocean tempests.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 384,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。近隣地域になわばりを持つモンスターたちの力関係を明らかにするため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to reveal the power dynamics of the region's most territorial fiends.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 385,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。この世界に棲息するモンスターの多様性を理解するため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against a number of idiosyncratic fiends to better understand the diverse nature of our planet.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 386,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of their behavioral patterns, but also a skill unique to this species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_JUNOA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。死者が棲まうと伝わるニブル山を根城とするモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends who haunt the slopes of Mt. Nibel, beyond which is said to lie the land of the dead.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 387,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。その禍々しい姿から人々に恐れられるモンスターの更なる生態解明に向け、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat to procure more biological data about fiends whose loathsome appearances have long horrified humanity.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 388,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。食料に乏しい地域を果敢に生き抜くモンスターたちとの模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against fiends who live ever on the cusp of starvation in the barren and harsh Nibel region.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 389,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。魔晄の影響による変異種発生のメカニズムに迫るため、模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles in which you pick your team. Engage in simulated combat against mako-mutated creatures to better understand the ways in which this new energy source affects the natural world.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 390,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。バトルを通してモンスターの性質を更に詳しく解析し、新たなる技を会得しましょう。\r\n\r\n<color=orange>※勝利すると『てきのわざ』を習得できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Engage a deadly fiend in simulated combat to gain not only a clearer picture of their behavioral patterns, but also a skill unique to this species.\r\n<color=orange>Claim victory to acquire an Enemy Skill.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 330,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLA_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_01",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。飛行する物体を対象とした攻撃精度測定のための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person trial in which subjects may select their own team. Subjects will engage virtually simulated specimens capable of high-speed flight to determine combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 391,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_01_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_02",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。移動する生物を対象とした攻撃精度測定のための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person trial in which subjects may select their own team. Subjects will engage virtually simulated specimens capable of violent, unpredictable movements to determine combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 392,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_02_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_03",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。実験体同士の戦闘能力比較を目的とした模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person trial in which subjects may select their own team. Subjects will engage virtually simulated specimens undergoing similar testing to better assess combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 393,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_03_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_04",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。自然界における異種生物間の生存競争を想定した模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person trial in which subjects may select their own team. Subjects will engage virtually simulated specimens in order to replicate the struggle for survival as witnessed between species competing over limited resources.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 394,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_04_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_05",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。異なる生物同士を融合させた場合の適応精度を測定するための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person combat evaluation in which subjects may select their own team. Subjects will engage in virtual combat to assess potential biocompatibility of specimens fused with other organisms.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 395,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_05_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_06",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。相対する性質を持つふたつの生物を融合させた際の優位性を検証するための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person combat evaluation in which subjects may select their own team. Subjects will engage in virtual combat to assess the dominant traits of specimens created from two diametrically opposed life-forms.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 396,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_06_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_07",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。相反する性質を併せ持つ個体内で発生する様々な影響を検証するための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person combat evaluation in which subjects may select their own team. Subjects will engage in virtual combat against specimens with opposing traits to assess the ways in which these attributes impact their host.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 397,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_07_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_08",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。生物実験の過程で生み出されてしまった特異体の能力を測定するための模擬戦に勝利しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person combat evaluation in which subjects may select their own team. Subjects will engage in virtual combat to assess the capabilities of specimens who have produced anomalous results in the experimental phase.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 398,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_NIBLS_08_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Alexander",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。運命の審判をくだす聖なる機械兵器アレクサンダーに挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront the holy construct Alexander and accept its almighty judgment in order to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 399,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Alexander_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Kjata",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。天変地異を統べる猛獣クジャタに挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront Kujata, the great beast who holds sway over the natural world, to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 400,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Kjata_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_NeoBahamut",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。深紅の鎧に包まれし伝説の破壊神バハムート改に挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront Bahamut Arisen, the crimson-armored god of destruction, to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 401,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_NeoBahamut_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Odin",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。死者の国から現れし高潔なる騎士オーディンに挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront Odin, the noble knight hailing from the land of the dead, to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 402,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Odin_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Phoenix",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。炎の中から蘇ると伝わる霊鳥フェニックスに挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront Phoenix, the undying firebird of legend, to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 403,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Phoenix_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Titan",
+    "Japanese": {
+      "Text": "任意の３人組で挑戦するトリオバトルコースです。大地を隆起させた伝説の巨人タイタンに挑戦し、バトルデータの収集に貢献しましょう。\r\n\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A three-person battle in which you pick your team. Confront the legendary earth-rending colossus known as Titan to gauge the deiform entity's combat prowess.\r\n\r\n<color=orange>Items cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 404,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_SUMMON_Titan_disclosure",
+    "Japanese": {
+      "Text": "※このコースは解放条件を満たしていません。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 308,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_COL30_TutorialBtl_01",
+    "Japanese": {
+      "Text": "クラウド、バレット、ティファの３人組で挑戦するチュートリアルバトルコースです。仲間と協力して放つ「連携アクション」「連携アビリティ」を体験して学びましょう。\r\n\r\n<color=orange>※連携技を習得していなくても体験できます。</color>\r\n<color=orange>※アイテムは使用禁止です。</color>"
+    },
+    "English": {
+      "Text": "A series of three-person battles for Cloud, Barret, and Tifa. Participate in training exercises to learn how best to utilize synergy skills and abilities.\r\n<color=orange>You do not need to have unlocked these commands to participate.\r\nItems cannot be used.</color>"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseFlavor_discolosure",
+    "Japanese": {
+      "Text": "※挑戦できるようになると解放されます。"
+    },
+    "English": {
+      "Text": "You have not unlocked this challenge."
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "translate",
+    "template": 411,
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL11_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】クラウド"
+    },
+    "English": {
+      "Text": "Combat Training: Cloud"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL12_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】バレット"
+    },
+    "English": {
+      "Text": "Combat Training: Barret"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL13_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】ティファ"
+    },
+    "English": {
+      "Text": "Combat Training: Tifa"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL14_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】エアリス"
+    },
+    "English": {
+      "Text": "Combat Training: Aerith"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL15_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】レッドXIII"
+    },
+    "English": {
+      "Text": "Combat Training: Red XIII"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL16_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】ユフィ"
+    },
+    "English": {
+      "Text": "Combat Training: Yuffie"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL17_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】ケット・シー"
+    },
+    "English": {
+      "Text": "Combat Training: Cait Sith"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL1S_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】セフィロス"
+    },
+    "English": {
+      "Text": "Combat Training: Sephiroth"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL1Z_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】ザックス"
+    },
+    "English": {
+      "Text": "Combat Training: Zack"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL20_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】バトル初心者の館"
+    },
+    "English": {
+      "Text": "Combat Training: Beginner's Hall"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_01",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：突き刺し注意報"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Oh, Skewer It"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_01_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：突き刺し注意報"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Oh, Skewer It"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_02",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：地中に潜むもの"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Sand Slitherers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：地中に潜むもの"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Sand Slitherers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_03",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：山と海のあいだ"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Badlands Beasts"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コレル：山と海のあいだ"
+    },
+    "English": {
+      "Text": "Corel Battle Intel: Badlands Beasts"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_05",
+    "Japanese": {
+      "Text": "【エリア解析】コレルの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Corel Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】コレルの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Corel Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_06",
+    "Japanese": {
+      "Text": "【エリア解析】コレルの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Corel Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】コレルの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Corel Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_07",
+    "Japanese": {
+      "Text": "【生態解析】命を賭して"
+    },
+    "English": {
+      "Text": "Biological Intel: At Any Cost"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CORLA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】命を賭して"
+    },
+    "English": {
+      "Text": "Biological Intel: At Any Cost"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_01",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：爆裂七変化"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Flower of Destruction"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_01_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：爆裂七変化"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Flower of Destruction"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_02",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：大自然の逆襲"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Nature's Vengeance"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：大自然の逆襲"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Nature's Vengeance"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_03",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：太古の記憶"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Antediluvian Memories"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】コスモ：太古の記憶"
+    },
+    "English": {
+      "Text": "Cosmo Battle Intel: Antediluvian Memories"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_05",
+    "Japanese": {
+      "Text": "【エリア解析】コスモの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Cosmo Canyon Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】コスモの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Cosmo Canyon Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_06",
+    "Japanese": {
+      "Text": "【エリア解析】コスモの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Cosmo Canyon Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】コスモの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Cosmo Canyon Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_07",
+    "Japanese": {
+      "Text": "【生態解析】恐ろしき口害"
+    },
+    "English": {
+      "Text": "Biological Intel: That's the Smell"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_CSMOA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】恐ろしき口害"
+    },
+    "English": {
+      "Text": "Biological Intel: That's the Smell"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_01",
+    "Japanese": {
+      "Text": "【チャレンジ】群れなす軍隊"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Army of the Damned"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_01_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】群れなす軍隊"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Army of the Damned"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_02",
+    "Japanese": {
+      "Text": "【チャレンジ】嫌われ者の哀歌"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Requiem for the Scorned"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_02_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】嫌われ者の哀歌"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Requiem for the Scorned"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_03",
+    "Japanese": {
+      "Text": "【チャレンジ】終わりなき悪夢"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Unending Nightmare"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_03_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】終わりなき悪夢"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Unending Nightmare"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_04",
+    "Japanese": {
+      "Text": "【チャレンジ】怪物たちのシュプレヒコール"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Hellions' Intonement"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_04_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】怪物たちのシュプレヒコール"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Hellions' Intonement"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_05",
+    "Japanese": {
+      "Text": "【チャレンジ】破滅への道"
+    },
+    "English": {
+      "Text": "Brutal Challenge: The Seventh Seal"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_05_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】破滅への道"
+    },
+    "English": {
+      "Text": "Brutal Challenge: The Seventh Seal"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_06",
+    "Japanese": {
+      "Text": "【チャレンジ】異界の統率者"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Rulers of the Outer Worlds"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_06_disclosure",
+    "Japanese": {
+      "Text": "【チャレンジ】異界の統率者"
+    },
+    "English": {
+      "Text": "Brutal Challenge: Rulers of the Outer Worlds"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_07",
+    "Japanese": {
+      "Text": "【レジェンド】クラウド vs 鋼鉄の戦士"
+    },
+    "English": {
+      "Text": "Legendary Bout: Cloud vs. The Warriors"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_07_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】クラウド vs 鋼鉄の戦士"
+    },
+    "English": {
+      "Text": "Legendary Bout: Cloud vs. The Warriors"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_08",
+    "Japanese": {
+      "Text": "【レジェンド】バレット vs 怪力自慢"
+    },
+    "English": {
+      "Text": "Legendary Bout: Barret vs. The Colossi"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_08_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】バレット vs 怪力自慢"
+    },
+    "English": {
+      "Text": "Legendary Bout: Barret vs. The Colossi"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_09",
+    "Japanese": {
+      "Text": "【レジェンド】ティファ vs マーシャルズ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Tifa vs. The Martialists"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_09_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】ティファ vs マーシャルズ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Tifa vs. The Martialists"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_10",
+    "Japanese": {
+      "Text": "【レジェンド】エアリス vs マジカルナイツ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Aerith vs. The Magi"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_10_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】エアリス vs マジカルナイツ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Aerith vs. The Magi"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_11",
+    "Japanese": {
+      "Text": "【レジェンド】レッドXIII vs 野生の軍団"
+    },
+    "English": {
+      "Text": "Legendary Bout: Red XIII vs. The Beasts"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_11_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】レッドXIII vs 野生の軍団"
+    },
+    "English": {
+      "Text": "Legendary Bout: Red XIII vs. The Beasts"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_12",
+    "Japanese": {
+      "Text": "【レジェンド】ユフィ vs 犠牲者の群れ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Yuffie vs. The Wronged"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_12_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】ユフィ vs 犠牲者の群れ"
+    },
+    "English": {
+      "Text": "Legendary Bout: Yuffie vs. The Wronged"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_13",
+    "Japanese": {
+      "Text": "【レジェンド】ケット・シー vs 噂の異端児"
+    },
+    "English": {
+      "Text": "Legendary Bout: Cait Sith vs. The Abominable"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_13_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】ケット・シー vs 噂の異端児"
+    },
+    "English": {
+      "Text": "Legendary Bout: Cait Sith vs. The Abominable"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_14",
+    "Japanese": {
+      "Text": "【レジェンド】英雄の条件"
+    },
+    "English": {
+      "Text": "Legendary Bout: To Be a Hero"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_14_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】英雄の条件"
+    },
+    "English": {
+      "Text": "Legendary Bout: To Be a Hero"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_15",
+    "Japanese": {
+      "Text": "【レジェンド】友情の証"
+    },
+    "English": {
+      "Text": "Legendary Bout: Bonds of Friendship"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_EXTRA_15_disclosure",
+    "Japanese": {
+      "Text": "【レジェンド】友情の証"
+    },
+    "English": {
+      "Text": "Legendary Bout: Bonds of Friendship"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_01",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：混ぜるなキケン"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Lethal Combo"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_01_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：混ぜるなキケン"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Lethal Combo"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_02",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：大地に根ざして"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Rooted in the Planet"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：大地に根ざして"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Rooted in the Planet"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_03",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：遙かなる地響き"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Distant Tremors"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ゴンガガ：遙かなる地響き"
+    },
+    "English": {
+      "Text": "Gongaga Battle Intel: Distant Tremors"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_05",
+    "Japanese": {
+      "Text": "【エリア解析】ゴンガガの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Gongaga Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ゴンガガの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Gongaga Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_06",
+    "Japanese": {
+      "Text": "【エリア解析】ゴンガガの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Gongaga Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ゴンガガの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Gongaga Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_07",
+    "Japanese": {
+      "Text": "【生態解析】一陣の魔風"
+    },
+    "English": {
+      "Text": "Biological Intel: Head Case"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GONGA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】一陣の魔風"
+    },
+    "English": {
+      "Text": "Biological Intel: Head Case"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_00",
+    "Japanese": {
+      "Text": "【生態解析】敵を知るには"
+    },
+    "English": {
+      "Text": "Biological Intel: Know Thine Enemy"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_00_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】敵を知るには"
+    },
+    "English": {
+      "Text": "Biological Intel: Know Thine Enemy"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_01",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：双極の反乱"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Horror on the Range"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_01_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：双極の反乱"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Horror on the Range"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_02",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：草原と狼"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Plains Stalkers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：草原と狼"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Plains Stalkers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_03",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：大地の番人"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Natural Order"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】グラスランド：大地の番人"
+    },
+    "English": {
+      "Text": "Grasslands Battle Intel: Natural Order"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_05",
+    "Japanese": {
+      "Text": "【エリア解析】グラスランドの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Grasslands Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】グラスランドの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Grasslands Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_06",
+    "Japanese": {
+      "Text": "【エリア解析】グラスランドの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Grasslands Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】グラスランドの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Grasslands Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_07",
+    "Japanese": {
+      "Text": "【生態解析】閃く雷光"
+    },
+    "English": {
+      "Text": "Biological Intel: Blinded by Light"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_GRASA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】閃く雷光"
+    },
+    "English": {
+      "Text": "Biological Intel: Blinded by Light"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_02",
+    "Japanese": {
+      "Text": "【討伐解析】ジュノン：空を征くもの"
+    },
+    "English": {
+      "Text": "Junon Battle Intel: Conqueror of the Skies"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ジュノン：空を征くもの"
+    },
+    "English": {
+      "Text": "Junon Battle Intel: Conqueror of the Skies"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_03",
+    "Japanese": {
+      "Text": "【討伐解析】ジュノン：海風のトルネード"
+    },
+    "English": {
+      "Text": "Junon Battle Intel: White Squall"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ジュノン：海風のトルネード"
+    },
+    "English": {
+      "Text": "Junon Battle Intel: White Squall"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_05",
+    "Japanese": {
+      "Text": "【エリア解析】ジュノンの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Junon Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ジュノンの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Junon Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_06",
+    "Japanese": {
+      "Text": "【エリア解析】ジュノンの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Junon Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ジュノンの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Junon Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_07",
+    "Japanese": {
+      "Text": "【生態解析】癒やしの息吹"
+    },
+    "English": {
+      "Text": "Biological Intel: Breath of Life"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_JUNOA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】癒やしの息吹"
+    },
+    "English": {
+      "Text": "Biological Intel: Breath of Life"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_02",
+    "Japanese": {
+      "Text": "【討伐解析】ニブル：霊山の使者"
+    },
+    "English": {
+      "Text": "Nibel Battle Intel: Death's Harbingers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_02_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ニブル：霊山の使者"
+    },
+    "English": {
+      "Text": "Nibel Battle Intel: Death's Harbingers"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_03",
+    "Japanese": {
+      "Text": "【討伐解析】ニブル：悪魔の舞踏"
+    },
+    "English": {
+      "Text": "Nibel Battle Intel: Chthonian Rondo"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_03_disclosure",
+    "Japanese": {
+      "Text": "【討伐解析】ニブル：悪魔の舞踏"
+    },
+    "English": {
+      "Text": "Nibel Battle Intel: Chthonian Rondo"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_05",
+    "Japanese": {
+      "Text": "【エリア解析】ニブルの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Nibel Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_05_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ニブルの解析 Lv.1"
+    },
+    "English": {
+      "Text": "Nibel Region Intel: Level 1"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_06",
+    "Japanese": {
+      "Text": "【エリア解析】ニブルの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Nibel Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_06_disclosure",
+    "Japanese": {
+      "Text": "【エリア解析】ニブルの解析 Lv.2"
+    },
+    "English": {
+      "Text": "Nibel Region Intel: Level 2"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_07",
+    "Japanese": {
+      "Text": "【生態解析】蛇神の一睨"
+    },
+    "English": {
+      "Text": "Biological Intel: Stony Stare"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLA_07_disclosure",
+    "Japanese": {
+      "Text": "【生態解析】蛇神の一睨"
+    },
+    "English": {
+      "Text": "Biological Intel: Stony Stare"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_01",
+    "Japanese": {
+      "Text": "【基礎試験】飛行物体の撃墜テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Aerial Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_01_disclosure",
+    "Japanese": {
+      "Text": "【基礎試験】飛行物体の撃墜テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Aerial Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_02",
+    "Japanese": {
+      "Text": "【基礎試験】移動生物の排除テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Ruthless Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_02_disclosure",
+    "Japanese": {
+      "Text": "【基礎試験】移動生物の排除テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Ruthless Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_03",
+    "Japanese": {
+      "Text": "【基礎試験】戦闘能力測定テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Comparable Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_03_disclosure",
+    "Japanese": {
+      "Text": "【基礎試験】戦闘能力測定テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Comparable Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_04",
+    "Japanese": {
+      "Text": "【基礎試験】生存競争テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Bioselected Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_04_disclosure",
+    "Japanese": {
+      "Text": "【基礎試験】生存競争テスト"
+    },
+    "English": {
+      "Text": "Preliminary Trial: Bioselected Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_05",
+    "Japanese": {
+      "Text": "【応用試験】融合精度の検証"
+    },
+    "English": {
+      "Text": "Evaluation: Fusion Analysis"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_05_disclosure",
+    "Japanese": {
+      "Text": "【応用試験】融合精度の検証"
+    },
+    "English": {
+      "Text": "Evaluation: Fusion Analysis"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_06",
+    "Japanese": {
+      "Text": "【応用試験】優位性測定実験"
+    },
+    "English": {
+      "Text": "Evaluation: Dominant Traits"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_06_disclosure",
+    "Japanese": {
+      "Text": "【応用試験】優位性測定実験"
+    },
+    "English": {
+      "Text": "Evaluation: Dominant Traits"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_07",
+    "Japanese": {
+      "Text": "【応用試験】二律背反実験"
+    },
+    "English": {
+      "Text": "Evaluation: Antinomic Traits"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_07_disclosure",
+    "Japanese": {
+      "Text": "【応用試験】二律背反実験"
+    },
+    "English": {
+      "Text": "Evaluation: Antinomic Traits"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_08",
+    "Japanese": {
+      "Text": "【応用試験】特異体性能実験"
+    },
+    "English": {
+      "Text": "Evaluation: Forsaken Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_NIBLS_08_disclosure",
+    "Japanese": {
+      "Text": "【応用試験】特異体性能実験"
+    },
+    "English": {
+      "Text": "Evaluation: Forsaken Specimens"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Alexander",
+    "Japanese": {
+      "Text": "【召喚獣】アレクサンダー"
+    },
+    "English": {
+      "Text": "Summon Entity: Alexander"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Alexander_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】アレクサンダー"
+    },
+    "English": {
+      "Text": "Summon Entity: Alexander"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Kjata",
+    "Japanese": {
+      "Text": "【召喚獣】クジャタ"
+    },
+    "English": {
+      "Text": "Summon Entity: Kujata"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Kjata_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】クジャタ"
+    },
+    "English": {
+      "Text": "Summon Entity: Kujata"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_NeoBahamut",
+    "Japanese": {
+      "Text": "【召喚獣】バハムート改"
+    },
+    "English": {
+      "Text": "Summon Entity: Bahamut Arisen"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_NeoBahamut_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】バハムート改"
+    },
+    "English": {
+      "Text": "Summon Entity: Bahamut Arisen"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Odin",
+    "Japanese": {
+      "Text": "【召喚獣】オーディン"
+    },
+    "English": {
+      "Text": "Summon Entity: Odin"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Odin_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】オーディン"
+    },
+    "English": {
+      "Text": "Summon Entity: Odin"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Phoenix",
+    "Japanese": {
+      "Text": "【召喚獣】フェニックス"
+    },
+    "English": {
+      "Text": "Summon Entity: Phoenix"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Phoenix_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】フェニックス"
+    },
+    "English": {
+      "Text": "Summon Entity: Phoenix"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Titan",
+    "Japanese": {
+      "Text": "【召喚獣】タイタン"
+    },
+    "English": {
+      "Text": "Summon Entity: Titan"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_SUMMON_Titan_disclosure",
+    "Japanese": {
+      "Text": "【召喚獣】タイタン"
+    },
+    "English": {
+      "Text": "Summon Entity: Titan"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "official_English_name",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_Colosseum_CourseTitle_COL30_TutorialBtl_01",
+    "Japanese": {
+      "Text": "【チュートリアル】連携アクション＆連携アビリティ"
+    },
+    "English": {
+      "Text": "Combat Training: Synergy"
+    },
+    "family": "Colosseum_whole_UI",
+    "mode": "existing",
+    "reason": "Battle simulator / other-region course outside Gold Saucer and Corel Prison activity UI"
+  }
+]

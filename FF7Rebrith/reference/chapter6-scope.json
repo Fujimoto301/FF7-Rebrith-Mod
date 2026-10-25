@@ -1,0 +1,18 @@
+{
+  "chapter": 6,
+  "title": "Fool's Paradise",
+  "records": 1805,
+  "templates": 1737,
+  "already_translated": [],
+  "source_sha256": "52b43db122cf9686cfcd53eb9af89fa11887113a9e5c9c845f27f74bd1ede758",
+  "scope": "Costa del Sol arrival, Amor del Amor activities, Hojo battle, beach relationship branches, Yuffie joining; Costa NPCs, activity dialogue and local Queen’s Blood. Later unlocked states are prepared but deferred after content review.",
+  "excluded": "Corel mountain story and regional odd jobs begin Chapter7; later-return unlocks are deferred. Preserve Ch.1–5 and existing UI.",
+  "counts": {
+    "End/Content/Text/JP/8300-CORLE_TxtRes.uasset": 1731,
+    "End/Content/Text/JP/Resident_TxtRes.uasset": 74
+  },
+  "reuse_policy": "Exact JP matches from previously translated dialogue, unique Thai wording, no gendered particles/pronouns or English names. Recheck context before assembly.",
+  "selected_records": 1698,
+  "deferred_records": 107,
+  "additional_UI_records": 22
+}

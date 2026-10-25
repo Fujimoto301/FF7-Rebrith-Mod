@@ -1,0 +1,1045 @@
+[
+  {
+    "index": 0,
+    "jp": "おでかけするなら\r\nチョコボに乗ってって！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18200_00_mfa"
+    ],
+    "us": "The best way to make tracks is on chocoback!"
+  },
+  {
+    "index": 1,
+    "jp": "チョコボがレンタルできま～す！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18300_00_mfa"
+    ],
+    "us": "Chocobos for rent right here, folks!"
+  },
+  {
+    "index": 2,
+    "jp": "いまなら大人気の\r\nキュマちゃんがあいてますよ～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18310_00_mfa"
+    ],
+    "us": "Our beloved bird Kyma is available right now!"
+  },
+  {
+    "index": 3,
+    "jp": "いらっしゃいませ～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18400_00_sfa",
+      "$COSTT_NPC_10_0600_20000_00_mfa",
+      "$COSTT_NPC_10_0600_20200_00_mfa"
+    ],
+    "us": "Hello there!"
+  },
+  {
+    "index": 4,
+    "jp": "チョコボをレンタルするなら　まず\r\n『レンタルパス』を購入してくださいね",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18500_00_sfa"
+    ],
+    "us": "If you're looking to borrow one of our birds, you'll need to purchase a rental pass first."
+  },
+  {
+    "index": 5,
+    "jp": "いらっしゃいませ～！\r\nチョコボのことなら　おまかせあれ～",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18600_00_sfa"
+    ],
+    "us": "Welcome! We're here to serve all your bird-related needs."
+  },
+  {
+    "index": 6,
+    "jp": "ありがとうございます！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18700_00_sfa"
+    ],
+    "us": "Thank youuu!"
+  },
+  {
+    "index": 7,
+    "jp": "チョコボレンタル会員に登録しましたんで\r\nレンタルチョコボを　自由に使ってくださいね",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18800_00_sfa"
+    ],
+    "us": "I've registered your information in our system, so now you're free to borrow our birds whenever you like!"
+  },
+  {
+    "index": 8,
+    "jp": "ありがとうございました！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_18900_00_sfa"
+    ],
+    "us": "Thank you kindly!"
+  },
+  {
+    "index": 9,
+    "jp": "また来てくださいね！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_19000_00_sfa"
+    ],
+    "us": "Come back soon!"
+  },
+  {
+    "index": 10,
+    "jp": "ありがとうございました～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0600_20100_00_mfa",
+      "$COSTT_NPC_10_0600_20300_00_mfa"
+    ],
+    "us": "Thanks for stopping by."
+  },
+  {
+    "index": 11,
+    "jp": "ジョニーって人を\r\n何人も見た気がするんだけど",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_0900_0600_00_mfa"
+    ],
+    "us": "Feels like I've seen a lot of that Johnny guy lately. Like, literally."
+  },
+  {
+    "index": 12,
+    "jp": "かなり攻めたデザインだな",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_0100_00_mma"
+    ],
+    "us": "That's a rather bold look."
+  },
+  {
+    "index": 13,
+    "jp": "くっそ～\r\n俺もステキな思い出作りて～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_0200_00_mma"
+    ],
+    "us": "Hoo baby! Do they have a judging panel or somethin' I can join?"
+  },
+  {
+    "index": 14,
+    "jp": "あれ着たら　ビーチで目立つだろうな",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_0300_00_mma"
+    ],
+    "us": "That suit would certainly attract attention."
+  },
+  {
+    "index": 15,
+    "jp": "メンズ用の水着も出るよな？",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_0400_00_mma"
+    ],
+    "us": "Think they'll show menswear too?"
+  },
+  {
+    "index": 16,
+    "jp": "このブランドの動向は要チェックね",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_1100_00_mfa"
+    ],
+    "us": "I always love seeing what this brand cooks up."
+  },
+  {
+    "index": 17,
+    "jp": "ステキだったけど　私に似合うかな",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_1200_00_mfa"
+    ],
+    "us": "That stuff was cute, but...was it right for <i>me</i>?"
+  },
+  {
+    "index": 18,
+    "jp": "トレンドが決まったんじゃない？",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_1300_00_mfa"
+    ],
+    "us": "That look is gonna blow up!"
+  },
+  {
+    "index": 19,
+    "jp": "ペアルックもいいかもね",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1200_1400_00_mfa"
+    ],
+    "us": "Matching suits are so chic."
+  },
+  {
+    "index": 20,
+    "jp": "どうだい　だいぶ仕上がってきただろ",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0100_00_mma"
+    ],
+    "us": "How's this? Lookin' pretty good, ain't I?"
+  },
+  {
+    "index": 21,
+    "jp": "キレてるよ～　ナイスカット！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0200_00_mma"
+    ],
+    "us": "Better than good. You're a beast!"
+  },
+  {
+    "index": 22,
+    "jp": "ここまでくるには\r\n汗だけじゃなく　涙も流したさ",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0300_00_mma"
+    ],
+    "us": "Gettin' this ripped took a lotta blood, sweat, and tears! Mainly tears."
+  },
+  {
+    "index": 23,
+    "jp": "そうだろうな～　涙のナイスバルク！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0400_00_mma"
+    ],
+    "us": "Hell yeah, bro. Preach it. Tears make the man!"
+  },
+  {
+    "index": 24,
+    "jp": "はあっ……くうっ！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0500_00_mma"
+    ],
+    "us": "Hng... Urgh...!"
+  },
+  {
+    "index": 25,
+    "jp": "もう　限界……！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0700_00_mma"
+    ],
+    "us": "Can't...keep...going..."
+  },
+  {
+    "index": 26,
+    "jp": "くおおお……！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_0900_00_mma"
+    ],
+    "us": "Argh!"
+  },
+  {
+    "index": 27,
+    "jp": "みんな　『筋肉の唄』いくよ！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2100_00_mfa"
+    ],
+    "us": "Okay, people! The builder's creed!"
+  },
+  {
+    "index": 28,
+    "jp": "信ずるモノは　己の筋肉！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2200_00_mma"
+    ],
+    "us": "My body's a temple─my muscles, religion!"
+  },
+  {
+    "index": 29,
+    "jp": "流した汗に　偽りなし！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2300_00_mma"
+    ],
+    "us": "The sweat off my brow is proof of my conviction!"
+  },
+  {
+    "index": 30,
+    "jp": "笑顔で今日も　うさぎ飛び！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2400_00_mma"
+    ],
+    "us": "Greet every day with a bunny hop!"
+  },
+  {
+    "index": 31,
+    "jp": "涙こらえて　スクワット！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2500_00_mma"
+    ],
+    "us": "Squat through the pain and tears that never stop!"
+  },
+  {
+    "index": 32,
+    "jp": "それが我らの　生きる道！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2600_00_mfa"
+    ],
+    "us": "Lift, laugh, love!"
+  },
+  {
+    "index": 33,
+    "jp": "燃えろ　脂肪！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2700_00_mma"
+    ],
+    "us": "Die, fat deposits!"
+  },
+  {
+    "index": 34,
+    "jp": "耐えろ　筋繊維！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2800_00_mma"
+    ],
+    "us": "Power through, muscle fibers!"
+  },
+  {
+    "index": 35,
+    "jp": "越えろ　限界！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_2900_00_mfa"
+    ],
+    "us": "Get lost, limits!"
+  },
+  {
+    "index": 36,
+    "jp": "しぼれ　乳酸！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3000_00_mma"
+    ],
+    "us": "Eat a dick, lactic acid!"
+  },
+  {
+    "index": 37,
+    "jp": "めぐれ　酸素！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3100_00_mma"
+    ],
+    "us": "Pick up the pace, vascular system!"
+  },
+  {
+    "index": 38,
+    "jp": "いまだ　超回復！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3200_00_mma"
+    ],
+    "us": "And...two-second break!"
+  },
+  {
+    "index": 39,
+    "jp": "くらえ　タンパク質！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3300_00_mfa"
+    ],
+    "us": "Slam that protein!"
+  },
+  {
+    "index": 40,
+    "jp": "うまいぞ　プロテイン！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3400_00_mma"
+    ],
+    "us": "Nothin' beats a good protein shake!"
+  },
+  {
+    "index": 41,
+    "jp": "重要なのは　忍耐と持続",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_3900_00_mma"
+    ],
+    "us": "Endurance and determination─that's what counts."
+  },
+  {
+    "index": 42,
+    "jp": "開放の喜びは　その先にある！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_4000_00_mma"
+    ],
+    "us": "Fight through the pain... Almost done!"
+  },
+  {
+    "index": 43,
+    "jp": "イテテ　腕つった～……",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_4100_00_mma"
+    ],
+    "us": "Oh no! Muscle cramp!"
+  },
+  {
+    "index": 44,
+    "jp": "敵は自分　自分の弱さ！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_4500_00_mma"
+    ],
+    "us": "The true battle lies within the self."
+  },
+  {
+    "index": 45,
+    "jp": "今日の俺は　昨日の俺より強い！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_4600_00_mma"
+    ],
+    "us": "I will become stronger. I will rise above!"
+  },
+  {
+    "index": 46,
+    "jp": "かかってこいや～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_4700_00_mma"
+    ],
+    "us": "Bring on the pain!"
+  },
+  {
+    "index": 47,
+    "jp": "負けるな質量　ふりきれ重力！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5100_00_mma"
+    ],
+    "us": "I will prevail. Gravity can't keep me down!"
+  },
+  {
+    "index": 48,
+    "jp": "自らを次のステージに……引きあげる！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5200_00_mma"
+    ],
+    "us": "C'mon, take it up a notch. You can do this!"
+  },
+  {
+    "index": 49,
+    "jp": "飛べ～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5300_00_mma"
+    ],
+    "us": "I can do this!"
+  },
+  {
+    "index": 50,
+    "jp": "ムフフ　できてる～",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5700_00_mma"
+    ],
+    "us": "Heh heh... Check me out."
+  },
+  {
+    "index": 51,
+    "jp": "完璧な自分が　おそろしい～！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5800_00_mma"
+    ],
+    "us": "It's almost scary how perfect I am."
+  },
+  {
+    "index": 52,
+    "jp": "どうぞ　触ってもいいですよ～",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_5900_00_mma"
+    ],
+    "us": "Don't be shy. Go on, touch me!"
+  },
+  {
+    "index": 53,
+    "jp": "ここが踏ん張りどころだ！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_6300_00_mma"
+    ],
+    "us": "Don't you dare quit on me!"
+  },
+  {
+    "index": 54,
+    "jp": "あきらめないで　ポジティブに！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_6400_00_mma"
+    ],
+    "us": "Almost there. Keep it up!"
+  },
+  {
+    "index": 55,
+    "jp": "さあ　限界を超えよう！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_6600_00_mma"
+    ],
+    "us": "Come on! Push past your limit!"
+  },
+  {
+    "index": 56,
+    "jp": "いけるよ　負けるな！",
+    "family": "speech",
+    "examples": [
+      "$COSTT_NPC_10_1300_6700_00_mma"
+    ],
+    "us": "You got this! Don't give up!"
+  },
+  {
+    "index": 57,
+    "jp": "現在はリゾート地として有名なコスタ・デル・ソルですが、かつては、海の恵みを享受して暮らす人々による小さな集落があるだけの、静かな海岸でした。しかし、神羅とジュノン共和国との関係が悪化し始めた頃、海岸一帯は神羅に占拠されてしまいます。\r\n\r\nその後、戦争が終結すると神羅カンパニーによって再開発と観光地化を進められ、誰しもが一生に一度はおとずれたい憧れのリゾート地へと生まれ変わりました。\r\n\r\nコスタ・デル・ソルでは様々な価格帯のツアープランが用意されており、世界中から幅広い層の人々がビーチでの休暇を楽しまれています。とくにゴールドソーサーとセットになっているツアーが人気のようです。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$AreaReport_CORLA_01_Detail"
+    ],
+    "us": "Though Costa del Sol is now a renowned beach resort, it was once home to a string of humble fishing villages. However, when relations between Shinra and the Republic of Junon began to deteriorate, Shinra annexed this portion of the coast. After the war, the company designated the area for redevelopment, transforming it into the must-visit location for avid sunseekers that it is today.\r\n\r\nCosta del Sol offers vacation packages to suit any budget, allowing travelers from every corner of the globe to savor the idyllic beaches. Plans that include a trip to the Gold Saucer have proven particularly popular."
+  },
+  {
+    "index": 58,
+    "jp": "石炭が燃料の主流だった共和国時代、良質な石炭が採掘できるコレル山には職を求めて多種多様な人々が集まり、コミュニティを形成していました。暗い坑道での作業は危険で、命を落とすことも少なくないため、村人の団結力は非常に強かったと言います。\r\n\r\n石炭によって栄えたコレルでしたが、魔晄が発見されると、石炭の価値が暴落し、急激に衰退していきました。そんな中、神羅カンパニーから魔晄炉の建設を提案されたコレル村の人々は、話し合いの末、神羅の提案を受け入れました。\r\n\r\nコレル魔晄炉の建設は急ピッチで進められましたが、稼働直前というところで爆発事故を起こし、以降、放置されています。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$AreaReport_CORLA_02_Detail"
+    ],
+    "us": "Coal was in high demand in the days of the republic, and the wealth of Mt. Corel drew miners from far and wide. Though the work was hard and dangerous, the laborers banded together to overcome their difficulties, forming a close-knit community in the process.\r\n\r\nAlas, the advent of mako saw the price of coal plummet, spelling disaster for the people of Corel. As they struggled to find a way forward, Shinra proposed the construction of a mako reactor, and after much debate, the villagers accepted the offer.\r\n\r\nThe reactor was constructed with astonishing haste, but just prior to being brought online, it was torn apart by an immense explosion, and has been left in ruins ever since."
+  },
+  {
+    "index": 59,
+    "jp": "すべての始まりはディオという一人の神羅社員でした。彼は考古の館と呼ばれる博物館を企画しましたが、不人気の末、すぐに潰してしまいます。しかし、そこでめげることなく、世界一のテーマパーク建設計画を立ち上げ、手始めに小さな遊園地を建設しました。\r\n\r\n４年前にコレル魔晄炉の事故が起こり、コレル村周辺の大規模開発を聞きつけると、ディオはそれに便乗する形で遊園地をコレル村の跡地に移転し、最先端の大型商業施設へとリニューアルしました。\r\n\r\nゴールドソーサーは複数の小型魔晄炉を有していますが、それらの影響で周囲の砂漠化が急激に進行してしまったことを受け、現在は稼働基を最小限におさえ、土地の延命を図っています。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$AreaReport_CORLA_03_Detail"
+    ],
+    "us": "The tale of the Gold Saucer began with a Shinra employee named Dio, who convinced the company to build a museum called the Reliquary. Although it was doomed to failure, Dio was not to be deterred, and he set about founding the world's largest theme park, which he first conceived as a small-scale fairground.\r\n\r\nIn the wake of the Corel Mako Reactor explosion four years ago, plans were set in motion to revitalize the local economy. Hearing this, Dio decided to relocate his fairground to the region, eventually transforming it into a state-of-the-art entertainment complex.\r\n\r\nNow known as the Gold Saucer, it is powered by several modular reactors, which are responsible for the surrounding area's accelerated desertification. In light of this, the reactors are now run at minimum output, in an attempt to mitigate further damage to the environment."
+  },
+  {
+    "index": 60,
+    "jp": "やりましたね\r\n『出張カメラマン』として認定されましたよ",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_00_0400_0100_00_fcs"
+    ],
+    "us": "Excellent scouting. The Association's dubbed you a \"regular frontiersman.\""
+  },
+  {
+    "index": 61,
+    "jp": "世界をめぐり　興味深い風景や被写体を見つけだす\r\nその嗅覚が認められたようです",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_00_0400_0200_00_fcs"
+    ],
+    "us": "They see your potential─same as I did. You know how and where to find true beauty in this world."
+  },
+  {
+    "index": 62,
+    "jp": "この調子で　いろんな土地の撮影スポットを\r\nどんどん見つけていってください",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_00_0400_0300_00_fcs"
+    ],
+    "us": "It's a gift, and not everyone's got it.\r\nSo don't let yours go to waste."
+  },
+  {
+    "index": 63,
+    "jp": "オススメ撮影スポットを\r\n見つけてくれたんですね　ありがとうございます",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_03_0400_0100_00_fcs"
+    ],
+    "us": "Hey there. Thank you for tracking down that spot. Quite the view you captured."
+  },
+  {
+    "index": 64,
+    "jp": "コスタ・デル・ソルは魅力的な街ですが\r\nそれゆえに写真を撮る時は注意が必要なんです",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_03_0400_0200_00_fcs"
+    ],
+    "us": "Costa del Sol is full of visual wonders, but it takes effort to capture that magic on film."
+  },
+  {
+    "index": 65,
+    "jp": "安易に被写体を決めてシャッターを押せば\r\nぜんぶ　同じ写真になってしまいます",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_03_0400_0300_00_fcs"
+    ],
+    "us": "If you don't select your subjects with care, then all your pictures will start to look the same."
+  },
+  {
+    "index": 66,
+    "jp": "だから　私は隠れたスポットを求めて\r\n辺鄙なところへ足を伸ばすんです",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_03_0400_0400_00_fcs"
+    ],
+    "us": "That's why I prefer the road less photographed─\r\nplaces out of the way and off the beaten path."
+  },
+  {
+    "index": 67,
+    "jp": "たまに迷子になっちゃうんですけどね",
+    "family": "speech",
+    "examples": [
+      "$PHOTO_QST_03_0400_0500_00_fcs"
+    ],
+    "us": "...So long as I don't get lost, that is."
+  },
+  {
+    "index": 68,
+    "jp": "共和国時代に使われていた旧型ボイラーのバルブです。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst14_BoilerValve_help"
+    ],
+    "us": "A device used to control both water pressure and temperature in republic-made boilers."
+  },
+  {
+    "index": 69,
+    "jp": "シーサイド・ジョニーを生まれ変わらせるための材料です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst14_Materials_help"
+    ],
+    "us": "A component necessary for the renovation of Johnny's Seaside Inn."
+  },
+  {
+    "index": 70,
+    "jp": "トンベリキングから無理やり奪った汚れた王冠です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst14_TonberryCrown_normal_help"
+    ],
+    "us": "A badly damaged diadem torn from the head of the Tonberry King."
+  },
+  {
+    "index": 71,
+    "jp": "トンベリキングから華麗に盗み取った荘厳な王冠です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst14_TonberryCrown_rare_help"
+    ],
+    "us": "A regal and unblemished diadem snatched from the head of the Tonberry King."
+  },
+  {
+    "index": 72,
+    "jp": "恋人同士で持ち合うのにピッタリな小さな貝殻です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst15_Clams_help"
+    ],
+    "us": "A small shell with two symmetrical halves. Perfect for a lovers' keepsake."
+  },
+  {
+    "index": 73,
+    "jp": "コスタの海岸で採取したクルクルと巻きあがった貝殻です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst15_Conch_help"
+    ],
+    "us": "A spiral shell plucked from a sandy beach near Costa del Sol."
+  },
+  {
+    "index": 74,
+    "jp": "コスタの海にしか生息していない大型品種の貝殻です。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst15_Shell_help"
+    ],
+    "us": "An enormous shell that once belonged to a creature unique to the waters of Costa del Sol."
+  },
+  {
+    "index": 75,
+    "jp": "黒マントの体液に反応し、発光させる特殊なライトです。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst17_InvestigationLight_help"
+    ],
+    "us": "A flashlight that causes a compound in the robed individuals' sweat to fluoresce."
+  },
+  {
+    "index": 76,
+    "jp": "黒マントを人質に身代金を要求する手紙です。\r\n<color=orange>\r\n黒マントの男は預かった。\r\n返してほしくば１００００ギル用意しろ。\r\n受け渡し方法は、おって連絡する。\r\n</color>\r\nと書かれています。",
+    "family": "Corel_quest_items",
+    "examples": [
+      "$key_qst17_KidnappingLetter_help"
+    ],
+    "us": "A letter from the individual who kidnapped one of the black-robed men in Sheiran's care.\r\n<color=orange>\r\nWe have one of your robed men. If you want him back, it'll cost you 1,000,000 gil. Agree to the terms, and we'll take care of the rest.</color>"
+  },
+  {
+    "index": 77,
+    "jp": "ビーチプラグの希少種である『シャンカプラグ』の討伐を確認。トゲトゲとした硬い殻に覆われた軟体生物の貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_02_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the shankhalopod, a rare variant of the shoalopod. Its fleshy insides are guarded by a hard, spiny shell, making it a tough nut to crack."
+  },
+  {
+    "index": 78,
+    "jp": "シー・チュースタンクの希少種である『サー・チュースタンク』の討伐を確認。オスが抱卵し、夫婦円満の象徴とも言われる水棲生物の貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_07_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the heliopora terpsicolt, a rare variant of the sea terpsicolt. As the males voluntarily incubate the eggs provided by their female partners, these aquatic creatures are considered a symbol of matrimonial bliss."
+  },
+  {
+    "index": 79,
+    "jp": "召喚獣アレクサンダーのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_09_Detail_Clear",
+      "$menu_WorldReport_CORLA_20_Detail_Clear",
+      "$menu_WorldReport_CORLA_24_Detail_Clear"
+    ],
+    "us": "You extracted and analyzed the knowledge contained within Alexander's crystal, thus enhancing the entity's summoning materia."
+  },
+  {
+    "index": 80,
+    "jp": "むかしむかし、大きなクポの実を見つけたモーグリたちが喜びのダンスを踊っていました。それを見かけた南国の人々が、ユラユラとした動きを真似て、コスタのダンスを生み出したそうです。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_10_Detail_Clear"
+    ],
+    "us": "Once upon a time, a group of moogles discovered an enormous kupo nut, and danced with joy. When some local humans caught a glimpse, they felt compelled to mimic the moogles' beautiful, swaying movements─and so Costa del Sol's traditional dance was born."
+  },
+  {
+    "index": 81,
+    "jp": "ニードルキッスの希少種である『セイバーキッス』の討伐を確認。螺旋状に発達した鋭いツノを持つ鳥型モンスターの貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_12_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the saberhawk, a rare variant of the spearhawk. Easily identified by the spiraling, azure horn atop its head, which it wields with deadly precision."
+  },
+  {
+    "index": 82,
+    "jp": "小型魔晄炉へ向かったクラウドさんは、代々、砂漠の秘宝を守ってきたサボテンダー軍団からの試練に挑戦し、見事クリアしました。次は第二の試練。秘宝を巡る冒険の始まりです。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_14_Detail_Clear"
+    ],
+    "us": "Upon entering the modular reactor, Cloud and the others are confronted by the guardians of the protorelic: a veritable army of cactuars and their spokesgoblin, Kid G. Though Yuffie passes their trial with flying colors, the succulent sentinels only relinquish a single piece of the relic, with the next supposedly housed within another reactor."
+  },
+  {
+    "index": 83,
+    "jp": "調査レポート１：秘宝の守護者",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_14_Title_Clear"
+    ],
+    "us": "Phenomenon Intel 1: Treasure Protector G"
+  },
+  {
+    "index": 84,
+    "jp": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・参号基へ向かい、新たな試練に挑戦してください。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_15_Detail"
+    ],
+    "us": "Protorelic detected. Proceed to Modular Reactor 3 and face the trial that awaits."
+  },
+  {
+    "index": 85,
+    "jp": "砂の巨人に加えてコルネオたちも参加し、秘宝争奪戦が混迷を深める中、クラウドさんは着実に第三の試練をクリアしました。秘宝の欠片はあとひとつ。砂漠を巡る冒険も次が最後です。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_15_Detail_Clear"
+    ],
+    "us": "Although the sand giant and the Corneo Family also join the search for the protorelic, it is Yuffie who succeeds in winning the third piece. Kid G then challenges Cloud and company to seek him out for the final trial."
+  },
+  {
+    "index": 86,
+    "jp": "調査レポート３：混迷の争奪戦",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_15_Title_Clear"
+    ],
+    "us": "Phenomenon Intel 3: Unfriendly Competition"
+  },
+  {
+    "index": 87,
+    "jp": "ランドウォームの希少種である『デューンウォーム』の討伐を確認。嗅覚を使って獲物を見つけ、地中から飛び出す環形生物の貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_17_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the duneworm, a rare variant of the landworm. Tracking its prey with its acute sense of smell, it springs forth from underground with alarming swiftness."
+  },
+  {
+    "index": 88,
+    "jp": "スペンサーの希少種である『フライングリッパー』の討伐を確認。砂の海原を泳ぐ、特殊な魚型モンスターの貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_22_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the bladefin, a rare variant of the sandspitter. This desert-dwelling piscean menace has been exposed to mako, making it even more ferocious than its smaller cousins."
+  },
+  {
+    "index": 89,
+    "jp": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・弐号基へ向かい、新たな試練に挑戦してください。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_25_Detail"
+    ],
+    "us": "Protorelic detected. Proceed to Modular Reactor 2 and face the trial that awaits."
+  },
+  {
+    "index": 90,
+    "jp": "言葉を操るゴブリン・キッドＧから与えられた第二の試練も危なげなくクリアしたクラウドさん。秘宝の欠片は残りふたつ。謎の巨人が徘徊する中、砂漠の冒険は続きます。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_25_Detail_Clear"
+    ],
+    "us": "Aerith proves herself more than a match for the cactuars, thereby earning Kid G's approval and the second piece of the protorelic. Though there are two more pieces to be claimed, Cloud and the others have no choice but to return to the desert, where the enigmatic sand giant yet lurks..."
+  },
+  {
+    "index": 91,
+    "jp": "調査レポート２：キッドＧの試練",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_25_Title_Clear"
+    ],
+    "us": "Phenomenon Intel 2: Kid G's Trial"
+  },
+  {
+    "index": 92,
+    "jp": "キマイラの希少種である『シルベリーキマイラ』の討伐を確認。太古から存在する、複数の生物の特徴を持つモンスターの貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_27_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the silver chimera, a rare variant of the chimera. This many-headed species's origins can be traced back to antiquity, and it remains a formidable opponent to this day."
+  },
+  {
+    "index": 93,
+    "jp": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・四号基へ向かい、最後の試練に挑戦してください。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_29_Detail"
+    ],
+    "us": "Protorelic detected. Proceed to Modular Reactor 4 and face the trial that awaits."
+  },
+  {
+    "index": 94,
+    "jp": "最後の試練を乗り越え、伝説の剣豪と認められたクラウドさん。砂の巨人とコルネオたちを撃退したキッドＧとの手合わせも終え、砂漠の秘宝、もとい『エンシェントマター』を手に入れました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_29_Detail_Clear"
+    ],
+    "us": "With Aerith earning the fourth and final piece, the protorelic is made whole once more. However, Don Corneo and the sand giant arrive barely a moment later, each party hoping to claim the treasure. Luckily, Kid G and his cactuar friends intervene, and see off the would-be thieves. After a quick sparring match, the petite goblin declares Cloud the \"bladesman of legend\" and gladly grants him the relic."
+  },
+  {
+    "index": 95,
+    "jp": "調査レポート４：伝説の剣豪",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_29_Title_Clear"
+    ],
+    "us": "Phenomenon Intel 4: Bladesman of Legend"
+  },
+  {
+    "index": 96,
+    "jp": "むかしむかし、砂漠に迷い込んだモーグリの王様を一匹のトンベリが助けたそうです。モーグリの王様はお礼と友好の証として、そのトンベリに美しい冠をプレゼントしたと言います。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_30_Detail_Clear"
+    ],
+    "us": "Once upon a time, the king of the moogles had wandered into the desert, but was luckily guided to safety by a passing tonberry. To express his gratitude and mark their newfound friendship, the moogle king granted the tonberry a wondrous crown."
+  },
+  {
+    "index": 97,
+    "jp": "黄金の包丁を握り、じわじわと忍び寄る『トンベリキング』の討伐を確認。煌びやかな王冠をかぶり、人間へのうらみを抱えた巨大なトンベリの貴重な生体データを入手しました。",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_31_Detail_Clear"
+    ],
+    "us": "You obtained biological data on the Tonberry King. While his glimmering crown, golden knife, and immense size set him apart from his subjects, he shares their undying hatred for mankind."
+  },
+  {
+    "index": 98,
+    "jp": "サボテン岩の捜索",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_Chadlie01_02",
+      "$menu_WorldReport_CORLA_Chadlie02_02",
+      "$menu_WorldReport_CORLA_Chadlie03_02",
+      "$menu_WorldReport_CORLA_Chadlie04_02"
+    ],
+    "us": "Locate the Cactuar Rock"
+  },
+  {
+    "index": 99,
+    "jp": "魔晄炉へ戻る",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_Chadlie01_03",
+      "$menu_WorldReport_CORLA_Chadlie02_03",
+      "$menu_WorldReport_CORLA_Chadlie03_03",
+      "$menu_WorldReport_CORLA_Chadlie04_03"
+    ],
+    "us": "Return to the Modular Reactor"
+  },
+  {
+    "index": 100,
+    "jp": "魔晄炉内部の探索",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_Chadlie01_04",
+      "$menu_WorldReport_CORLA_Chadlie02_04",
+      "$menu_WorldReport_CORLA_Chadlie03_04",
+      "$menu_WorldReport_CORLA_Chadlie04_04"
+    ],
+    "us": "Investigate the Modular Reactor"
+  },
+  {
+    "index": 101,
+    "jp": "試練をクリア",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_Chadlie01_05",
+      "$menu_WorldReport_CORLA_Chadlie02_05",
+      "$menu_WorldReport_CORLA_Chadlie03_05",
+      "$menu_WorldReport_CORLA_Chadlie04_05"
+    ],
+    "us": "Complete the Cactuar Trial"
+  },
+  {
+    "index": 102,
+    "jp": "キッドＧに勝利する",
+    "family": "Corel_report_UI",
+    "examples": [
+      "$menu_WorldReport_CORLA_Chadlie04_06"
+    ],
+    "us": "Defeat Kid G"
+  },
+  {
+    "index": 103,
+    "jp": "<color=yellow>【腹筋勝負・入門】</color>\r\nアミナと勝負しますか？",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_amina"
+    ],
+    "us": "Challenge Amina to a <color=yellow>warm-up crunch-off</color>?"
+  },
+  {
+    "index": 104,
+    "jp": "上級：ジーナンに挑戦できるようになった！",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_challenge_jinan"
+    ],
+    "us": "You can now challenge Jules to a pro-level crunch-off."
+  },
+  {
+    "index": 105,
+    "jp": "中級：サン・トーに挑戦できるようになった！",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_challenge_santou"
+    ],
+    "us": "You can now challenge Jay to an amateur-level crunch-off."
+  },
+  {
+    "index": 106,
+    "jp": "初級：ゼン・ワンに挑戦できるようになった！",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_challenge_zenwan"
+    ],
+    "us": "You can now challenge Ronnie to a trainee-level crunch-off."
+  },
+  {
+    "index": 107,
+    "jp": "腹筋勝負 入門",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_clearUI_situp_normal1"
+    ],
+    "us": "Crunch-Off - Warm-Up"
+  },
+  {
+    "index": 108,
+    "jp": "腹筋勝負 初級",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_clearUI_situp_normal2"
+    ],
+    "us": "Crunch-Off - Trainee Rank I"
+  },
+  {
+    "index": 109,
+    "jp": "腹筋勝負 中級",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_clearUI_situp_normal3"
+    ],
+    "us": "Crunch-Off - Amateur Rank II"
+  },
+  {
+    "index": 110,
+    "jp": "腹筋勝負 上級",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_clearUI_situp_normal4"
+    ],
+    "us": "Crunch-Off - Pro Rank III"
+  },
+  {
+    "index": 111,
+    "jp": "<color=yellow>【腹筋勝負・上級】</color>\r\nジーナンと勝負しますか？",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_jinan"
+    ],
+    "us": "Challenge Jules to a <color=yellow>pro-level crunch-off</color> (Rank III)?"
+  },
+  {
+    "index": 112,
+    "jp": "<color=yellow>【腹筋勝負・中級】</color>\r\nサン・トーと勝負しますか？",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_santou"
+    ],
+    "us": "Challenge Jay to an <color=yellow>amateur-level crunch-off</color> (Rank II)?"
+  },
+  {
+    "index": 113,
+    "jp": "<color=yellow>【腹筋勝負・初級】</color>\r\nゼン・ワンと勝負しますか？",
+    "family": "situp_activity_choices",
+    "examples": [
+      "$minigame_SitUp_zenwan"
+    ],
+    "us": "Challenge Ronnie to a <color=yellow>trainee-level crunch-off</color> (Rank I)?"
+  }
+]

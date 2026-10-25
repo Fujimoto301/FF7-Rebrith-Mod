@@ -1,0 +1,76 @@
+{
+  "stage": "staging/ThaiJP_ThroughChapter14_Working",
+  "manifest": "qa/chapter14/working-assets.json",
+  "audit": "qa/chapter14/translation-audit.json",
+  "asset_count": 28,
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "combined_source": "translations/working-through-chapter14-th.json",
+  "cluster_map": "reference/through-chapter14-cluster-map.json",
+  "additional_parts": [
+    [
+      "ThaiJP_Chapter3_4_5_P",
+      [
+        "8200-JUNOE_TxtRes.uasset"
+      ]
+    ],
+    [
+      "ThaiJP_Chapter6_7_P",
+      [
+        "8300-CORLE_TxtRes.uasset"
+      ]
+    ],
+    [
+      "ThaiJP_Chapter8_12_P",
+      [
+        "8400-GOLDE_TxtRes.uasset"
+      ]
+    ],
+    [
+      "ThaiJP_Chapter9_P",
+      [
+        "8500-GONGE_TxtRes.uasset"
+      ]
+    ],
+    [
+      "ThaiJP_Chapter10_P",
+      [
+        "8600-COSME_TxtRes.uasset"
+      ]
+    ],
+    [
+      "ThaiJP_Chapter14_P",
+      [
+        "8900-CAPIT_TxtRes.uasset"
+      ]
+    ]
+  ],
+  "superseded_parts": [
+    "ThaiJP_Chapter1_11_P",
+    "ThaiJP_Chapter8_P"
+  ],
+  "shared_file_note": "Nine non-overlapping parts; Ch14 MIDGR/FOREE update existing owners; CAPIT in Chapter14; latest nine required together.",
+  "choice_completion": true,
+  "npc_recheck": true,
+  "enemy_actions": true,
+  "chapter10": true,
+  "chapter11": true,
+  "chapter1_part_name": "ThaiJP_Chapter1_11_12_P",
+  "chapter12": true,
+  "chapter13": true,
+  "chapter14": true
+}

@@ -1,0 +1,32 @@
+# Runtime dependencies for the FF7 Rebirth cutscene editor.
+#
+# CutsceneEditor.bat installs these for you; this file is here for anyone who
+# would rather manage their own environment:
+#
+#     py -3 -m pip install -r requirements.txt
+#
+# Not listed, because it is not installed:
+#
+#   UE4Parse  - bundled in vendor/. It is not on PyPI (the `UE4Parse` 0.0.1
+#               there is an unrelated stub) and its setup.py cythonises a
+#               texture extension, so installing it from git needs a C
+#               compiler. The extension is import-guarded and only used by the
+#               texture decoder, which this tool never calls, so a plain copy
+#               of the package is enough. See vendorpath.py.
+#
+# Not a Python package, needed anyway:
+#
+#   ffmpeg    - on PATH, for preview audio and the waveform. Everything else
+#               works without it.
+#   Oodle     - oo2core_9_win64.dll, only to read the game's own containers.
+#               Setup copies it out of your install; it is not redistributable.
+
+PySide6>=6.5          # the window toolkit; abi3 wheels for CPython 3.10-3.14
+numpy>=1.21           # mixing the preview audio
+
+# UE4Parse's own runtime dependencies, which it does not declare in a way pip
+# can see from a vendored copy:
+pycryptodome>=3.15    # AES, for encrypted containers
+lz4>=4.0              # one of the container compression methods
+pyUsmap>=1.1          # reads Mappings.usmap
+pillow>=9.0           # imported on the UE4Parse texture path at import time

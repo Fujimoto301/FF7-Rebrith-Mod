@@ -1,0 +1,2788 @@
+[
+  {
+    "id": "$Alexander_Boss_Chest",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "胴体",
+    "en": "Chest"
+  },
+  {
+    "id": "$Alexander_Boss_LeftHand",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左腕",
+    "en": "Left Arm"
+  },
+  {
+    "id": "$Alexander_Boss_RightHand",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右腕",
+    "en": "Right Arm"
+  },
+  {
+    "id": "$Armor",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "装甲",
+    "en": "Pilot"
+  },
+  {
+    "id": "$Battery_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左副砲",
+    "en": "Left Auxiliary Weaponry"
+  },
+  {
+    "id": "$Battery_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右副砲",
+    "en": "Right Auxiliary Weaponry"
+  },
+  {
+    "id": "$Foot_LB",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左後脚",
+    "en": "Left Rear Leg"
+  },
+  {
+    "id": "$Foot_LF",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左前脚",
+    "en": "Left Front Leg"
+  },
+  {
+    "id": "$Foot_RB",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右後脚",
+    "en": "Right Rear Leg"
+  },
+  {
+    "id": "$Foot_RF",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右前脚",
+    "en": "Right Front Leg"
+  },
+  {
+    "id": "$GE_Enemy_01_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ジェネラルプリン",
+    "en": "Flan General"
+  },
+  {
+    "id": "$GE_Enemy_02_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "レッドプリン",
+    "en": "Red Flan"
+  },
+  {
+    "id": "$GE_Enemy_03_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ブループリン",
+    "en": "Blue Flan"
+  },
+  {
+    "id": "$GE_Enemy_04_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "イエロープリン",
+    "en": "Yellow Flan"
+  },
+  {
+    "id": "$GE_Enemy_05_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "キングプリン",
+    "en": "King Flan"
+  },
+  {
+    "id": "$GE_Enemy_06_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ホワイトプリン",
+    "en": "White Flan"
+  },
+  {
+    "id": "$GE_Enemy_07_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "レッドマシュマロ",
+    "en": "Red Marshmallow"
+  },
+  {
+    "id": "$GE_Enemy_08_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ブルーマシュマロ",
+    "en": "Blue Marshmallow"
+  },
+  {
+    "id": "$GE_Enemy_09_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "イエローマシュマロ",
+    "en": "Yellow Marshmallow"
+  },
+  {
+    "id": "$GE_Enemy_10_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ホワイトマシュマロ",
+    "en": "White Marshmallow"
+  },
+  {
+    "id": "$GE_Enemy_11_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "レッドホイップ",
+    "en": "Red Whip"
+  },
+  {
+    "id": "$GE_Enemy_12_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ブルーホイップ",
+    "en": "Blue Whip"
+  },
+  {
+    "id": "$GE_Enemy_13_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "イエローホイップ",
+    "en": "Yellow Whip"
+  },
+  {
+    "id": "$GE_Enemy_14_Name",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "gambit_minigame_enemy_names",
+    "jp": "ホワイトホイップ",
+    "en": "White Whip"
+  },
+  {
+    "id": "$HG_BackWeapon",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "背面砲",
+    "en": "Laser Cannon"
+  },
+  {
+    "id": "$HG_LB",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左後ローラー",
+    "en": "Left Rear Wheel"
+  },
+  {
+    "id": "$HG_LF",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左前ローラー",
+    "en": "Left Front Wheel"
+  },
+  {
+    "id": "$HG_MainCannon",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "主砲",
+    "en": "Main Cannon"
+  },
+  {
+    "id": "$HG_RB",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右後ローラー",
+    "en": "Right Rear Wheel"
+  },
+  {
+    "id": "$HG_RF",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右前ローラー",
+    "en": "Right Front Wheel"
+  },
+  {
+    "id": "$JenovaBirth_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "頭部",
+    "en": "Head"
+  },
+  {
+    "id": "$JenovaBirth_Shoulder",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左肩",
+    "en": "Left Shoulder"
+  },
+  {
+    "id": "$LostNumber_LeftArm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "腕",
+    "en": "Arm"
+  },
+  {
+    "id": "$LostNumber_RightArm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "触手",
+    "en": "Tentacle"
+  },
+  {
+    "id": "$MateriaKeeperBtmLeg_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右後脚",
+    "en": "Right Hindleg"
+  },
+  {
+    "id": "$MateriaKeeper_BtmLeg_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左後脚",
+    "en": "Left Hindleg"
+  },
+  {
+    "id": "$MateriaKeeper_FrontLeg_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左前脚",
+    "en": "Left Foreleg"
+  },
+  {
+    "id": "$MateriaKeeper_FrontLeg_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右前脚",
+    "en": "Right Foreleg"
+  },
+  {
+    "id": "$MateriaKeeper_MidLeg_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左中脚",
+    "en": "Left Midleg"
+  },
+  {
+    "id": "$MateriaKeeper_MidLeg_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右中脚",
+    "en": "Right Midleg"
+  },
+  {
+    "id": "$MidgarZolom_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "甲殻",
+    "en": "Cranial Dome"
+  },
+  {
+    "id": "$MidgarZolom_Head_Break",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "破損甲殻",
+    "en": "Damaged Cranium"
+  },
+  {
+    "id": "$MythrilGolem_Back",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "背中",
+    "en": "Spine"
+  },
+  {
+    "id": "$MythrilGolem_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "頭部",
+    "en": "Head"
+  },
+  {
+    "id": "$MythrilGolem_RightArm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右腕",
+    "en": "Right Arm"
+  },
+  {
+    "id": "$PalmerMech_Arm_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左腕",
+    "en": "Left Arm"
+  },
+  {
+    "id": "$PalmerMech_Arm_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右腕",
+    "en": "Right Arm"
+  },
+  {
+    "id": "$PalmerMech_Cockpit",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "コクピット",
+    "en": "Cockpit"
+  },
+  {
+    "id": "$PalmerMech_Foot_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左脚",
+    "en": "Left Leg"
+  },
+  {
+    "id": "$PalmerMech_Foot_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右脚",
+    "en": "Right Leg"
+  },
+  {
+    "id": "$ScrMagArmorCustom_CannonL",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "魔導砲・左",
+    "en": "Left Makocannon"
+  },
+  {
+    "id": "$ScrMagArmorCustom_CannonR",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "魔導砲・右",
+    "en": "Right Makocannon"
+  },
+  {
+    "id": "$ScrMagArmorCustom_KnuckleL",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "ガントレット・左",
+    "en": "Left Gauntlet"
+  },
+  {
+    "id": "$ScrMagArmorCustom_KnuckleR",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "ガントレット・右",
+    "en": "Right Gauntlet"
+  },
+  {
+    "id": "$ScrMagArmorCustom_SaberL",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "サーベル・左",
+    "en": "Left-Hand Saber"
+  },
+  {
+    "id": "$ScrMagArmorCustom_SaberR",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "サーベル・右",
+    "en": "Right-Hand Saber"
+  },
+  {
+    "id": "$Titan_Boss_GuardBeat",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "防御の鼓動",
+    "en": "Pulse of Defiance"
+  },
+  {
+    "id": "$Titan_Boss_LeftHand",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左手",
+    "en": "Left Hand"
+  },
+  {
+    "id": "$Titan_Boss_Protection",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "大地の守り",
+    "en": "Earthen Aegis"
+  },
+  {
+    "id": "$bt_Aps_Tail",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "尻尾",
+    "en": "Tail"
+  },
+  {
+    "id": "$bt_BizarroSephiroth_Core",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "コア",
+    "en": "Core"
+  },
+  {
+    "id": "$bt_BizarroSephiroth_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "頭胸部",
+    "en": "Chest"
+  },
+  {
+    "id": "$bt_BizarroSephiroth_LeftWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左翼",
+    "en": "Left Wing"
+  },
+  {
+    "id": "$bt_BizarroSephiroth_RightWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右翼",
+    "en": "Right Wing"
+  },
+  {
+    "id": "$bt_BossSephiroth_PartsSword",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "正宗",
+    "en": "Masamune"
+  },
+  {
+    "id": "$bt_BossSephiroth_PartsWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "片翼",
+    "en": "Wing"
+  },
+  {
+    "id": "$bt_BottomSwell_TailEnd",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "尻尾・突端",
+    "en": "Tail Fin"
+  },
+  {
+    "id": "$bt_BottomSwell_TailMark",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "尻尾・関節",
+    "en": "Tail Cartilage"
+  },
+  {
+    "id": "$bt_ChatchMech_LeftParts",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左シリンダー",
+    "en": "Left Cylinder"
+  },
+  {
+    "id": "$bt_ChatchMech_RightParts",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右シリンダー",
+    "en": "Right Cylinder"
+  },
+  {
+    "id": "$bt_DeepGroundCommander_Core",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "心臓",
+    "en": "Heart"
+  },
+  {
+    "id": "$bt_DeepGroundCommander_Tentacle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "触手",
+    "en": "Appendage"
+  },
+  {
+    "id": "$bt_Jenova1_Hand_L",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左腕",
+    "en": "Left Tentacle"
+  },
+  {
+    "id": "$bt_Jenova1_Hand_R",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右腕",
+    "en": "Right Tentacle"
+  },
+  {
+    "id": "$bt_Jenova1_Tail",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "尻尾",
+    "en": "Tail"
+  },
+  {
+    "id": "$bt_Leviathan_Chest",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "背びれ",
+    "en": "Dorsal Fin"
+  },
+  {
+    "id": "$bt_Leviathan_Tail",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "尾びれ",
+    "en": "Tail Fin"
+  },
+  {
+    "id": "$bt_NeoBahamut_LeftWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左翼",
+    "en": "Left Wing"
+  },
+  {
+    "id": "$bt_NeoBahamut_RightWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右翼",
+    "en": "Right Wing"
+  },
+  {
+    "id": "$bt_RedDragon_Chest",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "胸部",
+    "en": "Chest"
+  },
+  {
+    "id": "$bt_RedDragon_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "頭部",
+    "en": "Head"
+  },
+  {
+    "id": "$bt_RedDragon_LeftWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左翼",
+    "en": "Left Wing"
+  },
+  {
+    "id": "$bt_RedDragon_RightWing",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右翼",
+    "en": "Right Wing"
+  },
+  {
+    "id": "$bt_SampleH05_LeftArm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左手",
+    "en": "Left Claw"
+  },
+  {
+    "id": "$en_2Faced_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トゥーサイド",
+    "en": "Two Face"
+  },
+  {
+    "id": "$en_8eye_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヘクトアイズ",
+    "en": "Hecteyes"
+  },
+  {
+    "id": "$en_Adamantaimai_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "モスアダマンタイマイ",
+    "en": "Moss-Grown Adamantoise"
+  },
+  {
+    "id": "$en_Alexander_Pillar",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "光の柱",
+    "en": "Pillar of Light"
+  },
+  {
+    "id": "$en_Alexander_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アレクサンダー",
+    "en": "Alexander"
+  },
+  {
+    "id": "$en_Allemagne_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デスフロート",
+    "en": "Floating Death"
+  },
+  {
+    "id": "$en_Allemagne_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ブラッドフロート",
+    "en": "Sanguine Scourge"
+  },
+  {
+    "id": "$en_Aps_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アプス",
+    "en": "Abzu"
+  },
+  {
+    "id": "$en_ArkDragon_AncientEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "エンシャントドラゴン",
+    "en": "Ancient Dragon"
+  },
+  {
+    "id": "$en_ArkDragon_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アークドラゴン",
+    "en": "Archdragon"
+  },
+  {
+    "id": "$en_ArkDragon_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ミスティックドラゴン",
+    "en": "Mystic Dragon"
+  },
+  {
+    "id": "$en_ArmoredShinrabike_Locche",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ローチェ",
+    "en": "Roche"
+  },
+  {
+    "id": "$en_Bagnadrana_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バグナドラナ",
+    "en": "Bagnadrana"
+  },
+  {
+    "id": "$en_Bagnadrana_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ドラナバルガ",
+    "en": "Dranabarga"
+  },
+  {
+    "id": "$en_Bagrisk_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ティミドリスク",
+    "en": "Bashfulisk"
+  },
+  {
+    "id": "$en_Bagrisk_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バジリスク",
+    "en": "Basilisk"
+  },
+  {
+    "id": "$en_BahbaVelamyu_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ババヴェラウミュ",
+    "en": "Bahba Velamyu"
+  },
+  {
+    "id": "$en_Beachplug_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シャンカプラグ",
+    "en": "Shankhalopod"
+  },
+  {
+    "id": "$en_Beachplug_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ビーチプラグ",
+    "en": "Shoalopod"
+  },
+  {
+    "id": "$en_BiologicalBoss_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サンプル：Ｈ１０２４",
+    "en": "Specimen H1024"
+  },
+  {
+    "id": "$en_Bioweapon_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アンノウン",
+    "en": "Amalgam"
+  },
+  {
+    "id": "$en_BizarroSephiroth_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "リバース＝セフィロス",
+    "en": "Sephiroth Reborn"
+  },
+  {
+    "id": "$en_BlackBat_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ブラックバット",
+    "en": "Black Bat"
+  },
+  {
+    "id": "$en_Bomb_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ボム",
+    "en": "Bomb"
+  },
+  {
+    "id": "$en_Bomb_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギガントボム",
+    "en": "Gigant Bomb"
+  },
+  {
+    "id": "$en_BottomSwell_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ボトムスウェル",
+    "en": "Terror of the Deep"
+  },
+  {
+    "id": "$en_Bullmotor_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ブルモーター",
+    "en": "Deathwheel"
+  },
+  {
+    "id": "$en_Cactuar_CorEnd2_Dark_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "やみコルテンダー 100点",
+    "en": "Dark Cacneo: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_CorEnd2_Light_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ひかりコルテンダー 100点",
+    "en": "Lumin Cacneo: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_CorEnd2_Magic_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マジカルコルテンダー 100点",
+    "en": "Magical Cacneo: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_CorEnd2_Physics_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ぶっつりコルテンダー 100点",
+    "en": "Pugilistic Cacneo: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_CorneoEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "コルテンダー",
+    "en": "Cacneo"
+  },
+  {
+    "id": "$en_Cactuar_JaboEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジャボテンダー",
+    "en": "Gigantuar"
+  },
+  {
+    "id": "$en_Cactuar_JaboEnd2_Gold_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ゴールドジャボテンダー 500点",
+    "en": "Gold Gigantuar: 500 pt."
+  },
+  {
+    "id": "$en_Cactuar_JaboEnd2_Light_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ひかりやみジャボテンダー 500点",
+    "en": "Gigantuar: 500 pt."
+  },
+  {
+    "id": "$en_Cactuar_JaboEnd2_Magic_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マジカルジャボテンダー 500点",
+    "en": "Magical Gigantuar: 500 pt."
+  },
+  {
+    "id": "$en_Cactuar_JaboEnd2_Physics_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ぶっつりジャボテンダー 500点",
+    "en": "Pugilistic Gigantuar: 500 pt."
+  },
+  {
+    "id": "$en_Cactuar_JapoEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジャポテンダー",
+    "en": "Gargantuar"
+  },
+  {
+    "id": "$en_Cactuar_SaboEnd2_Time_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ボーナステンダー 時間増加",
+    "en": "Giftuar: Time Bonus"
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サポテンダー",
+    "en": "Cactrot"
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2Orange",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "オレンジサポテンダー",
+    "en": "Orange Cactrot"
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2_Dark_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "やみテンダー 100点",
+    "en": "Darktuar: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2_Light_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ひかりテンダー 100点",
+    "en": "Lightuar: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マジカルテンダー 100点",
+    "en": "Magituar: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_SapoEnd2_Physics_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ぶっつりテンダー 100点",
+    "en": "Gladiatuar: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_SapoRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シャイテンダー",
+    "en": "Coytuar"
+  },
+  {
+    "id": "$en_Cactuar_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サボテンダー",
+    "en": "Cactuar"
+  },
+  {
+    "id": "$en_Cactuar_StandardGold",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ゴールドサボテンダー",
+    "en": "Gold Cactuar"
+  },
+  {
+    "id": "$en_Cactuar_Standard_Dark_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "やみテンダー 10点",
+    "en": "Darktuar: 10 pt."
+  },
+  {
+    "id": "$en_Cactuar_Standard_Gold_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ゴールドサボテンダー 100点",
+    "en": "Gold Cactuar: 100 pt."
+  },
+  {
+    "id": "$en_Cactuar_Standard_Light_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ひかりテンダー 10点",
+    "en": "Lightuar: 10 pt."
+  },
+  {
+    "id": "$en_Cactuar_Standard_Magic_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マジカルテンダー 10点",
+    "en": "Magituar: 10 pt."
+  },
+  {
+    "id": "$en_Cactuar_Standard_Physics_MiniGame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ぶっつりテンダー 10点",
+    "en": "Gladiatuar: 10 pt."
+  },
+  {
+    "id": "$en_Capparwire_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "パイロワイヤ",
+    "en": "Pyrowire"
+  },
+  {
+    "id": "$en_Capparwire_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キャッパワイヤ",
+    "en": "Capparwire"
+  },
+  {
+    "id": "$en_CatchMech_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セイザースネイル",
+    "en": "Grasptropod"
+  },
+  {
+    "id": "$en_Ceasar_CastanetsEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "カスタネッツ",
+    "en": "Crystalline Crab"
+  },
+  {
+    "id": "$en_Ceasar_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クラブハンマー",
+    "en": "Barnaclaw"
+  },
+  {
+    "id": "$en_Chimaera_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シルベリーキマイラ",
+    "en": "Silver Chimera"
+  },
+  {
+    "id": "$en_Chimaera_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キマイラ",
+    "en": "Chimera"
+  },
+  {
+    "id": "$en_ChuseTank_SeaEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シー・チュースタンク",
+    "en": "Sea Terpsicolt"
+  },
+  {
+    "id": "$en_ChuseTank_SeaRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サー・チュースタンク",
+    "en": "Heliopora Terpsicolt"
+  },
+  {
+    "id": "$en_Cokatolis_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "コカトリス",
+    "en": "Cockatrice"
+  },
+  {
+    "id": "$en_CorneoLackey_GreedAEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グリード",
+    "en": "Thug"
+  },
+  {
+    "id": "$en_CorneoLackey_GreedBEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グリード",
+    "en": "Thug"
+  },
+  {
+    "id": "$en_CorneoLackey_GreedCEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グリード",
+    "en": "Thug"
+  },
+  {
+    "id": "$en_CorneoLackey_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "コルネオの部下",
+    "en": "Corneo Lackey"
+  },
+  {
+    "id": "$en_Corneo_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "コルネオ",
+    "en": "Don Corneo"
+  },
+  {
+    "id": "$en_Crawler_NidhoggEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ニーズヘッグ",
+    "en": "Nidhogg"
+  },
+  {
+    "id": "$en_Crawler_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クロウラー",
+    "en": "Crawler"
+  },
+  {
+    "id": "$en_CrownLance_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マゴンメデューサ",
+    "en": "Gorgon Mane"
+  },
+  {
+    "id": "$en_CrownLance_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クラウンランス",
+    "en": "Crown Lance"
+  },
+  {
+    "id": "$en_DarkNation_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ダークネイション",
+    "en": "Darkstar"
+  },
+  {
+    "id": "$en_DeathClaw_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デスクロー",
+    "en": "Death Claw"
+  },
+  {
+    "id": "$en_DeathClaw_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キラースティグマ",
+    "en": "Dark Claw"
+  },
+  {
+    "id": "$en_DebuChoco_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デブチョコボ",
+    "en": "Fat Chocobo"
+  },
+  {
+    "id": "$en_Deenglow_FlapbeatEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フラップビート",
+    "en": "Cyclone Drake"
+  },
+  {
+    "id": "$en_Deenglow_FlapbeatRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ストームビート",
+    "en": "Sandstorm Drake"
+  },
+  {
+    "id": "$en_Deenglow_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ディーングロウ",
+    "en": "Cerulean Drake"
+  },
+  {
+    "id": "$en_DeepGroundCommander_Zako_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ネムレス",
+    "en": "Unknown Entity"
+  },
+  {
+    "id": "$en_DeepGroundMonster_FusionEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デモナス",
+    "en": "Daemonic Entity"
+  },
+  {
+    "id": "$en_DemonsGate_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デモンズゲイト",
+    "en": "Demon Gate"
+  },
+  {
+    "id": "$en_DevilRide_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デビルライド",
+    "en": "Devil Rider"
+  },
+  {
+    "id": "$en_Doorbull_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ドァブゥル",
+    "en": "Panthera Protector"
+  },
+  {
+    "id": "$en_DorkyFace_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ファニーフェイス",
+    "en": "Rictus"
+  },
+  {
+    "id": "$en_Dragon_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ドラゴン",
+    "en": "Dragon"
+  },
+  {
+    "id": "$en_Dragon_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シードラゴン",
+    "en": "Sea Dragon"
+  },
+  {
+    "id": "$en_Dyne_LargeArm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップアーム",
+    "en": "Scrap-Arm"
+  },
+  {
+    "id": "$en_Dyne_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ダイン",
+    "en": "Dyne"
+  },
+  {
+    "id": "$en_Dyne_Tentacle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ",
+    "en": "Scrap-Whip"
+  },
+  {
+    "id": "$en_Dyne_TentacleA",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ A",
+    "en": "Scrap-Whip A"
+  },
+  {
+    "id": "$en_Dyne_TentacleB",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ B",
+    "en": "Scrap-Whip B"
+  },
+  {
+    "id": "$en_Dyne_TentacleC",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ C",
+    "en": "Scrap-Whip C"
+  },
+  {
+    "id": "$en_Dyne_TentacleD",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ D",
+    "en": "Scrap-Whip D"
+  },
+  {
+    "id": "$en_Dyne_TentacleE",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクラップウィップ E",
+    "en": "Scrap-Whip E"
+  },
+  {
+    "id": "$en_Elena_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "イリーナ",
+    "en": "Elena"
+  },
+  {
+    "id": "$en_Elfadunk_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フューリーダンク",
+    "en": "Enmidunk"
+  },
+  {
+    "id": "$en_Elfadunk_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "エレファダンク",
+    "en": "Elphadunk"
+  },
+  {
+    "id": "$en_Elfadunk_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マストドン",
+    "en": "Mastodon"
+  },
+  {
+    "id": "$en_Feeler_BlackEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フィーラー",
+    "en": "Whisper"
+  },
+  {
+    "id": "$en_Feeler_WhiteEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フィーラー",
+    "en": "Whisper"
+  },
+  {
+    "id": "$en_Flan_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "プリン",
+    "en": "Flan"
+  },
+  {
+    "id": "$en_Flan_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ホワイトムース",
+    "en": "White Mousse"
+  },
+  {
+    "id": "$en_FlowerProng_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ブルームプラング",
+    "en": "Brumeflower"
+  },
+  {
+    "id": "$en_FlowerProng_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フラワープラング",
+    "en": "Frightflower"
+  },
+  {
+    "id": "$en_Formula_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ストーミュラ",
+    "en": "Stormwing"
+  },
+  {
+    "id": "$en_Formula_SonicSpeedEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スピードサウンド",
+    "en": "Velociwing"
+  },
+  {
+    "id": "$en_Formula_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フォーミュラ",
+    "en": "Fleetwing"
+  },
+  {
+    "id": "$en_Formula_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フラッシュダガー",
+    "en": "Daggerwing"
+  },
+  {
+    "id": "$en_Fusant_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ネクローシス",
+    "en": "Necrotic Entity"
+  },
+  {
+    "id": "$en_Gagighandi_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フルウムヴァラヌス",
+    "en": "Fulvum Varanus"
+  },
+  {
+    "id": "$en_Gagighandi_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バジガンディ",
+    "en": "Gagighandi"
+  },
+  {
+    "id": "$en_Gagighandi_UnderLizardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アンダーリザード",
+    "en": "Cthonilizard"
+  },
+  {
+    "id": "$en_GiNattak_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ・ナタタク",
+    "en": "Gi Nattak"
+  },
+  {
+    "id": "$en_GiSpector_BowEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ族の亡霊・弓",
+    "en": "Gi Archer"
+  },
+  {
+    "id": "$en_GiSpector_SoulsEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ族の魂",
+    "en": "Gi Animus"
+  },
+  {
+    "id": "$en_GiSpector_SpearEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ族の亡霊・槍",
+    "en": "Gi Lancer"
+  },
+  {
+    "id": "$en_GiSpector_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ族の亡霊",
+    "en": "Gi Specter"
+  },
+  {
+    "id": "$en_GiSpector_WandEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギ族の亡霊・魔",
+    "en": "Gi Sorcerer"
+  },
+  {
+    "id": "$en_Gigantoad_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギガントード",
+    "en": "Gigantoad"
+  },
+  {
+    "id": "$en_Gigantoad_StandardEnd2_Tongue",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "舌",
+    "en": "Tongue"
+  },
+  {
+    "id": "$en_GigatolisTornado",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "竜巻",
+    "en": "Tornado"
+  },
+  {
+    "id": "$en_Gigatolis_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギガトリス",
+    "en": "Gigatrice"
+  },
+  {
+    "id": "$en_GilgameshShield_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "源氏の盾",
+    "en": "Genji Shield"
+  },
+  {
+    "id": "$en_Gilgamesh_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギルガメッシュ",
+    "en": "Gilgamesh"
+  },
+  {
+    "id": "$en_Gilgamesh_Weak",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "謎の剣豪",
+    "en": "Eccentric Swordsman"
+  },
+  {
+    "id": "$en_Goblin_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キッドＧ",
+    "en": "Kid G"
+  },
+  {
+    "id": "$en_Golem_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "エルダーゴーレム",
+    "en": "Elder Golem"
+  },
+  {
+    "id": "$en_Golem_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ストーンゴーレム",
+    "en": "Stone Golem"
+  },
+  {
+    "id": "$en_GrandHorn_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ガーディアンホーン",
+    "en": "Grandhorn Warden"
+  },
+  {
+    "id": "$en_GrandHorn_SavageEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サベッジグランドホーン",
+    "en": "Savage Grandhorn"
+  },
+  {
+    "id": "$en_GrandHorn_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グランドホーン",
+    "en": "Grandhorn"
+  },
+  {
+    "id": "$en_Grangalan_ChildEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "コグランガラン",
+    "en": "Grangalan Junior"
+  },
+  {
+    "id": "$en_Grangalan_GrandchildEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マゴグランガラン",
+    "en": "Baby Grangalan"
+  },
+  {
+    "id": "$en_Grangalan_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グランガラン",
+    "en": "Grangalan"
+  },
+  {
+    "id": "$en_GrenadeSoldier_JunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン擲弾兵",
+    "en": "Junon Grenadier"
+  },
+  {
+    "id": "$en_GrenadeSoldier_Senior",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "上級擲弾兵",
+    "en": "Elite Grenadier"
+  },
+  {
+    "id": "$en_GrenadeSoldier_SeniorJunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン上級擲弾兵",
+    "en": "Junon Elite Grenadier"
+  },
+  {
+    "id": "$en_GrenadeSoldier_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "擲弾兵",
+    "en": "Grenadier"
+  },
+  {
+    "id": "$en_Griffin_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グリュプス",
+    "en": "Shirdal"
+  },
+  {
+    "id": "$en_Griffin_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グリフォン",
+    "en": "Griffon"
+  },
+  {
+    "id": "$en_GuardHound_KalmFangEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "カームファング",
+    "en": "Grasslands Wolf"
+  },
+  {
+    "id": "$en_GuardHound_KalmFangRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ボルトファング",
+    "en": "Thunderclaw"
+  },
+  {
+    "id": "$en_GuardHound_KalmFangSubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ホワイトファング",
+    "en": "White Terror"
+  },
+  {
+    "id": "$en_GuardHound_NibelWolfEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ニブルウルフ",
+    "en": "Nibel Wolf"
+  },
+  {
+    "id": "$en_GuardHound_NibelWolfRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ハウルウルフ",
+    "en": "Pyretail"
+  },
+  {
+    "id": "$en_GuardHound_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ガードハウンド",
+    "en": "Guard Dog"
+  },
+  {
+    "id": "$en_GuardHound_TestZeroEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "テスト０",
+    "en": "Test 0"
+  },
+  {
+    "id": "$en_HeavyTank_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヘビータンク",
+    "en": "Maloceros"
+  },
+  {
+    "id": "$en_HeavyTank_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ホーンランキュヌ",
+    "en": "Irasceros"
+  },
+  {
+    "id": "$en_HedgehogPie_CoaltarEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "パンプキンホッグパイ",
+    "en": "Sandhog Pie"
+  },
+  {
+    "id": "$en_HeliGunnerCustom_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヘリガンナーカスタム",
+    "en": "Custom Valkyrie"
+  },
+  {
+    "id": "$en_HellRiderVR2_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヘルハーレーＶＲ２",
+    "en": "Hell Rider II"
+  },
+  {
+    "id": "$en_HereticRayleigh_RTentacle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "右触手",
+    "en": "Right Arm"
+  },
+  {
+    "id": "$en_HereticRayleigh_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヘレティック・レイリー",
+    "en": "Diabolic Creation"
+  },
+  {
+    "id": "$en_HereticRayleigh_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ヴァリアントレイリー",
+    "en": "Diabolic Variant"
+  },
+  {
+    "id": "$en_Hinachocobo_VariationEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ファンシーチョコボ",
+    "en": "Posh Chocobo"
+  },
+  {
+    "id": "$en_Ifrit_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "イフリート",
+    "en": "Ifrit"
+  },
+  {
+    "id": "$en_IronMan_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アイアンクラッド",
+    "en": "Ironclad"
+  },
+  {
+    "id": "$en_Jabberwock_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジャバウォック",
+    "en": "Jabberwock"
+  },
+  {
+    "id": "$en_JenovaBirth_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジェノバ Birth",
+    "en": "Jenova Emergent"
+  },
+  {
+    "id": "$en_JenovaBirth_Tentacle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "触手",
+    "en": "Tentacle"
+  },
+  {
+    "id": "$en_JenovaLife_Barrier",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "障壁",
+    "en": "Barrier"
+  },
+  {
+    "id": "$en_JenovaLife_BoneWing1",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "右翼",
+    "en": "Right Wing"
+  },
+  {
+    "id": "$en_JenovaLife_BoneWing2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "左翼",
+    "en": "Left Wing"
+  },
+  {
+    "id": "$en_JenovaLife_Head",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "頭部",
+    "en": "Head"
+  },
+  {
+    "id": "$en_JenovaLife_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジェノバ Life",
+    "en": "Jenova Lifeclinger"
+  },
+  {
+    "id": "$en_Jersey_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジャッジ",
+    "en": "Adjudicator"
+  },
+  {
+    "id": "$en_Joker_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジョーカー",
+    "en": "Joker"
+  },
+  {
+    "id": "$en_Kelzmelzer_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ゲルシュメルゼ",
+    "en": "Kelzmelzer"
+  },
+  {
+    "id": "$en_KillerBee_ChildEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キラービー",
+    "en": "Guard Bee"
+  },
+  {
+    "id": "$en_KillerBee_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クイーンビー",
+    "en": "Queen Bee"
+  },
+  {
+    "id": "$en_KimaraBug_GongagaEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ミミクリィキマラ",
+    "en": "Chimera Mimic"
+  },
+  {
+    "id": "$en_KimaraBug_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "インセクトキマラ",
+    "en": "Insectoid Chimera"
+  },
+  {
+    "id": "$en_KimaraBug_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デモニスキマラ",
+    "en": "Threadspinner Chimera"
+  },
+  {
+    "id": "$en_Kjata_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クジャタ",
+    "en": "Kujata"
+  },
+  {
+    "id": "$en_Kyuvilduns_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "カルニフェクス",
+    "en": "Carnifex"
+  },
+  {
+    "id": "$en_Kyuvilduns_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キュビルデュヌス",
+    "en": "Kyuvildun"
+  },
+  {
+    "id": "$en_LandWorm_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デューンウォーム",
+    "en": "Duneworm"
+  },
+  {
+    "id": "$en_LandWorm_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ランドウォーム",
+    "en": "Landworm"
+  },
+  {
+    "id": "$en_LandWorm_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ギガースウォーム",
+    "en": "Gigaworm"
+  },
+  {
+    "id": "$en_LandWorm_SubspeciesEnd2_PartsStomach",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "腹部",
+    "en": "Stomach"
+  },
+  {
+    "id": "$en_Leviathan_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "リヴァイアサン",
+    "en": "Leviathan"
+  },
+  {
+    "id": "$en_Levrikon_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "レブリコンプテラ",
+    "en": "Aggrevrikon"
+  },
+  {
+    "id": "$en_Levrikon_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "レブリコン",
+    "en": "Levrikon"
+  },
+  {
+    "id": "$en_Levrikon_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "レブリドン",
+    "en": "Levridon"
+  },
+  {
+    "id": "$en_LostNumber_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ロストナンバー",
+    "en": "Forgotten Specimen"
+  },
+  {
+    "id": "$en_Magicpot_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マジックポット",
+    "en": "Magic Pot"
+  },
+  {
+    "id": "$en_Mandragora_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マンドレイク",
+    "en": "Mandrake"
+  },
+  {
+    "id": "$en_Mandragora_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マンドラゴラ",
+    "en": "Mandragora"
+  },
+  {
+    "id": "$en_MateriaKeeper_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マテリアキーパー",
+    "en": "Materia Guardian"
+  },
+  {
+    "id": "$en_MidgarZolom_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ミドガルズオルム",
+    "en": "Midgardsormr"
+  },
+  {
+    "id": "$en_Mindflayer_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マインドフレア",
+    "en": "Mindflayer"
+  },
+  {
+    "id": "$en_MonoDrive_ScrutinEyeEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サーチアイ",
+    "en": "Scrutineye"
+  },
+  {
+    "id": "$en_Moogle_WhiteEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "モーグリーズ",
+    "en": "Moogle Trio"
+  },
+  {
+    "id": "$en_Morbol_GreatEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "モルボルグレート",
+    "en": "Great Malboro"
+  },
+  {
+    "id": "$en_Morbol_GreatEnd2_SmellyMouth",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "くさい口",
+    "en": "Rank Mouth"
+  },
+  {
+    "id": "$en_Morbol_GreatEnd2_SuperBadMouth",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ちょ～くさい口",
+    "en": "Mephitic Mouth"
+  },
+  {
+    "id": "$en_Morbol_GreatEnd2_VerySmellyMouth",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "とてもくさい口",
+    "en": "Fetid Mouth"
+  },
+  {
+    "id": "$en_Mu_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ラムー",
+    "en": "Mi"
+  },
+  {
+    "id": "$en_Mu_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ムー",
+    "en": "Mu"
+  },
+  {
+    "id": "$en_MythrilGolem_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ミスリルゴーレム",
+    "en": "Mythril Golem"
+  },
+  {
+    "id": "$en_NeedleKiss_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セイバーキッス",
+    "en": "Saberhawk"
+  },
+  {
+    "id": "$en_NeedleKiss_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ニードルキッス",
+    "en": "Spearhawk"
+  },
+  {
+    "id": "$en_NeoBahamut_BlackFeeler",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フィーラー＝バハムート改",
+    "en": "Bahamut Arisen Whisper"
+  },
+  {
+    "id": "$en_NeoBahamut_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バハムート改",
+    "en": "Bahamut Arisen"
+  },
+  {
+    "id": "$en_Nerosuferoth_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "カウトスフェロス",
+    "en": "Lavalisk"
+  },
+  {
+    "id": "$en_Nerosuferoth_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ネロスフェロス",
+    "en": "Ignilisk"
+  },
+  {
+    "id": "$en_Odin_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "オーディン",
+    "en": "Odin"
+  },
+  {
+    "id": "$en_Ogre_OrcEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "オーク",
+    "en": "Orc"
+  },
+  {
+    "id": "$en_Ogre_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "オーガ",
+    "en": "Ogre"
+  },
+  {
+    "id": "$en_Ogre_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "オーガ・ランページ",
+    "en": "Ogre Raider"
+  },
+  {
+    "id": "$en_PalmerMech_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トードエボルブ",
+    "en": "Anuran Suppressor"
+  },
+  {
+    "id": "$en_Palmer_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "パルマー",
+    "en": "Palmer"
+  },
+  {
+    "id": "$en_Phoenix_LifeOfFire",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "生命の炎",
+    "en": "Flame of Life"
+  },
+  {
+    "id": "$en_Phoenix_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フェニックス",
+    "en": "Phoenix"
+  },
+  {
+    "id": "$en_PuzoCute_BloatfloatEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スウェルフロート",
+    "en": "Bloatfloat"
+  },
+  {
+    "id": "$en_PuzoCute_TropicalEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トロピカルプアゾキュート",
+    "en": "Citripinefish"
+  },
+  {
+    "id": "$en_PuzoCute_TropicalRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "プアゾキュートコマンダー",
+    "en": "Citripine Schoolmaster"
+  },
+  {
+    "id": "$en_Pyramid_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ピラミッド機雷",
+    "en": "Pyramid Mine"
+  },
+  {
+    "id": "$en_Quetzalcoatl_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ケツァルコアトル",
+    "en": "Quetzalcoatl"
+  },
+  {
+    "id": "$en_Quetzalcoatl_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セーアコアトル",
+    "en": "Hueyacoatl"
+  },
+  {
+    "id": "$en_Ramuh_ChargeCore",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "チャージオーブ",
+    "en": "Spark"
+  },
+  {
+    "id": "$en_Ramuh_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ラムウ",
+    "en": "Ramuh"
+  },
+  {
+    "id": "$en_Reapertail_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アラクラン",
+    "en": "Reapertail"
+  },
+  {
+    "id": "$en_RedDragon_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "レッドドラゴン",
+    "en": "Red Dragon"
+  },
+  {
+    "id": "$en_Reno_Mine",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "電磁機雷",
+    "en": "EM Mine"
+  },
+  {
+    "id": "$en_Reno_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "レノ",
+    "en": "Reno"
+  },
+  {
+    "id": "$en_Rude_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ルード",
+    "en": "Rude"
+  },
+  {
+    "id": "$en_Rufus_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ルーファウス",
+    "en": "Rufus"
+  },
+  {
+    "id": "$en_Sahagin_DesertEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デザートサハギン",
+    "en": "Desert Sahagin"
+  },
+  {
+    "id": "$en_Sahagin_DesertRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サハギンウォーリア",
+    "en": "Sahagin Warrior"
+  },
+  {
+    "id": "$en_Sahagin_GreatEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "グレーターサハギン",
+    "en": "Greater Sahagin"
+  },
+  {
+    "id": "$en_Scarlet_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スカーレット",
+    "en": "Scarlet"
+  },
+  {
+    "id": "$en_ScrMagArmorCustom_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "クリムゾン・メア改",
+    "en": "Crimson Mare Mk. II"
+  },
+  {
+    "id": "$en_Screamer_FusionEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "マドゥマンジュ",
+    "en": "Shrieker"
+  },
+  {
+    "id": "$en_Screamer_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スクリーマー",
+    "en": "Screamer"
+  },
+  {
+    "id": "$en_Seadevil_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シーデビル",
+    "en": "Sea Devil"
+  },
+  {
+    "id": "$en_SearchCrown_BatteryCapEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バッテリーキャップ",
+    "en": "Poison Cap"
+  },
+  {
+    "id": "$en_SearchCrown_BatteryCapRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "プワゾンキャップ",
+    "en": "Noxicap"
+  },
+  {
+    "id": "$en_SearchCrown_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "サーチャクラウン",
+    "en": "Heatseeker"
+  },
+  {
+    "id": "$en_SecuritySoldier_JunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン警備兵",
+    "en": "Junon Security Officer"
+  },
+  {
+    "id": "$en_SecuritySoldier_Senior",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "上級警備兵",
+    "en": "Elite Security Officer"
+  },
+  {
+    "id": "$en_SecuritySoldier_SeniorJunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン上級警備兵",
+    "en": "Junon Elite Security Officer"
+  },
+  {
+    "id": "$en_SecuritySoldier_SpecialForcesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "特殊作戦兵",
+    "en": "Special Forces Operator"
+  },
+  {
+    "id": "$en_SecuritySoldier_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "警備兵",
+    "en": "Security Officer"
+  },
+  {
+    "id": "$en_Sephiroth_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セフィロス",
+    "en": "Sephiroth"
+  },
+  {
+    "id": "$en_Sephiroth_StandardLastBattle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セフィロス：ラストバトル",
+    "en": "Sephiroth (Forgotten Capital)"
+  },
+  {
+    "id": "$en_Sephiroth_Standard_2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セフィロス",
+    "en": "Sephiroth"
+  },
+  {
+    "id": "$en_Sephiroth_Standard_3",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セフィロス",
+    "en": "Sephiroth"
+  },
+  {
+    "id": "$en_Sephiroth_Standard_Ice",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "氷塊",
+    "en": "Frostbite"
+  },
+  {
+    "id": "$en_Sephiroth_VRHard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "セフィロスＶＲ",
+    "en": "Virtual Sephiroth"
+  },
+  {
+    "id": "$en_ShieldSoldier_Flame",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "重火兵",
+    "en": "Flametrooper"
+  },
+  {
+    "id": "$en_ShieldSoldier_FlameJunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン重火兵",
+    "en": "Junon Flametrooper"
+  },
+  {
+    "id": "$en_ShieldSoldier_JunonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノン鎮圧兵",
+    "en": "Junon Riot Trooper"
+  },
+  {
+    "id": "$en_ShieldSoldier_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "鎮圧兵",
+    "en": "Riot Trooper"
+  },
+  {
+    "id": "$en_Shiva_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "シヴァ",
+    "en": "Shiva"
+  },
+  {
+    "id": "$en_Skeeskee_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ドドドアチョ",
+    "en": "Drohdroh"
+  },
+  {
+    "id": "$en_Skeeskee_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キキキアチョ",
+    "en": "Skeeskee"
+  },
+  {
+    "id": "$en_Slaps_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スラップス",
+    "en": "Berserker Bee"
+  },
+  {
+    "id": "$en_Sleipnir_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スレイプニル",
+    "en": "Sleipnir"
+  },
+  {
+    "id": "$en_Soldier3rd_2ndEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ソルジャー２ｎｄ",
+    "en": "2-C SOLDIER Operator"
+  },
+  {
+    "id": "$en_Soldier3rd_Locche",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ローチェ",
+    "en": "Roche"
+  },
+  {
+    "id": "$en_SoulFire_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ソウルファイア",
+    "en": "Soul Flame"
+  },
+  {
+    "id": "$en_Spencer_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フライングリッパー",
+    "en": "Bladefin"
+  },
+  {
+    "id": "$en_Spencer_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スペンサー",
+    "en": "Sandspitter"
+  },
+  {
+    "id": "$en_Stinger_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スティンガー",
+    "en": "Stinger"
+  },
+  {
+    "id": "$en_StunRay_GroundtypeEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スタンレイType-G",
+    "en": "Type G Slug-Ray"
+  },
+  {
+    "id": "$en_StunRay_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スタンレイ",
+    "en": "Slug-Ray"
+  },
+  {
+    "id": "$en_Sweeper_CustomEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "スイーパーカスタム",
+    "en": "Modded Sweeper"
+  },
+  {
+    "id": "$en_Sweeper_CustomEnd2_PartsArmL",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "左腕",
+    "en": "Left Arm"
+  },
+  {
+    "id": "$en_Sweeper_CustomEnd2_PartsArmR",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "右腕",
+    "en": "Right Arm"
+  },
+  {
+    "id": "$en_Sweeper_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ジュノンスイーパー",
+    "en": "J-Unit Sweeper"
+  },
+  {
+    "id": "$en_Titan_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "タイタン",
+    "en": "Titan"
+  },
+  {
+    "id": "$en_Tonberry_Crown",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キレイな王冠",
+    "en": "Pristine Crown"
+  },
+  {
+    "id": "$en_Tonberry_DonEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ドン・トンベリ",
+    "en": "Donberry"
+  },
+  {
+    "id": "$en_Tonberry_KingEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トンベリキング",
+    "en": "Tonberry King"
+  },
+  {
+    "id": "$en_Tonberry_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トンベリ",
+    "en": "Tonberry"
+  },
+  {
+    "id": "$en_TouchMe_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "パヤパヤ",
+    "en": "Pastel Amphidex"
+  },
+  {
+    "id": "$en_TouchMe_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "タッチミー",
+    "en": "Amphidex"
+  },
+  {
+    "id": "$en_TouchMe_ToxicFrogEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ポイズンフロッグ",
+    "en": "Blight Frog"
+  },
+  {
+    "id": "$en_Tseng_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ツォン",
+    "en": "Tseng"
+  },
+  {
+    "id": "$en_VagidPolice_SephirothEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ネオヴァギドポリス",
+    "en": "Experimental Varghidpolis"
+  },
+  {
+    "id": "$en_VagidPolice_TwinBrainEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ダブルブレイン",
+    "en": "Twin Brain"
+  },
+  {
+    "id": "$en_Valron_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "アンドラス",
+    "en": "Marquis Valron"
+  },
+  {
+    "id": "$en_Valron_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バルロン",
+    "en": "Valron"
+  },
+  {
+    "id": "$en_Valron_SubspeciesEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "パイレーツデーモン",
+    "en": "Brineborn Demon"
+  },
+  {
+    "id": "$en_VelcherTask_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "デュボアタスク",
+    "en": "Suevite Disgorgon"
+  },
+  {
+    "id": "$en_VelcherTask_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ベルチャータスク",
+    "en": "Disgorgon"
+  },
+  {
+    "id": "$en_VelcherTask_StandardEnd2_PartsJaw",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "あご",
+    "en": "Jaw"
+  },
+  {
+    "id": "$en_Vice_Beg",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ベグ",
+    "en": "Beck"
+  },
+  {
+    "id": "$en_Vice_Bonza",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ボンザ",
+    "en": "Burt"
+  },
+  {
+    "id": "$en_Vice_Buccho",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ブッチョ",
+    "en": "Butch"
+  },
+  {
+    "id": "$en_Vice_Bud",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バド",
+    "en": "Burke"
+  },
+  {
+    "id": "$en_Vice_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バグラー",
+    "en": "Bandit"
+  },
+  {
+    "id": "$en_VincentValentine_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ガリアンビースト",
+    "en": "Galian Beast"
+  },
+  {
+    "id": "$en_WereRat_Poison",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "バイオラット",
+    "en": "Toxirat"
+  },
+  {
+    "id": "$en_WereRat_PoisonRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ベノムラット",
+    "en": "Venorat"
+  },
+  {
+    "id": "$en_WereRat_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ウェアラット",
+    "en": "Wererat"
+  },
+  {
+    "id": "$en_WholeEater_Standard",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ホウルイーター",
+    "en": "Gorger"
+  },
+  {
+    "id": "$en_YingYang_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "イン＆ヤン",
+    "en": "Yin & Yang"
+  },
+  {
+    "id": "$en_Zemzelett_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ワイズレット",
+    "en": "Whymzelett"
+  },
+  {
+    "id": "$en_Zemzelett_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ゼムゼレット",
+    "en": "Zemzelett"
+  },
+  {
+    "id": "$en_Zenene_SneakyStepEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ステルシーステップ",
+    "en": "Cavestalker"
+  },
+  {
+    "id": "$en_Zuu_KingEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "キングズー",
+    "en": "King Zu"
+  },
+  {
+    "id": "$en_Zuu_KingEnd2_PartsWingL",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "左翼",
+    "en": "Left Wing"
+  },
+  {
+    "id": "$en_Zuu_KingEnd2_PartsWingR",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "右翼",
+    "en": "Right Wing"
+  },
+  {
+    "id": "$en_Zuu_RareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ズーニクス",
+    "en": "Ember Zu"
+  },
+  {
+    "id": "$en_Zuu_StandardEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "ズー",
+    "en": "Zu"
+  },
+  {
+    "id": "$en_Zuu_TonaduEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "トーンアドゥ",
+    "en": "Tonadu"
+  },
+  {
+    "id": "$en_Zuu_TonaduRareEnd2",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "フォーンアドゥ",
+    "en": "Fonadu"
+  },
+  {
+    "id": "$en_chocobo_moogle",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "enemy_names",
+    "jp": "チョコボ＆モーグリ",
+    "en": "Chocobo & Moogle"
+  },
+  {
+    "id": "$partsName_HellHouse_Larm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "左腕",
+    "en": "Left Arm"
+  },
+  {
+    "id": "$partsName_HellHouse_Rarm",
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "category": "target_part_names",
+    "jp": "右腕",
+    "en": "Right Arm"
+  }
+]

@@ -1,0 +1,4354 @@
+[
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18200_00_mfa",
+    "Japanese": {
+      "Text": "おでかけするなら\r\nチョコボに乗ってって！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "The best way to make tracks is on chocoback!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 0
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18300_00_mfa",
+    "Japanese": {
+      "Text": "チョコボがレンタルできま～す！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Chocobos for rent right here, folks!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 1
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18310_00_mfa",
+    "Japanese": {
+      "Text": "いまなら大人気の\r\nキュマちゃんがあいてますよ～！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Our beloved bird Kyma is available right now!",
+      "MetaData": {
+        "ACTOR": "Barker"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 2
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18400_00_sfa",
+    "Japanese": {
+      "Text": "いらっしゃいませ～！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Hello there!",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 3
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18500_00_sfa",
+    "Japanese": {
+      "Text": "チョコボをレンタルするなら　まず\r\n『レンタルパス』を購入してくださいね",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "If you're looking to borrow one of our birds, you'll need to purchase a rental pass first.",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 4
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18600_00_sfa",
+    "Japanese": {
+      "Text": "いらっしゃいませ～！\r\nチョコボのことなら　おまかせあれ～",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Welcome! We're here to serve all your bird-related needs.",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 5
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18700_00_sfa",
+    "Japanese": {
+      "Text": "ありがとうございます！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Thank youuu!",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 6
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18800_00_sfa",
+    "Japanese": {
+      "Text": "チョコボレンタル会員に登録しましたんで\r\nレンタルチョコボを　自由に使ってくださいね",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "I've registered your information in our system, so now you're free to borrow our birds whenever you like!",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 7
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_18900_00_sfa",
+    "Japanese": {
+      "Text": "ありがとうございました！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Thank you kindly!",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 8
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_19000_00_sfa",
+    "Japanese": {
+      "Text": "また来てくださいね！",
+      "MetaData": {
+        "ACTOR": "チョコボスタッフ"
+      }
+    },
+    "English": {
+      "Text": "Come back soon!",
+      "MetaData": {
+        "ACTOR": "Chocobo Handler"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 9
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20000_00_mfa",
+    "Japanese": {
+      "Text": "いらっしゃいませ～！",
+      "MetaData": {
+        "ACTOR": "アイテム屋"
+      }
+    },
+    "English": {
+      "Text": "Welcome!",
+      "MetaData": {
+        "ACTOR": "Item Vendor"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 3
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20100_00_mfa",
+    "Japanese": {
+      "Text": "ありがとうございました～！",
+      "MetaData": {
+        "ACTOR": "アイテム屋"
+      }
+    },
+    "English": {
+      "Text": "Thanks for stopping by.",
+      "MetaData": {
+        "ACTOR": "Item Vendor"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 10
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20200_00_mfa",
+    "Japanese": {
+      "Text": "いらっしゃいませ～！",
+      "MetaData": {
+        "ACTOR": "カードショップ"
+      }
+    },
+    "English": {
+      "Text": "Welcome!",
+      "MetaData": {
+        "ACTOR": "Card Shop Employee"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 3
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0600_20300_00_mfa",
+    "Japanese": {
+      "Text": "ありがとうございました～！",
+      "MetaData": {
+        "ACTOR": "カードショップ"
+      }
+    },
+    "English": {
+      "Text": "Thanks for stopping by!",
+      "MetaData": {
+        "ACTOR": "Card Shop Employee"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 10
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_0900_0600_00_mfa",
+    "Japanese": {
+      "Text": "ジョニーって人を\r\n何人も見た気がするんだけど"
+    },
+    "English": {
+      "Text": "Feels like I've seen a lot of that Johnny guy lately. Like, literally."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 11
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0100_00_mma",
+    "Japanese": {
+      "Text": "かなり攻めたデザインだな"
+    },
+    "English": {
+      "Text": "That's a rather bold look."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 12
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0200_00_mma",
+    "Japanese": {
+      "Text": "くっそ～\r\n俺もステキな思い出作りて～！"
+    },
+    "English": {
+      "Text": "Hoo baby! Do they have a judging panel or somethin' I can join?"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 13
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0300_00_mma",
+    "Japanese": {
+      "Text": "あれ着たら　ビーチで目立つだろうな"
+    },
+    "English": {
+      "Text": "That suit would certainly attract attention."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 14
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_0400_00_mma",
+    "Japanese": {
+      "Text": "メンズ用の水着も出るよな？"
+    },
+    "English": {
+      "Text": "Think they'll show menswear too?"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 15
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1100_00_mfa",
+    "Japanese": {
+      "Text": "このブランドの動向は要チェックね"
+    },
+    "English": {
+      "Text": "I always love seeing what this brand cooks up."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 16
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1200_00_mfa",
+    "Japanese": {
+      "Text": "ステキだったけど　私に似合うかな"
+    },
+    "English": {
+      "Text": "That stuff was cute, but...was it right for <i>me</i>?"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 17
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1300_00_mfa",
+    "Japanese": {
+      "Text": "トレンドが決まったんじゃない？"
+    },
+    "English": {
+      "Text": "That look is gonna blow up!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 18
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1200_1400_00_mfa",
+    "Japanese": {
+      "Text": "ペアルックもいいかもね"
+    },
+    "English": {
+      "Text": "Matching suits are so chic."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 19
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0100_00_mma",
+    "Japanese": {
+      "Text": "どうだい　だいぶ仕上がってきただろ"
+    },
+    "English": {
+      "Text": "How's this? Lookin' pretty good, ain't I?"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 20
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0200_00_mma",
+    "Japanese": {
+      "Text": "キレてるよ～　ナイスカット！"
+    },
+    "English": {
+      "Text": "Better than good. You're a beast!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 21
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0300_00_mma",
+    "Japanese": {
+      "Text": "ここまでくるには\r\n汗だけじゃなく　涙も流したさ"
+    },
+    "English": {
+      "Text": "Gettin' this ripped took a lotta blood, sweat, and tears! Mainly tears."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 22
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0400_00_mma",
+    "Japanese": {
+      "Text": "そうだろうな～　涙のナイスバルク！"
+    },
+    "English": {
+      "Text": "Hell yeah, bro. Preach it. Tears make the man!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 23
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0500_00_mma",
+    "Japanese": {
+      "Text": "はあっ……くうっ！"
+    },
+    "English": {
+      "Text": "Hng... Urgh...!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 24
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0700_00_mma",
+    "Japanese": {
+      "Text": "もう　限界……！"
+    },
+    "English": {
+      "Text": "Can't...keep...going..."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 25
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_0900_00_mma",
+    "Japanese": {
+      "Text": "くおおお……！"
+    },
+    "English": {
+      "Text": "Argh!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 26
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2100_00_mfa",
+    "Japanese": {
+      "Text": "みんな　『筋肉の唄』いくよ！"
+    },
+    "English": {
+      "Text": "Okay, people! The builder's creed!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 27
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2200_00_mma",
+    "Japanese": {
+      "Text": "信ずるモノは　己の筋肉！"
+    },
+    "English": {
+      "Text": "My body's a temple─my muscles, religion!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 28
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2300_00_mma",
+    "Japanese": {
+      "Text": "流した汗に　偽りなし！"
+    },
+    "English": {
+      "Text": "The sweat off my brow is proof of my conviction!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 29
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2400_00_mma",
+    "Japanese": {
+      "Text": "笑顔で今日も　うさぎ飛び！"
+    },
+    "English": {
+      "Text": "Greet every day with a bunny hop!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 30
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2500_00_mma",
+    "Japanese": {
+      "Text": "涙こらえて　スクワット！"
+    },
+    "English": {
+      "Text": "Squat through the pain and tears that never stop!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 31
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2600_00_mfa",
+    "Japanese": {
+      "Text": "それが我らの　生きる道！"
+    },
+    "English": {
+      "Text": "Lift, laugh, love!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 32
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2700_00_mma",
+    "Japanese": {
+      "Text": "燃えろ　脂肪！"
+    },
+    "English": {
+      "Text": "Die, fat deposits!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 33
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2800_00_mma",
+    "Japanese": {
+      "Text": "耐えろ　筋繊維！"
+    },
+    "English": {
+      "Text": "Power through, muscle fibers!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 34
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_2900_00_mfa",
+    "Japanese": {
+      "Text": "越えろ　限界！"
+    },
+    "English": {
+      "Text": "Get lost, limits!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 35
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3000_00_mma",
+    "Japanese": {
+      "Text": "しぼれ　乳酸！"
+    },
+    "English": {
+      "Text": "Eat a dick, lactic acid!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 36
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3100_00_mma",
+    "Japanese": {
+      "Text": "めぐれ　酸素！"
+    },
+    "English": {
+      "Text": "Pick up the pace, vascular system!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 37
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3200_00_mma",
+    "Japanese": {
+      "Text": "いまだ　超回復！"
+    },
+    "English": {
+      "Text": "And...two-second break!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 38
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3300_00_mfa",
+    "Japanese": {
+      "Text": "くらえ　タンパク質！"
+    },
+    "English": {
+      "Text": "Slam that protein!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 39
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3400_00_mma",
+    "Japanese": {
+      "Text": "うまいぞ　プロテイン！"
+    },
+    "English": {
+      "Text": "Nothin' beats a good protein shake!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 40
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_3900_00_mma",
+    "Japanese": {
+      "Text": "重要なのは　忍耐と持続"
+    },
+    "English": {
+      "Text": "Endurance and determination─that's what counts."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 41
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4000_00_mma",
+    "Japanese": {
+      "Text": "開放の喜びは　その先にある！"
+    },
+    "English": {
+      "Text": "Fight through the pain... Almost done!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 42
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4100_00_mma",
+    "Japanese": {
+      "Text": "イテテ　腕つった～……"
+    },
+    "English": {
+      "Text": "Oh no! Muscle cramp!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 43
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4500_00_mma",
+    "Japanese": {
+      "Text": "敵は自分　自分の弱さ！"
+    },
+    "English": {
+      "Text": "The true battle lies within the self."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 44
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4600_00_mma",
+    "Japanese": {
+      "Text": "今日の俺は　昨日の俺より強い！"
+    },
+    "English": {
+      "Text": "I will become stronger. I will rise above!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 45
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_4700_00_mma",
+    "Japanese": {
+      "Text": "かかってこいや～！"
+    },
+    "English": {
+      "Text": "Bring on the pain!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 46
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5100_00_mma",
+    "Japanese": {
+      "Text": "負けるな質量　ふりきれ重力！"
+    },
+    "English": {
+      "Text": "I will prevail. Gravity can't keep me down!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 47
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5200_00_mma",
+    "Japanese": {
+      "Text": "自らを次のステージに……引きあげる！"
+    },
+    "English": {
+      "Text": "C'mon, take it up a notch. You can do this!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 48
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5300_00_mma",
+    "Japanese": {
+      "Text": "飛べ～！"
+    },
+    "English": {
+      "Text": "I can do this!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 49
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5700_00_mma",
+    "Japanese": {
+      "Text": "ムフフ　できてる～"
+    },
+    "English": {
+      "Text": "Heh heh... Check me out."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 50
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5800_00_mma",
+    "Japanese": {
+      "Text": "完璧な自分が　おそろしい～！"
+    },
+    "English": {
+      "Text": "It's almost scary how perfect I am."
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 51
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_5900_00_mma",
+    "Japanese": {
+      "Text": "どうぞ　触ってもいいですよ～"
+    },
+    "English": {
+      "Text": "Don't be shy. Go on, touch me!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 52
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6300_00_mma",
+    "Japanese": {
+      "Text": "ここが踏ん張りどころだ！"
+    },
+    "English": {
+      "Text": "Don't you dare quit on me!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 53
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6400_00_mma",
+    "Japanese": {
+      "Text": "あきらめないで　ポジティブに！"
+    },
+    "English": {
+      "Text": "Almost there. Keep it up!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 54
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6600_00_mma",
+    "Japanese": {
+      "Text": "さあ　限界を超えよう！"
+    },
+    "English": {
+      "Text": "Come on! Push past your limit!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 55
+  },
+  {
+    "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+    "id": "$COSTT_NPC_10_1300_6700_00_mma",
+    "Japanese": {
+      "Text": "いけるよ　負けるな！"
+    },
+    "English": {
+      "Text": "You got this! Don't give up!"
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 56
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_01_Detail",
+    "Japanese": {
+      "Text": "現在はリゾート地として有名なコスタ・デル・ソルですが、かつては、海の恵みを享受して暮らす人々による小さな集落があるだけの、静かな海岸でした。しかし、神羅とジュノン共和国との関係が悪化し始めた頃、海岸一帯は神羅に占拠されてしまいます。\r\n\r\nその後、戦争が終結すると神羅カンパニーによって再開発と観光地化を進められ、誰しもが一生に一度はおとずれたい憧れのリゾート地へと生まれ変わりました。\r\n\r\nコスタ・デル・ソルでは様々な価格帯のツアープランが用意されており、世界中から幅広い層の人々がビーチでの休暇を楽しまれています。とくにゴールドソーサーとセットになっているツアーが人気のようです。"
+    },
+    "English": {
+      "Text": "Though Costa del Sol is now a renowned beach resort, it was once home to a string of humble fishing villages. However, when relations between Shinra and the Republic of Junon began to deteriorate, Shinra annexed this portion of the coast. After the war, the company designated the area for redevelopment, transforming it into the must-visit location for avid sunseekers that it is today.\r\n\r\nCosta del Sol offers vacation packages to suit any budget, allowing travelers from every corner of the globe to savor the idyllic beaches. Plans that include a trip to the Gold Saucer have proven particularly popular."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 57
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_01_Title",
+    "Japanese": {
+      "Text": "コスタ・デル・ソルの歴史"
+    },
+    "English": {
+      "Text": "Costa del Sol: A Recent History"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_02_Detail",
+    "Japanese": {
+      "Text": "石炭が燃料の主流だった共和国時代、良質な石炭が採掘できるコレル山には職を求めて多種多様な人々が集まり、コミュニティを形成していました。暗い坑道での作業は危険で、命を落とすことも少なくないため、村人の団結力は非常に強かったと言います。\r\n\r\n石炭によって栄えたコレルでしたが、魔晄が発見されると、石炭の価値が暴落し、急激に衰退していきました。そんな中、神羅カンパニーから魔晄炉の建設を提案されたコレル村の人々は、話し合いの末、神羅の提案を受け入れました。\r\n\r\nコレル魔晄炉の建設は急ピッチで進められましたが、稼働直前というところで爆発事故を起こし、以降、放置されています。"
+    },
+    "English": {
+      "Text": "Coal was in high demand in the days of the republic, and the wealth of Mt. Corel drew miners from far and wide. Though the work was hard and dangerous, the laborers banded together to overcome their difficulties, forming a close-knit community in the process.\r\n\r\nAlas, the advent of mako saw the price of coal plummet, spelling disaster for the people of Corel. As they struggled to find a way forward, Shinra proposed the construction of a mako reactor, and after much debate, the villagers accepted the offer.\r\n\r\nThe reactor was constructed with astonishing haste, but just prior to being brought online, it was torn apart by an immense explosion, and has been left in ruins ever since."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 58
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_02_Title",
+    "Japanese": {
+      "Text": "コレル鉱山の衰退"
+    },
+    "English": {
+      "Text": "Corel: A Tale of Decline"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_03_Detail",
+    "Japanese": {
+      "Text": "すべての始まりはディオという一人の神羅社員でした。彼は考古の館と呼ばれる博物館を企画しましたが、不人気の末、すぐに潰してしまいます。しかし、そこでめげることなく、世界一のテーマパーク建設計画を立ち上げ、手始めに小さな遊園地を建設しました。\r\n\r\n４年前にコレル魔晄炉の事故が起こり、コレル村周辺の大規模開発を聞きつけると、ディオはそれに便乗する形で遊園地をコレル村の跡地に移転し、最先端の大型商業施設へとリニューアルしました。\r\n\r\nゴールドソーサーは複数の小型魔晄炉を有していますが、それらの影響で周囲の砂漠化が急激に進行してしまったことを受け、現在は稼働基を最小限におさえ、土地の延命を図っています。"
+    },
+    "English": {
+      "Text": "The tale of the Gold Saucer began with a Shinra employee named Dio, who convinced the company to build a museum called the Reliquary. Although it was doomed to failure, Dio was not to be deterred, and he set about founding the world's largest theme park, which he first conceived as a small-scale fairground.\r\n\r\nIn the wake of the Corel Mako Reactor explosion four years ago, plans were set in motion to revitalize the local economy. Hearing this, Dio decided to relocate his fairground to the region, eventually transforming it into a state-of-the-art entertainment complex.\r\n\r\nNow known as the Gold Saucer, it is powered by several modular reactors, which are responsible for the surrounding area's accelerated desertification. In light of this, the reactors are now run at minimum output, in an attempt to mitigate further damage to the environment."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 59
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$AreaReport_CORLA_03_Title",
+    "Japanese": {
+      "Text": "ゴールドソーサーの沿革"
+    },
+    "English": {
+      "Text": "The Rise of the Gold Saucer"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLA_ITEM_000",
+    "Japanese": {
+      "Text": "コレルエリア　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLA_MAGIC_000",
+    "Japanese": {
+      "Text": "コレルエリア　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLA_MOOGLESHOP_000",
+    "Japanese": {
+      "Text": "コレルエリア北部　モーグリショップ"
+    },
+    "English": {
+      "Text": "Moogle Emporium"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLA_MOOGLESHOP_001",
+    "Japanese": {
+      "Text": "コレルエリア南部　モーグリショップ"
+    },
+    "English": {
+      "Text": "Moogle Emporium"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_ITEM_000",
+    "Japanese": {
+      "Text": "コレル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_ITEM_001",
+    "Japanese": {
+      "Text": "コレル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_ITEM_002",
+    "Japanese": {
+      "Text": "コレル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_ITEM_003",
+    "Japanese": {
+      "Text": "コレル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_ITEM_004",
+    "Japanese": {
+      "Text": "コレル山　自動販売機"
+    },
+    "English": {
+      "Text": "Vending Machine"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_MAGIC_000",
+    "Japanese": {
+      "Text": "コレル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_MAGIC_001",
+    "Japanese": {
+      "Text": "コレル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_MAGIC_002",
+    "Japanese": {
+      "Text": "コレル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_MAGIC_003",
+    "Japanese": {
+      "Text": "コレル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLM_MAGIC_004",
+    "Japanese": {
+      "Text": "コレル山　魔導書店出張所"
+    },
+    "English": {
+      "Text": "Maghnata Automat"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLV_ITEM_000",
+    "Japanese": {
+      "Text": "北コレル　マテリア屋"
+    },
+    "English": {
+      "Text": "Materia Vendor"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLV_MAGIC_000",
+    "Japanese": {
+      "Text": "北コレル　魔導書店"
+    },
+    "English": {
+      "Text": "Maghnata Books"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$CORLV_WEAPON_000",
+    "Japanese": {
+      "Text": "北コレル　武器屋"
+    },
+    "English": {
+      "Text": "Weapons Vendor"
+    },
+    "family": "Corel_shop_names",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_00_0400_0100_00_fcs",
+    "Japanese": {
+      "Text": "やりましたね\r\n『出張カメラマン』として認定されましたよ",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "Excellent scouting. The Association's dubbed you a \"regular frontiersman.\"",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 60
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_00_0400_0200_00_fcs",
+    "Japanese": {
+      "Text": "世界をめぐり　興味深い風景や被写体を見つけだす\r\nその嗅覚が認められたようです",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "They see your potential─same as I did. You know how and where to find true beauty in this world.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 61
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_00_0400_0300_00_fcs",
+    "Japanese": {
+      "Text": "この調子で　いろんな土地の撮影スポットを\r\nどんどん見つけていってください",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "It's a gift, and not everyone's got it.\r\nSo don't let yours go to waste.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 62
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_03_0400_0100_00_fcs",
+    "Japanese": {
+      "Text": "オススメ撮影スポットを\r\n見つけてくれたんですね　ありがとうございます",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "Hey there. Thank you for tracking down that spot. Quite the view you captured.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 63
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_03_0400_0200_00_fcs",
+    "Japanese": {
+      "Text": "コスタ・デル・ソルは魅力的な街ですが\r\nそれゆえに写真を撮る時は注意が必要なんです",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "Costa del Sol is full of visual wonders, but it takes effort to capture that magic on film.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 64
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_03_0400_0300_00_fcs",
+    "Japanese": {
+      "Text": "安易に被写体を決めてシャッターを押せば\r\nぜんぶ　同じ写真になってしまいます",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "If you don't select your subjects with care, then all your pictures will start to look the same.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 65
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_03_0400_0400_00_fcs",
+    "Japanese": {
+      "Text": "だから　私は隠れたスポットを求めて\r\n辺鄙なところへ足を伸ばすんです",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "That's why I prefer the road less photographed─\r\nplaces out of the way and off the beaten path.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 66
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$PHOTO_QST_03_0400_0500_00_fcs",
+    "Japanese": {
+      "Text": "たまに迷子になっちゃうんですけどね",
+      "MetaData": {
+        "ACTOR": "フォーカス"
+      }
+    },
+    "English": {
+      "Text": "...So long as I don't get lost, that is.",
+      "MetaData": {
+        "ACTOR": "Snaps"
+      }
+    },
+    "family": "speech",
+    "mode": "translate",
+    "template": 67
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_BoilerValve",
+    "Japanese": {
+      "Text": "ボイラーバルブ"
+    },
+    "English": {
+      "Text": "Boiler Valve",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "boiler valves",
+        "SINGULAR": "boiler valve"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_BoilerValve_help",
+    "Japanese": {
+      "Text": "共和国時代に使われていた旧型ボイラーのバルブです。"
+    },
+    "English": {
+      "Text": "A device used to control both water pressure and temperature in republic-made boilers."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 68
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_Materials",
+    "Japanese": {
+      "Text": "リフォーム資材"
+    },
+    "English": {
+      "Text": "Refurbishment Material",
+      "MetaData": {
+        "ARTICLE": "a bundle of",
+        "ARTICLE2": "bundles of",
+        "PLURAL": "refurbishment materials",
+        "SINGULAR": "refurbishment material"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_Materials_help",
+    "Japanese": {
+      "Text": "シーサイド・ジョニーを生まれ変わらせるための材料です。"
+    },
+    "English": {
+      "Text": "A component necessary for the renovation of Johnny's Seaside Inn."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 69
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_TonberryCrown_normal",
+    "Japanese": {
+      "Text": "キズだらけの王冠"
+    },
+    "English": {
+      "Text": "Marred Crown",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "marred crowns",
+        "SINGULAR": "marred crown"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_TonberryCrown_normal_help",
+    "Japanese": {
+      "Text": "トンベリキングから無理やり奪った汚れた王冠です。"
+    },
+    "English": {
+      "Text": "A badly damaged diadem torn from the head of the Tonberry King."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 70
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_TonberryCrown_rare",
+    "Japanese": {
+      "Text": "キレイな王冠"
+    },
+    "English": {
+      "Text": "Pristine Crown",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "pristine crowns",
+        "SINGULAR": "pristine crown"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst14_TonberryCrown_rare_help",
+    "Japanese": {
+      "Text": "トンベリキングから華麗に盗み取った荘厳な王冠です。"
+    },
+    "English": {
+      "Text": "A regal and unblemished diadem snatched from the head of the Tonberry King."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 71
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Clams",
+    "Japanese": {
+      "Text": "二枚貝の殻"
+    },
+    "English": {
+      "Text": "Scallop Shell",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "scallop shells",
+        "SINGULAR": "scallop shell"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Clams_help",
+    "Japanese": {
+      "Text": "恋人同士で持ち合うのにピッタリな小さな貝殻です。"
+    },
+    "English": {
+      "Text": "A small shell with two symmetrical halves. Perfect for a lovers' keepsake."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 72
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Conch",
+    "Japanese": {
+      "Text": "巻貝の殻"
+    },
+    "English": {
+      "Text": "Conch Shell",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "conch shells",
+        "SINGULAR": "conch shell"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Conch_help",
+    "Japanese": {
+      "Text": "コスタの海岸で採取したクルクルと巻きあがった貝殻です。"
+    },
+    "English": {
+      "Text": "A spiral shell plucked from a sandy beach near Costa del Sol."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 73
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Shell",
+    "Japanese": {
+      "Text": "巨大貝の殻"
+    },
+    "English": {
+      "Text": "Gigantopod Shell",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "gigantopod shells",
+        "SINGULAR": "gigantopod shell"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst15_Shell_help",
+    "Japanese": {
+      "Text": "コスタの海にしか生息していない大型品種の貝殻です。"
+    },
+    "English": {
+      "Text": "An enormous shell that once belonged to a creature unique to the waters of Costa del Sol."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 74
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst17_InvestigationLight",
+    "Japanese": {
+      "Text": "黒マント捜索ライト"
+    },
+    "English": {
+      "Text": "UV-A Flashlight",
+      "MetaData": {
+        "ARTICLE": "a",
+        "PLURAL": "UV-A flashlights",
+        "SINGULAR": "UV-A flashlight"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst17_InvestigationLight_help",
+    "Japanese": {
+      "Text": "黒マントの体液に反応し、発光させる特殊なライトです。"
+    },
+    "English": {
+      "Text": "A flashlight that causes a compound in the robed individuals' sweat to fluoresce."
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 75
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst17_KidnappingLetter",
+    "Japanese": {
+      "Text": "誘拐犯の手紙"
+    },
+    "English": {
+      "Text": "Ransom Note",
+      "MetaData": {
+        "ARTICLE": "the",
+        "SINGULAR": "ransom note"
+      }
+    },
+    "family": "Corel_quest_items",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$key_qst17_KidnappingLetter_help",
+    "Japanese": {
+      "Text": "黒マントを人質に身代金を要求する手紙です。\r\n<color=orange>\r\n黒マントの男は預かった。\r\n返してほしくば１００００ギル用意しろ。\r\n受け渡し方法は、おって連絡する。\r\n</color>\r\nと書かれています。"
+    },
+    "English": {
+      "Text": "A letter from the individual who kidnapped one of the black-robed men in Sheiran's care.\r\n<color=orange>\r\nWe have one of your robed men. If you want him back, it'll cost you 1,000,000 gil. Agree to the terms, and we'll take care of the rest.</color>"
+    },
+    "family": "Corel_quest_items",
+    "mode": "translate",
+    "template": 76
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLA_qst15_Miss_Rubbish",
+    "Japanese": {
+      "Text": "探している貝殻ではなかった。"
+    },
+    "English": {
+      "Text": "This is not the shell you are looking for..."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_A2_SeekClimbing",
+    "Japanese": {
+      "Text": "『かぎなわ』を使って\r\n壁登りできる場所を探そう。"
+    },
+    "English": {
+      "Text": "Use the grappling hook to scale a wall."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_AfterEveryoneJoin_keepout",
+    "Japanese": {
+      "Text": "コレル魔晄炉を目指そう。"
+    },
+    "English": {
+      "Text": "Head to the Corel reactor."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_B2_Lever3",
+    "Japanese": {
+      "Text": "ユフィはスイッチを蹴り倒した。"
+    },
+    "English": {
+      "Text": "Yuffie kicked the switch."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_ConsiderRoute",
+    "Japanese": {
+      "Text": "トロッコ線路の切替装置がある。\r\n仲間たちのためにルートを考えよう。\r\n※現在はバレット好みの危険ルートです。"
+    },
+    "English": {
+      "Text": "Use the lever to select which route your companions will take. (Currently set to Barret's preferred route.)"
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_ElevatorLower_Cloud",
+    "Japanese": {
+      "Text": "ユフィたちを置いてはいけません。"
+    },
+    "English": {
+      "Text": "You cannot leave Yuffie and the others."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_ElevatorLower_Yuffie",
+    "Japanese": {
+      "Text": "クラウドたちを置いてはいけません。"
+    },
+    "English": {
+      "Text": "You cannot leave Cloud and the others."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_EntranceSlope",
+    "Japanese": {
+      "Text": "コレル山を仲間と一緒に登ろう。"
+    },
+    "English": {
+      "Text": "Climb Mt. Corel together."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_GetKaginawa",
+    "Japanese": {
+      "Text": "フィールドアクション\r\n『かぎなわ』が使用可能になった。"
+    },
+    "English": {
+      "Text": "You can now use the grappling hook."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_GoToNorthCorel_keepout",
+    "Japanese": {
+      "Text": "黒マントを追って吊り橋を渡ろう。"
+    },
+    "English": {
+      "Text": "Follow the robed individuals across the bridge."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_GraffitiYuffie",
+    "Japanese": {
+      "Text": "ユフィが描いた道しるべを見つけた。"
+    },
+    "English": {
+      "Text": "You spotted a chalk drawing Yuffie left for you."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_GuidedByBarret",
+    "Japanese": {
+      "Text": "バレットについていこう。"
+    },
+    "English": {
+      "Text": "Follow Barret."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_HardMode_keepout",
+    "Japanese": {
+      "Text": "HARDモードではコスタ方面へは戻れません。"
+    },
+    "English": {
+      "Text": "You cannot return to this area on Hard difficulty."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_LiftInoperative",
+    "Japanese": {
+      "Text": "リフトは稼働していない。"
+    },
+    "English": {
+      "Text": "The elevator is not working."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_LiftingRopeInoperative",
+    "Japanese": {
+      "Text": "昇降機は稼働していない。"
+    },
+    "English": {
+      "Text": "The conveyor is not working right now."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_MineEntrance_keepout",
+    "Japanese": {
+      "Text": "ユフィたちとの合流地点に向かおう。"
+    },
+    "English": {
+      "Text": "Head to the rendezvous point."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_NearDrawbridge",
+    "Japanese": {
+      "Text": "跳ね橋を下げるために炭坑へ向かおう。"
+    },
+    "English": {
+      "Text": "Enter the mines to lower the bridge."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_NearLiftUpper_keepout",
+    "Japanese": {
+      "Text": "先にリフトの制御装置を起動しよう。"
+    },
+    "English": {
+      "Text": "Operate the elevator control unit first."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_PhsAfterEvent_Cloud",
+    "Japanese": {
+      "Text": "通信機の応答はない。"
+    },
+    "English": {
+      "Text": "No response."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_PhsNearDrawbridgeTerminal_Yuffie1",
+    "Japanese": {
+      "Text": "先に跳ね橋を下ろそう。"
+    },
+    "English": {
+      "Text": "Lower the drawbridge first."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_PhsNearDrawbridgeTerminal_Yuffie2",
+    "Japanese": {
+      "Text": "トロッコに乗って仲間と合流しよう。"
+    },
+    "English": {
+      "Text": "Ride the cart down to join up with the others."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_PhsNearDrawbridge_Yuffie",
+    "Japanese": {
+      "Text": "旧炭坑時代に使われていた通信機のようだ。"
+    },
+    "English": {
+      "Text": "It appears to be an old communication device."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_RailwayRoute_Left",
+    "Japanese": {
+      "Text": "バレット好みの危険ルートに切り替えた。"
+    },
+    "English": {
+      "Text": "You switched the tracks to a more perilous route. Barret will approve."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_RailwayRoute_Right",
+    "Japanese": {
+      "Text": "ユフィ好みの安全ルートに切り替えた。"
+    },
+    "English": {
+      "Text": "You switched the tracks to a safer route. Yuffie will approve."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_ReactorAfterMonsterInMakoStorage_keepout",
+    "Japanese": {
+      "Text": "いまはコレル炭坑方面へ進もう。"
+    },
+    "English": {
+      "Text": "Focus on following the robed figures heading toward the mines."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_Reactor_keepout",
+    "Japanese": {
+      "Text": "ユフィのところへ行こう。"
+    },
+    "English": {
+      "Text": "Follow Yuffie."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_SecurePower",
+    "Japanese": {
+      "Text": "『かぎなわ』を使って\r\n電源起動装置にたどりつこう。"
+    },
+    "English": {
+      "Text": "Use the grappling hook to reach the power generator."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_StartLift",
+    "Japanese": {
+      "Text": "先行してリフトを起動しよう。"
+    },
+    "English": {
+      "Text": "Activate the elevator for the others."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_ToNorthCorel_keepout",
+    "Japanese": {
+      "Text": "ユフィたちに連絡しよう。"
+    },
+    "English": {
+      "Text": "Contact Yuffie and the others."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLM_TownSave_Return",
+    "Japanese": {
+      "Text": "仲間はコレル山を登り始めました。"
+    },
+    "English": {
+      "Text": "The others started climbing Mt. Corel."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_StayNorthCorel_keepout",
+    "Japanese": {
+      "Text": "黒マントの情報を集めよう。"
+    },
+    "English": {
+      "Text": "Find out where the robed individuals are headed."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_BirdTrapMemo",
+    "Japanese": {
+      "Text": "レッドXIIIが誘拐犯の匂いを覚えた。"
+    },
+    "English": {
+      "Text": "Red XIII picked up the scent of the kidnapper."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_BlackCloakReactionLight_Off",
+    "Japanese": {
+      "Text": "『黒マント捜索ライト』をしまいました。"
+    },
+    "English": {
+      "Text": "You put away the light."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_BlackCloakReactionLight_On",
+    "Japanese": {
+      "Text": "『黒マント捜索ライト』を取り出しました。"
+    },
+    "English": {
+      "Text": "You took out the UV-A light."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_Gmk_HookRope_A_4_Start_Before",
+    "Japanese": {
+      "Text": "このままでは飛びうつれない。\r\n操作パネルを探し、ゴンドラを動かそう。"
+    },
+    "English": {
+      "Text": "You will need to power on the cableway to cross it. Look for the control panel."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_RedXIIIBattleIN",
+    "Japanese": {
+      "Text": "モンスターの討伐"
+    },
+    "English": {
+      "Text": "Defeat the Fiends"
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_SwitchLiver_Dummy",
+    "Japanese": {
+      "Text": "このレバーは反応がない。"
+    },
+    "English": {
+      "Text": "Nothing happened."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_SwitchLiver_GateClose",
+    "Japanese": {
+      "Text": "扉が閉ざされた。"
+    },
+    "English": {
+      "Text": "The door closed."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_SwitchLiver_GateOpen",
+    "Japanese": {
+      "Text": "扉が開いた。"
+    },
+    "English": {
+      "Text": "The door opened."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_SwitchLiver_GondolaOFF",
+    "Japanese": {
+      "Text": "レバーは壊れてしまったようだ。"
+    },
+    "English": {
+      "Text": "The lever seems to be broken."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_SwitchLiver_GondolaON",
+    "Japanese": {
+      "Text": "炭坑の運搬用ゴンドラが動き始めた。\r\n<button=catch>『かぎなわ』で進んでみよう。"
+    },
+    "English": {
+      "Text": "The cableway started moving.\r\nUse the grappling hook (<button=catch>) to make your way across."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_TrackingBattleIN",
+    "Japanese": {
+      "Text": "追跡を邪魔するモンスターを倒そう。"
+    },
+    "English": {
+      "Text": "Defeat the fiends impeding your progress."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_TrackingOut",
+    "Japanese": {
+      "Text": "レッドXIIIについていこう。"
+    },
+    "English": {
+      "Text": "Follow Red XIII."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_TrackingStart",
+    "Japanese": {
+      "Text": "レッドXIIIについていこう。"
+    },
+    "English": {
+      "Text": "Follow Red XIII."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst17_UnlockSearch",
+    "Japanese": {
+      "Text": "扉を開ける方法を探そう。"
+    },
+    "English": {
+      "Text": "Look for a way to open the door."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapBreak",
+    "Japanese": {
+      "Text": "トラップにかかったモンスターを倒そう。"
+    },
+    "English": {
+      "Text": "Defeat the fiends lured in by the trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapCheck",
+    "Japanese": {
+      "Text": "ほかのトラップを確認しに行こう。"
+    },
+    "English": {
+      "Text": "Check on the other trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapFailure1",
+    "Japanese": {
+      "Text": "このトラップは壊されてしまった。"
+    },
+    "English": {
+      "Text": "Fiends have eaten the bait and ruined the trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapFailure2",
+    "Japanese": {
+      "Text": "このトラップは壊されてしまった。"
+    },
+    "English": {
+      "Text": "Fiends have eaten the bait and ruined the trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapLoss",
+    "Japanese": {
+      "Text": "『バードトラップ』を失った。"
+    },
+    "English": {
+      "Text": "Bird trap set."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapMemo",
+    "Japanese": {
+      "Text": "『バードトラップ』を仕掛ける場所が\r\nナビマップに登録された。"
+    },
+    "English": {
+      "Text": "The locations to set the traps have been added to the map."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapNone",
+    "Japanese": {
+      "Text": "『バードトラップ』を所持していません。"
+    },
+    "English": {
+      "Text": "You don't have any bird traps."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapSet1",
+    "Japanese": {
+      "Text": "１つ目のトラップを仕掛けた。"
+    },
+    "English": {
+      "Text": "You laid the first trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapSet2",
+    "Japanese": {
+      "Text": "２つ目のトラップを仕掛けた。"
+    },
+    "English": {
+      "Text": "You laid the second trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_BirdTrapSet3",
+    "Japanese": {
+      "Text": "最後のトラップを仕掛けた。"
+    },
+    "English": {
+      "Text": "You laid the last trap."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_ChadleyReport",
+    "Japanese": {
+      "Text": "『バードトラップ』のクラフトチップを\r\n探すにはライフスポット調査を進めよう。"
+    },
+    "English": {
+      "Text": "Analyze more lifesprings to locate the requisite transmuter chip."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_Chick_HinaCloud_Leave",
+    "Japanese": {
+      "Text": "クラピヨは北コレルに向かい飛び去った。"
+    },
+    "English": {
+      "Text": "Cloud Jr. flew off toward North Corel."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_CraftCipNone",
+    "Japanese": {
+      "Text": "『バードトラップ』のクラフトチップを探そう。"
+    },
+    "English": {
+      "Text": "Search for a transmuter chip that will let you craft bird traps."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_LifeSpot",
+    "Japanese": {
+      "Text": "『バードトラップ』のクラフトチップを\r\n探すにはライフスポット調査を進めよう。"
+    },
+    "English": {
+      "Text": "Analyze more lifesprings to locate the requisite transmuter chip."
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_CORLV_qst18_TrapStandby",
+    "Japanese": {
+      "Text": "『バードトラップ』を仕掛けますか？"
+    },
+    "English": {
+      "Text": "Place the bait here?"
+    },
+    "family": "Corel_field_prompts",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_minigame_situp_amina",
+    "Japanese": {
+      "Text": "腹筋勝負【入門】"
+    },
+    "English": {
+      "Text": "Crunch-Off - Warm-Up"
+    },
+    "family": "situp_activity_choices",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_minigame_situp_jinan",
+    "Japanese": {
+      "Text": "腹筋勝負【上級】"
+    },
+    "English": {
+      "Text": "Crunch-Off - Pro"
+    },
+    "family": "situp_activity_choices",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_minigame_situp_santou",
+    "Japanese": {
+      "Text": "腹筋勝負【中級】"
+    },
+    "English": {
+      "Text": "Crunch-Off - Amateur"
+    },
+    "family": "situp_activity_choices",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$level_minigame_situp_zenwan",
+    "Japanese": {
+      "Text": "腹筋勝負【初級】"
+    },
+    "English": {
+      "Text": "Crunch-Off - Trainee"
+    },
+    "family": "situp_activity_choices",
+    "mode": "existing"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_01_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_01_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_01_Title",
+    "Japanese": {
+      "Text": "起動レポート１：コスタ港の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 1: Costa Port Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_02_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_02_Detail_Clear",
+    "Japanese": {
+      "Text": "ビーチプラグの希少種である『シャンカプラグ』の討伐を確認。トゲトゲとした硬い殻に覆われた軟体生物の貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the shankhalopod, a rare variant of the shoalopod. Its fleshy insides are guarded by a hard, spiny shell, making it a tough nut to crack."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 77
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_02_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_02_Title",
+    "Japanese": {
+      "Text": "討伐レポート１：海岸の暴れん坊"
+    },
+    "English": {
+      "Text": "Fiend Intel 1: Hit the Squids"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_02_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート１：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 1: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_03_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_03_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_03_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_03_Title",
+    "Japanese": {
+      "Text": "探索レポート１：隠れ洞のライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 1: Secluded Grotto Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_03_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート１：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 1: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_04_Detail",
+    "Japanese": {
+      "Text": "クラフトチップが埋まっている場所を特定しました。チョコボの嗅覚を使い、発掘調査をお願いします。"
+    },
+    "English": {
+      "Text": "Use your chocobo to locate and unearth the transmuter chip buried nearby."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_04_Detail_Clear",
+    "Japanese": {
+      "Text": "クラフトチップの発掘を確認。新たに入手したレシピ情報を端末にインストールしました。"
+    },
+    "English": {
+      "Text": "You unearthed a new chip, thus expanding your transmutation options."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_04_Title",
+    "Japanese": {
+      "Text": "発掘レポート１：バルブ工場跡地"
+    },
+    "English": {
+      "Text": "Excavation Intel 1: Valve Factory Ruins"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_06_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_06_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_06_Title",
+    "Japanese": {
+      "Text": "起動レポート２：貝殻海岸の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 2: Seashell Coast Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_07_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_07_Detail_Clear",
+    "Japanese": {
+      "Text": "シー・チュースタンクの希少種である『サー・チュースタンク』の討伐を確認。オスが抱卵し、夫婦円満の象徴とも言われる水棲生物の貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the heliopora terpsicolt, a rare variant of the sea terpsicolt. As the males voluntarily incubate the eggs provided by their female partners, these aquatic creatures are considered a symbol of matrimonial bliss."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 78
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_07_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_07_Title",
+    "Japanese": {
+      "Text": "討伐レポート２：砂浜の吸血鬼"
+    },
+    "English": {
+      "Text": "Fiend Intel 2: Seahorsing Around"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_07_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート２：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 2: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_08_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_08_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_08_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_08_Title",
+    "Japanese": {
+      "Text": "探索レポート２：ジップ台のライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 2: Glencross Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_08_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート２：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 2: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_09_Detail",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_09_Detail_Clear",
+    "Japanese": {
+      "Text": "召喚獣アレクサンダーのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。"
+    },
+    "English": {
+      "Text": "You extracted and analyzed the knowledge contained within Alexander's crystal, thus enhancing the entity's summoning materia."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 79
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_09_Detail_NA",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_09_Title",
+    "Japanese": {
+      "Text": "召喚獣レポート１：アレクサンダーの祠α"
+    },
+    "English": {
+      "Text": "Divine Intel 1: Alexander Sanctuary α"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_09_Title_NA",
+    "Japanese": {
+      "Text": "召喚獣レポート１：？？？？"
+    },
+    "English": {
+      "Text": "Divine Intel 1: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_10_Detail",
+    "Japanese": {
+      "Text": "モーグリハウスを発見。モーグリ店長のＳＯＳを感知したクポ。"
+    },
+    "English": {
+      "Text": "You located a mogstool─and a moogle merchant in desperate need of assistance, kupo."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_10_Detail_Clear",
+    "Japanese": {
+      "Text": "むかしむかし、大きなクポの実を見つけたモーグリたちが喜びのダンスを踊っていました。それを見かけた南国の人々が、ユラユラとした動きを真似て、コスタのダンスを生み出したそうです。"
+    },
+    "English": {
+      "Text": "Once upon a time, a group of moogles discovered an enormous kupo nut, and danced with joy. When some local humans caught a glimpse, they felt compelled to mimic the moogles' beautiful, swaying movements─and so Costa del Sol's traditional dance was born."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 80
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_10_Detail_NA",
+    "Japanese": {
+      "Text": "モーグリハウスを発見。モーグリ店長のＳＯＳを感知したクポ。"
+    },
+    "English": {
+      "Text": "You located a mogstool─and a moogle merchant in desperate need of assistance, kupo."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_10_Title",
+    "Japanese": {
+      "Text": "モーグリレポート１：南国のモーグリ"
+    },
+    "English": {
+      "Text": "Moogle Intel 1: Tropical Moogle"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_10_Title_NA",
+    "Japanese": {
+      "Text": "モーグリレポート１：？？？？"
+    },
+    "English": {
+      "Text": "Moogle Intel 1: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_11_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_11_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_11_Title",
+    "Japanese": {
+      "Text": "起動レポート３：砂漠の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 3: Wasteland Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_12_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_12_Detail_Clear",
+    "Japanese": {
+      "Text": "ニードルキッスの希少種である『セイバーキッス』の討伐を確認。螺旋状に発達した鋭いツノを持つ鳥型モンスターの貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the saberhawk, a rare variant of the spearhawk. Easily identified by the spiraling, azure horn atop its head, which it wields with deadly precision."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 81
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_12_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_12_Title",
+    "Japanese": {
+      "Text": "討伐レポート３：電撃の一角鳥"
+    },
+    "English": {
+      "Text": "Fiend Intel 3: Top of the Pecking Order"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_12_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート３：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 3: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_13_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_13_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_13_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_13_Title",
+    "Japanese": {
+      "Text": "探索レポート３：オアシスのライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 3: Oasis Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_13_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート３：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 3: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_14_Detail",
+    "Japanese": {
+      "Text": "未知のエネルギー反応を感知しました。エネルギーの発生源である正体不明の遺物『エンシェントマター』の調査および収集をお願いします。"
+    },
+    "English": {
+      "Text": "Trace the strange energy signals to their source and retrieve the protorelic."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_14_Detail_Clear",
+    "Japanese": {
+      "Text": "小型魔晄炉へ向かったクラウドさんは、代々、砂漠の秘宝を守ってきたサボテンダー軍団からの試練に挑戦し、見事クリアしました。次は第二の試練。秘宝を巡る冒険の始まりです。"
+    },
+    "English": {
+      "Text": "Upon entering the modular reactor, Cloud and the others are confronted by the guardians of the protorelic: a veritable army of cactuars and their spokesgoblin, Kid G. Though Yuffie passes their trial with flying colors, the succulent sentinels only relinquish a single piece of the relic, with the next supposedly housed within another reactor."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 82
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_14_Title",
+    "Japanese": {
+      "Text": "調査レポート１：壱号小型魔晄炉"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 1: Modular Reactor 1"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_14_Title_Clear",
+    "Japanese": {
+      "Text": "調査レポート１：秘宝の守護者"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 1: Treasure Protector G"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 83
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_15_Detail",
+    "Japanese": {
+      "Text": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・参号基へ向かい、新たな試練に挑戦してください。"
+    },
+    "English": {
+      "Text": "Protorelic detected. Proceed to Modular Reactor 3 and face the trial that awaits."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 84
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_15_Detail_Clear",
+    "Japanese": {
+      "Text": "砂の巨人に加えてコルネオたちも参加し、秘宝争奪戦が混迷を深める中、クラウドさんは着実に第三の試練をクリアしました。秘宝の欠片はあとひとつ。砂漠を巡る冒険も次が最後です。"
+    },
+    "English": {
+      "Text": "Although the sand giant and the Corneo Family also join the search for the protorelic, it is Yuffie who succeeds in winning the third piece. Kid G then challenges Cloud and company to seek him out for the final trial."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 85
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_15_Title",
+    "Japanese": {
+      "Text": "調査レポート３：参号小型魔晄炉"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 3: Modular Reactor 3"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_15_Title_Clear",
+    "Japanese": {
+      "Text": "調査レポート３：混迷の争奪戦"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 3: Unfriendly Competition"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 86
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_16_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_16_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_16_Title",
+    "Japanese": {
+      "Text": "起動レポート４：水辺の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 4: Riverside Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_17_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_17_Detail_Clear",
+    "Japanese": {
+      "Text": "ランドウォームの希少種である『デューンウォーム』の討伐を確認。嗅覚を使って獲物を見つけ、地中から飛び出す環形生物の貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the duneworm, a rare variant of the landworm. Tracking its prey with its acute sense of smell, it springs forth from underground with alarming swiftness."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 87
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_17_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_17_Title",
+    "Japanese": {
+      "Text": "討伐レポート４：砂漠の掃除屋"
+    },
+    "English": {
+      "Text": "Fiend Intel 4: Death from Below"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_17_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート４：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 4: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_18_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_18_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_18_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_18_Title",
+    "Japanese": {
+      "Text": "探索レポート４：送水パイプのライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 4: Watermain Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_18_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート４：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 4: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_19_Detail",
+    "Japanese": {
+      "Text": "クラフトチップが埋まっている場所を特定しました。チョコボの嗅覚を使い、発掘調査をお願いします。"
+    },
+    "English": {
+      "Text": "Use your chocobo to locate and unearth the transmuter chip buried nearby."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_19_Detail_Clear",
+    "Japanese": {
+      "Text": "クラフトチップの発掘を確認。新たに入手したレシピ情報を端末にインストールしました。"
+    },
+    "English": {
+      "Text": "You unearthed a new chip, thus expanding your transmutation options."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_19_Title",
+    "Japanese": {
+      "Text": "発掘レポート２：砂漠の廃村"
+    },
+    "English": {
+      "Text": "Excavation Intel 2: Deserted Village"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_20_Detail",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_20_Detail_Clear",
+    "Japanese": {
+      "Text": "召喚獣アレクサンダーのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。"
+    },
+    "English": {
+      "Text": "You extracted and analyzed the knowledge contained within Alexander's crystal, thus enhancing the entity's summoning materia."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 79
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_20_Detail_NA",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_20_Title",
+    "Japanese": {
+      "Text": "召喚獣レポート２：アレクサンダーの祠β"
+    },
+    "English": {
+      "Text": "Divine Intel 2: Alexander Sanctuary β"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_20_Title_NA",
+    "Japanese": {
+      "Text": "召喚獣レポート２：？？？？"
+    },
+    "English": {
+      "Text": "Divine Intel 2: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_21_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_21_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_21_Title",
+    "Japanese": {
+      "Text": "起動レポート５：天然橋の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 5: Stonearch Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_22_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_22_Detail_Clear",
+    "Japanese": {
+      "Text": "スペンサーの希少種である『フライングリッパー』の討伐を確認。砂の海原を泳ぐ、特殊な魚型モンスターの貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the bladefin, a rare variant of the sandspitter. This desert-dwelling piscean menace has been exposed to mako, making it even more ferocious than its smaller cousins."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 88
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_22_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_22_Title",
+    "Japanese": {
+      "Text": "討伐レポート５：砂を泳ぐ魚"
+    },
+    "English": {
+      "Text": "Fiend Intel 5: Fish out of Water"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_22_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート５：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 5: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_23_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_23_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_23_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_23_Title",
+    "Japanese": {
+      "Text": "探索レポート５：岩窟のライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 5: Stonebowl Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_23_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート５：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 5: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_24_Detail",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_24_Detail_Clear",
+    "Japanese": {
+      "Text": "召喚獣アレクサンダーのクリスタルより知識データを抽出。解析したデータを転用することで召喚マテリアを強化しました。"
+    },
+    "English": {
+      "Text": "You extracted and analyzed the knowledge contained within Alexander's crystal, thus enhancing the entity's summoning materia."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 79
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_24_Detail_NA",
+    "Japanese": {
+      "Text": "隠された祠に眠る、召喚獣クリスタルの解析をお願いします。"
+    },
+    "English": {
+      "Text": "Analyze the crystal slumbering within the sanctuary."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_24_Title",
+    "Japanese": {
+      "Text": "召喚獣レポート３：アレクサンダーの祠γ"
+    },
+    "English": {
+      "Text": "Divine Intel 3: Alexander Sanctuary γ"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_24_Title_NA",
+    "Japanese": {
+      "Text": "召喚獣レポート３：？？？？"
+    },
+    "English": {
+      "Text": "Divine Intel 3: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_25_Detail",
+    "Japanese": {
+      "Text": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・弐号基へ向かい、新たな試練に挑戦してください。"
+    },
+    "English": {
+      "Text": "Protorelic detected. Proceed to Modular Reactor 2 and face the trial that awaits."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 89
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_25_Detail_Clear",
+    "Japanese": {
+      "Text": "言葉を操るゴブリン・キッドＧから与えられた第二の試練も危なげなくクリアしたクラウドさん。秘宝の欠片は残りふたつ。謎の巨人が徘徊する中、砂漠の冒険は続きます。"
+    },
+    "English": {
+      "Text": "Aerith proves herself more than a match for the cactuars, thereby earning Kid G's approval and the second piece of the protorelic. Though there are two more pieces to be claimed, Cloud and the others have no choice but to return to the desert, where the enigmatic sand giant yet lurks..."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 90
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_25_Title",
+    "Japanese": {
+      "Text": "調査レポート２：弐号小型魔晄炉"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 2: Modular Reactor 2"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_25_Title_Clear",
+    "Japanese": {
+      "Text": "調査レポート２：キッドＧの試練"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 2: Kid G's Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 91
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_26_Detail",
+    "Japanese": {
+      "Text": "新たな通信塔を発見しました。起動をお願いします。"
+    },
+    "English": {
+      "Text": "Activate the newly discovered remnawave tower."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_26_Detail_Clear",
+    "Japanese": {
+      "Text": "通信塔の起動を確認。探索エリア拡張によって、新たに取得した周辺地域の生態および地理データを分析し、地図情報をアップデートしました。"
+    },
+    "English": {
+      "Text": "Activating the tower has provided valuable ecological and geographical data on the surrounding area. Your map has been updated accordingly."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_26_Title",
+    "Japanese": {
+      "Text": "起動レポート６：谷底の通信塔"
+    },
+    "English": {
+      "Text": "Activation Intel 6: Ravine Tower"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_27_Detail",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_27_Detail_Clear",
+    "Japanese": {
+      "Text": "キマイラの希少種である『シルベリーキマイラ』の討伐を確認。太古から存在する、複数の生物の特徴を持つモンスターの貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the silver chimera, a rare variant of the chimera. This many-headed species's origins can be traced back to antiquity, and it remains a formidable opponent to this day."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 92
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_27_Detail_NA",
+    "Japanese": {
+      "Text": "新たなモンスターを感知しました。討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_27_Title",
+    "Japanese": {
+      "Text": "討伐レポート６：混じりあった獣"
+    },
+    "English": {
+      "Text": "Fiend Intel 6: Unholy Union"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_27_Title_NA",
+    "Japanese": {
+      "Text": "討伐レポート６：？？？？"
+    },
+    "English": {
+      "Text": "Fiend Intel 6: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_28_Detail",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_28_Detail_Clear",
+    "Japanese": {
+      "Text": "ライフストリームの泉を通して星の知識にアクセスし、新たなエリア情報を入手しました。"
+    },
+    "English": {
+      "Text": "You have gained planetary wisdom by analyzing the lifespring, and now possess more information on your surroundings."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_28_Detail_NA",
+    "Japanese": {
+      "Text": "ライフストリーム反応を感知しました。探索をお願いします。"
+    },
+    "English": {
+      "Text": "Locate the nearby lifespring."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_28_Title",
+    "Japanese": {
+      "Text": "探索レポート６：岩石岬のライフスポット"
+    },
+    "English": {
+      "Text": "Expedition Intel 6: Rockspout Lifespring"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_28_Title_NA",
+    "Japanese": {
+      "Text": "探索レポート６：？？？？"
+    },
+    "English": {
+      "Text": "Expedition Intel 6: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_29_Detail",
+    "Japanese": {
+      "Text": "『エンシェントマター』のエネルギーを感知。砂漠にある小型魔晄炉・四号基へ向かい、最後の試練に挑戦してください。"
+    },
+    "English": {
+      "Text": "Protorelic detected. Proceed to Modular Reactor 4 and face the trial that awaits."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 93
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_29_Detail_Clear",
+    "Japanese": {
+      "Text": "最後の試練を乗り越え、伝説の剣豪と認められたクラウドさん。砂の巨人とコルネオたちを撃退したキッドＧとの手合わせも終え、砂漠の秘宝、もとい『エンシェントマター』を手に入れました。"
+    },
+    "English": {
+      "Text": "With Aerith earning the fourth and final piece, the protorelic is made whole once more. However, Don Corneo and the sand giant arrive barely a moment later, each party hoping to claim the treasure. Luckily, Kid G and his cactuar friends intervene, and see off the would-be thieves. After a quick sparring match, the petite goblin declares Cloud the \"bladesman of legend\" and gladly grants him the relic."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 94
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_29_Title",
+    "Japanese": {
+      "Text": "調査レポート４：四号小型魔晄炉"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 4: Modular Reactor 4"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_29_Title_Clear",
+    "Japanese": {
+      "Text": "調査レポート４：伝説の剣豪"
+    },
+    "English": {
+      "Text": "Phenomenon Intel 4: Bladesman of Legend"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 95
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_30_Detail",
+    "Japanese": {
+      "Text": "モーグリハウスを発見。モーグリ店長のＳＯＳを感知したクポ。"
+    },
+    "English": {
+      "Text": "You located a mogstool─and a moogle merchant in desperate need of assistance, kupo."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_30_Detail_Clear",
+    "Japanese": {
+      "Text": "むかしむかし、砂漠に迷い込んだモーグリの王様を一匹のトンベリが助けたそうです。モーグリの王様はお礼と友好の証として、そのトンベリに美しい冠をプレゼントしたと言います。"
+    },
+    "English": {
+      "Text": "Once upon a time, the king of the moogles had wandered into the desert, but was luckily guided to safety by a passing tonberry. To express his gratitude and mark their newfound friendship, the moogle king granted the tonberry a wondrous crown."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 96
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_30_Detail_NA",
+    "Japanese": {
+      "Text": "モーグリハウスを発見。モーグリ店長のＳＯＳを感知したクポ。"
+    },
+    "English": {
+      "Text": "You located a mogstool─and a moogle merchant in desperate need of assistance, kupo."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_30_Title",
+    "Japanese": {
+      "Text": "モーグリレポート２：砂漠のモーグリ"
+    },
+    "English": {
+      "Text": "Moogle Intel 2: Wasteland Moogle"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_30_Title_NA",
+    "Japanese": {
+      "Text": "モーグリレポート２：？？？？"
+    },
+    "English": {
+      "Text": "Moogle Intel 2: ???"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_31_Detail",
+    "Japanese": {
+      "Text": "強力なモンスターの生体反応を感知しました。しっかりと準備をして討伐調査をお願いします。"
+    },
+    "English": {
+      "Text": "Investigate the newly detected dangerous species."
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_31_Detail_Clear",
+    "Japanese": {
+      "Text": "黄金の包丁を握り、じわじわと忍び寄る『トンベリキング』の討伐を確認。煌びやかな王冠をかぶり、人間へのうらみを抱えた巨大なトンベリの貴重な生体データを入手しました。"
+    },
+    "English": {
+      "Text": "You obtained biological data on the Tonberry King. While his glimmering crown, golden knife, and immense size set him apart from his subjects, he shares their undying hatred for mankind."
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 97
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_31_Title",
+    "Japanese": {
+      "Text": "シークレットレポート：うらみの王冠"
+    },
+    "English": {
+      "Text": "Classified Intel: Heavy Lies the Crown"
+    },
+    "family": "Corel_report_UI",
+    "mode": "official_English_name"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie01_01",
+    "Japanese": {
+      "Text": "周辺の調査"
+    },
+    "English": {
+      "Text": "Investigate the Area"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie01_02",
+    "Japanese": {
+      "Text": "サボテン岩の捜索"
+    },
+    "English": {
+      "Text": "Locate the Cactuar Rock"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 98
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie01_03",
+    "Japanese": {
+      "Text": "魔晄炉へ戻る"
+    },
+    "English": {
+      "Text": "Return to the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 99
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie01_04",
+    "Japanese": {
+      "Text": "魔晄炉内部の探索"
+    },
+    "English": {
+      "Text": "Investigate the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 100
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie01_05",
+    "Japanese": {
+      "Text": "試練をクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 101
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie02_01",
+    "Japanese": {
+      "Text": "周辺の調査"
+    },
+    "English": {
+      "Text": "Investigate the Area"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie02_02",
+    "Japanese": {
+      "Text": "サボテン岩の捜索"
+    },
+    "English": {
+      "Text": "Locate the Cactuar Rock"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 98
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie02_03",
+    "Japanese": {
+      "Text": "魔晄炉へ戻る"
+    },
+    "English": {
+      "Text": "Return to the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 99
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie02_04",
+    "Japanese": {
+      "Text": "魔晄炉内部の探索"
+    },
+    "English": {
+      "Text": "Investigate the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 100
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie02_05",
+    "Japanese": {
+      "Text": "試練をクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 101
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie03_01",
+    "Japanese": {
+      "Text": "周辺の調査"
+    },
+    "English": {
+      "Text": "Investigate the Area"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie03_02",
+    "Japanese": {
+      "Text": "サボテン岩の捜索"
+    },
+    "English": {
+      "Text": "Locate the Cactuar Rock"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 98
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie03_03",
+    "Japanese": {
+      "Text": "魔晄炉へ戻る"
+    },
+    "English": {
+      "Text": "Return to the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 99
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie03_04",
+    "Japanese": {
+      "Text": "魔晄炉内部の探索"
+    },
+    "English": {
+      "Text": "Investigate the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 100
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie03_05",
+    "Japanese": {
+      "Text": "試練をクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 101
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_01",
+    "Japanese": {
+      "Text": "周辺の調査"
+    },
+    "English": {
+      "Text": "Investigate the Area"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_02",
+    "Japanese": {
+      "Text": "サボテン岩の捜索"
+    },
+    "English": {
+      "Text": "Locate the Cactuar Rock"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 98
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_03",
+    "Japanese": {
+      "Text": "魔晄炉へ戻る"
+    },
+    "English": {
+      "Text": "Return to the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 99
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_04",
+    "Japanese": {
+      "Text": "魔晄炉内部の探索"
+    },
+    "English": {
+      "Text": "Investigate the Modular Reactor"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 100
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_05",
+    "Japanese": {
+      "Text": "試練をクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 101
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Chadlie04_06",
+    "Japanese": {
+      "Text": "キッドＧに勝利する"
+    },
+    "English": {
+      "Text": "Defeat Kid G"
+    },
+    "family": "Corel_report_UI",
+    "mode": "translate",
+    "template": 102
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Hard_01_01",
+    "Japanese": {
+      "Text": "ミッションモードをクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Hard Mode Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Hard_02_01",
+    "Japanese": {
+      "Text": "ミッションモードをクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Hard Mode Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Hard_03_01",
+    "Japanese": {
+      "Text": "ミッションモードをクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Hard Mode Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$menu_WorldReport_CORLA_Hard_04_01",
+    "Japanese": {
+      "Text": "ミッションモードをクリア"
+    },
+    "English": {
+      "Text": "Complete the Cactuar Hard Mode Trial"
+    },
+    "family": "Corel_report_UI",
+    "mode": "exact_UI_reuse"
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_amina",
+    "Japanese": {
+      "Text": "<color=yellow>【腹筋勝負・入門】</color>\r\nアミナと勝負しますか？"
+    },
+    "English": {
+      "Text": "Challenge Amina to a <color=yellow>warm-up crunch-off</color>?"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 103
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_challenge_jinan",
+    "Japanese": {
+      "Text": "上級：ジーナンに挑戦できるようになった！"
+    },
+    "English": {
+      "Text": "You can now challenge Jules to a pro-level crunch-off."
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 104
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_challenge_santou",
+    "Japanese": {
+      "Text": "中級：サン・トーに挑戦できるようになった！"
+    },
+    "English": {
+      "Text": "You can now challenge Jay to an amateur-level crunch-off."
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 105
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_challenge_zenwan",
+    "Japanese": {
+      "Text": "初級：ゼン・ワンに挑戦できるようになった！"
+    },
+    "English": {
+      "Text": "You can now challenge Ronnie to a trainee-level crunch-off."
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 106
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_clearUI_situp_normal1",
+    "Japanese": {
+      "Text": "腹筋勝負 入門"
+    },
+    "English": {
+      "Text": "Crunch-Off - Warm-Up"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 107
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_clearUI_situp_normal2",
+    "Japanese": {
+      "Text": "腹筋勝負 初級"
+    },
+    "English": {
+      "Text": "Crunch-Off - Trainee Rank I"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 108
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_clearUI_situp_normal3",
+    "Japanese": {
+      "Text": "腹筋勝負 中級"
+    },
+    "English": {
+      "Text": "Crunch-Off - Amateur Rank II"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 109
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_clearUI_situp_normal4",
+    "Japanese": {
+      "Text": "腹筋勝負 上級"
+    },
+    "English": {
+      "Text": "Crunch-Off - Pro Rank III"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 110
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_jinan",
+    "Japanese": {
+      "Text": "<color=yellow>【腹筋勝負・上級】</color>\r\nジーナンと勝負しますか？"
+    },
+    "English": {
+      "Text": "Challenge Jules to a <color=yellow>pro-level crunch-off</color> (Rank III)?"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 111
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_santou",
+    "Japanese": {
+      "Text": "<color=yellow>【腹筋勝負・中級】</color>\r\nサン・トーと勝負しますか？"
+    },
+    "English": {
+      "Text": "Challenge Jay to an <color=yellow>amateur-level crunch-off</color> (Rank II)?"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 112
+  },
+  {
+    "asset": "End/Content/Text/JP/Resident_TxtRes.uasset",
+    "id": "$minigame_SitUp_zenwan",
+    "Japanese": {
+      "Text": "<color=yellow>【腹筋勝負・初級】</color>\r\nゼン・ワンと勝負しますか？"
+    },
+    "English": {
+      "Text": "Challenge Ronnie to a <color=yellow>trainee-level crunch-off</color> (Rank I)?"
+    },
+    "family": "situp_activity_choices",
+    "mode": "translate",
+    "template": 113
+  }
+]

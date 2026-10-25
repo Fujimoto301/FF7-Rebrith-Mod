@@ -1,0 +1,29 @@
+{
+  "policy": "Thai name in speech: เอริธ; English actor/UI label: Aerith. Explicit spelling-only correction to4 prior Ch6–7 records; historical base files remain immutable.",
+  "changes": [
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2510_MAIN_0400_0100_00_tif",
+      "before": "แอริธจะไหวไหมนะ",
+      "after": "เอริธจะไหวไหมนะ"
+    },
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2510_MAIN_0800_0100_00_cld",
+      "before": "แอริธ เป็นยังไงบ้าง",
+      "after": "เอริธ เป็นยังไงบ้าง"
+    },
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$C2510_MAIN_2000_0100_00_cld",
+      "before": "แอริธ",
+      "after": "เอริธ"
+    },
+    {
+      "asset": "End/Content/Text/JP/8300-CORLE_TxtRes.uasset",
+      "id": "$CORLE_QST_02_2100_0700_00_cld",
+      "before": "แอริธ ตกลงกำลังพูดเรื่องอะไรอยู่",
+      "after": "เอริธ ตกลงกำลังพูดเรื่องอะไรอยู่"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "records": [
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3310_MAIN_1200_1200_00_tif",
+      "template": 65,
+      "jp": "呼んでる？",
+      "before": "กำลังเรียกอยู่เหรอ?",
+      "after": "เรียกเธออยู่เหรอ?",
+      "reason": "Tifa asks Aerith whether she is being called; explicitly name the female addressee without inventing an audible voice or caller."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3320_MAIN_2400_0200_00_blt",
+      "template": 303,
+      "jp": "てめえは一発　ぶん殴っておかねえとな",
+      "before": "ฉันต้องต่อยแกสักหมัดให้ได้",
+      "after": "ฉันต้องอัดแกให้ได้1หมัด",
+      "reason": "一発 explicitly counts one punch; Arabic numeral policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3320_MAIN_2400_0300_00_lud",
+      "template": 304,
+      "jp": "一発でいいのか？",
+      "before": "แค่หมัดเดียวพอเหรอ?",
+      "after": "แค่1หมัดพอเหรอ?",
+      "reason": "一発 explicitly counts one punch; Arabic numeral policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3320_MAIN_2400_0500_00_blt",
+      "template": 306,
+      "jp": "一発で終わりだ！",
+      "before": "หมัดเดียวก็จบแล้ว!",
+      "after": "1หมัดก็จบแล้ว!",
+      "reason": "一発 explicitly counts one punch; Arabic numeral policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3320_MAIN_2540_0400_00_art",
+      "template": 323,
+      "jp": "だいじょうぶ　つながってるよ",
+      "before": "ไม่เป็นไร ทางเชื่อมถึงกันอยู่",
+      "after": "ไม่เป็นไร ยังเชื่อมถึงกันอยู่",
+      "reason": "つながってる leaves the nature of the connection open; do not invent a specific physical path before looking for it."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3320_MAIN_2800_1800_00_blt",
+      "template": 358,
+      "jp": "タークスがひとり　先行してやがる\r\nオレたちも急ごうぜ",
+      "before": "มีเติร์กส์คนนึงไปล่วงหน้าแล้ว\r\nพวกเราก็รีบไปกันเถอะ",
+      "after": "มีเติร์กส์1คนไปล่วงหน้าแล้ว\r\nพวกเราก็รีบไปกันเถอะ",
+      "reason": "ひとり explicitly counts the remaining Turk ahead; Arabic numeral policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3340_MAIN_0100_0400_00_set",
+      "template": 564,
+      "jp": "<i>ほどなく　歴史に敬意を払わぬ者らに\r\n星を譲ることになるだろう</i>",
+      "before": "<i>อีกไม่นาน เราคงต้องฝากดวงดาวไว้\r\nกับเหล่าผู้ไม่ให้ความเคารพต่อประวัติศาสตร์</i>",
+      "after": "<i>อีกไม่นาน เราคงต้องยกดวงดาวให้\r\nเหล่าผู้ไม่ให้ความเคารพต่อประวัติศาสตร์</i>",
+      "reason": "譲る is ceding/relinquishing, not positively entrusting the planet to worthy stewards."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3340_MAIN_0500_0500_00_sep",
+      "template": 594,
+      "jp": "そしていまや　世界はひとつではない",
+      "before": "แล้วตอนนี้ โลกก็ไม่ได้มีเพียงใบเดียวอีกต่อไป",
+      "after": "แล้วตอนนี้ โลกก็ไม่ได้มีแค่1ใบอีกต่อไป",
+      "reason": "ひとつ states a literal count of worlds; Arabic numeral policy."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$C3340_MAIN_1300_0500_00_red",
+      "template": 651,
+      "jp": "あやまりたかったな",
+      "before": "อยากขอโทษจังเลย",
+      "after": "เสียดายที่ไม่ได้ขอโทษ",
+      "reason": "あやまりたかった expresses a missed opportunity to apologize to Cait; keep the past regret."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$TEMPL_BOS_20_1100_0500_00_blt",
+      "template": 717,
+      "jp": "くそ　やり返すまでよ！",
+      "before": "บ้าเอ๊ย งั้นก็อัดกลับแค่นั้น!",
+      "after": "บ้าเอ๊ย ก็แค่อัดกลับไป!",
+      "reason": "Natural immediate retaliatory resolve in battle, preservingやり返すまで."
+    },
+    {
+      "asset": "End/Content/Text/JP/8800-FOREE_TxtRes.uasset",
+      "id": "$TEMPL_BOS_22_1100_1600_00_art",
+      "template": 796,
+      "jp": "もう逃げ場　ないよ！",
+      "before": "ไม่มีที่ให้หนีแล้วนะ!",
+      "after": "พวกเราไม่มีที่ให้หนีแล้วนะ!",
+      "reason": "Demon Gate narrowing walls threaten the player party; clarify that the party has no room to escape."
+    }
+  ],
+  "Japanese_primary": true
+}

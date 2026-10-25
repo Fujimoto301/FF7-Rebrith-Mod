@@ -1,0 +1,8 @@
+# Local recovery data contains private app metadata; never publish it.
+codex-recovery-local-only/
+state_*.sqlite*
+auth.json
+.env
+.env.*
+__pycache__/
+*.pyc

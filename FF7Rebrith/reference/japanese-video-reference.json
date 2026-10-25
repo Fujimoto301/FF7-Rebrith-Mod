@@ -1,0 +1,21 @@
+{
+  "playlist": "https://www.youtube.com/playlist?list=PL0w8Te9HdCC5PCW055occRACeikVNdnoU",
+  "episode": "https://www.youtube.com/watch?v=bxrLsiU-QKk",
+  "title": "[Episode 1] Final Fantasy VII Rebirth (Japanese Voice) Complete Cutscenes 4K UHD",
+  "channel": "Owl-Quest",
+  "scope": "Selected opening and Chapter 1 scenes only",
+  "audio_reviewed": false,
+  "transcript_language": "ja",
+  "transcript_auto_generated": true,
+  "transcript_use": "Locate scenes only. Japanese game asset text remains the authoritative translation source; auto captions contain transcription errors.",
+  "observations": [
+    {"seconds": 245, "scene": "Opening news feed", "result": "Soldier shown; reporter identity not established."},
+    {"seconds": 268, "scene": "Opening rescue news feed", "result": "Soldiers and injured party shown; reporter identity not established."},
+    {"seconds": 637, "speaker_code": "skm", "scene": "Truck driver", "result": "Male driver close-up and English Got some fiends at our twelve subtitle match the source scene."},
+    {"seconds": 842, "speaker_code": "znd", "scene": "Mayor greeting", "result": "Mayor visible introducing himself; corroborates the named Mayor Zander identity."},
+    {"seconds": 1227, "speaker_code": "tif", "scene": "Guide greeting", "result": "Tifa standing in front of Sephiroth; the next frame at 1229 seconds shows Good morning, sir! I'll be your guide for the day over a Cloud reaction shot."},
+    {"seconds": 1287, "scene": "Photo scene", "result": "Cloud, Tifa and Sephiroth posed for a photo; no photographer identity proof added from this frame."},
+    {"seconds": 3591, "scene": "Night at Kalm inn", "result": "Red XIII and Barret shown; Kalm innkeeper identity not established."}
+  ],
+  "limitation": "Selected screenshots and an automatic transcript are supplemental scene references. They do not verify every subtitle, every optional NPC, or Japanese vocal delivery. Unmatched particle-bearing NPC lines use neutral polite Thai."
+}

@@ -1,0 +1,10 @@
+{
+  "anchor": "Original ASCII H ink bottom",
+  "thai_alignment": "Shift all Thai clusters by the same vertical delta per font",
+  "ascii_glyphs": "Original records, pixels and spacing unchanged",
+  "latin_aliases": "Use the original ASCII vertical origin",
+  "digit_aliases": "Align ink bottom to the Thai/native H baseline",
+  "original_digit_overshoot": "Retain native optical rounding, up to 2 pixels in 4K fonts",
+  "source_tags_and_text": "Unchanged",
+  "working_set": "ThaiJP_UICompletion_Working"
+}
