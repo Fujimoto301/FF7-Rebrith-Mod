@@ -1,18 +1,18 @@
 [
   {
+    "path": ".gitattributes",
+    "bytes": 9,
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+  },
+  {
     "path": ".gitignore",
     "bytes": 163,
     "sha256": "d4a34bb2c1ac4bb86603a5d8631d15900eae8170fda779bbc1ea8780c15498ae"
   },
   {
-    "path": "HANDOFF.md",
-    "bytes": 219291,
-    "sha256": "1f259240097e3a0f00b32879b72724ab1afc7eca35bb9746a596dd70b1983c4b"
-  },
-  {
-    "path": "README.md",
-    "bytes": 17,
-    "sha256": "075b7d91ff27f26f1f4c1608b445a091a3577ce921a12db50445c072e9f31b88"
+    "path": "BACKUP-README.md",
+    "bytes": 3416,
+    "sha256": "f104422baaad15d34e5e92cf5e46c53561774deecad38dc33019d40d829ed28d"
   },
   {
     "path": "chats/FF7-Rebirth-chat.json",
@@ -200,6 +200,16 @@
     "sha256": "2f1f83bf895acdf5fface797924bd5a92deb5e751154729f07a1becd60bfeaf8"
   },
   {
+    "path": "FF7Rebrith/qa/active-working-set.json",
+    "bytes": 1557,
+    "sha256": "eab0c6c2a377366ed375a4fbaad10e4e7bbebcc3e7da7b0d67484a0c5660a679"
+  },
+  {
+    "path": "FF7Rebrith/qa/final-parts/combined-mount-verification.json",
+    "bytes": 246,
+    "sha256": "6b6aad0af1844561554f7e04754ebeadb93b4407a320b308cacf4f264035f04b"
+  },
+  {
     "path": "FF7Rebrith/README-CHAPTER1.md",
     "bytes": 8506,
     "sha256": "e217b1a3f8fa2ec84fc9d69dadb4529536cf2ace2279d31ca9f9e7b78e4b5f78"
@@ -228,26 +238,6 @@
     "path": "FF7Rebrith/README.md",
     "bytes": 10191,
     "sha256": "563f40a98cf3174c3573f54d480ea59838834c58b7295c1be2c583294e6a511b"
-  },
-  {
-    "path": "FF7Rebrith/TRANSLATION_GUIDE.md",
-    "bytes": 168243,
-    "sha256": "4bae55ebc7285946c3ce49a794c1ff000a0d77b4d17e56f1d67c779da4b95a1a"
-  },
-  {
-    "path": "FF7Rebrith/UI-COMPLETION-STATUS.md",
-    "bytes": 10409,
-    "sha256": "c5d4853f32a7fc6a635d6417c62ae62dfef9a54a18e7b6cb97eb1fcb73f5e152"
-  },
-  {
-    "path": "tools/inspect_reference_mods.py",
-    "bytes": 5600,
-    "sha256": "9ff7dccf45307f5d316c36eba278b121d93a512a652c5185f4a6a9de74a53152"
-  },
-  {
-    "path": "FF7Rebrith/qa/active-working-set.json",
-    "bytes": 1557,
-    "sha256": "eab0c6c2a377366ed375a4fbaad10e4e7bbebcc3e7da7b0d67484a0c5660a679"
   },
   {
     "path": "FF7Rebrith/reference/actor-english-evidence.json",
@@ -838,1671 +828,6 @@
     "path": "FF7Rebrith/reference/npc-recheck-templates.json",
     "bytes": 438086,
     "sha256": "bbc63f6893f77d4910cb1070950875fea96924b6f079eaca091c4101b0c3b18c"
-  },
-  {
-    "path": "FF7Rebrith/reference/pronoun-context-overrides.json",
-    "bytes": 44842,
-    "sha256": "a9d7ea873a36c1e7263a000fbefc43229f5b29fe6e187e32988749d83cc59080"
-  },
-  {
-    "path": "FF7Rebrith/reference/prototype-cluster-map.json",
-    "bytes": 3370,
-    "sha256": "f210e0c57cdb150267b8e73c49e6b7688762e5c37b750672284ffce37e3c59f4"
-  },
-  {
-    "path": "FF7Rebrith/reference/prototype-jp.json",
-    "bytes": 5340,
-    "sha256": "76787ee4a9b57d34d2d3dc9e9ed2ac870c0b06284974463e9abb50fc938b5f9a"
-  },
-  {
-    "path": "FF7Rebrith/reference/rebirth-jp-corpus.json",
-    "bytes": 8416223,
-    "sha256": "d1b27abb2ed478d487fbfc9ae12d52576f4c58bae8f1a4ba7013b09655fe150f"
-  },
-  {
-    "path": "FF7Rebrith/reference/remake-glyph-map.json",
-    "bytes": 1786,
-    "sha256": "5405aa40462cf0f9f118dcde071728f3a77ff0c8a7916f54c763d90b0e2aa2d7"
-  },
-  {
-    "path": "FF7Rebrith/reference/speaker-character-asset-paths.json",
-    "bytes": 5931871,
-    "sha256": "f4df715a3c0e36d4da93903b7cf40a295bea471f70a569a7b29306a569eb4d59"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter10-cluster-map.json",
-    "bytes": 14648,
-    "sha256": "306149bade1c1183fe597a2fec21de7ba470d620e03da1ffeee49f6ac5c9c63f"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter11-cluster-map.json",
-    "bytes": 14737,
-    "sha256": "b882248d34d79b3d0794284ca938156b96e68cad920cecead7d0b84775dc17ce"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter12-cluster-map.json",
-    "bytes": 14935,
-    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter13-cluster-map.json",
-    "bytes": 14935,
-    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter14-cluster-map.json",
-    "bytes": 14935,
-    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter2-cluster-map.json",
-    "bytes": 11231,
-    "sha256": "82e6793a7271adfae72accf4036898d9092c85c868493a19f55a5bf507659313"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter3-cluster-map.json",
-    "bytes": 12564,
-    "sha256": "2bc13f2ff2dd4640fc31ba044e03d1ec52437c5c7f440526b1d999638a873d41"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter4-cluster-map.json",
-    "bytes": 12980,
-    "sha256": "74faaad0a407e2bfdc92b9263516283da7ad484b850e1bee6f900aa9c5201b24"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter5-cluster-map.json",
-    "bytes": 13394,
-    "sha256": "7a8224f8717de8b4d3613a8e1cf45a0ef117a7b8c3f901b5d5084ec2eef47236"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter6-cluster-map.json",
-    "bytes": 13704,
-    "sha256": "9066a512ef740dc0a4e30a8b301e82bc626fb2a47645d28899d0faef53aa4f61"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter7-cluster-map.json",
-    "bytes": 13994,
-    "sha256": "9d5ac3def13e76697344a0b4e0c717dd03f255894d9f10fca9b023d26d5d04ce"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter8-cluster-map.json",
-    "bytes": 14232,
-    "sha256": "684941b41d5e0a4a6b28044ba32ac00d6449d4e4229d040eacb2f75d551f6df0"
-  },
-  {
-    "path": "FF7Rebrith/reference/through-chapter9-cluster-map.json",
-    "bytes": 14522,
-    "sha256": "5c47905d6d3dc0bc46fc8400e8418981d3ce00e5403983b7629c3be3b508e1ee"
-  },
-  {
-    "path": "FF7Rebrith/reference/ui-completion-cluster-map.json",
-    "bytes": 12544,
-    "sha256": "ebd44798791a08ce66c1dada00b0d4e75477c6560588b770ac2751cb3ef13f48"
-  },
-  {
-    "path": "FF7Rebrith/reference/ui-completion-scope.json",
-    "bytes": 363506,
-    "sha256": "c061b3b3e2fc1a364b7c1619cebf5ec7dab79677976f49d47d25b681bded37b7"
-  },
-  {
-    "path": "FF7Rebrith/reference/ui-completion-source.json",
-    "bytes": 2802992,
-    "sha256": "cf71ca94883db38a65a702099e429b52b0888f8bf0146d7e32129206320ecf67"
-  },
-  {
-    "path": "FF7Rebrith/reference/ui-completion-templates.json",
-    "bytes": 1696285,
-    "sha256": "366661f10e2534566da77184e8a103bb28b6746d2bc31ce1aab6b64a8619ac0a"
-  },
-  {
-    "path": "FF7Rebrith/reference/working-cluster-map.json",
-    "bytes": 8786,
-    "sha256": "bd65f6f54461f9d22cf9dbd46bdb2bbd9502717b7bf05e25e3b4bf088f933c28"
-  },
-  {
-    "path": "FF7Rebrith/tools/align_dialogue_punctuation.py",
-    "bytes": 2085,
-    "sha256": "99ad9720c287cd868babce8e8a59bc5844d4e4e0e318695d0143bc912bdcf47e"
-  },
-  {
-    "path": "FF7Rebrith/tools/align_dynamic_baselines.py",
-    "bytes": 5121,
-    "sha256": "45ee8ae4f1b2bbbfc50a3d6f2f6515607d577186f1ba6e54258d97635748ab3e"
-  },
-  {
-    "path": "FF7Rebrith/tools/apply_number_style.py",
-    "bytes": 2142,
-    "sha256": "4f1371eb706c66c52edf2fdfdd6bcb0ef2cb8e2edac26cbaa7dca49e8e9f1c24"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_ch12_recheck.py",
-    "bytes": 1197,
-    "sha256": "4ac9233e82b42378b708e82cb6f949983b821f57f0ad4adab762274d27b7b281"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_ch1_6_recheck.py",
-    "bytes": 1400,
-    "sha256": "16da2c278496fcb9f7faefe3a5d8c893de4f0326b91964b47da889ca38315608"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter1.py",
-    "bytes": 4097,
-    "sha256": "cb945e76119b1c103eb7dab1abb452b5cc1d7e666100c75213a2d20fdb926338"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter10.py",
-    "bytes": 3920,
-    "sha256": "86f463684fe2938b47bf7f2aa81d06d2f34b0644f2f5fe28bc7aacc13d7e5fb6"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter11.py",
-    "bytes": 4035,
-    "sha256": "1405d9393db466b737d749007beb4438962234e94d5f3cff3696984c9a6cf403"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter12.py",
-    "bytes": 3136,
-    "sha256": "840d01e3543cf8e8b55cb1af923875d89fb2189457d25b3998b625448b25150c"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter13.py",
-    "bytes": 3159,
-    "sha256": "ebaf1442883c2babdb2e66aaaa6dd5c04e8c62c3c8e26a7e59f3a00f645bfd62"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter14.py",
-    "bytes": 2696,
-    "sha256": "2f8dcd00ef5dca67653d64dd9a608c3cb79020dda1e44233bb4a662c528ae762"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter2.py",
-    "bytes": 4064,
-    "sha256": "7aab5a5e6aa4b0e68d5dc7a7ef6445f0a6b1a7fb1e9506c78c55e4ad4e91bb0b"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter3.py",
-    "bytes": 3385,
-    "sha256": "fb7aca05e9620a3a9fcaa82ca6d0ad161d9dd04e99ef22b08dedb547e9ff17bf"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter4.py",
-    "bytes": 3487,
-    "sha256": "078f3349a6a2011b01947d562d070be4674855fcfdeeafd7b63cd6f7b9139dc2"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter5.py",
-    "bytes": 4034,
-    "sha256": "68ec63d87abade0989594f0da281f3391d894bdc3b98661f222b9af006e397a6"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter6.py",
-    "bytes": 4689,
-    "sha256": "4ee4453e850a090e4af5127d39ead68422406428067c3ea912a17c39582ce01b"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter7.py",
-    "bytes": 4127,
-    "sha256": "6226aa66962cc6dd5748145e67f8b2f2d1668f97dc4f06528d3cc85ee3f06e47"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter8.py",
-    "bytes": 4831,
-    "sha256": "320b96334a281fadd824a25488000807b75a8a0c0b5ea3585063f0e0b1264169"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_chapter9.py",
-    "bytes": 3081,
-    "sha256": "f682a11946dd6bed878bdde7179db2ef17787e88be362b12d68323bcab31b4c7"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_choice_completion.py",
-    "bytes": 2730,
-    "sha256": "8ae66074dc3acadc3e722ea5154bcc6a29d8ba4cad9ebfe190e57bba7de39ef5"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_enemy_names.py",
-    "bytes": 4674,
-    "sha256": "f8258c435006f9a0f69c95686515f61a2cb7b228ac85c4978c065532f8f2acac"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_inventory.py",
-    "bytes": 5545,
-    "sha256": "3f2969a21ce926b4756cf7f2504cba916f16ec7ac380fec80b24b9922c52b45a"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_menu.py",
-    "bytes": 5612,
-    "sha256": "f8dea4e7515bc8c7dfd5adb9b86ecb0b0a62284e11b6fbad6cb02d67177e0104"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_npc_recheck.py",
-    "bytes": 2261,
-    "sha256": "0a4a281c5e03daaa5d3a1ca1d2182c6f99a5fb5898b73d8ed9a259d2d3352321"
-  },
-  {
-    "path": "FF7Rebrith/tools/assemble_ui_completion.py",
-    "bytes": 6114,
-    "sha256": "d54911337a330d9f5ec670d098f00bc48d3f1a53a7385701b1575b0e2155b6d1"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_ch12_recheck.py",
-    "bytes": 9692,
-    "sha256": "11e11e9ebbf9d6935440c4085299c8315afb79d89da2692323b816cfb5b992d8"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_ch1_6_glyph_regression.py",
-    "bytes": 2187,
-    "sha256": "d94da06ad697ccc4bab0a1cea4b10ebb8e85cd8b30d30bf16ca234713ad1b00e"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_ch1_6_recheck.py",
-    "bytes": 15275,
-    "sha256": "c27f816e7c79f86c2221c51ec4f9db1f5842a822eddf275d95c27c3106b472b0"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter10.py",
-    "bytes": 11599,
-    "sha256": "f7f428bcd498ef0fe3765d88bc0bda0b1bfc0d55e90e44bd7b2536f7dfc4225b"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter10_glyphs.py",
-    "bytes": 1851,
-    "sha256": "adf40efebc3824fbcd83c09c17d77b44e8863c00a0d1c485de93b972996b00c2"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter10_recheck.py",
-    "bytes": 9213,
-    "sha256": "bbceef784414bafc6e0dc6a4c61867f4b44a9d1e8d5b7ba85e0347fe8ce41bb2"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter11.py",
-    "bytes": 9849,
-    "sha256": "1252480e0d5f871309713bbadba438436abef88e4111eccc72b6f2dd9028fabf"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter11_glyphs.py",
-    "bytes": 1467,
-    "sha256": "31c3d31d998317ccea66891028f4521f58d6971873193cbb8217ba83fddda3b2"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter12.py",
-    "bytes": 7820,
-    "sha256": "6b5afa3c0d64640455c83cf91b9ed6afa3d9d579fc8a51f972a005c4c05d2f11"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter12_glyphs.py",
-    "bytes": 1486,
-    "sha256": "f51bce120e7f391c77dad2b429dcb82e370b00646b8c89437845433976d33e79"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter13.py",
-    "bytes": 7748,
-    "sha256": "b97b2723639862e128e833820df8c84c4f5916ab1bb4a483dcfcb75def08d060"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter13_glyphs.py",
-    "bytes": 1486,
-    "sha256": "f8165554e69233bd06b32ebcdfde3e06f570ee1396450c5215b670e8874493d7"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter14.py",
-    "bytes": 8013,
-    "sha256": "93e638ad737612d7fcf5cfcd9a9926e49b147e8f4ae976cd93811b7172931489"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter14_glyphs.py",
-    "bytes": 1486,
-    "sha256": "2f97ff78102529f8282b6bee24cfa8aa03e7a2870bcebc7096f7a220fe380779"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter2.py",
-    "bytes": 5643,
-    "sha256": "d8dd9388cde9486663c1f24a4830849c7d83b8931d31e70b9eed02d4f81096c6"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter3.py",
-    "bytes": 8789,
-    "sha256": "62a437fff99e95977c50501ac7159d328da138c4ccc5735e445218cf66a8acd8"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter4.py",
-    "bytes": 10611,
-    "sha256": "eb08bd374f6e555e7d3bcb6c721a6d72a2e0c4301c96a94b79ded67fcfb44c7f"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter5.py",
-    "bytes": 11698,
-    "sha256": "ea7d37a1d219970d0faaf0854c91023bdf0713d5a236bddc7aea2743f48de98a"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter5_editorial.py",
-    "bytes": 5506,
-    "sha256": "91f90a97b8eb2adc0291e5a21f3178a7ff56891afa7d479956afc67e7456a4a4"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter6.py",
-    "bytes": 12719,
-    "sha256": "ce2c92b60cda4b436ebf8c4263dab217aaf86e3c1c641b4e5cfd718a48178be4"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter6_activity_ui.py",
-    "bytes": 5176,
-    "sha256": "b6bdd7581008df5bece69959ecf0f8bc9d5220625bdeec7db3c7b4e8fe39f0a5"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter6_editorial.py",
-    "bytes": 5873,
-    "sha256": "89dcf7e374719ebc91a45c2fecbce9a3897c78544db92de9ae44ad0c21a8b54a"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter7.py",
-    "bytes": 7415,
-    "sha256": "61fb7266e33b5c25690406732e6f2414e25cc297e42342dec7a655f075120de1"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter7_glyph_regression.py",
-    "bytes": 2199,
-    "sha256": "bbf7a7301038f21de67f7904e5ce4f63847bcf3ac41fc7ace643cc453eb2e8f6"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter8.py",
-    "bytes": 9102,
-    "sha256": "d1579f29d0c283a4d65dde375b74ebd5d86eb6ad14dfec2c9b0055ce6ac9798d"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter8_glyph_regression.py",
-    "bytes": 2201,
-    "sha256": "a40c8f30202bb9f9f96b111e3dde5156a7a5617492238536d5f62ddae8097e3e"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter8_recheck.py",
-    "bytes": 3155,
-    "sha256": "09b3935a7c2f3ebe33954cb73e1f67298b1088c9fb72bf84799eaf6f303e8ec4"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter9.py",
-    "bytes": 6518,
-    "sha256": "ccc9c08eb5a263356567c212aa8462fc8ced87631ccdea9a12cc035c0c092b83"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter9_glyph_regression.py",
-    "bytes": 1654,
-    "sha256": "5cc73d7fd525d818ff0838a72acd004b554786feac312623e118297c8cb6c253"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_chapter9_recheck.py",
-    "bytes": 4982,
-    "sha256": "b006c1dba85af2b0dde82ae7aba047f8af2f29c6e7c40316f81f4ed3a6b6b38b"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_choice_completion.py",
-    "bytes": 13568,
-    "sha256": "cabd04d55d03c7fad2a3b3b78d4780598e2859ac643afa61bb5bdfc4b52cfab4"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_current_conditions.py",
-    "bytes": 6863,
-    "sha256": "ebb8477e88bb3c3f1d9b4ef29eef1e056666faaebd61e5e27e949a6dbded6c8b"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_current_gender_particles.py",
-    "bytes": 7876,
-    "sha256": "140418ef842d4b3c6918ac9a9ad464d446b2246360e184ef96fd65caea7c3dc8"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_dynamic_baselines.py",
-    "bytes": 6891,
-    "sha256": "5bbb3984e631fd0c6ab4f192e137106f8b6f2674c7a6444c778b5a86aa34942d"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_enemy_actions_regression.py",
-    "bytes": 904,
-    "sha256": "1db0441d9634ad6a8920231407bdce8acb91a0bf453079396b80480b4ace5579"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_enemy_names.py",
-    "bytes": 4756,
-    "sha256": "9732b6192249b51ae8fd49ad019a764e006c0939df1006a952f124b11f65c7cb"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_english_completion.py",
-    "bytes": 2865,
-    "sha256": "8c197ccb2c99e79d03ccee39bcb8526e773b6659ff012c6c217615b6024d6b5a"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_particles.py",
-    "bytes": 3312,
-    "sha256": "cfe86386d0b434281b3117cd672ed442c70b66a35ad71a93dffe78f697c23a71"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_through_chapter5.py",
-    "bytes": 8499,
-    "sha256": "6f5bcff938e6cad2ace136309fb32e100aca74299bc1c592bd3105584f1a031d"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_through_chapter6.py",
-    "bytes": 8804,
-    "sha256": "3ff08c549af792534f58bbd6843b95909b16e84724ff38a7ddcd365ebc4f0c72"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_through_chapter7.py",
-    "bytes": 9544,
-    "sha256": "82b7458c51913a59f5af30ba648e9bd692a8160d6abe55c826f2d48909749b78"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_through_chapter8.py",
-    "bytes": 10330,
-    "sha256": "d03b52adb347b7da0b259e346d693dee36f17bc56e4a9a545c7efab5e2b79ff0"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_gender_through_chapter9.py",
-    "bytes": 4013,
-    "sha256": "abf492c81c14c44f0f89be59f59932e9e64420b18fc5797ac5ae7a4570e147e4"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_inventory.py",
-    "bytes": 6955,
-    "sha256": "9426b745c92d9dcd170d04146e3d466ff996a11743d174a576ffd018739376a6"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_npc_recheck.py",
-    "bytes": 8055,
-    "sha256": "5716b55473eb504f7f7131a7e5945dc93ecaa9a56f48d259bacbea24468be8ef"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_npc_regression.py",
-    "bytes": 2638,
-    "sha256": "dfadc3c30071541218cf261851236304a361b94ddf5812c7000203fe02f08b10"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_npc_remaining.py",
-    "bytes": 2548,
-    "sha256": "9c14bb556665ca861edbdcef01e892c53eccbb7e08f4b03835421f9bbe1d0f37"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_shared_dialogs.py",
-    "bytes": 8519,
-    "sha256": "76a29c75edc5465c862a62e68fe819d07f2916c991957cefcd47f041b9605a13"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_ui_completion.py",
-    "bytes": 5503,
-    "sha256": "b348a947093db75a434f18ef0b90a24ab72532d53ca972b8fee1b6727a653fb1"
-  },
-  {
-    "path": "FF7Rebrith/tools/audit_ui_piano_notifications.py",
-    "bytes": 5070,
-    "sha256": "f497171b830328f599ce4971905a0ae652d30b4d03931b4bfa1565dd1f61dbec"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_ch1_6_recheck.py",
-    "bytes": 411,
-    "sha256": "c38366588fbdf931ee2d5687dc2aa8aee85de200754fd3bb633362a7b8684535"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter1.py",
-    "bytes": 12760,
-    "sha256": "f3acdbad63126c8162abaa005c36bf71062bd27bc197b70fa9c4a2caa078e79c"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter10.py",
-    "bytes": 322,
-    "sha256": "8a0921785e889b2617be9ac5943bb4f1d6dace67cfca382419c032845cebfcf0"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter11.py",
-    "bytes": 322,
-    "sha256": "56045f5f33f0682eb17e3720e8170da052eb72ad1be961a9462c9d871f588d7c"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter12.py",
-    "bytes": 322,
-    "sha256": "0cb721bfc05f0acae620181bac65f4e38d90e8cacf8b139eaf5f1c1c1be0345d"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter13.py",
-    "bytes": 328,
-    "sha256": "974bd6fdd1c8a1aac239e6744a863a00178242a4a114604a5cc6078d2f996f0f"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter14.py",
-    "bytes": 328,
-    "sha256": "f88ac296d1051046b3fd24551513f481cbac12b76a134f44d3de7db17bf0b880"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter7.py",
-    "bytes": 410,
-    "sha256": "d121968301979ab717cdf17d8700ea4af7b31b6667d628d1bca2c4fd533d7712"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter8.py",
-    "bytes": 417,
-    "sha256": "1184681ed2f2e27b104c689eb749505ebcd8d6a202174808965375e701774c9a"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_chapter9.py",
-    "bytes": 320,
-    "sha256": "240c4d1032db07787ae26c244871ed0f10adb26949bd0a064ed434b1004e1243"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_choice_completion.py",
-    "bytes": 339,
-    "sha256": "901e85f345c03354484dab115b319e80083b07d4cd44cfaeaf6eeb725d9db2c7"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_npc_recheck.py",
-    "bytes": 327,
-    "sha256": "eeb577a152a5b2ba844ee9f61981d17aca46dd05f2c783b0b96d65da7c1db893"
-  },
-  {
-    "path": "FF7Rebrith/tools/build_prototype.py",
-    "bytes": 19293,
-    "sha256": "7370a67fb4eb9db7501545ab0f7a6c207f697835218228d5d2528cf3f304dcbe"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter10_continue_review.py",
-    "bytes": 8588,
-    "sha256": "fb4d065f863319ea6f0b247827091413d5aec7e284382544885148f2d655526e"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter10_recheck.py",
-    "bytes": 9643,
-    "sha256": "3e4985bd117a344b48cc72178d26ec844565e481e29279e00d430c96bd34a323"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter10_recheck_scope.py",
-    "bytes": 1468,
-    "sha256": "38988485e11306dfa183f3a78c1f27f80acd07e5d3e971e1fbd5e0de23ff9b67"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter10_scope.py",
-    "bytes": 1062,
-    "sha256": "6016a2649d9b6b8e35f11d7cab29b0158f649d8dbdaa2b89ed833178e8ddd6a4"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter11_recheck.py",
-    "bytes": 9237,
-    "sha256": "8e5c98e451268df6da1fde2297a5271787a1b8ed6be147ba58d0aa9b4cad563b"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter11_recheck_fixes.py",
-    "bytes": 10876,
-    "sha256": "8222538da2d0e721194f062016aecc34eb0e7f502c8b5c2807f8fd541e952916"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter11_scope.py",
-    "bytes": 882,
-    "sha256": "e042408ce8898d5dc9473714994a5ff3c8e91168b61e78cf8eae3a49ad3490a4"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter12_editorial.py",
-    "bytes": 4609,
-    "sha256": "5251eb8eded258798034cfaa4270e64dececacecbce1d6e32560f482cd2249d8"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter12_recheck.py",
-    "bytes": 3001,
-    "sha256": "176e34c1e47ecb21bca09740dea894a37cca315209c0bdc22988afe5d2ef33e4"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter12_recheck_fixes.py",
-    "bytes": 12883,
-    "sha256": "db2d5070a90378ab18ec99e334aed261f08f1a871bedf2cda027d5715a97d00f"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter12_scope.py",
-    "bytes": 2469,
-    "sha256": "938f4852c49c5f4ccb12b755efd9a9d8d0fa01cf71430249da9f0f2bbbe1d11f"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter12_work.py",
-    "bytes": 1429,
-    "sha256": "967cfda2afafb443c13a678f4e0426a473ff1a7196fd2e34e00e1575037ccaa9"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter13_recheck.py",
-    "bytes": 2316,
-    "sha256": "e5a53938595245626c5eea4467a60269411d1b80777b19ed5516bf6b9272da3d"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter13_review.py",
-    "bytes": 5477,
-    "sha256": "0cb4eba3ea6755e9e93fd3c2ccef707ff5b741a53c096774ffa91df0b160512b"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter13_scope.py",
-    "bytes": 589,
-    "sha256": "ffac066c68bbbfb6f45887285028ce902459017174126fe45a1261879d92f742"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter13_work.py",
-    "bytes": 1451,
-    "sha256": "2c5aa28df65a5c393f7ffb88bbf40f0f6b5384001510b7606a07ebc1c52adc4d"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter14_review.py",
-    "bytes": 6980,
-    "sha256": "0b680a58394137b1fb846c0453ecce7045b8dc69061ca99f84e4d5e9137f0256"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter14_scope.py",
-    "bytes": 420,
-    "sha256": "ebcc287607cf1bca454c7c17485a91ffc6bd6afe7395e8569096dd9040afc663"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter14_work.py",
-    "bytes": 1451,
-    "sha256": "9a68a97e16f4337ac2e5760f8d9c0f9fcd28a4e3d86ef3aba804a1dd26bcdbf3"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter2_batch.py",
-    "bytes": 839,
-    "sha256": "4d48e66d11c8a6cb7b817c1a5e1d46e9aff530c05f6cb0db3e65650e4607181f"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter3_batch.py",
-    "bytes": 713,
-    "sha256": "d46a9ef861567e31dbf6610633ebabf2dd7d4d51376a97c24e446ce0960dda20"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter4_batch.py",
-    "bytes": 894,
-    "sha256": "f241a5227f3b681087fc649d4d962c6f56b39ac360c21f492fcc215f3afa8222"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter4_choice_fix.py",
-    "bytes": 16190,
-    "sha256": "a0405944f84138e31ce13d08ed53ba43b793ce6a2f6c9de4f80011f7daa7e7e5"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter4_door_fix.py",
-    "bytes": 15212,
-    "sha256": "cd3871a0d53676ff0cfffb2726376a3d0839b01e2baf04d81ec98b8b4c76658a"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter5_batch.py",
-    "bytes": 912,
-    "sha256": "b5f5338e83b71d9b719bf0509cfd5131d98d737d09d442b584aea96f4d4398ef"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter6_activity_ui.py",
-    "bytes": 17518,
-    "sha256": "e780e582e1cb25a8ec7a18be66bf7fd5608a65794ffde1f4447f605967e243f5"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter6_batch.py",
-    "bytes": 912,
-    "sha256": "92dd7734305fa6f0e759681da6cec412dd91dbb314fae7b0f7e87134d5ef8eb4"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter7_batch.py",
-    "bytes": 1172,
-    "sha256": "d23ae1985a8237d101200680e3d49d74b82c6f67dc8caf1835d155f0e4420d79"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter7_scope.py",
-    "bytes": 2073,
-    "sha256": "56e1d829df84d85533aa7171260d1aa8d2492479e1f347e156d455ad4a4e1ea6"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter7_supplement.py",
-    "bytes": 3327,
-    "sha256": "2d472f4b111ab15b4bd064ce7f7eb2608df7cda0667594044c710aa69ae037c4"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter8_batch.py",
-    "bytes": 1173,
-    "sha256": "4a8468df31fadf55c974b85aefcae8c114e3a092d14d1aa6a337b31788c7f053"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter8_scope.py",
-    "bytes": 2074,
-    "sha256": "a654aae951295ef9ba8bf6c63cd8eba01a3eb37a2898a11751b0e09e620d9256"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter8_supplement.py",
-    "bytes": 4645,
-    "sha256": "244aebf0a6f153774f4ef8cdd23658d4dedd7d98ec9c715b5c4a2060aa0e9eb5"
-  },
-  {
-    "path": "FF7Rebrith/tools/chapter8_supp_batch.py",
-    "bytes": 762,
-    "sha256": "03947a0e107f42400817e8cf2e0dfd23291e03beacd8e9c3e52a0d9f0f22a33e"
-  },
-  {
-    "path": "FF7Rebrith/tools/choice_completion.py",
-    "bytes": 4027,
-    "sha256": "df752a00f5bcc89c21f14cdd98abce88bffebbdc5f7517b04a390a21730cbef2"
-  },
-  {
-    "path": "FF7Rebrith/tools/compare_fonts.py",
-    "bytes": 3037,
-    "sha256": "add938886273ddb14cff10f66c9287a164d8b4b91f2d6d424daf84071332134d"
-  },
-  {
-    "path": "FF7Rebrith/tools/context_full_read.py",
-    "bytes": 8621,
-    "sha256": "08394349f42b771b274b91127d012bd5e9060c0e7ebde863404327ddc058209d"
-  },
-  {
-    "path": "FF7Rebrith/tools/context_full_read_compact.py",
-    "bytes": 884,
-    "sha256": "a2f09942fdc92daac677d16dda7f798ff046b144455f7c0fcd3111502ff8e4bd"
-  },
-  {
-    "path": "FF7Rebrith/tools/context_full_read_preview.py",
-    "bytes": 8038,
-    "sha256": "0b9b05a70fcc58902bc603f8d15f4d2e8de20751924409863e728651dd5a7aa8"
-  },
-  {
-    "path": "FF7Rebrith/tools/context_recheck.py",
-    "bytes": 12636,
-    "sha256": "a7cfb30bd67755366e39b2de630c71d1850f6e39e04416e3b167de68ec26fc37"
-  },
-  {
-    "path": "FF7Rebrith/tools/context_recheck_preview.py",
-    "bytes": 3935,
-    "sha256": "8f8475ac62b25f817b8758b601ca5b24db59bbef8ced9cf28aaa4d530629dd4c"
-  },
-  {
-    "path": "FF7Rebrith/tools/create_ui_completion_scope.py",
-    "bytes": 4071,
-    "sha256": "d4eb9c75fd7033f24f8e4d2650bec4eac682e2f7321d095125676be722a39f4e"
-  },
-  {
-    "path": "FF7Rebrith/tools/enemy_actions.py",
-    "bytes": 8053,
-    "sha256": "af611292f0e64451b9d063d3bfe0b5cfd8127c3172f4c4ee18778c1667a45354"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_ch1_6_recheck.py",
-    "bytes": 4194,
-    "sha256": "8b341a50beb9a7d4a1ad74bf87877ab5a54f592aa47dcda081e21dd3e8135886"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_chapter8_recheck_cards.py",
-    "bytes": 10794,
-    "sha256": "e5db539abd74e9c0eed13ac4421af50b714a6b88b0ac12b26afee5a55b073cc4"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_chapter8_recheck_shared.py",
-    "bytes": 23815,
-    "sha256": "30d296df56207ab6ea40344185c77e38dd160766a855a065fefdd9f01da52761"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_chapter9.py",
-    "bytes": 2363,
-    "sha256": "55e28e259bcc51a21caf6b4ca23d1f97818645735c47363de5ca47eb50538bc7"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_choice_completion.py",
-    "bytes": 2673,
-    "sha256": "6576186519778c393e098d70903dbce321885841bf6bb6782caa63a39ba24d58"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_inventory_scope.py",
-    "bytes": 2113,
-    "sha256": "307eb41cf408791cd7bf97568faa02b371f959c573ec5259450d3d20b22255ad"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_npc_recheck.py",
-    "bytes": 1714,
-    "sha256": "53b6acfb2a49d349d9ea5e906fac7c5fb72edc4369a1574fe0d049e561d2e998"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_ui_completion_scope.py",
-    "bytes": 2515,
-    "sha256": "e7621fa187124f21ec6059ad44e6fa95879e8b2a8c972f87f564a256128e8914"
-  },
-  {
-    "path": "FF7Rebrith/tools/extend_ui_piano_notifications.py",
-    "bytes": 3930,
-    "sha256": "785c913d311689302f991e8c3bfce93801ee5bc8e3a700933dc77c993de6f515"
-  },
-  {
-    "path": "FF7Rebrith/tools/extract_game.py",
-    "bytes": 2287,
-    "sha256": "b3f4c4086fccf8a6febaa360fe1ea7ae038cfa1822c62f8a3f0d1a39e4089417"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_ch12_recheck.py",
-    "bytes": 18634,
-    "sha256": "76ea86c8cfc9235a86a246645da9ff135b254b3a079595ab32dd50ddea553686"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_ch1_6_recheck.py",
-    "bytes": 25155,
-    "sha256": "7abd99ca052f040564889e67f8709c7f32db4c8effb28a09b690128d605f13c4"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter10.py",
-    "bytes": 19050,
-    "sha256": "a4a06b3ceb182411f4edae872647768afa0aa35d73659caa776085779174af0f"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter10_continue.py",
-    "bytes": 7702,
-    "sha256": "b83e0404829255ba64881e1d7ec5c8cba0b63f517fc7f6112f4ed9fdd57f64ef"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter10_recheck.py",
-    "bytes": 16829,
-    "sha256": "f928eebf0c8d0c958fce5fc77d730e5c97b4f1b76c4683d4900167ad9f1df9ab"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter11.py",
-    "bytes": 10490,
-    "sha256": "2b39799933d430d744e1c1c178e31b0b9e21c2f6681277ca4f49d1b42caab3a5"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter11_recheck.py",
-    "bytes": 11041,
-    "sha256": "ffa0c8cf1feba428307bf08f6b1abddf425a656f76ee38fd83e537032c67dacc"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter12.py",
-    "bytes": 11360,
-    "sha256": "0e1a1cfa264dcbd24e6860316799bb31bbeeec5bd8f13405d5b2d0c59874d09f"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter12_recheck.py",
-    "bytes": 9123,
-    "sha256": "333260b7e3033d8e724b7d626de6e5ebf1dca7c057009882babe4a760fe06b61"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter13.py",
-    "bytes": 12357,
-    "sha256": "b68fe18e7e27d7cfd1e759db85938d4771bd6553c2f98777284f96bd845674ad"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter13_recheck.py",
-    "bytes": 7407,
-    "sha256": "decf19d9f81f001fe6f1ee9925987a5e60854f4c9dbef333082a44ef3f0d09cb"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter14.py",
-    "bytes": 14278,
-    "sha256": "0ae616b042b1fa09317a4e275621a95f54201f01492daff1a06d0b4939eb4a31"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter6.py",
-    "bytes": 34250,
-    "sha256": "2442af62296dae3675a503d36359620265b7c1a5319bc7bd60bbdc64946d2402"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter6_activity_ui.py",
-    "bytes": 8909,
-    "sha256": "0797c5d7b2f032aac1146f0443dece7ac88c7e9fc771d6116b07e78b81e17e31"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter7.py",
-    "bytes": 23427,
-    "sha256": "01f7a80fcb0d4976170b10c6de93dda7aebd83381099a19806fba38790d446a2"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter8.py",
-    "bytes": 23435,
-    "sha256": "aae23a6f1e3506dc406b35c8d3ec4b70a7e1088c4ff3b4e0346c2a05f97363b2"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_chapter9.py",
-    "bytes": 29982,
-    "sha256": "955bd44d41facea5defc243e7fa7077f591e9b822ea67dda0f1ce9d1a74a94f1"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_choice_completion.py",
-    "bytes": 22985,
-    "sha256": "df3f18a80bc43ed1fb7211b223bec48ca0028ace02869c55810eb9411e1c3ac1"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_context_full_read.py",
-    "bytes": 10501,
-    "sha256": "f553e00fd2147069af8c5da0466b74670e2fc5032dd376679a593a9f5e009366"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_context_recheck.py",
-    "bytes": 9411,
-    "sha256": "61957bf5b8079bb20969c105f89592ef2270d8daca4f64af75e705776b8ba2bf"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_enemy_actions.py",
-    "bytes": 14480,
-    "sha256": "c0c2d965d4e90da6916d4d8afcb72eebc4f1e84db08781ac4e74fd10e5df5f8f"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_npc_recheck.py",
-    "bytes": 19632,
-    "sha256": "c74d7ec54e72a9e8935ba331262866a581ef17b300495d1d795dac86d38c5fbc"
-  },
-  {
-    "path": "FF7Rebrith/tools/finalize_pronoun_context.py",
-    "bytes": 10899,
-    "sha256": "fc9decd4ddbd672065251b48145ac0fee9f4a403810706bdc4453e278ac4fe54"
-  },
-  {
-    "path": "FF7Rebrith/tools/inspect_chapter2_boundaries.py",
-    "bytes": 642,
-    "sha256": "a87972aca4ff1097cb9e81fc50b028ee9872180f344608f18143357dfde86c0d"
-  },
-  {
-    "path": "FF7Rebrith/tools/inspect_chapter2_scope.py",
-    "bytes": 753,
-    "sha256": "a649fc893e245efd441f83bf141e9e37c5e3e54aca741a1160c4fd86e6aeb718"
-  },
-  {
-    "path": "FF7Rebrith/tools/inspect_digit_baseline.py",
-    "bytes": 1121,
-    "sha256": "bbd7b36cecb4b0e61141488f90471e443ec7a3888438de9af18c60e857d99325"
-  },
-  {
-    "path": "FF7Rebrith/tools/inspect_items_skills.py",
-    "bytes": 597,
-    "sha256": "d68ab6147050e0dc77920c18b4a618039c4ce7b0780533ee960222522c0bad94"
-  },
-  {
-    "path": "FF7Rebrith/tools/install_current_set.py",
-    "bytes": 4379,
-    "sha256": "b72e9722786995bb68c353fcbb0b8595bb2ee630a57c542d661343cb4392b345"
-  },
-  {
-    "path": "FF7Rebrith/tools/inventory_batch.py",
-    "bytes": 3159,
-    "sha256": "11821a953d255f3035576280417041f0b347fdbca36addaf4d528ef6bb015cb5"
-  },
-  {
-    "path": "FF7Rebrith/tools/npc_recheck.py",
-    "bytes": 2567,
-    "sha256": "1358196eb72710d9c972081b23adb88ef14d44f7e9888ef3b78655376a081021"
-  },
-  {
-    "path": "FF7Rebrith/tools/number_style.py",
-    "bytes": 1471,
-    "sha256": "4c144182626947ac67f4ec52d467b6139ef49b08424ab4c4387146a3216bc755"
-  },
-  {
-    "path": "FF7Rebrith/tools/package_release.py",
-    "bytes": 3794,
-    "sha256": "f67e47e93d0a364a1f0cbde9ce33ef3d4e1f5a6005c56c597353f4a23a9754ad"
-  },
-  {
-    "path": "FF7Rebrith/tools/pack_prototype.py",
-    "bytes": 5568,
-    "sha256": "659b372e9ececb68a1b6a02ec93d654a84f2a53fa741c29d8b3e52e5a4d32663"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_ch12_recheck.py",
-    "bytes": 3977,
-    "sha256": "38d30313d44a9eb00075474311935379979ce28bbf7816e07d28021b9fb5e9ce"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_ch1_6_recheck.py",
-    "bytes": 6352,
-    "sha256": "84b7ac79434cfd5ff38695edc6c20bcd02664c3bede2aecede0a98f26dd4dd2d"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter10.py",
-    "bytes": 3521,
-    "sha256": "7e38143398cc77958087033116f4c4bd284267ef7b32aeb1059c22ea1df8ae55"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter11.py",
-    "bytes": 3821,
-    "sha256": "51a0e3928f56470683694ed64e2bae491fa0be7b7367eebcaa0cb0e9eb4851c1"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter12.py",
-    "bytes": 3665,
-    "sha256": "1e64b61ee5cf70a4b3719b100a68bdcc91a94838344667de3932ee45d443df06"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter13.py",
-    "bytes": 3604,
-    "sha256": "966452c440508fbadda70838c771c6c76acf30f7359dbff141735adda83f1946"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter14.py",
-    "bytes": 3735,
-    "sha256": "353990969c1eaec5f14fbbf46b3aa603fdeb53a9719d32dd795c819f23a5418e"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter2.py",
-    "bytes": 2025,
-    "sha256": "cd7e5502cbeb732b8ffe62755217bfe5b52d4258ffe70a2a0858f1c13ae6a6f6"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter3.py",
-    "bytes": 3195,
-    "sha256": "edb41769d2382fb4456cf73e40d142a4242eef4b2f12994569e11e6634a64e4d"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter4.py",
-    "bytes": 5129,
-    "sha256": "2b91dae0e676e550399887a48e927bcf19f0adfc425f86d41551ae7f0463839c"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter5.py",
-    "bytes": 4319,
-    "sha256": "329cc1814739a066355c7aa34d89357238687917694f1077c6257cead51edcf2"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter6.py",
-    "bytes": 4410,
-    "sha256": "427ff869ea93d1df870bd613c19ed0462bce50247c489ebf4e69840713d11d1c"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter7.py",
-    "bytes": 4559,
-    "sha256": "295f177a41a8b6971a9e1b95a43d0cf99bbed744889d87ff86f5e399f5ddc2af"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter8.py",
-    "bytes": 4547,
-    "sha256": "7a3ce563c8861c08f0cbbd2b1558998b5c6983c59841607e676d6dbcb6c4a1f3"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_chapter9.py",
-    "bytes": 6456,
-    "sha256": "034bc7d8eeaf31f277c7a5f316989b6fdc128dcf41ff3a1d792ed3a2d7b652a8"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_choice_completion.py",
-    "bytes": 3685,
-    "sha256": "a4492a9dfb86fff12ebf2d8888c2a6bccb53717ab5fd747a33b35b5d05a487fe"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_inventory_install.py",
-    "bytes": 2319,
-    "sha256": "40b76284afdf0139b5a7abc397c54bc3eb6fbe6ccb66556ccd9c4348dac0649f"
-  },
-  {
-    "path": "FF7Rebrith/tools/prepare_npc_recheck.py",
-    "bytes": 2868,
-    "sha256": "0d6e6b4038c6977cd01cee1082cff4a64a4f6ba61a67062f1b2906992563f90e"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_ch12_recheck.py",
-    "bytes": 4694,
-    "sha256": "a268c0a741f2130a31ad88d4ee29ba74393ca451c4fcf6eb585aada04aeaf88d"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_ch1_6_recheck.py",
-    "bytes": 3462,
-    "sha256": "3de13dc0054464dc439473268fe587a6d942fb9383b1d6fa49850bd5a955a408"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter1.py",
-    "bytes": 2443,
-    "sha256": "01f8dfd5f4090aea81cee9ede94a186f2e76dce4b0df7271efbc5e6525796208"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter10.py",
-    "bytes": 3811,
-    "sha256": "97f135cf5b7a67fe35671b582938a515a98cbc736a0d4b0cbcf839e013ee782f"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter11.py",
-    "bytes": 3655,
-    "sha256": "dfd73d4a21c6bd5eb4e23731d1366306860113b6de35cb93341732dec993a3fa"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter11_recheck.py",
-    "bytes": 2756,
-    "sha256": "64fcb5c1a6ef4f77c4d4cb9018d9f5e39e7da8a2adb5d80502a20d5fd8707952"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter12.py",
-    "bytes": 4298,
-    "sha256": "3d9b5d877bbed2ad59b7d5f49d9fc7d3bc67f2c4f6096bafdd249e10d979bbc3"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter13.py",
-    "bytes": 4264,
-    "sha256": "2e9922c18c2f1a5273333b5530a98d4b14f273eeced50e07ff40df5d438b96f3"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter14.py",
-    "bytes": 4267,
-    "sha256": "07c1a89d97e2f563c91983e608b45b81da5a7604bbeef044b0b8d7eff7ae21fe"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter2.py",
-    "bytes": 2360,
-    "sha256": "49c17c8ac4103fcf699ae26d6720553de3ebc359c42f3558ecfa1ab7f2520e8d"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter3.py",
-    "bytes": 3069,
-    "sha256": "64cc7dfdc1301fc04fc6d4a681a68751e28b78d504dac8adbc36b9a4f676162e"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter4.py",
-    "bytes": 3394,
-    "sha256": "d28154e2d5b10ed38596dc10e20fe474767afad0842d88d34cf82ae65334cc07"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter5.py",
-    "bytes": 3344,
-    "sha256": "0a444d0e7f948fed0f48c98d059190d62b1afc70852006ea877b6059856f29cf"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter6.py",
-    "bytes": 3352,
-    "sha256": "6798d80571115f2f8f8f2114bf4cf574e96ef44f99d2df027ec5f5642bae4d2e"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter6_activity_ui.py",
-    "bytes": 3601,
-    "sha256": "b44b4a6fa4b2ccd02d0614673ff90cfe6ddd1e9924dc5ff32ff20af2e89d96fc"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter7.py",
-    "bytes": 3401,
-    "sha256": "f1c3cefd2ffd4e895438ddfa13bd36915532d77ffc1087e8737cf2faec841a15"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter8.py",
-    "bytes": 4283,
-    "sha256": "1a9ed1e9734901676417bed9c7868b30c3823a463d7602e8206131c274417857"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_chapter9.py",
-    "bytes": 2714,
-    "sha256": "bf6674d0568b5f94782942b103653a93a4ffc9221bfeab3dc989308080a622c9"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_choice_completion.py",
-    "bytes": 3776,
-    "sha256": "d4bc3c94492be4c06f344df9c6a049ad5f1db07089ee549a8bf862e54b77b820"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_enemy_actions.py",
-    "bytes": 2418,
-    "sha256": "9796d96d9aead5ebef4e7d5ea42616e72f75ede9793c8191b22b17ec431ac21d"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_inventory.py",
-    "bytes": 2837,
-    "sha256": "2bcc99dee5e92163f8d8021188da1feb80fcb64a6d881b8f4c06989d1e508b2c"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_menu.py",
-    "bytes": 3695,
-    "sha256": "79df0d8e7559f14f05903c630b1c5301c2dbbc130e4354d880490b83400a3a76"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_npc_recheck.py",
-    "bytes": 3175,
-    "sha256": "de3ab54f8e4288ffbf1b2466f65a00dadb80534f0766c7b2b9043633784173d6"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_pronoun_context.py",
-    "bytes": 333,
-    "sha256": "eaeb6df6d46b261f413c25717b709f5982082324b45e71bf7f8baabcb8e31205"
-  },
-  {
-    "path": "FF7Rebrith/tools/preview_ui_completion.py",
-    "bytes": 3462,
-    "sha256": "829dd984d2750f130aa87a6211e368b5c216117c8e4f722f014df60512db3bd0"
-  },
-  {
-    "path": "FF7Rebrith/tools/pronoun_context.py",
-    "bytes": 8456,
-    "sha256": "40ea439a41ec8de1ba8d0e4f0615f10c4a6f5ddfc799c6cfd5e8037a024f92b9"
-  },
-  {
-    "path": "FF7Rebrith/tools/pronoun_context_decisions.py",
-    "bytes": 8011,
-    "sha256": "207c5ab295c8bebbf1b0ef01409d2d4f73e2b0314972931e4229e7e82d692f27"
-  },
-  {
-    "path": "FF7Rebrith/tools/publish_final.py",
-    "bytes": 141,
-    "sha256": "0b7905b1deb3fd2d74f7f45895ccf733e2a47d13548167655a0b93441aade70a"
-  },
-  {
-    "path": "FF7Rebrith/tools/publish_final_parts.py",
-    "bytes": 15438,
-    "sha256": "206bd19bca7cdd55650f16cf723871c6b3b9ccc4fd97a30d84d148f11377abff"
-  },
-  {
-    "path": "FF7Rebrith/tools/recheck_chapter4_gender.py",
-    "bytes": 9432,
-    "sha256": "4a9ca0d2f19cc9c2e26cb8753de5540e0c70cb0809a731c3fa56b78029c0b20f"
-  },
-  {
-    "path": "FF7Rebrith/tools/recheck_chapter9.py",
-    "bytes": 3810,
-    "sha256": "2db9f94c8a73824a03f90ba1b1d54ef4952cb8ae7ea41b858d05c49780a8fb6c"
-  },
-  {
-    "path": "FF7Rebrith/tools/refine_ui_completion_scope.py",
-    "bytes": 1527,
-    "sha256": "37228a3c4ba40349e8a97646838c42012827b1c796cc0d073dec578fe14d0762"
-  },
-  {
-    "path": "FF7Rebrith/tools/resolve_gender_particles.py",
-    "bytes": 7185,
-    "sha256": "f241d1c3fbc1048de3ab0c44cc00f6b1789b790e775e6e9c6bed63c2f5f6b537"
-  },
-  {
-    "path": "FF7Rebrith/tools/review_chapter10_names.py",
-    "bytes": 883,
-    "sha256": "e51fb19ad72e9b4d1282aeb185f0e77564f7d2a69e232644cebc411c45eb3cb7"
-  },
-  {
-    "path": "FF7Rebrith/tools/signoff_chapter10.py",
-    "bytes": 9387,
-    "sha256": "720df7df277d8c7e1662d39b89ed5e6f207c5d39b7377c6a163523ae9709e3b4"
-  },
-  {
-    "path": "FF7Rebrith/tools/signoff_chapter11.py",
-    "bytes": 6627,
-    "sha256": "13d3893320af9c31935eb28cfb9f236b4c4fc73340aca49acd92a33c742f602c"
-  },
-  {
-    "path": "FF7Rebrith/tools/signoff_chapter12.py",
-    "bytes": 6183,
-    "sha256": "551ad79d369ea6e9a716582a8415ddccb5960ad20e914a371e3add99f417a2ee"
-  },
-  {
-    "path": "FF7Rebrith/tools/signoff_chapter13.py",
-    "bytes": 4714,
-    "sha256": "3ea06343e3b8b666d2d91188afa62efee331a38b14d89e03edeedec02cfe0247"
-  },
-  {
-    "path": "FF7Rebrith/tools/signoff_chapter14.py",
-    "bytes": 3826,
-    "sha256": "74294966a91db7ab16b5f069e529a9683ac98a3276b5b943b07937afc85db41e"
-  },
-  {
-    "path": "FF7Rebrith/tools/texconv.exe",
-    "bytes": 966480,
-    "sha256": "dcfdec10244e02cf5037fba089c55fb7e1326b1c8181742d77d15fa5cb5eef06"
-  },
-  {
-    "path": "FF7Rebrith/tools/translate_ch12_recheck.py",
-    "bytes": 24952,
-    "sha256": "43ea97a91b4a5a504340510e71d1fb6a09306e6f7154594d9e77b2e44e417519"
-  },
-  {
-    "path": "FF7Rebrith/tools/translate_ch1_6_reports.py",
-    "bytes": 24031,
-    "sha256": "0df9d311a69223d92bfa8107c66e9a9d8710cdde06ec917b5f258a7817bbcdcc"
-  },
-  {
-    "path": "FF7Rebrith/tools/translate_ch1_6_speech.py",
-    "bytes": 16176,
-    "sha256": "1b025a1d79d5ddb520e08fffa082e660535f85b1740f0b85c28382f57f3fda2e"
-  },
-  {
-    "path": "FF7Rebrith/tools/translate_ch1_6_ui.py",
-    "bytes": 12420,
-    "sha256": "f4724b1f18f26102248d05f08276cc9d177c5341bd2a6651212b3c98b4a5870b"
-  },
-  {
-    "path": "FF7Rebrith/tools/translate_ch1_recap.py",
-    "bytes": 7459,
-    "sha256": "2fcb70b616f19742855fbfe610d6781de95f3eb4a7610fdaae9f7f24be3cd936"
-  },
-  {
-    "path": "FF7Rebrith/tools/ui_completion_batch.py",
-    "bytes": 1387,
-    "sha256": "997700be16a3e606cf3d160aade6e81fc307db5d40442a9801ca95613b1e5106"
-  },
-  {
-    "path": "FF7Rebrith/tools/ui_control_table_patterns.py",
-    "bytes": 4303,
-    "sha256": "ca865589287240ae2b2564261c9986d722dcbdb3da7ac873dc7cb9dd96dce22c"
-  },
-  {
-    "path": "FF7Rebrith/tools/validate_context_visual.py",
-    "bytes": 2428,
-    "sha256": "ce4d3fddd6d8896bb3855e73975df8a9144942da83d65396466e2c147a1a05ca"
-  },
-  {
-    "path": "FF7Rebrith/tools/verify_chapter1.py",
-    "bytes": 13458,
-    "sha256": "f34ed497aaa75197a2240aa5e9f6236a73a47f428046a3fedee0eea4d2ba82d7"
-  },
-  {
-    "path": "FF7Rebrith/tools/verify_final_parts.py",
-    "bytes": 2183,
-    "sha256": "e5f61db13ba015cd4e02c5b5a191e6cb4d0775ce677f49b8d16144a27538d29b"
-  },
-  {
-    "path": "FF7Rebrith/tools/verify_installed_session.py",
-    "bytes": 1224,
-    "sha256": "87c6d9bc43d1cc7c9930eab07b09219216a5705765223ade686cdcdde504488f"
-  },
-  {
-    "path": "FF7Rebrith/tools/verify_text_preservation.py",
-    "bytes": 2445,
-    "sha256": "f6d47dda547cfde1dbc6681b61c17405d28fda2d39e9117784b6f6f7769f046e"
-  },
-  {
-    "path": "FF7Rebrith/translations/aerith-name-corrections.json",
-    "bytes": 1289,
-    "sha256": "025463ef4a47f56ffb4b7a22e25d2666aad5984b7ae81ce2f112253ed77474d3"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-6-recheck-extra-th.json",
-    "bytes": 4194,
-    "sha256": "9edd642e680434d4a4005f23808d3986bcbb00674a58800610665593f86749df"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-6-recheck-speech-th.json",
-    "bytes": 24102,
-    "sha256": "97d5d7fd4ccff6426c30eae775867bf05cce54d9c54a53cb7a4d7f23e636ce3f"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-automatic.json",
-    "bytes": 11315,
-    "sha256": "37f44941a4c794268372c0d4c9c91f0733d413d9e51aa62a0fc9e12962bf098a"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-manual.json",
-    "bytes": 35978,
-    "sha256": "0c074892eab6b46212d04ad8542ac01ce9cbded0915a0e264338024d8b177490"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-th.json",
-    "bytes": 96767,
-    "sha256": "2ba07ed0c9844b6dfb1ad41c68a1a6a8052e10a4622c7377461e1ab0c94ce7b7"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch1-opening-recap-th.json",
-    "bytes": 7860,
-    "sha256": "37f2c3fbc66d1f1f63c9ff29728ccea96021d3849d46154899ab76da0a8b3913"
-  },
-  {
-    "path": "FF7Rebrith/translations/ch12-recheck-ui-th.json",
-    "bytes": 39244,
-    "sha256": "421a4e0890562e7b055094aa90793409bcde4359f97224da2ad82c102d228da3"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter1-th.json",
-    "bytes": 215473,
-    "sha256": "d7664d45838572bcc752b8ed18721ab875ce526efe159ce850761ba5977435a3"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter10-recheck-lines.json",
-    "bytes": 19414,
-    "sha256": "f7d6cc6284f1103923ad3b35b9697df1bd0f2c06326529fe86100f0e95faf198"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter10-th.json",
-    "bytes": 578885,
-    "sha256": "7bc3d8c1d1d4cffeee48d73ef1cc7705090fa4866aed251f59c575102b2faaa6"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter11-recheck-lines.json",
-    "bytes": 21488,
-    "sha256": "cdcdd713476d0f3672b08b58eef1d6c5d532d188d62a33437795606be6242ffc"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter11-th.json",
-    "bytes": 356862,
-    "sha256": "e141637e4f7e7d1fc22ab4af6bd427117ce49c4bb43430be76787380809b8d47"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter12-th.json",
-    "bytes": 899200,
-    "sha256": "42d19d63b5de0f2e9fb9469832e650c563ac04e64755d8327f43143aade57d81"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter13-th.json",
-    "bytes": 137875,
-    "sha256": "65022d8934133d59bd065808ef945a8e00de7374bcc1ab6c78249e815f755454"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter14-th.json",
-    "bytes": 150473,
-    "sha256": "d1759f0fb3c3574e017a6cdee7d450f445417dae4ee4b06a3aa3fba9db9b7fc3"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter2-th.json",
-    "bytes": 516931,
-    "sha256": "cac3fa9c0cf1bb5fc087e4b50e50620e7230575bdd644524e13070367618d23a"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter3-th.json",
-    "bytes": 40944,
-    "sha256": "e237427ce996a3d28864bb5a9fef9a799d1745d2bed9d0449de739fda690e035"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter4-th.json",
-    "bytes": 569420,
-    "sha256": "710b6aa1acca0d40cd88a8a3bc536b147fcaf3aa8d330ea18621665be06efba4"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter5-th.json",
-    "bytes": 223170,
-    "sha256": "7aa893b63310e47e01529d0e410904297c1173fe0f50c4fb7bbfea85580db329"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter5-ui-th.json",
-    "bytes": 504,
-    "sha256": "067d90c59df5145ff34a4d79f2da8e7a6df3f118df7448e37fa253d9a07bdd33"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter6-activity-ui-th.json",
-    "bytes": 17579,
-    "sha256": "dd34441613c48371ac6334578fe8d99441cb498c76c7c31766ef796358888acd"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter6-th.json",
-    "bytes": 307421,
-    "sha256": "7bf01f38ad8580079a420137562ba2cda2efdedde21b830fcd8c10392fa4bff8"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter6-ui-th.json",
-    "bytes": 1461,
-    "sha256": "fa98fa7ae0c5a18ba32d2adfa41ff1a608f9b2f537eebfc9fb2017bf0a3ad55f"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter7-supplement-automatic.json",
-    "bytes": 19009,
-    "sha256": "c1a97a0f24c5c421ef58b0018f75b36fb5f4319ad240deff852d3e85a90d71fa"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter7-supplement-manual.json",
-    "bytes": 21402,
-    "sha256": "29eae513e9f031ceb5053727764c04587219268b283b23a6ef7a55639fe5b865"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter7-th.json",
-    "bytes": 344383,
-    "sha256": "07fe5b51302c4da4756d398bf23998298b161e2cb1dcadb9bc4e76b76be15e9f"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter8-supplement-automatic.json",
-    "bytes": 34665,
-    "sha256": "efc169cf1d72920e3a23df230ad8faf91c31930362ae675c4e320ada63945534"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter8-supplement-manual.json",
-    "bytes": 127495,
-    "sha256": "a6ac22ba18ca91700cf009af06d3c814dc33b682cd2cfea7e25ac52a3fbedaa0"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter8-th.json",
-    "bytes": 643524,
-    "sha256": "7fb77d004050645cd9f99e1eca78fa3522dae9fcc5d1c3bf7b322b7b23bc7291"
-  },
-  {
-    "path": "FF7Rebrith/translations/chapter9-th.json",
-    "bytes": 411198,
-    "sha256": "f163cce7e23b2638720e26121b0bce640cbb0c221c575fe642b0ad5e8ced2cc7"
-  },
-  {
-    "path": "FF7Rebrith/translations/choice-completion-automatic.json",
-    "bytes": 66169,
-    "sha256": "d4feee0b031f510af38c9de12fd2381332a5529925f400dea4e120fee8b5e4a6"
-  },
-  {
-    "path": "FF7Rebrith/translations/choice-completion-th.json",
-    "bytes": 276886,
-    "sha256": "b578c74e30bb39a1b7f581a806263ad0e7127f4568630bea8dcd0cf0b452910f"
-  },
-  {
-    "path": "FF7Rebrith/translations/enemy-actions-th.json",
-    "bytes": 88779,
-    "sha256": "2f2f15934a3a2e94100b809cef87f40bb8760d3da71b55bc7030eaae8b440863"
-  },
-  {
-    "path": "FF7Rebrith/translations/enemy-names-th.json",
-    "bytes": 20721,
-    "sha256": "a632e2204aeee0d5d205a1720ffb29029e804c058afb4980e581a63c8704de6c"
-  },
-  {
-    "path": "FF7Rebrith/translations/inventory-th.json",
-    "bytes": 552792,
-    "sha256": "96649c88558d9e6d414fc23910fb503ea38e1eec7e69b7fe2833f61c1292329f"
-  },
-  {
-    "path": "FF7Rebrith/translations/menu-th.json",
-    "bytes": 71669,
-    "sha256": "b0aeacc830113a4a3b0a13114f1b6c4356db3f689b343bd59fdd50144b285493"
-  },
-  {
-    "path": "FF7Rebrith/translations/npc-recheck-th.json",
-    "bytes": 316955,
-    "sha256": "27b8f1370962b1b48937e5ad7210e471159982cd8a2ffe21b90e7b512bf94c6d"
-  },
-  {
-    "path": "FF7Rebrith/translations/prototype-th.json",
-    "bytes": 8102,
-    "sha256": "198a1c9e879e32e79e2e4ce1618f2df604cedd822fb6bdeaa17a597a2a3a8c8c"
-  },
-  {
-    "path": "FF7Rebrith/translations/ui-completion-th.json",
-    "bytes": 1097711,
-    "sha256": "c7735f42a029acf9c755a81f435eaabfafda254f4cebd785888ea8381742bc15"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-ch1-6-recheck-th.json",
-    "bytes": 3816446,
-    "sha256": "8d1e3450c4905b176f7fffeebc8a6f12d6670f092486dccd4054dd7b2f061bc3"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-ch12-recheck-th.json",
-    "bytes": 3686286,
-    "sha256": "f491a1f600810409018daf9f21830fadd68c50899fb2e3ca46a79238f77699af"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-choice-completion-th.json",
-    "bytes": 5490296,
-    "sha256": "0d04ec428c1110d13c4817dcc676ca7573f67597f89b1acf7f0f6fdf17d49851"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-enemy-actions-th.json",
-    "bytes": 5895207,
-    "sha256": "f6096dfad5ab45172a0ed6650d12099dc9d3d07187217686952048c208fa9eba"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-inventory-th.json",
-    "bytes": 1379912,
-    "sha256": "359c618b50742b9d9acae997aa1daa776561ebe2eb2bebb77b4f150e2319ef91"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-npc-recheck-th.json",
-    "bytes": 5806536,
-    "sha256": "b2472823e7896d01fd283c1f268a34a9b9f1b4433662dda4121b63540eeb5122"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-th.json",
-    "bytes": 310932,
-    "sha256": "40e9787912df8e1ed939b4eb40fbf7750fde19880267147e8b5a5f307b1e5270"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter10-th.json",
-    "bytes": 6481261,
-    "sha256": "63c3e1515ac4130a05bf8126af2a50362e6a7c832a2d81613c4559e8a1f43802"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter11-th.json",
-    "bytes": 6837844,
-    "sha256": "40693dad0d32bd096011020cdb51486209cd8f3fea5255716ca07eab50b3e69c"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter12-th.json",
-    "bytes": 7735834,
-    "sha256": "dc535bd9767da3f77d26a2b495a486c06fade1a560176ab7fe12d0357b1aa3d0"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter13-th.json",
-    "bytes": 7873364,
-    "sha256": "e128a336eda9b01749107fd5c437807868a383e6364b39020804e7a467b59145"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter14-th.json",
-    "bytes": 8023531,
-    "sha256": "5958321967a1bf3d18897aef9f77156457f71e5f41174441b573682ef55b9b32"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter2-th.json",
-    "bytes": 827349,
-    "sha256": "4a72414903caa04afc71ccffcc30b764ed123f70b45d67a678cb121ed77b1daa"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter3-th.json",
-    "bytes": 2538497,
-    "sha256": "597e8c7ed4ec676b533f90e323490acd5727e1ec1d0129f11eb3a9d7388979b0"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter4-th.json",
-    "bytes": 3107214,
-    "sha256": "5c098523f7f059e78d7350fa782945fe21b349f9e94c7bf4221e54652d4bfd6a"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter5-th.json",
-    "bytes": 3329810,
-    "sha256": "00bb0fa6ffefefaed7383743b2420ba4b41f24eeeccb249257a0af528b00cc1d"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter6-th.json",
-    "bytes": 3636779,
-    "sha256": "71a598cced15c2eb6a2a8920f2a98dec7bd8802dbacec3eede5a3cf3fb04d034"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter7-th.json",
-    "bytes": 4160394,
-    "sha256": "7cb4d54272a254b66abbb0af68580fc8eebad4071c7fe459dd40f513c906c21d"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter8-th.json",
-    "bytes": 4803674,
-    "sha256": "9fdd452919c87a7e2bf9a1759668d576a72b6a09f73f8efd8b048b4fa3cb7466"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-through-chapter9-th.json",
-    "bytes": 5214517,
-    "sha256": "4a558dbd6465bfaca9ced47bdf51c6f7c7d392e2bac90af84d9c21e88f58d6d3"
-  },
-  {
-    "path": "FF7Rebrith/translations/working-ui-completion-th.json",
-    "bytes": 2497778,
-    "sha256": "ab8c105934894b56d29a44de85435e67fda3b3a423d9b97fc1e8ef60b27f78cd"
-  },
-  {
-    "path": "FF7Rebrith/qa/final-parts/combined-mount-verification.json",
-    "bytes": 246,
-    "sha256": "6b6aad0af1844561554f7e04754ebeadb93b4407a320b308cacf4f264035f04b"
-  },
-  {
-    "path": "FF7Rebrith/reference/plearngaming/glossary.json",
-    "bytes": 13278,
-    "sha256": "c41d850429bbce2ad3ec94cc2d218b84011df0b0531fe25af5ac93102644c122"
-  },
-  {
-    "path": "FF7Rebrith/reference/plearngaming/crisis-core/nested-extraction.json",
-    "bytes": 49601,
-    "sha256": "ee47359bd85c91dda43a37a585a7763c0631bd8e3b2b0e23048cb8d52c4faa5d"
-  },
-  {
-    "path": "FF7Rebrith/reference/plearngaming/remake/decoded-corpus.json",
-    "bytes": 9794894,
-    "sha256": "4159e5536cedb59e84fb1123e6a9a5edf8b0f4b6439af8e1bb8fe74971005bec"
   },
   {
     "path": "FF7Rebrith/reference/plearngaming/crisis-core/atel/00000.atel",
@@ -6385,99 +4710,789 @@
     "sha256": "569454adb53b22d269ab6aca33edd546ce2b480b4375ca6e83d5780f8d217b26"
   },
   {
-    "path": "FF7Rebrith/tools/downloads/CutsceneTool-1.0.0.zip",
-    "bytes": 1468731,
-    "sha256": "256df7553119241fac73b10b3f66f590e690d3b9573f772ee919fd0211b07af0"
+    "path": "FF7Rebrith/reference/plearngaming/crisis-core/nested-extraction.json",
+    "bytes": 49601,
+    "sha256": "ee47359bd85c91dda43a37a585a7763c0631bd8e3b2b0e23048cb8d52c4faa5d"
   },
   {
-    "path": "FF7Rebrith/tools/downloads/retoc.zip",
-    "bytes": 2854438,
-    "sha256": "cc036b06ad3bdcf7003690b00d82719980c374e48a95bf0654f9959148d263aa"
+    "path": "FF7Rebrith/reference/plearngaming/glossary.json",
+    "bytes": 13278,
+    "sha256": "c41d850429bbce2ad3ec94cc2d218b84011df0b0531fe25af5ac93102644c122"
   },
   {
-    "path": "FF7Rebrith/tools/downloads/UnrealReZen_V01.zip",
-    "bytes": 2004044,
-    "sha256": "b7e98a9e1c0f4a6249f3c2c29cf14d1aa12ea736e5c1accb5b11167504ade974"
+    "path": "FF7Rebrith/reference/plearngaming/remake/decoded-corpus.json",
+    "bytes": 9794894,
+    "sha256": "4159e5536cedb59e84fb1123e6a9a5edf8b0f4b6439af8e1bb8fe74971005bec"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Light.ttf",
-    "bytes": 47880,
-    "sha256": "57f6620429d4f2ac4ac913aae2605aa3bef1b32205c0953d7ce27a8f1433e0f2"
+    "path": "FF7Rebrith/reference/pronoun-context-overrides.json",
+    "bytes": 44842,
+    "sha256": "a9d7ea873a36c1e7263a000fbefc43229f5b29fe6e187e32988749d83cc59080"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThai-OFL.txt",
-    "bytes": 4380,
-    "sha256": "dad6e6abc2bf3fc37cc698af7607c3f4d4235039695713b222e5a034fb5b9b1c"
+    "path": "FF7Rebrith/reference/prototype-cluster-map.json",
+    "bytes": 3370,
+    "sha256": "f210e0c57cdb150267b8e73c49e6b7688762e5c37b750672284ffce37e3c59f4"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Regular.ttf",
-    "bytes": 47788,
-    "sha256": "8dc31f736aa3103b2f94b85e8e11cec99a8e41cb8aa526abf71f69bef05dcbf2"
+    "path": "FF7Rebrith/reference/prototype-jp.json",
+    "bytes": 5340,
+    "sha256": "76787ee4a9b57d34d2d3dc9e9ed2ac870c0b06284974463e9abb50fc938b5f9a"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Variable.ttf",
-    "bytes": 218652,
-    "sha256": "5a1c559bb539583c8a1fd99d1c5b9491e5e14478c9cd2bd0970d5c3096cc9ef8"
+    "path": "FF7Rebrith/reference/rebirth-jp-corpus.json",
+    "bytes": 8416223,
+    "sha256": "d1b27abb2ed478d487fbfc9ae12d52576f4c58bae8f1a4ba7013b09655fe150f"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThaiLooped-Regular.ttf",
-    "bytes": 60264,
-    "sha256": "72efc789564b7913d4a2650bde9e4e5a3d9c1fdb65442c58c1b2e33324fe8fd8"
+    "path": "FF7Rebrith/reference/remake-glyph-map.json",
+    "bytes": 1786,
+    "sha256": "5405aa40462cf0f9f118dcde071728f3a77ff0c8a7916f54c763d90b0e2aa2d7"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/NotoSansThaiLooped-Variable.ttf",
-    "bytes": 218660,
-    "sha256": "a6d220ea215bc2c4bfcd5c5efc4103e20302443f87f6dca7a9ce733a11f2cfbd"
+    "path": "FF7Rebrith/reference/speaker-character-asset-paths.json",
+    "bytes": 5931871,
+    "sha256": "f4df715a3c0e36d4da93903b7cf40a295bea471f70a569a7b29306a569eb4d59"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/OFL.txt",
-    "bytes": 4387,
-    "sha256": "b26cae1321380296ba8311b632a397d5eac11b47197f9d0aa0b9310f1531ad60"
+    "path": "FF7Rebrith/reference/through-chapter10-cluster-map.json",
+    "bytes": 14648,
+    "sha256": "306149bade1c1183fe597a2fec21de7ba470d620e03da1ffeee49f6ac5c9c63f"
   },
   {
-    "path": "FF7Rebrith/tools/fonts/Sarabun-Regular.ttf",
-    "bytes": 90220,
-    "sha256": "226d4f368fbc0457990ddef2692679badfd2c1a4e89e5ac4d43c10ba7743b2f1"
+    "path": "FF7Rebrith/reference/through-chapter11-cluster-map.json",
+    "bytes": 14737,
+    "sha256": "b882248d34d79b3d0794284ca938156b96e68cad920cecead7d0b84775dc17ce"
   },
   {
-    "path": "FF7Rebrith/tools/retoc/LICENSE",
-    "bytes": 1105,
-    "sha256": "047220d71910580f08051543a363dafb2669319ffab6bdbd0fb19733541020bc"
+    "path": "FF7Rebrith/reference/through-chapter12-cluster-map.json",
+    "bytes": 14935,
+    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
   },
   {
-    "path": "FF7Rebrith/tools/retoc/oo2core_9_win64.dll",
-    "bytes": 637952,
-    "sha256": "6f5d41a7892ea6b2db420f2458dad2f84a63901c9a93ce9497337b16c195f457"
+    "path": "FF7Rebrith/reference/through-chapter13-cluster-map.json",
+    "bytes": 14935,
+    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
   },
   {
-    "path": "FF7Rebrith/tools/retoc/README.md",
-    "bytes": 4580,
-    "sha256": "8e96afbdb3a2433fe3484aef07cf68a0e43f6b2cb7e091a3f32b6a93052d2e97"
+    "path": "FF7Rebrith/reference/through-chapter14-cluster-map.json",
+    "bytes": 14935,
+    "sha256": "9dca984bc801493c146c764e25f94ff1b6c94e9a0c83e9de525ab550f6612dea"
   },
   {
-    "path": "FF7Rebrith/tools/retoc/retoc.exe",
-    "bytes": 7097344,
-    "sha256": "a145f3557ec60b163ed1b78b2f380232d2753fa30350c8013c98e171db3ae7e7"
+    "path": "FF7Rebrith/reference/through-chapter2-cluster-map.json",
+    "bytes": 11231,
+    "sha256": "82e6793a7271adfae72accf4036898d9092c85c868493a19f55a5bf507659313"
   },
   {
-    "path": "FF7Rebrith/tools/UnrealReZen/CUE4Parse-Natives.dll",
-    "bytes": 27648,
-    "sha256": "bdfee06c62835b40d40ccc83bab75e4ef1ed185ccf3b897782fadceec913995d"
+    "path": "FF7Rebrith/reference/through-chapter3-cluster-map.json",
+    "bytes": 12564,
+    "sha256": "2bc13f2ff2dd4640fc31ba044e03d1ec52437c5c7f440526b1d999638a873d41"
   },
   {
-    "path": "FF7Rebrith/tools/UnrealReZen/oo2core_9_win64.dll",
-    "bytes": 582656,
-    "sha256": "19452ae1abae65e1305d3818354d4fae7b1200294322f0d9c6d5ddeb7bd9f978"
+    "path": "FF7Rebrith/reference/through-chapter4-cluster-map.json",
+    "bytes": 12980,
+    "sha256": "74faaad0a407e2bfdc92b9263516283da7ad484b850e1bee6f900aa9c5201b24"
   },
   {
-    "path": "FF7Rebrith/tools/UnrealReZen/UnrealReZen.exe",
-    "bytes": 4042280,
-    "sha256": "01ee1d2c18ed257036f6d6e32a8cc8fcf819a080179db97c315679bd5c7f02be"
+    "path": "FF7Rebrith/reference/through-chapter5-cluster-map.json",
+    "bytes": 13394,
+    "sha256": "7a8224f8717de8b4d3613a8e1cf45a0ef117a7b8c3f901b5d5084ec2eef47236"
   },
   {
-    "path": "FF7Rebrith/tools/UnrealReZen/UnrealReZen.pdb",
-    "bytes": 26672,
-    "sha256": "089cad49d180a1b60c2afde44ddc7cdc75fc546846fe0ea4cc5e3c524c35c966"
+    "path": "FF7Rebrith/reference/through-chapter6-cluster-map.json",
+    "bytes": 13704,
+    "sha256": "9066a512ef740dc0a4e30a8b301e82bc626fb2a47645d28899d0faef53aa4f61"
+  },
+  {
+    "path": "FF7Rebrith/reference/through-chapter7-cluster-map.json",
+    "bytes": 13994,
+    "sha256": "9d5ac3def13e76697344a0b4e0c717dd03f255894d9f10fca9b023d26d5d04ce"
+  },
+  {
+    "path": "FF7Rebrith/reference/through-chapter8-cluster-map.json",
+    "bytes": 14232,
+    "sha256": "684941b41d5e0a4a6b28044ba32ac00d6449d4e4229d040eacb2f75d551f6df0"
+  },
+  {
+    "path": "FF7Rebrith/reference/through-chapter9-cluster-map.json",
+    "bytes": 14522,
+    "sha256": "5c47905d6d3dc0bc46fc8400e8418981d3ce00e5403983b7629c3be3b508e1ee"
+  },
+  {
+    "path": "FF7Rebrith/reference/ui-completion-cluster-map.json",
+    "bytes": 12544,
+    "sha256": "ebd44798791a08ce66c1dada00b0d4e75477c6560588b770ac2751cb3ef13f48"
+  },
+  {
+    "path": "FF7Rebrith/reference/ui-completion-scope.json",
+    "bytes": 363506,
+    "sha256": "c061b3b3e2fc1a364b7c1619cebf5ec7dab79677976f49d47d25b681bded37b7"
+  },
+  {
+    "path": "FF7Rebrith/reference/ui-completion-source.json",
+    "bytes": 2802992,
+    "sha256": "cf71ca94883db38a65a702099e429b52b0888f8bf0146d7e32129206320ecf67"
+  },
+  {
+    "path": "FF7Rebrith/reference/ui-completion-templates.json",
+    "bytes": 1696285,
+    "sha256": "366661f10e2534566da77184e8a103bb28b6746d2bc31ce1aab6b64a8619ac0a"
+  },
+  {
+    "path": "FF7Rebrith/reference/working-cluster-map.json",
+    "bytes": 8786,
+    "sha256": "bd65f6f54461f9d22cf9dbd46bdb2bbd9502717b7bf05e25e3b4bf088f933c28"
+  },
+  {
+    "path": "FF7Rebrith/tools/align_dialogue_punctuation.py",
+    "bytes": 2085,
+    "sha256": "99ad9720c287cd868babce8e8a59bc5844d4e4e0e318695d0143bc912bdcf47e"
+  },
+  {
+    "path": "FF7Rebrith/tools/align_dynamic_baselines.py",
+    "bytes": 5121,
+    "sha256": "45ee8ae4f1b2bbbfc50a3d6f2f6515607d577186f1ba6e54258d97635748ab3e"
+  },
+  {
+    "path": "FF7Rebrith/tools/apply_number_style.py",
+    "bytes": 2142,
+    "sha256": "4f1371eb706c66c52edf2fdfdd6bcb0ef2cb8e2edac26cbaa7dca49e8e9f1c24"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_ch12_recheck.py",
+    "bytes": 1197,
+    "sha256": "4ac9233e82b42378b708e82cb6f949983b821f57f0ad4adab762274d27b7b281"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_ch1_6_recheck.py",
+    "bytes": 1400,
+    "sha256": "16da2c278496fcb9f7faefe3a5d8c893de4f0326b91964b47da889ca38315608"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter1.py",
+    "bytes": 4097,
+    "sha256": "cb945e76119b1c103eb7dab1abb452b5cc1d7e666100c75213a2d20fdb926338"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter10.py",
+    "bytes": 3920,
+    "sha256": "86f463684fe2938b47bf7f2aa81d06d2f34b0644f2f5fe28bc7aacc13d7e5fb6"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter11.py",
+    "bytes": 4035,
+    "sha256": "1405d9393db466b737d749007beb4438962234e94d5f3cff3696984c9a6cf403"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter12.py",
+    "bytes": 3136,
+    "sha256": "840d01e3543cf8e8b55cb1af923875d89fb2189457d25b3998b625448b25150c"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter13.py",
+    "bytes": 3159,
+    "sha256": "ebaf1442883c2babdb2e66aaaa6dd5c04e8c62c3c8e26a7e59f3a00f645bfd62"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter14.py",
+    "bytes": 2696,
+    "sha256": "2f8dcd00ef5dca67653d64dd9a608c3cb79020dda1e44233bb4a662c528ae762"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter2.py",
+    "bytes": 4064,
+    "sha256": "7aab5a5e6aa4b0e68d5dc7a7ef6445f0a6b1a7fb1e9506c78c55e4ad4e91bb0b"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter3.py",
+    "bytes": 3385,
+    "sha256": "fb7aca05e9620a3a9fcaa82ca6d0ad161d9dd04e99ef22b08dedb547e9ff17bf"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter4.py",
+    "bytes": 3487,
+    "sha256": "078f3349a6a2011b01947d562d070be4674855fcfdeeafd7b63cd6f7b9139dc2"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter5.py",
+    "bytes": 4034,
+    "sha256": "68ec63d87abade0989594f0da281f3391d894bdc3b98661f222b9af006e397a6"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter6.py",
+    "bytes": 4689,
+    "sha256": "4ee4453e850a090e4af5127d39ead68422406428067c3ea912a17c39582ce01b"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter7.py",
+    "bytes": 4127,
+    "sha256": "6226aa66962cc6dd5748145e67f8b2f2d1668f97dc4f06528d3cc85ee3f06e47"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter8.py",
+    "bytes": 4831,
+    "sha256": "320b96334a281fadd824a25488000807b75a8a0c0b5ea3585063f0e0b1264169"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_chapter9.py",
+    "bytes": 3081,
+    "sha256": "f682a11946dd6bed878bdde7179db2ef17787e88be362b12d68323bcab31b4c7"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_choice_completion.py",
+    "bytes": 2730,
+    "sha256": "8ae66074dc3acadc3e722ea5154bcc6a29d8ba4cad9ebfe190e57bba7de39ef5"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_enemy_names.py",
+    "bytes": 4674,
+    "sha256": "f8258c435006f9a0f69c95686515f61a2cb7b228ac85c4978c065532f8f2acac"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_inventory.py",
+    "bytes": 5545,
+    "sha256": "3f2969a21ce926b4756cf7f2504cba916f16ec7ac380fec80b24b9922c52b45a"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_menu.py",
+    "bytes": 5612,
+    "sha256": "f8dea4e7515bc8c7dfd5adb9b86ecb0b0a62284e11b6fbad6cb02d67177e0104"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_npc_recheck.py",
+    "bytes": 2261,
+    "sha256": "0a4a281c5e03daaa5d3a1ca1d2182c6f99a5fb5898b73d8ed9a259d2d3352321"
+  },
+  {
+    "path": "FF7Rebrith/tools/assemble_ui_completion.py",
+    "bytes": 6114,
+    "sha256": "d54911337a330d9f5ec670d098f00bc48d3f1a53a7385701b1575b0e2155b6d1"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_ch12_recheck.py",
+    "bytes": 9692,
+    "sha256": "11e11e9ebbf9d6935440c4085299c8315afb79d89da2692323b816cfb5b992d8"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_ch1_6_glyph_regression.py",
+    "bytes": 2187,
+    "sha256": "d94da06ad697ccc4bab0a1cea4b10ebb8e85cd8b30d30bf16ca234713ad1b00e"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_ch1_6_recheck.py",
+    "bytes": 15275,
+    "sha256": "c27f816e7c79f86c2221c51ec4f9db1f5842a822eddf275d95c27c3106b472b0"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter10.py",
+    "bytes": 11599,
+    "sha256": "f7f428bcd498ef0fe3765d88bc0bda0b1bfc0d55e90e44bd7b2536f7dfc4225b"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter10_glyphs.py",
+    "bytes": 1851,
+    "sha256": "adf40efebc3824fbcd83c09c17d77b44e8863c00a0d1c485de93b972996b00c2"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter10_recheck.py",
+    "bytes": 9213,
+    "sha256": "bbceef784414bafc6e0dc6a4c61867f4b44a9d1e8d5b7ba85e0347fe8ce41bb2"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter11.py",
+    "bytes": 9849,
+    "sha256": "1252480e0d5f871309713bbadba438436abef88e4111eccc72b6f2dd9028fabf"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter11_glyphs.py",
+    "bytes": 1467,
+    "sha256": "31c3d31d998317ccea66891028f4521f58d6971873193cbb8217ba83fddda3b2"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter12.py",
+    "bytes": 7820,
+    "sha256": "6b5afa3c0d64640455c83cf91b9ed6afa3d9d579fc8a51f972a005c4c05d2f11"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter12_glyphs.py",
+    "bytes": 1486,
+    "sha256": "f51bce120e7f391c77dad2b429dcb82e370b00646b8c89437845433976d33e79"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter13.py",
+    "bytes": 7748,
+    "sha256": "b97b2723639862e128e833820df8c84c4f5916ab1bb4a483dcfcb75def08d060"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter13_glyphs.py",
+    "bytes": 1486,
+    "sha256": "f8165554e69233bd06b32ebcdfde3e06f570ee1396450c5215b670e8874493d7"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter14.py",
+    "bytes": 8013,
+    "sha256": "93e638ad737612d7fcf5cfcd9a9926e49b147e8f4ae976cd93811b7172931489"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter14_glyphs.py",
+    "bytes": 1486,
+    "sha256": "2f97ff78102529f8282b6bee24cfa8aa03e7a2870bcebc7096f7a220fe380779"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter2.py",
+    "bytes": 5643,
+    "sha256": "d8dd9388cde9486663c1f24a4830849c7d83b8931d31e70b9eed02d4f81096c6"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter3.py",
+    "bytes": 8789,
+    "sha256": "62a437fff99e95977c50501ac7159d328da138c4ccc5735e445218cf66a8acd8"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter4.py",
+    "bytes": 10611,
+    "sha256": "eb08bd374f6e555e7d3bcb6c721a6d72a2e0c4301c96a94b79ded67fcfb44c7f"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter5.py",
+    "bytes": 11698,
+    "sha256": "ea7d37a1d219970d0faaf0854c91023bdf0713d5a236bddc7aea2743f48de98a"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter5_editorial.py",
+    "bytes": 5506,
+    "sha256": "91f90a97b8eb2adc0291e5a21f3178a7ff56891afa7d479956afc67e7456a4a4"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter6.py",
+    "bytes": 12719,
+    "sha256": "ce2c92b60cda4b436ebf8c4263dab217aaf86e3c1c641b4e5cfd718a48178be4"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter6_activity_ui.py",
+    "bytes": 5176,
+    "sha256": "b6bdd7581008df5bece69959ecf0f8bc9d5220625bdeec7db3c7b4e8fe39f0a5"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter6_editorial.py",
+    "bytes": 5873,
+    "sha256": "89dcf7e374719ebc91a45c2fecbce9a3897c78544db92de9ae44ad0c21a8b54a"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter7.py",
+    "bytes": 7415,
+    "sha256": "61fb7266e33b5c25690406732e6f2414e25cc297e42342dec7a655f075120de1"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter7_glyph_regression.py",
+    "bytes": 2199,
+    "sha256": "bbf7a7301038f21de67f7904e5ce4f63847bcf3ac41fc7ace643cc453eb2e8f6"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter8.py",
+    "bytes": 9102,
+    "sha256": "d1579f29d0c283a4d65dde375b74ebd5d86eb6ad14dfec2c9b0055ce6ac9798d"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter8_glyph_regression.py",
+    "bytes": 2201,
+    "sha256": "a40c8f30202bb9f9f96b111e3dde5156a7a5617492238536d5f62ddae8097e3e"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter8_recheck.py",
+    "bytes": 3155,
+    "sha256": "09b3935a7c2f3ebe33954cb73e1f67298b1088c9fb72bf84799eaf6f303e8ec4"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter9.py",
+    "bytes": 6518,
+    "sha256": "ccc9c08eb5a263356567c212aa8462fc8ced87631ccdea9a12cc035c0c092b83"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter9_glyph_regression.py",
+    "bytes": 1654,
+    "sha256": "5cc73d7fd525d818ff0838a72acd004b554786feac312623e118297c8cb6c253"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_chapter9_recheck.py",
+    "bytes": 4982,
+    "sha256": "b006c1dba85af2b0dde82ae7aba047f8af2f29c6e7c40316f81f4ed3a6b6b38b"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_choice_completion.py",
+    "bytes": 13568,
+    "sha256": "cabd04d55d03c7fad2a3b3b78d4780598e2859ac643afa61bb5bdfc4b52cfab4"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_current_conditions.py",
+    "bytes": 6863,
+    "sha256": "ebb8477e88bb3c3f1d9b4ef29eef1e056666faaebd61e5e27e949a6dbded6c8b"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_current_gender_particles.py",
+    "bytes": 7876,
+    "sha256": "140418ef842d4b3c6918ac9a9ad464d446b2246360e184ef96fd65caea7c3dc8"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_dynamic_baselines.py",
+    "bytes": 6891,
+    "sha256": "5bbb3984e631fd0c6ab4f192e137106f8b6f2674c7a6444c778b5a86aa34942d"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_enemy_actions_regression.py",
+    "bytes": 904,
+    "sha256": "1db0441d9634ad6a8920231407bdce8acb91a0bf453079396b80480b4ace5579"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_enemy_names.py",
+    "bytes": 4756,
+    "sha256": "9732b6192249b51ae8fd49ad019a764e006c0939df1006a952f124b11f65c7cb"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_english_completion.py",
+    "bytes": 2865,
+    "sha256": "8c197ccb2c99e79d03ccee39bcb8526e773b6659ff012c6c217615b6024d6b5a"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_particles.py",
+    "bytes": 3312,
+    "sha256": "cfe86386d0b434281b3117cd672ed442c70b66a35ad71a93dffe78f697c23a71"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_through_chapter5.py",
+    "bytes": 8499,
+    "sha256": "6f5bcff938e6cad2ace136309fb32e100aca74299bc1c592bd3105584f1a031d"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_through_chapter6.py",
+    "bytes": 8804,
+    "sha256": "3ff08c549af792534f58bbd6843b95909b16e84724ff38a7ddcd365ebc4f0c72"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_through_chapter7.py",
+    "bytes": 9544,
+    "sha256": "82b7458c51913a59f5af30ba648e9bd692a8160d6abe55c826f2d48909749b78"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_through_chapter8.py",
+    "bytes": 10330,
+    "sha256": "d03b52adb347b7da0b259e346d693dee36f17bc56e4a9a545c7efab5e2b79ff0"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_gender_through_chapter9.py",
+    "bytes": 4013,
+    "sha256": "abf492c81c14c44f0f89be59f59932e9e64420b18fc5797ac5ae7a4570e147e4"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_inventory.py",
+    "bytes": 6955,
+    "sha256": "9426b745c92d9dcd170d04146e3d466ff996a11743d174a576ffd018739376a6"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_npc_recheck.py",
+    "bytes": 8055,
+    "sha256": "5716b55473eb504f7f7131a7e5945dc93ecaa9a56f48d259bacbea24468be8ef"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_npc_regression.py",
+    "bytes": 2638,
+    "sha256": "dfadc3c30071541218cf261851236304a361b94ddf5812c7000203fe02f08b10"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_npc_remaining.py",
+    "bytes": 2548,
+    "sha256": "9c14bb556665ca861edbdcef01e892c53eccbb7e08f4b03835421f9bbe1d0f37"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_shared_dialogs.py",
+    "bytes": 8519,
+    "sha256": "76a29c75edc5465c862a62e68fe819d07f2916c991957cefcd47f041b9605a13"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_ui_completion.py",
+    "bytes": 5503,
+    "sha256": "b348a947093db75a434f18ef0b90a24ab72532d53ca972b8fee1b6727a653fb1"
+  },
+  {
+    "path": "FF7Rebrith/tools/audit_ui_piano_notifications.py",
+    "bytes": 5070,
+    "sha256": "f497171b830328f599ce4971905a0ae652d30b4d03931b4bfa1565dd1f61dbec"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_ch1_6_recheck.py",
+    "bytes": 411,
+    "sha256": "c38366588fbdf931ee2d5687dc2aa8aee85de200754fd3bb633362a7b8684535"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter1.py",
+    "bytes": 12760,
+    "sha256": "f3acdbad63126c8162abaa005c36bf71062bd27bc197b70fa9c4a2caa078e79c"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter10.py",
+    "bytes": 322,
+    "sha256": "8a0921785e889b2617be9ac5943bb4f1d6dace67cfca382419c032845cebfcf0"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter11.py",
+    "bytes": 322,
+    "sha256": "56045f5f33f0682eb17e3720e8170da052eb72ad1be961a9462c9d871f588d7c"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter12.py",
+    "bytes": 322,
+    "sha256": "0cb721bfc05f0acae620181bac65f4e38d90e8cacf8b139eaf5f1c1c1be0345d"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter13.py",
+    "bytes": 328,
+    "sha256": "974bd6fdd1c8a1aac239e6744a863a00178242a4a114604a5cc6078d2f996f0f"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter14.py",
+    "bytes": 328,
+    "sha256": "f88ac296d1051046b3fd24551513f481cbac12b76a134f44d3de7db17bf0b880"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter7.py",
+    "bytes": 410,
+    "sha256": "d121968301979ab717cdf17d8700ea4af7b31b6667d628d1bca2c4fd533d7712"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter8.py",
+    "bytes": 417,
+    "sha256": "1184681ed2f2e27b104c689eb749505ebcd8d6a202174808965375e701774c9a"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_chapter9.py",
+    "bytes": 320,
+    "sha256": "240c4d1032db07787ae26c244871ed0f10adb26949bd0a064ed434b1004e1243"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_choice_completion.py",
+    "bytes": 339,
+    "sha256": "901e85f345c03354484dab115b319e80083b07d4cd44cfaeaf6eeb725d9db2c7"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_npc_recheck.py",
+    "bytes": 327,
+    "sha256": "eeb577a152a5b2ba844ee9f61981d17aca46dd05f2c783b0b96d65da7c1db893"
+  },
+  {
+    "path": "FF7Rebrith/tools/build_prototype.py",
+    "bytes": 19293,
+    "sha256": "7370a67fb4eb9db7501545ab0f7a6c207f697835218228d5d2528cf3f304dcbe"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter10_continue_review.py",
+    "bytes": 8588,
+    "sha256": "fb4d065f863319ea6f0b247827091413d5aec7e284382544885148f2d655526e"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter10_recheck.py",
+    "bytes": 9643,
+    "sha256": "3e4985bd117a344b48cc72178d26ec844565e481e29279e00d430c96bd34a323"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter10_recheck_scope.py",
+    "bytes": 1468,
+    "sha256": "38988485e11306dfa183f3a78c1f27f80acd07e5d3e971e1fbd5e0de23ff9b67"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter10_scope.py",
+    "bytes": 1062,
+    "sha256": "6016a2649d9b6b8e35f11d7cab29b0158f649d8dbdaa2b89ed833178e8ddd6a4"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter11_recheck.py",
+    "bytes": 9237,
+    "sha256": "8e5c98e451268df6da1fde2297a5271787a1b8ed6be147ba58d0aa9b4cad563b"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter11_recheck_fixes.py",
+    "bytes": 10876,
+    "sha256": "8222538da2d0e721194f062016aecc34eb0e7f502c8b5c2807f8fd541e952916"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter11_scope.py",
+    "bytes": 882,
+    "sha256": "e042408ce8898d5dc9473714994a5ff3c8e91168b61e78cf8eae3a49ad3490a4"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter12_editorial.py",
+    "bytes": 4609,
+    "sha256": "5251eb8eded258798034cfaa4270e64dececacecbce1d6e32560f482cd2249d8"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter12_recheck.py",
+    "bytes": 3001,
+    "sha256": "176e34c1e47ecb21bca09740dea894a37cca315209c0bdc22988afe5d2ef33e4"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter12_recheck_fixes.py",
+    "bytes": 12883,
+    "sha256": "db2d5070a90378ab18ec99e334aed261f08f1a871bedf2cda027d5715a97d00f"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter12_scope.py",
+    "bytes": 2469,
+    "sha256": "938f4852c49c5f4ccb12b755efd9a9d8d0fa01cf71430249da9f0f2bbbe1d11f"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter12_work.py",
+    "bytes": 1429,
+    "sha256": "967cfda2afafb443c13a678f4e0426a473ff1a7196fd2e34e00e1575037ccaa9"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter13_recheck.py",
+    "bytes": 2316,
+    "sha256": "e5a53938595245626c5eea4467a60269411d1b80777b19ed5516bf6b9272da3d"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter13_review.py",
+    "bytes": 5477,
+    "sha256": "0cb4eba3ea6755e9e93fd3c2ccef707ff5b741a53c096774ffa91df0b160512b"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter13_scope.py",
+    "bytes": 589,
+    "sha256": "ffac066c68bbbfb6f45887285028ce902459017174126fe45a1261879d92f742"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter13_work.py",
+    "bytes": 1451,
+    "sha256": "2c5aa28df65a5c393f7ffb88bbf40f0f6b5384001510b7606a07ebc1c52adc4d"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter14_review.py",
+    "bytes": 6980,
+    "sha256": "0b680a58394137b1fb846c0453ecce7045b8dc69061ca99f84e4d5e9137f0256"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter14_scope.py",
+    "bytes": 420,
+    "sha256": "ebcc287607cf1bca454c7c17485a91ffc6bd6afe7395e8569096dd9040afc663"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter14_work.py",
+    "bytes": 1451,
+    "sha256": "9a68a97e16f4337ac2e5760f8d9c0f9fcd28a4e3d86ef3aba804a1dd26bcdbf3"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter2_batch.py",
+    "bytes": 839,
+    "sha256": "4d48e66d11c8a6cb7b817c1a5e1d46e9aff530c05f6cb0db3e65650e4607181f"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter3_batch.py",
+    "bytes": 713,
+    "sha256": "d46a9ef861567e31dbf6610633ebabf2dd7d4d51376a97c24e446ce0960dda20"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter4_batch.py",
+    "bytes": 894,
+    "sha256": "f241a5227f3b681087fc649d4d962c6f56b39ac360c21f492fcc215f3afa8222"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter4_choice_fix.py",
+    "bytes": 16190,
+    "sha256": "a0405944f84138e31ce13d08ed53ba43b793ce6a2f6c9de4f80011f7daa7e7e5"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter4_door_fix.py",
+    "bytes": 15212,
+    "sha256": "cd3871a0d53676ff0cfffb2726376a3d0839b01e2baf04d81ec98b8b4c76658a"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter5_batch.py",
+    "bytes": 912,
+    "sha256": "b5f5338e83b71d9b719bf0509cfd5131d98d737d09d442b584aea96f4d4398ef"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter6_activity_ui.py",
+    "bytes": 17518,
+    "sha256": "e780e582e1cb25a8ec7a18be66bf7fd5608a65794ffde1f4447f605967e243f5"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter6_batch.py",
+    "bytes": 912,
+    "sha256": "92dd7734305fa6f0e759681da6cec412dd91dbb314fae7b0f7e87134d5ef8eb4"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter7_batch.py",
+    "bytes": 1172,
+    "sha256": "d23ae1985a8237d101200680e3d49d74b82c6f67dc8caf1835d155f0e4420d79"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter7_scope.py",
+    "bytes": 2073,
+    "sha256": "56e1d829df84d85533aa7171260d1aa8d2492479e1f347e156d455ad4a4e1ea6"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter7_supplement.py",
+    "bytes": 3327,
+    "sha256": "2d472f4b111ab15b4bd064ce7f7eb2608df7cda0667594044c710aa69ae037c4"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter8_batch.py",
+    "bytes": 1173,
+    "sha256": "4a8468df31fadf55c974b85aefcae8c114e3a092d14d1aa6a337b31788c7f053"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter8_scope.py",
+    "bytes": 2074,
+    "sha256": "a654aae951295ef9ba8bf6c63cd8eba01a3eb37a2898a11751b0e09e620d9256"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter8_supp_batch.py",
+    "bytes": 762,
+    "sha256": "03947a0e107f42400817e8cf2e0dfd23291e03beacd8e9c3e52a0d9f0f22a33e"
+  },
+  {
+    "path": "FF7Rebrith/tools/chapter8_supplement.py",
+    "bytes": 4645,
+    "sha256": "244aebf0a6f153774f4ef8cdd23658d4dedd7d98ec9c715b5c4a2060aa0e9eb5"
+  },
+  {
+    "path": "FF7Rebrith/tools/choice_completion.py",
+    "bytes": 4027,
+    "sha256": "df752a00f5bcc89c21f14cdd98abce88bffebbdc5f7517b04a390a21730cbef2"
+  },
+  {
+    "path": "FF7Rebrith/tools/compare_fonts.py",
+    "bytes": 3037,
+    "sha256": "add938886273ddb14cff10f66c9287a164d8b4b91f2d6d424daf84071332134d"
+  },
+  {
+    "path": "FF7Rebrith/tools/context_full_read.py",
+    "bytes": 8621,
+    "sha256": "08394349f42b771b274b91127d012bd5e9060c0e7ebde863404327ddc058209d"
+  },
+  {
+    "path": "FF7Rebrith/tools/context_full_read_compact.py",
+    "bytes": 884,
+    "sha256": "a2f09942fdc92daac677d16dda7f798ff046b144455f7c0fcd3111502ff8e4bd"
+  },
+  {
+    "path": "FF7Rebrith/tools/context_full_read_preview.py",
+    "bytes": 8038,
+    "sha256": "0b9b05a70fcc58902bc603f8d15f4d2e8de20751924409863e728651dd5a7aa8"
+  },
+  {
+    "path": "FF7Rebrith/tools/context_recheck.py",
+    "bytes": 12636,
+    "sha256": "a7cfb30bd67755366e39b2de630c71d1850f6e39e04416e3b167de68ec26fc37"
+  },
+  {
+    "path": "FF7Rebrith/tools/context_recheck_preview.py",
+    "bytes": 3935,
+    "sha256": "8f8475ac62b25f817b8758b601ca5b24db59bbef8ced9cf28aaa4d530629dd4c"
+  },
+  {
+    "path": "FF7Rebrith/tools/create_ui_completion_scope.py",
+    "bytes": 4071,
+    "sha256": "d4eb9c75fd7033f24f8e4d2650bec4eac682e2f7321d095125676be722a39f4e"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/audio_build.py",
@@ -6540,121 +5555,6 @@
     "sha256": "737f82f1b6ea6473d561ad7fe325adc48b53e4fe5f26ce8d95a4e64e00c5bf1b"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/evalfield.py",
-    "bytes": 12046,
-    "sha256": "338fa68daceec28a74978298910d963751b99bb1ca8b743bf26c7e1c0f985060"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/extract_timeline.py",
-    "bytes": 15931,
-    "sha256": "18e1925aeebf24d1fab0c4c0f9f264cbb772a6f0ac3f34447857f68cc4dd6539"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/firstrun.py",
-    "bytes": 28776,
-    "sha256": "dc3c115089223eba698a0cf3c3a75fc7429255edfdbbf76af022a9520d10e10e"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/gameextract.py",
-    "bytes": 46979,
-    "sha256": "85dcc90e19c2ae1f0ce73d446da46a74d1b32cf29850a0c3868eea1011bb43e9"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/levelvolumes.py",
-    "bytes": 26969,
-    "sha256": "602deb59dd1b63d58d162e19bd5822c8932460f8d0bee0d644b6a6a828b317eb"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/LICENSE",
-    "bytes": 1639,
-    "sha256": "29ca06a4e0893a1d3109db35d8dc67ca57ba429dfd3dd21efe8e4571f13fb466"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/lipsync.py",
-    "bytes": 3403,
-    "sha256": "8683906dbd2a25b3f52128415e7ef345f8f04f9afbd872cb664c81ba0fbba494"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/loosezen.py",
-    "bytes": 3792,
-    "sha256": "46d69ba2151aa9be57d3efaacb821f01f0f53d764b68edbe8a1963ddda9399b3"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/make_viewer.py",
-    "bytes": 70554,
-    "sha256": "4a1e5067d35113256413b1c10127091d9e2c8b48698e4518061540312b9d3b2a"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/patcher.py",
-    "bytes": 96552,
-    "sha256": "5b43c02f0416e8fd230b9ffebbd253cbfc29e45e80db84586894a80a65ebda00"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/payload_events.py",
-    "bytes": 6950,
-    "sha256": "7ac3197be3dbf0f1c6dddf641ba2064e2a4f41257478bf89f16b80c72a4204f7"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/pv_spike.py",
-    "bytes": 14567,
-    "sha256": "7364db290376e61ac145ee5c3055c0509f9e57c9e04660a1e199836b555a26d1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/requirements.txt",
-    "bytes": 1511,
-    "sha256": "36611746746d32798d430ce61591228a6ac039afeceaf80a0e9aa25938d115cf"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/retarget.py",
-    "bytes": 9906,
-    "sha256": "e9736cf5efcd94c779c5f7e56e3f7686cb98c07f77371827e21b390ec8165c73"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/scene3d.py",
-    "bytes": 9551,
-    "sha256": "4eee8053bf1a2450c9e9c695de7ea23cb17523c95b70117cefbdd841a6e9310d"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/toolconfig.py",
-    "bytes": 10423,
-    "sha256": "3e6efcc6fd9f84f530a4df117d4d57f525bfba432fa0e92045a292f0c963fafe"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/transforms.py",
-    "bytes": 11797,
-    "sha256": "2aeccdd77f46444a8d1f2aecb0ca28507d151a737c7cc3b8f42649306810d80f"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/triggerpatch.py",
-    "bytes": 19221,
-    "sha256": "e99c0da2117b18e6c135a55f1664f60d8d4646b3c54849c540b5c84cf9e731ea"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/txtres.py",
-    "bytes": 11209,
-    "sha256": "5e2e972aaa0e3b53f3e6eb5beee6aef8fe7f38a9afcd29791924f388cc85fff2"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendorpath.py",
-    "bytes": 4493,
-    "sha256": "52121d90fcbdde774d46a95a784fa04700327642331316a713fc5a12087e01f7"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/zenasset.py",
-    "bytes": 14018,
-    "sha256": "52543e4f7eaeaf08304eb2ce79511e608e3743768d062211aca3361a3c8a6ef9"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/app.py",
-    "bytes": 5499,
-    "sha256": "2e751973be1db4e927037c9508c3e7f8b1374b58165aa10907167d97103c8b73"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/README.md",
-    "bytes": 28803,
-    "sha256": "4392b5ab85e36c0572183adc99304fb5cb90ca8a08ce435106b75561bfe2b845"
-  },
-  {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/__init__.py",
     "bytes": 674,
     "sha256": "3b53358d07dfa1832234da5bfaeecc3687cfb65974a4db70e04af75b409fba24"
@@ -6665,29 +5565,14 @@
     "sha256": "a67c172046323b0efcafe92cb83abc266d5dd4bc931d9312cde1b7bed50643db"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/licenses/pyUE4Parse-MIT.txt",
-    "bytes": 1070,
-    "sha256": "36a5f6395ad7b2a1e1c92eeee0dc4bf1e49f7bc604c76c38dfed354ee9384bd1"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/app.py",
+    "bytes": 5499,
+    "sha256": "2e751973be1db4e927037c9508c3e7f8b1374b58165aa10907167d97103c8b73"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/licenses/UnrealReZen-GPL-3.0.txt",
-    "bytes": 35823,
-    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/plans/.gitkeep",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse-LICENSE",
-    "bytes": 1070,
-    "sha256": "36a5f6395ad7b2a1e1c92eeee0dc4bf1e49f7bc604c76c38dfed354ee9384bd1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse-VERSION.txt",
-    "bytes": 754,
-    "sha256": "44aa2b011289f19e215f916ce34e95dd812ee63e0fd440aa2c9ee393b2436a69"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/core/__init__.py",
+    "bytes": 860,
+    "sha256": "c5834ea145fd3cdd8b4bb6e8eba17a7c8164beb1f295dfbaae97059f194f778c"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/core/arrays.py",
@@ -6780,9 +5665,14 @@
     "sha256": "e32483aa105198e65a875cd32e71c6f5415451fb23ab44ece38d6ece77beac40"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/core/__init__.py",
-    "bytes": 860,
-    "sha256": "c5834ea145fd3cdd8b4bb6e8eba17a7c8164beb1f295dfbaae97059f194f778c"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/README.md",
+    "bytes": 28803,
+    "sha256": "4392b5ab85e36c0572183adc99304fb5cb90ca8a08ce435106b75561bfe2b845"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/tests/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/tests/test_core.py",
@@ -6790,9 +5680,9 @@
     "sha256": "c150324705f4ba0c7e5a09b3b47d9d3dc58052034e6e907011a1fefdde57f757"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/tests/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/ui/__init__.py",
+    "bytes": 78,
+    "sha256": "08b0d7656d66afd08bab41db2297c310c4386c00749599c37673ef4945122a15"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/ui/main_window.py",
@@ -6835,9 +5725,14 @@
     "sha256": "f98a9e7ff0bb8f2cf7fbbe795d1c761c5d9d1fff9b3d122c5fe446a6b6bfdeab"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/editor_qt/ui/__init__.py",
-    "bytes": 78,
-    "sha256": "08b0d7656d66afd08bab41db2297c310c4386c00749599c37673ef4945122a15"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/evalfield.py",
+    "bytes": 12046,
+    "sha256": "338fa68daceec28a74978298910d963751b99bb1ca8b743bf26c7e1c0f985060"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/extract_timeline.py",
+    "bytes": 15931,
+    "sha256": "18e1925aeebf24d1fab0c4c0f9f264cbb772a6f0ac3f34447857f68cc4dd6539"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/extras/character-sprites/chars.json",
@@ -6855,19 +5750,104 @@
     "sha256": "cc48a65a80690b35b8b145fff510d6fa17e376b3fcfee9604cd6c328ee1e6392"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/BinaryReader.py",
-    "bytes": 9369,
-    "sha256": "0cfb128d6c2beb3c783d3f6c034db7a5674dbb02cf5ec50a67a618f3c3eaaefe"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/firstrun.py",
+    "bytes": 28776,
+    "sha256": "dc3c115089223eba698a0cf3c3a75fc7429255edfdbbf76af022a9520d10e10e"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Logger.py",
-    "bytes": 659,
-    "sha256": "f24344885ac8dd72c0c3d7b03e8f78c6eea815229ca3acbe56991be0052596c5"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/gameextract.py",
+    "bytes": 46979,
+    "sha256": "85dcc90e19c2ae1f0ce73d446da46a74d1b32cf29850a0c3868eea1011bb43e9"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Oodle.py",
-    "bytes": 2612,
-    "sha256": "012bd38cce82928990c95454112d776b64162fe4cc19c55f4662534373b9ca81"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/levelvolumes.py",
+    "bytes": 26969,
+    "sha256": "602deb59dd1b63d58d162e19bd5822c8932460f8d0bee0d644b6a6a828b317eb"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/LICENSE",
+    "bytes": 1639,
+    "sha256": "29ca06a4e0893a1d3109db35d8dc67ca57ba429dfd3dd21efe8e4571f13fb466"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/licenses/pyUE4Parse-MIT.txt",
+    "bytes": 1070,
+    "sha256": "36a5f6395ad7b2a1e1c92eeee0dc4bf1e49f7bc604c76c38dfed354ee9384bd1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/licenses/UnrealReZen-GPL-3.0.txt",
+    "bytes": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/lipsync.py",
+    "bytes": 3403,
+    "sha256": "8683906dbd2a25b3f52128415e7ef345f8f04f9afbd872cb664c81ba0fbba494"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/loosezen.py",
+    "bytes": 3792,
+    "sha256": "46d69ba2151aa9be57d3efaacb821f01f0f53d764b68edbe8a1963ddda9399b3"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/make_viewer.py",
+    "bytes": 70554,
+    "sha256": "4a1e5067d35113256413b1c10127091d9e2c8b48698e4518061540312b9d3b2a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/patcher.py",
+    "bytes": 96552,
+    "sha256": "5b43c02f0416e8fd230b9ffebbd253cbfc29e45e80db84586894a80a65ebda00"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/payload_events.py",
+    "bytes": 6950,
+    "sha256": "7ac3197be3dbf0f1c6dddf641ba2064e2a4f41257478bf89f16b80c72a4204f7"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/plans/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/pv_spike.py",
+    "bytes": 14567,
+    "sha256": "7364db290376e61ac145ee5c3055c0509f9e57c9e04660a1e199836b555a26d1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/requirements.txt",
+    "bytes": 1511,
+    "sha256": "36611746746d32798d430ce61591228a6ac039afeceaf80a0e9aa25938d115cf"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/retarget.py",
+    "bytes": 9906,
+    "sha256": "e9736cf5efcd94c779c5f7e56e3f7686cb98c07f77371827e21b390ec8165c73"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/scene3d.py",
+    "bytes": 9551,
+    "sha256": "4eee8053bf1a2450c9e9c695de7ea23cb17523c95b70117cefbdd841a6e9310d"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/toolconfig.py",
+    "bytes": 10423,
+    "sha256": "3e6efcc6fd9f84f530a4df117d4d57f525bfba432fa0e92045a292f0c963fafe"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/transforms.py",
+    "bytes": 11797,
+    "sha256": "2aeccdd77f46444a8d1f2aecb0ca28507d151a737c7cc3b8f42649306810d80f"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/triggerpatch.py",
+    "bytes": 19221,
+    "sha256": "e99c0da2117b18e6c135a55f1664f60d8d4646b3c54849c540b5c84cf9e731ea"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/txtres.py",
+    "bytes": 11209,
+    "sha256": "5e2e972aaa0e3b53f3e6eb5beee6aef8fe7f38a9afcd29791924f388cc85fff2"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/__init__.py",
@@ -6875,254 +5855,39 @@
     "sha256": "41b7509ebe032cccb2254f1b261d5fa75e8bbb9b6d2dc8e7aa24be34b1256f99"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/PackageReader.py",
-    "bytes": 16585,
-    "sha256": "cf3ef803baae0ff6292a18f9c2428f807d36ed11f412c17ab7f5d9cdcff92aea"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/ToJson.py",
-    "bytes": 850,
-    "sha256": "7eba8801325f5b045171dd5f2974046bc4f9a7325d49dc6f9bf151e02ef0f895"
-  },
-  {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/__init__.py",
     "bytes": 0,
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Encryption/FAESKey.py",
-    "bytes": 1338,
-    "sha256": "dee5fdc31b900d70a9364fbc485ea8508cbf9944a21caa90a5d20a02c5566507"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/__init__.py",
+    "bytes": 312,
+    "sha256": "e6a38910b6cb1d8dd4f62d82b59674d99c7b54ae5784d4daf117f3ad9ef71351"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Encryption/__init__.py",
-    "bytes": 28,
-    "sha256": "2c07f65527d675b07a72a5fdce2ce7b3421aee48420628d6766221bd9721e2ad"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Exceptions/Exceptions.py",
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/__init__.py",
     "bytes": 189,
-    "sha256": "f5b8801c0a69561718c5ab41dd236c430504c464a076fe56b55c0d330623b78f"
+    "sha256": "837f5ad1d5369a8174cb1912a9171710ed44d97c9a7adaab689967c4c6abdc69"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Exceptions/__init__.py",
-    "bytes": 25,
-    "sha256": "e1affa0a2cc527ecadabbd992d33295e03f469ef4ea8f283f19f581f4bc79984"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UBlueprintGeneratedClass.py",
+    "bytes": 202,
+    "sha256": "0beaf613d15684d84239bc1adc3e2651cee7879b2842d3a8ce8be6502f2e9086"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Extras/FBKP.py",
-    "bytes": 2474,
-    "sha256": "335be00be39c4b56425215ad5d1be1c61f2d6d6e8497049e0680c27c14315147"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UCurveTable.py",
+    "bytes": 1621,
+    "sha256": "2fcd713051de5a4588c4c7d8e98d50179c4bec49963e3180afa79c8386db4da6"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Extras/__init__.py",
-    "bytes": 36,
-    "sha256": "1220f9b5a0b4cf096c289bd49b63f74f2dd3f6531a5f982caae61c9bf32d9d76"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UDataTable.py",
+    "bytes": 1375,
+    "sha256": "e5001442d714ff3d690dfd1f97825b03fdd406d94a9af9a69d73e80ed83d2e10"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/IoStoreReader.py",
-    "bytes": 14009,
-    "sha256": "8b0f92938f528db4f120be1526f759a4f95d800ee06d56014192af1e11b12c23"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/__init__.py",
-    "bytes": 45,
-    "sha256": "28e290c85883d2c2531db3da1e77106155d0f001385f6b2a290a60669ecb19e4"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/EIoChunkType.py",
-    "bytes": 666,
-    "sha256": "23f39e91ac1a743c70ad2d3a37a11a50a484b32d9a33b4bee63f30f4eb683f1f"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FExportBundle.py",
-    "bytes": 2306,
-    "sha256": "659e9f1ec7fe0eb2f93e3e7348567f7a34315cd056bfb94bb70c8766ec3dab93"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FExportMapEntry.py",
-    "bytes": 2105,
-    "sha256": "b413a7e477e5aad767a8e5059e34cb4eb1d0c7ef9012cdb071c899a43093fe4c"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FImportedPackage.py",
-    "bytes": 1053,
-    "sha256": "d8975a46be6c289a6b5941f14c961ffc690537e9821499ced7863f67981655a8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FIoGlobalData.py",
-    "bytes": 2896,
-    "sha256": "abd09df303b40dbf1978dea8bdefaef450236a1abc93841b97715b4b96c1eea1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FIterator.py",
-    "bytes": 2204,
-    "sha256": "860a8f1f35eac559f71afd7bf95aed88c1038c7bcbc8843d8ce7ce9f319243df"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FMappedName.py",
-    "bytes": 1952,
-    "sha256": "dd3e485dadc4e0a9d62b24751da09856e4d66156cfc161713c8b21796713ee96"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FMinimalName.py",
-    "bytes": 868,
-    "sha256": "ad63fdb2b0e9baef2bd4487a2f71f218242232e4ad74c01df4195b6abba04f16"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FNameEntryId.py",
-    "bytes": 305,
-    "sha256": "8597b962346b2a3150d68a34ca8b994e6c0c9fa0a6b1389b53e53fc187d4491f"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FPackageObjectIndex.py",
-    "bytes": 2014,
-    "sha256": "1020493d7d49b00b4dcb1c550580d66aa1e9aca6293b06e6fb6bb25cd510e8d6"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FPackageSummary.py",
-    "bytes": 2043,
-    "sha256": "e0f1cc3a2862199e2d7f59c8ba0522e8973f66b7ca8535eccab1ca9dcfebea63"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FScriptObjectDesc.py",
-    "bytes": 658,
-    "sha256": "3f9e5a1fde4b6113322a8b69b7dddaabc3869fe9a7e458ac98658e87d291665a"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FScriptObjectEntry.py",
-    "bytes": 622,
-    "sha256": "70373b63876a538da880e0b2aeee255bce362ce46ef07b877d2efe955c4ec526"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FUnversionedHeader.py",
-    "bytes": 3757,
-    "sha256": "4999ae556c47830db92e5439ad0752f0f219abe149106891533f5232711db74d"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/IoUtils.py",
-    "bytes": 4216,
-    "sha256": "995154e30077ffe7eb863fb287eb089b7eaf8a82e6f3a2e5f0eebb5b0821f4c6"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/FTextLocalizationResource.py",
-    "bytes": 4201,
-    "sha256": "a3167c5285628afe188ea3746759a2d453bc72ad25c3722bcbcf673542359f3e"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/FTextLocalizationResourceVersion.py",
-    "bytes": 833,
-    "sha256": "f691953ea0f26ac57fd89f78415dc7dfc418196951223f528c24d02560bdbee4"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/PakReader.py",
-    "bytes": 10194,
-    "sha256": "fb2532198f746a0130a9b204673ff06db5a4a063b03c79a27099b1550649953d"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/__init__.py",
-    "bytes": 220,
-    "sha256": "9d4a82c446d8899336d132751ba650d89a3662840d32f0419fc9989aa43e151b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/Common.py",
-    "bytes": 812,
-    "sha256": "27aa0e896b366fce98b7b6af510e243e6c23f18fe8f0f1c7664ca3a499b6a9a8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/DefaultFileProvider.py",
-    "bytes": 6220,
-    "sha256": "85d15e3045d0809b3a5a50123635fa7dd6696fa191b9fa0d9186d55d154c7183"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/MappingProvider.py",
-    "bytes": 3222,
-    "sha256": "04ddd54a52251f521ef277966bdac1288883a5ccbbe2489e5b2fe9c469b23144"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/StreamedFileProvider.py",
-    "bytes": 567,
-    "sha256": "05d04a911a2d536004d2344a22e59d5140753b17b76972b8e2e36446679e7d6a"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/__init__.py",
-    "bytes": 112,
-    "sha256": "e1670927532f546f34cc2fd8afa2d283516d11d19e2182b66048c524198087b8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Readers/FAssetReader.py",
-    "bytes": 2326,
-    "sha256": "8a736089e6d1da1491ea0b21875923115d37f5d595ba482ce640456907504d7a"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Readers/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUeBase.py",
-    "bytes": 370,
-    "sha256": "7a3f44efd923376cfad68b9516c4544803f1eea72f3570fd6e305ad79a9ec56d"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUEVersion.py",
-    "bytes": 1756,
-    "sha256": "4711f7cb8a33f4f041caacd371b7fbde4897b03cb52b4917ccff850208292f23"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUnrealEngineObjectLicenseeUE4Version.py",
-    "bytes": 222,
-    "sha256": "d70cfde46f13bc8705a9b6ae46d4c5f22c1b985643fc2b8ed5fbb752ede222be"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUnrealEngineObjectUE4Version.py",
-    "bytes": 17073,
-    "sha256": "79602e7ff2ad17f35033a8432b5fe59ad65c93be03304eb64c74e08d0ab22151"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FCoreObjectVersion.py",
-    "bytes": 1510,
-    "sha256": "d84622c218cd6bb218d0399f91fdd2ee8ad8d19ecbcaa78e66f40950c73b74ac"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FCustomVersionContainer.py",
-    "bytes": 512,
-    "sha256": "6b01b90b1d44089dff19537481e4df8af85eff33f160e43305af5e9679528dc8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FFortniteMainBranchObjectVersion.py",
-    "bytes": 8229,
-    "sha256": "3cc48acd4e75d92e9c30a0986cdf7a881afb74d7c7c441c8dcddc5523f3ec918"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FFrameworkObjectVersion.py",
-    "bytes": 8072,
-    "sha256": "fa55a18d50fd7cf314796183cf6cebaf91cf1d1f8c0abaaa54db75d86c997476"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FRecomputeTangentCustomVersion.py",
-    "bytes": 1341,
-    "sha256": "962175c88459caefb799d5696a28ac5ae2126f283935d1b3c77a1ccb72516dba"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/Versions.py",
-    "bytes": 295,
-    "sha256": "6ace417134cb3606eb605266bfd823b87140b0c46ae2b16abc17599134504321"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/__init__.py",
-    "bytes": 74,
-    "sha256": "ec4c118d4366a07bab2be6cf71278ed8cc60620807bb14b7d34c27454f39a89a"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UFunction.py",
+    "bytes": 875,
+    "sha256": "4b395165609b321a4dcce23949e531e69eb862f4c0d3d5a61a08379abe1470ae"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/ExportRegistry.py",
@@ -7138,6 +5903,141 @@
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/MaterialInstanceConstant.py",
     "bytes": 1418,
     "sha256": "789f57b74aab47150af0d9b9dd4e8d689d8310278c87f63c55082af65519d91e"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/__init__.py",
+    "bytes": 40,
+    "sha256": "ccc1bb9659ac06ffacca750299d0d80636b492b5f92f4a6200a317765c59e5d9"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/FSkeletalMaterial.py",
+    "bytes": 2553,
+    "sha256": "c0b00ce3529db72b4a5c0afa85d38b2d75a1c5874be48c570a8f16c3169b8171"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/USkeletalMesh.py",
+    "bytes": 945,
+    "sha256": "5152d038f1ef84d20c64e516b0825354d0476bdababdc3a678478238e7b334f5"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/__init__.py",
+    "bytes": 103,
+    "sha256": "86c64f8b0d0ae129c98554dd07d42729529447af17836b76475fc51c07186c7b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/UAkMediaAssetData.py",
+    "bytes": 1209,
+    "sha256": "b8adf2c2aa68605cbb3e62e3dce0a5c2820ecf46e042557eb499a83248c41ff8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/USoundWave.py",
+    "bytes": 3747,
+    "sha256": "4da99b7756614680057dd32b97d4998a08ac1c940df5f21c920771db710d0b39"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FDistanceFieldVolumeData.py",
+    "bytes": 1687,
+    "sha256": "8e395a2499bcc28e49e0e36ee822096b7ac1cefc5d05ed13db8deb6286040ac2"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FPositionVertexBuffer.py",
+    "bytes": 609,
+    "sha256": "2149f14514fbc43de1f39587119c06e32108abd8ab7a7ac0efbbef479c540f78"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FRawStaticIndexBuffer.py",
+    "bytes": 1362,
+    "sha256": "baebe9b13b2e18a986cc2d862303a71879430a8c3ab9b48bd827465c74fa981b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMaterial.py",
+    "bytes": 1256,
+    "sha256": "ef04e89f382d2ade1b6b490e7990c828c87d92866ea4650670ab0bb10e78e042"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshLODResources.py",
+    "bytes": 6840,
+    "sha256": "17fb1da0a5379232ba45948166c7136a41e804facd2d7c96a5c172a9cad54776"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshSection.py",
+    "bytes": 1598,
+    "sha256": "03b197202ba9408ab9cba88bba47cb7759f8df7158ad1ac4d15f17ae2f2afd0e"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshUVItem.py",
+    "bytes": 1703,
+    "sha256": "c4007e317a102adf13063d647cc2eecaf4f0dc3ba6c17c5bd6d26433659d143b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshVertexBuffer.py",
+    "bytes": 3349,
+    "sha256": "efc2113b8eb075699155b57ae4cfc2c32dec2f3d2a68e8f1f8e430e71bd510e1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/UStaticMesh.py",
+    "bytes": 6813,
+    "sha256": "74695a49fa0cb4117e8273f84600fa499afb2e57b288fa57cb57a74f8efcf562"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/__init__.py",
+    "bytes": 168,
+    "sha256": "8868938b66c0bd8c9cf25710e309a4b02ba6de7507d7c923ae5180e5ece88a9d"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Decoder.py",
+    "bytes": 5033,
+    "sha256": "6b5e3b4125e6f5160b42322710946b70bad9f026104fb8d6073e4f7e92fac4bf"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/FTexture2DMipMap.py",
+    "bytes": 1265,
+    "sha256": "b738fb86ace4a4bb611a30d5fc23c14581b8626024e7239171284c51fa574612"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/FTexturePlatformData.py",
+    "bytes": 1938,
+    "sha256": "9a0cf59369ad682e0757829f25cf42d7d60b2d19944384abc781a3ed450e764e"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/ULightMapTexture2D.py",
+    "bytes": 1326,
+    "sha256": "d48767172689974bf72b7e46e8b26f7dfa249e23edd044413304d23fcb579ac4"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTexture.py",
+    "bytes": 357,
+    "sha256": "92701f561d6af3c01dae928f8bb65cebe2c8f1111719b6a89ca6ddb76e17b9b9"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTexture2D.py",
+    "bytes": 2841,
+    "sha256": "f21241657c8ad25da7360dc10894ec745c7276f03aaa5d13649d890a9df70a73"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTextureCube.py",
+    "bytes": 183,
+    "sha256": "fb5dc25db142b6a05596aed6d6bb5e8f8d125bfa7ada8725b159be39c5ac4e41"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/utils.pyx",
+    "bytes": 816,
+    "sha256": "4c49f572ea185ca1bd52c4e83922c409b6abe31c56d4b9c83c12f0c6a993f8d1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UVolumeTexture.py",
+    "bytes": 185,
+    "sha256": "0c6dade715bb4c0b1e750f3d8126e27652856cebbb24093bf3359dffe65b82e5"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/UClass.py",
@@ -7160,9 +6060,9 @@
     "sha256": "04b7478491d3c3372e2d8a16cb47a22b2a6ad8d58530930cdbaf37d727a1154b"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/__init__.py",
-    "bytes": 312,
-    "sha256": "e6a38910b6cb1d8dd4f62d82b59674d99c7b54ae5784d4daf117f3ad9ef71351"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Common.py",
@@ -7295,9 +6195,164 @@
     "sha256": "6ade7eeae342ff864de5888cee2a9dfed527d016fc299bd1689d42d325ec66da"
   },
   {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/_None.py",
+    "bytes": 504,
+    "sha256": "2b7b2c2e5fa0e5336893b87eb64c638f0090efa652bc966c7aca1003bddc2593"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/Base.py",
+    "bytes": 555,
+    "sha256": "1e4e2b085b006abf92b275bcff8ee1ba7da9c95e36df44c811eed2b9016ded3b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/NamedFormat.py",
+    "bytes": 1860,
+    "sha256": "7f85b85f66153787abe2cab2afe9faafd00e3d0059166ae2d8c8d5fe70c8db9c"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/StringTableEntry.py",
+    "bytes": 405,
+    "sha256": "11485eeb31a7978bf63dec59667cc9d89857ea6ef82875b02577e5128b9e7e0c"
+  },
+  {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FUniqueObjectGuid.py",
     "bytes": 291,
     "sha256": "6843eabc743cb3a520cbcd3ff83c839d1766589c068e2845c03a6004d8f93ab9"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FBoxSphereBounds.py",
+    "bytes": 595,
+    "sha256": "d29edb6f01750878074d810d3ee298a0c84a802bed04aded2527cd4c8c3b2a04"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FColorVertexBuffer.py",
+    "bytes": 980,
+    "sha256": "5bc24894e2b6cd068287247519ea23f232398daeafa30c3074da42d4294c592f"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FEditorObjectVersion.py",
+    "bytes": 1249,
+    "sha256": "21cff02d6d309b76858055e52b26856429d0a07864e27921866963c31878864c"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FMeshUV.py",
+    "bytes": 934,
+    "sha256": "fa02a3251eca247c06a7e6632b7fb370ce26d3cabd7a1b09f7dd196289691582"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FMeshUVChannelInfo.py",
+    "bytes": 678,
+    "sha256": "f03503feba2c0944c501392e6e8f10883669046c4bd7cb6a89ee0ecd0706601b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FPackedNormal.py",
+    "bytes": 1732,
+    "sha256": "da1a6bf884006731a2940cd182fd7039dc838769d8c51be0e573742809b6a5b2"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FRenderingObjectVersion.py",
+    "bytes": 1408,
+    "sha256": "eef394f3455c699e6264bfb123ec674e191b7cfb16cf7251be732e232f0691e1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FSkeletalMeshSamplingLODBuiltData.py",
+    "bytes": 845,
+    "sha256": "fd8e5ed5d9397c90cea3c22c2b02b2d452a96bf433c79e637e6ced3d72ce85cd"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FWeightedRandomSampler.py",
+    "bytes": 883,
+    "sha256": "b6cc01e6166babd2d2b176958adb6633f354e29e7a73697c3123260f7acc232a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Box.py",
+    "bytes": 1645,
+    "sha256": "85efcc178b817e5b0095bbc2830b003964927d78836a43d05802db60b98b1b43"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Colors.py",
+    "bytes": 1446,
+    "sha256": "2797e959d4ed14a0100b3b93ce58ab8df1e942a69a661d63e7f018970f752994"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/CurveKey.py",
+    "bytes": 3058,
+    "sha256": "906f9893fe5b175e664253535d54efcaf0b8fc7847d7dc5075ffd43112720435"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FFrameNumber.py",
+    "bytes": 511,
+    "sha256": "6db86ec00e26b16a38b24acc8895bc1d7c28a72637bb077a495c869adccdbeca"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FGameplayTagContainer.py",
+    "bytes": 765,
+    "sha256": "61ad10317913e06abf4669e18ad9d036df878c41c78505c8aff7b4c81fc35144"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FIntPoint.py",
+    "bytes": 606,
+    "sha256": "b5c15f7e2aa45aec8a319a29df1ab7436c918aeeba3e446b844b5f5a47529ab4"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FLevelSequenceObjectReferenceMap.py",
+    "bytes": 822,
+    "sha256": "b30af0032dbc3ebcac9d3f75b59c4c5a88363228985c33e21090973d14a8b0df"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FNavAgentSelectorCustomization.py",
+    "bytes": 631,
+    "sha256": "103b1199742b5e76c3517021f4e10bf78aa0e61fec47160c1149c3e383b935c8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FPerPlatform.py",
+    "bytes": 1046,
+    "sha256": "889af0a81060065e698b6ffb5294222375e78dd6bfe8acedd94781facd865642"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FRotator.py",
+    "bytes": 750,
+    "sha256": "4a72f6b911d273848df28cb13575f87267a2323114d83067493ebc67142d22c9"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FSmartName.py",
+    "bytes": 635,
+    "sha256": "7fe3c4041147c72e0e30509ccbd5c331aec47cb4feaee12ff5aedc94eb97a192"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FSoftObjectPath.py",
+    "bytes": 1367,
+    "sha256": "b2c9517d08da7617f7ce732e46e45d6ec6d5365d7cca24883ffa9f975d016ea8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/MaterialExpression.py",
+    "bytes": 2845,
+    "sha256": "16bd1c6c0de68035472585fe47545c37fe751d42271406ff3c3aa687e3ee1cc6"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/UScriptStruct.py",
+    "bytes": 4064,
+    "sha256": "7ba00284ec2f851e2d0972b62ef71a42ecf491da9f31e54b2b6c3ce7502670b1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Vector.py",
+    "bytes": 2762,
+    "sha256": "44fb9492a15908e7787748f4bde4bd73877b2e9ad91f5949e4bd5469f001caf4"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/URL.py",
@@ -7305,9 +6360,14 @@
     "sha256": "37ebd79ba40f921fad001c690a86e6320bcc6a9633bcd2fe8f51d937e09f06c7"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/PackageReader.py",
+    "bytes": 16585,
+    "sha256": "cf3ef803baae0ff6292a18f9c2428f807d36ed11f412c17ab7f5d9cdcff92aea"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/PropertyTagData/__init__.py",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/PropertyTagData/ArrayProperty.py",
@@ -7400,9 +6460,14 @@
     "sha256": "76f331e7bd52c19df3f4b5b3e090fed3461d5a5bddd2859df4054d226349c391"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/PropertyTagData/__init__.py",
-    "bytes": 1,
-    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/ToJson.py",
+    "bytes": 850,
+    "sha256": "7eba8801325f5b045171dd5f2974046bc4f9a7325d49dc6f9bf151e02ef0f895"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/UObject/__init__.py",
+    "bytes": 99,
+    "sha256": "aaf2f3095d46d2f13b2da971c8b67e110b260632cd287396dd606c2a50cdafc6"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/UObject/CoreNetTypes.py",
@@ -7425,324 +6490,49 @@
     "sha256": "1225b2810d52635a8d1d6492bffe487047f20d51430fe7af24f107f36890be2d"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/UObject/__init__.py",
-    "bytes": 99,
-    "sha256": "aaf2f3095d46d2f13b2da971c8b67e110b260632cd287396dd606c2a50cdafc6"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/BinaryReader.py",
+    "bytes": 9369,
+    "sha256": "0cfb128d6c2beb3c783d3f6c034db7a5674dbb02cf5ec50a67a618f3c3eaaefe"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UBlueprintGeneratedClass.py",
-    "bytes": 202,
-    "sha256": "0beaf613d15684d84239bc1adc3e2651cee7879b2842d3a8ce8be6502f2e9086"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Encryption/__init__.py",
+    "bytes": 28,
+    "sha256": "2c07f65527d675b07a72a5fdce2ce7b3421aee48420628d6766221bd9721e2ad"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UCurveTable.py",
-    "bytes": 1621,
-    "sha256": "2fcd713051de5a4588c4c7d8e98d50179c4bec49963e3180afa79c8386db4da6"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Encryption/FAESKey.py",
+    "bytes": 1338,
+    "sha256": "dee5fdc31b900d70a9364fbc485ea8508cbf9944a21caa90a5d20a02c5566507"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UDataTable.py",
-    "bytes": 1375,
-    "sha256": "e5001442d714ff3d690dfd1f97825b03fdd406d94a9af9a69d73e80ed83d2e10"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Exceptions/__init__.py",
+    "bytes": 25,
+    "sha256": "e1affa0a2cc527ecadabbd992d33295e03f469ef4ea8f283f19f581f4bc79984"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/UFunction.py",
-    "bytes": 875,
-    "sha256": "4b395165609b321a4dcce23949e531e69eb862f4c0d3d5a61a08379abe1470ae"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Engine/__init__.py",
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Exceptions/Exceptions.py",
     "bytes": 189,
-    "sha256": "837f5ad1d5369a8174cb1912a9171710ed44d97c9a7adaab689967c4c6abdc69"
+    "sha256": "f5b8801c0a69561718c5ab41dd236c430504c464a076fe56b55c0d330623b78f"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/FSkeletalMaterial.py",
-    "bytes": 2553,
-    "sha256": "c0b00ce3529db72b4a5c0afa85d38b2d75a1c5874be48c570a8f16c3169b8171"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Extras/__init__.py",
+    "bytes": 36,
+    "sha256": "1220f9b5a0b4cf096c289bd49b63f74f2dd3f6531a5f982caae61c9bf32d9d76"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/USkeletalMesh.py",
-    "bytes": 945,
-    "sha256": "5152d038f1ef84d20c64e516b0825354d0476bdababdc3a678478238e7b334f5"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Extras/FBKP.py",
+    "bytes": 2474,
+    "sha256": "335be00be39c4b56425215ad5d1be1c61f2d6d6e8497049e0680c27c14315147"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/SkeletalMesh/__init__.py",
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/__init__.py",
+    "bytes": 45,
+    "sha256": "28e290c85883d2c2531db3da1e77106155d0f001385f6b2a290a60669ecb19e4"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/IoObjects/__init__.py",
     "bytes": 40,
-    "sha256": "ccc1bb9659ac06ffacca750299d0d80636b492b5f92f4a6200a317765c59e5d9"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/UAkMediaAssetData.py",
-    "bytes": 1209,
-    "sha256": "b8adf2c2aa68605cbb3e62e3dce0a5c2820ecf46e042557eb499a83248c41ff8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/USoundWave.py",
-    "bytes": 3747,
-    "sha256": "4da99b7756614680057dd32b97d4998a08ac1c940df5f21c920771db710d0b39"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Sound/__init__.py",
-    "bytes": 103,
-    "sha256": "86c64f8b0d0ae129c98554dd07d42729529447af17836b76475fc51c07186c7b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FDistanceFieldVolumeData.py",
-    "bytes": 1687,
-    "sha256": "8e395a2499bcc28e49e0e36ee822096b7ac1cefc5d05ed13db8deb6286040ac2"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FPositionVertexBuffer.py",
-    "bytes": 609,
-    "sha256": "2149f14514fbc43de1f39587119c06e32108abd8ab7a7ac0efbbef479c540f78"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FRawStaticIndexBuffer.py",
-    "bytes": 1362,
-    "sha256": "baebe9b13b2e18a986cc2d862303a71879430a8c3ab9b48bd827465c74fa981b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMaterial.py",
-    "bytes": 1256,
-    "sha256": "ef04e89f382d2ade1b6b490e7990c828c87d92866ea4650670ab0bb10e78e042"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshLODResources.py",
-    "bytes": 6840,
-    "sha256": "17fb1da0a5379232ba45948166c7136a41e804facd2d7c96a5c172a9cad54776"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshSection.py",
-    "bytes": 1598,
-    "sha256": "03b197202ba9408ab9cba88bba47cb7759f8df7158ad1ac4d15f17ae2f2afd0e"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshUVItem.py",
-    "bytes": 1703,
-    "sha256": "c4007e317a102adf13063d647cc2eecaf4f0dc3ba6c17c5bd6d26433659d143b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/FStaticMeshVertexBuffer.py",
-    "bytes": 3349,
-    "sha256": "efc2113b8eb075699155b57ae4cfc2c32dec2f3d2a68e8f1f8e430e71bd510e1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/UStaticMesh.py",
-    "bytes": 6813,
-    "sha256": "74695a49fa0cb4117e8273f84600fa499afb2e57b288fa57cb57a74f8efcf562"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/StaticMesh/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Decoder.py",
-    "bytes": 5033,
-    "sha256": "6b5e3b4125e6f5160b42322710946b70bad9f026104fb8d6073e4f7e92fac4bf"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/ULightMapTexture2D.py",
-    "bytes": 1326,
-    "sha256": "d48767172689974bf72b7e46e8b26f7dfa249e23edd044413304d23fcb579ac4"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTexture.py",
-    "bytes": 357,
-    "sha256": "92701f561d6af3c01dae928f8bb65cebe2c8f1111719b6a89ca6ddb76e17b9b9"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTexture2D.py",
-    "bytes": 2841,
-    "sha256": "f21241657c8ad25da7360dc10894ec745c7276f03aaa5d13649d890a9df70a73"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UTextureCube.py",
-    "bytes": 183,
-    "sha256": "fb5dc25db142b6a05596aed6d6bb5e8f8d125bfa7ada8725b159be39c5ac4e41"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/utils.pyx",
-    "bytes": 816,
-    "sha256": "4c49f572ea185ca1bd52c4e83922c409b6abe31c56d4b9c83c12f0c6a993f8d1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/UVolumeTexture.py",
-    "bytes": 185,
-    "sha256": "0c6dade715bb4c0b1e750f3d8126e27652856cebbb24093bf3359dffe65b82e5"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/__init__.py",
-    "bytes": 168,
-    "sha256": "8868938b66c0bd8c9cf25710e309a4b02ba6de7507d7c923ae5180e5ece88a9d"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/FTexture2DMipMap.py",
-    "bytes": 1265,
-    "sha256": "b738fb86ace4a4bb611a30d5fc23c14581b8626024e7239171284c51fa574612"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/FTexturePlatformData.py",
-    "bytes": 1938,
-    "sha256": "9a0cf59369ad682e0757829f25cf42d7d60b2d19944384abc781a3ed450e764e"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Exports/Textures/Objects/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/Base.py",
-    "bytes": 555,
-    "sha256": "1e4e2b085b006abf92b275bcff8ee1ba7da9c95e36df44c811eed2b9016ded3b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/NamedFormat.py",
-    "bytes": 1860,
-    "sha256": "7f85b85f66153787abe2cab2afe9faafd00e3d0059166ae2d8c8d5fe70c8db9c"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/StringTableEntry.py",
-    "bytes": 405,
-    "sha256": "11485eeb31a7978bf63dec59667cc9d89857ea6ef82875b02577e5128b9e7e0c"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/_None.py",
-    "bytes": 504,
-    "sha256": "2b7b2c2e5fa0e5336893b87eb64c638f0090efa652bc966c7aca1003bddc2593"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/FTextHistory/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FBoxSphereBounds.py",
-    "bytes": 595,
-    "sha256": "d29edb6f01750878074d810d3ee298a0c84a802bed04aded2527cd4c8c3b2a04"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FColorVertexBuffer.py",
-    "bytes": 980,
-    "sha256": "5bc24894e2b6cd068287247519ea23f232398daeafa30c3074da42d4294c592f"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FEditorObjectVersion.py",
-    "bytes": 1249,
-    "sha256": "21cff02d6d309b76858055e52b26856429d0a07864e27921866963c31878864c"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FMeshUV.py",
-    "bytes": 934,
-    "sha256": "fa02a3251eca247c06a7e6632b7fb370ce26d3cabd7a1b09f7dd196289691582"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FMeshUVChannelInfo.py",
-    "bytes": 678,
-    "sha256": "f03503feba2c0944c501392e6e8f10883669046c4bd7cb6a89ee0ecd0706601b"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FPackedNormal.py",
-    "bytes": 1732,
-    "sha256": "da1a6bf884006731a2940cd182fd7039dc838769d8c51be0e573742809b6a5b2"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FRenderingObjectVersion.py",
-    "bytes": 1408,
-    "sha256": "eef394f3455c699e6264bfb123ec674e191b7cfb16cf7251be732e232f0691e1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FSkeletalMeshSamplingLODBuiltData.py",
-    "bytes": 845,
-    "sha256": "fd8e5ed5d9397c90cea3c22c2b02b2d452a96bf433c79e637e6ced3d72ce85cd"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/FWeightedRandomSampler.py",
-    "bytes": 883,
-    "sha256": "b6cc01e6166babd2d2b176958adb6633f354e29e7a73697c3123260f7acc232a"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Meshes/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Box.py",
-    "bytes": 1645,
-    "sha256": "85efcc178b817e5b0095bbc2830b003964927d78836a43d05802db60b98b1b43"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Colors.py",
-    "bytes": 1446,
-    "sha256": "2797e959d4ed14a0100b3b93ce58ab8df1e942a69a661d63e7f018970f752994"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/CurveKey.py",
-    "bytes": 3058,
-    "sha256": "906f9893fe5b175e664253535d54efcaf0b8fc7847d7dc5075ffd43112720435"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FFrameNumber.py",
-    "bytes": 511,
-    "sha256": "6db86ec00e26b16a38b24acc8895bc1d7c28a72637bb077a495c869adccdbeca"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FGameplayTagContainer.py",
-    "bytes": 765,
-    "sha256": "61ad10317913e06abf4669e18ad9d036df878c41c78505c8aff7b4c81fc35144"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FIntPoint.py",
-    "bytes": 606,
-    "sha256": "b5c15f7e2aa45aec8a319a29df1ab7436c918aeeba3e446b844b5f5a47529ab4"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FLevelSequenceObjectReferenceMap.py",
-    "bytes": 822,
-    "sha256": "b30af0032dbc3ebcac9d3f75b59c4c5a88363228985c33e21090973d14a8b0df"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FNavAgentSelectorCustomization.py",
-    "bytes": 631,
-    "sha256": "103b1199742b5e76c3517021f4e10bf78aa0e61fec47160c1149c3e383b935c8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FPerPlatform.py",
-    "bytes": 1046,
-    "sha256": "889af0a81060065e698b6ffb5294222375e78dd6bfe8acedd94781facd865642"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FRotator.py",
-    "bytes": 750,
-    "sha256": "4a72f6b911d273848df28cb13575f87267a2323114d83067493ebc67142d22c9"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FSmartName.py",
-    "bytes": 635,
-    "sha256": "7fe3c4041147c72e0e30509ccbd5c331aec47cb4feaee12ff5aedc94eb97a192"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/FSoftObjectPath.py",
-    "bytes": 1367,
-    "sha256": "b2c9517d08da7617f7ce732e46e45d6ec6d5365d7cca24883ffa9f975d016ea8"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/MaterialExpression.py",
-    "bytes": 2845,
-    "sha256": "16bd1c6c0de68035472585fe47545c37fe751d42271406ff3c3aa687e3ee1cc6"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/UScriptStruct.py",
-    "bytes": 4064,
-    "sha256": "7ba00284ec2f851e2d0972b62ef71a42ecf491da9f31e54b2b6c3ce7502670b1"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/Vector.py",
-    "bytes": 2762,
-    "sha256": "44fb9492a15908e7787748f4bde4bd73877b2e9ad91f5949e4bd5469f001caf4"
-  },
-  {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Assets/Objects/Structs/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "sha256": "029ac996217b47d0d1993b0f17e85e4d5b6ecefa8a7d2945d4e18c51a3379f82"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/IoObjects/EIoStoreTocReadOptions.py",
@@ -7820,9 +6610,124 @@
     "sha256": "73728757e9200bed0348843d0cce046aba1e335320ad11afeb2ec4978f833157"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/IoObjects/__init__.py",
-    "bytes": 40,
-    "sha256": "029ac996217b47d0d1993b0f17e85e4d5b6ecefa8a7d2945d4e18c51a3379f82"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IO/IoStoreReader.py",
+    "bytes": 14009,
+    "sha256": "8b0f92938f528db4f120be1526f759a4f95d800ee06d56014192af1e11b12c23"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/EIoChunkType.py",
+    "bytes": 666,
+    "sha256": "23f39e91ac1a743c70ad2d3a37a11a50a484b32d9a33b4bee63f30f4eb683f1f"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FExportBundle.py",
+    "bytes": 2306,
+    "sha256": "659e9f1ec7fe0eb2f93e3e7348567f7a34315cd056bfb94bb70c8766ec3dab93"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FExportMapEntry.py",
+    "bytes": 2105,
+    "sha256": "b413a7e477e5aad767a8e5059e34cb4eb1d0c7ef9012cdb071c899a43093fe4c"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FImportedPackage.py",
+    "bytes": 1053,
+    "sha256": "d8975a46be6c289a6b5941f14c961ffc690537e9821499ced7863f67981655a8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FIoGlobalData.py",
+    "bytes": 2896,
+    "sha256": "abd09df303b40dbf1978dea8bdefaef450236a1abc93841b97715b4b96c1eea1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FIterator.py",
+    "bytes": 2204,
+    "sha256": "860a8f1f35eac559f71afd7bf95aed88c1038c7bcbc8843d8ce7ce9f319243df"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FMappedName.py",
+    "bytes": 1952,
+    "sha256": "dd3e485dadc4e0a9d62b24751da09856e4d66156cfc161713c8b21796713ee96"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FMinimalName.py",
+    "bytes": 868,
+    "sha256": "ad63fdb2b0e9baef2bd4487a2f71f218242232e4ad74c01df4195b6abba04f16"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FNameEntryId.py",
+    "bytes": 305,
+    "sha256": "8597b962346b2a3150d68a34ca8b994e6c0c9fa0a6b1389b53e53fc187d4491f"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FPackageObjectIndex.py",
+    "bytes": 2014,
+    "sha256": "1020493d7d49b00b4dcb1c550580d66aa1e9aca6293b06e6fb6bb25cd510e8d6"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FPackageSummary.py",
+    "bytes": 2043,
+    "sha256": "e0f1cc3a2862199e2d7f59c8ba0522e8973f66b7ca8535eccab1ca9dcfebea63"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FScriptObjectDesc.py",
+    "bytes": 658,
+    "sha256": "3f9e5a1fde4b6113322a8b69b7dddaabc3869fe9a7e458ac98658e87d291665a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FScriptObjectEntry.py",
+    "bytes": 622,
+    "sha256": "70373b63876a538da880e0b2aeee255bce362ce46ef07b877d2efe955c4ec526"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/FUnversionedHeader.py",
+    "bytes": 3757,
+    "sha256": "4999ae556c47830db92e5439ad0752f0f219abe149106891533f5232711db74d"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/IoObjects/IoUtils.py",
+    "bytes": 4216,
+    "sha256": "995154e30077ffe7eb863fb287eb089b7eaf8a82e6f3a2e5f0eebb5b0821f4c6"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/FTextLocalizationResource.py",
+    "bytes": 4201,
+    "sha256": "a3167c5285628afe188ea3746759a2d453bc72ad25c3722bcbcf673542359f3e"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Localization/FTextLocalizationResourceVersion.py",
+    "bytes": 833,
+    "sha256": "f691953ea0f26ac57fd89f78415dc7dfc418196951223f528c24d02560bdbee4"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Logger.py",
+    "bytes": 659,
+    "sha256": "f24344885ac8dd72c0c3d7b03e8f78c6eea815229ca3acbe56991be0052596c5"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Oodle.py",
+    "bytes": 2612,
+    "sha256": "012bd38cce82928990c95454112d776b64162fe4cc19c55f4662534373b9ca81"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/__init__.py",
+    "bytes": 220,
+    "sha256": "9d4a82c446d8899336d132751ba650d89a3662840d32f0419fc9989aa43e151b"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/PakObjects/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/PakObjects/ECompressionFlags.py",
@@ -7865,9 +6770,39 @@
     "sha256": "e6ae617800bd735dcf6638a040aaa822e3da9c37ee65d70b59c65a26994aa195"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/PakObjects/__init__.py",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/PakFile/PakReader.py",
+    "bytes": 10194,
+    "sha256": "fb2532198f746a0130a9b204673ff06db5a4a063b03c79a27099b1550649953d"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/__init__.py",
+    "bytes": 112,
+    "sha256": "e1670927532f546f34cc2fd8afa2d283516d11d19e2182b66048c524198087b8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/Common.py",
+    "bytes": 812,
+    "sha256": "27aa0e896b366fce98b7b6af510e243e6c23f18fe8f0f1c7664ca3a499b6a9a8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/DefaultFileProvider.py",
+    "bytes": 6220,
+    "sha256": "85d15e3045d0809b3a5a50123635fa7dd6696fa191b9fa0d9186d55d154c7183"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/MappingProvider.py",
+    "bytes": 3222,
+    "sha256": "04ddd54a52251f521ef277966bdac1288883a5ccbbe2489e5b2fe9c469b23144"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/StreamedFileProvider.py",
+    "bytes": 567,
+    "sha256": "05d04a911a2d536004d2344a22e59d5140753b17b76972b8e2e36446679e7d6a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/Vfs/__init__.py",
+    "bytes": 60,
+    "sha256": "81f0b9bd98335cea8b2729c4da767e6da410e4a00b0d5b2addd56dbeffd70c06"
   },
   {
     "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/Vfs/AbstractVfsFileProvider.py",
@@ -7885,9 +6820,799 @@
     "sha256": "72547c7d367cc873f1edf0a498c0dd79eb6b14f01b6a0f8a04d5e1b347867e42"
   },
   {
-    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Provider/Vfs/__init__.py",
-    "bytes": 60,
-    "sha256": "81f0b9bd98335cea8b2729c4da767e6da410e4a00b0d5b2addd56dbeffd70c06"
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Readers/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Readers/FAssetReader.py",
+    "bytes": 2326,
+    "sha256": "8a736089e6d1da1491ea0b21875923115d37f5d595ba482ce640456907504d7a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/__init__.py",
+    "bytes": 74,
+    "sha256": "ec4c118d4366a07bab2be6cf71278ed8cc60620807bb14b7d34c27454f39a89a"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUeBase.py",
+    "bytes": 370,
+    "sha256": "7a3f44efd923376cfad68b9516c4544803f1eea72f3570fd6e305ad79a9ec56d"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUEVersion.py",
+    "bytes": 1756,
+    "sha256": "4711f7cb8a33f4f041caacd371b7fbde4897b03cb52b4917ccff850208292f23"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUnrealEngineObjectLicenseeUE4Version.py",
+    "bytes": 222,
+    "sha256": "d70cfde46f13bc8705a9b6ae46d4c5f22c1b985643fc2b8ed5fbb752ede222be"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/EUnrealEngineObjectUE4Version.py",
+    "bytes": 17073,
+    "sha256": "79602e7ff2ad17f35033a8432b5fe59ad65c93be03304eb64c74e08d0ab22151"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FCoreObjectVersion.py",
+    "bytes": 1510,
+    "sha256": "d84622c218cd6bb218d0399f91fdd2ee8ad8d19ecbcaa78e66f40950c73b74ac"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FCustomVersionContainer.py",
+    "bytes": 512,
+    "sha256": "6b01b90b1d44089dff19537481e4df8af85eff33f160e43305af5e9679528dc8"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FFortniteMainBranchObjectVersion.py",
+    "bytes": 8229,
+    "sha256": "3cc48acd4e75d92e9c30a0986cdf7a881afb74d7c7c441c8dcddc5523f3ec918"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FFrameworkObjectVersion.py",
+    "bytes": 8072,
+    "sha256": "fa55a18d50fd7cf314796183cf6cebaf91cf1d1f8c0abaaa54db75d86c997476"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/FRecomputeTangentCustomVersion.py",
+    "bytes": 1341,
+    "sha256": "962175c88459caefb799d5696a28ac5ae2126f283935d1b3c77a1ccb72516dba"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse/Versions/Versions.py",
+    "bytes": 295,
+    "sha256": "6ace417134cb3606eb605266bfd823b87140b0c46ae2b16abc17599134504321"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse-LICENSE",
+    "bytes": 1070,
+    "sha256": "36a5f6395ad7b2a1e1c92eeee0dc4bf1e49f7bc604c76c38dfed354ee9384bd1"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendor/UE4Parse-VERSION.txt",
+    "bytes": 754,
+    "sha256": "44aa2b011289f19e215f916ce34e95dd812ee63e0fd440aa2c9ee393b2436a69"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/vendorpath.py",
+    "bytes": 4493,
+    "sha256": "52121d90fcbdde774d46a95a784fa04700327642331316a713fc5a12087e01f7"
+  },
+  {
+    "path": "FF7Rebrith/tools/cutscene-tool/1.0/zenasset.py",
+    "bytes": 14018,
+    "sha256": "52543e4f7eaeaf08304eb2ce79511e608e3743768d062211aca3361a3c8a6ef9"
+  },
+  {
+    "path": "FF7Rebrith/tools/downloads/CutsceneTool-1.0.0.zip",
+    "bytes": 1468731,
+    "sha256": "256df7553119241fac73b10b3f66f590e690d3b9573f772ee919fd0211b07af0"
+  },
+  {
+    "path": "FF7Rebrith/tools/downloads/retoc.zip",
+    "bytes": 2854438,
+    "sha256": "cc036b06ad3bdcf7003690b00d82719980c374e48a95bf0654f9959148d263aa"
+  },
+  {
+    "path": "FF7Rebrith/tools/downloads/UnrealReZen_V01.zip",
+    "bytes": 2004044,
+    "sha256": "b7e98a9e1c0f4a6249f3c2c29cf14d1aa12ea736e5c1accb5b11167504ade974"
+  },
+  {
+    "path": "FF7Rebrith/tools/enemy_actions.py",
+    "bytes": 8053,
+    "sha256": "af611292f0e64451b9d063d3bfe0b5cfd8127c3172f4c4ee18778c1667a45354"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_ch1_6_recheck.py",
+    "bytes": 4194,
+    "sha256": "8b341a50beb9a7d4a1ad74bf87877ab5a54f592aa47dcda081e21dd3e8135886"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_chapter8_recheck_cards.py",
+    "bytes": 10794,
+    "sha256": "e5db539abd74e9c0eed13ac4421af50b714a6b88b0ac12b26afee5a55b073cc4"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_chapter8_recheck_shared.py",
+    "bytes": 23815,
+    "sha256": "30d296df56207ab6ea40344185c77e38dd160766a855a065fefdd9f01da52761"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_chapter9.py",
+    "bytes": 2363,
+    "sha256": "55e28e259bcc51a21caf6b4ca23d1f97818645735c47363de5ca47eb50538bc7"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_choice_completion.py",
+    "bytes": 2673,
+    "sha256": "6576186519778c393e098d70903dbce321885841bf6bb6782caa63a39ba24d58"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_inventory_scope.py",
+    "bytes": 2113,
+    "sha256": "307eb41cf408791cd7bf97568faa02b371f959c573ec5259450d3d20b22255ad"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_npc_recheck.py",
+    "bytes": 1714,
+    "sha256": "53b6acfb2a49d349d9ea5e906fac7c5fb72edc4369a1574fe0d049e561d2e998"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_ui_completion_scope.py",
+    "bytes": 2515,
+    "sha256": "e7621fa187124f21ec6059ad44e6fa95879e8b2a8c972f87f564a256128e8914"
+  },
+  {
+    "path": "FF7Rebrith/tools/extend_ui_piano_notifications.py",
+    "bytes": 3930,
+    "sha256": "785c913d311689302f991e8c3bfce93801ee5bc8e3a700933dc77c993de6f515"
+  },
+  {
+    "path": "FF7Rebrith/tools/extract_game.py",
+    "bytes": 2287,
+    "sha256": "b3f4c4086fccf8a6febaa360fe1ea7ae038cfa1822c62f8a3f0d1a39e4089417"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_ch12_recheck.py",
+    "bytes": 18634,
+    "sha256": "76ea86c8cfc9235a86a246645da9ff135b254b3a079595ab32dd50ddea553686"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_ch1_6_recheck.py",
+    "bytes": 25155,
+    "sha256": "7abd99ca052f040564889e67f8709c7f32db4c8effb28a09b690128d605f13c4"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter10.py",
+    "bytes": 19050,
+    "sha256": "a4a06b3ceb182411f4edae872647768afa0aa35d73659caa776085779174af0f"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter10_continue.py",
+    "bytes": 7702,
+    "sha256": "b83e0404829255ba64881e1d7ec5c8cba0b63f517fc7f6112f4ed9fdd57f64ef"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter10_recheck.py",
+    "bytes": 16829,
+    "sha256": "f928eebf0c8d0c958fce5fc77d730e5c97b4f1b76c4683d4900167ad9f1df9ab"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter11.py",
+    "bytes": 10490,
+    "sha256": "2b39799933d430d744e1c1c178e31b0b9e21c2f6681277ca4f49d1b42caab3a5"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter11_recheck.py",
+    "bytes": 11041,
+    "sha256": "ffa0c8cf1feba428307bf08f6b1abddf425a656f76ee38fd83e537032c67dacc"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter12.py",
+    "bytes": 11360,
+    "sha256": "0e1a1cfa264dcbd24e6860316799bb31bbeeec5bd8f13405d5b2d0c59874d09f"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter12_recheck.py",
+    "bytes": 9123,
+    "sha256": "333260b7e3033d8e724b7d626de6e5ebf1dca7c057009882babe4a760fe06b61"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter13.py",
+    "bytes": 12357,
+    "sha256": "b68fe18e7e27d7cfd1e759db85938d4771bd6553c2f98777284f96bd845674ad"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter13_recheck.py",
+    "bytes": 7407,
+    "sha256": "decf19d9f81f001fe6f1ee9925987a5e60854f4c9dbef333082a44ef3f0d09cb"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter14.py",
+    "bytes": 14278,
+    "sha256": "0ae616b042b1fa09317a4e275621a95f54201f01492daff1a06d0b4939eb4a31"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter6.py",
+    "bytes": 34250,
+    "sha256": "2442af62296dae3675a503d36359620265b7c1a5319bc7bd60bbdc64946d2402"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter6_activity_ui.py",
+    "bytes": 8909,
+    "sha256": "0797c5d7b2f032aac1146f0443dece7ac88c7e9fc771d6116b07e78b81e17e31"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter7.py",
+    "bytes": 23427,
+    "sha256": "01f7a80fcb0d4976170b10c6de93dda7aebd83381099a19806fba38790d446a2"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter8.py",
+    "bytes": 23435,
+    "sha256": "aae23a6f1e3506dc406b35c8d3ec4b70a7e1088c4ff3b4e0346c2a05f97363b2"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_chapter9.py",
+    "bytes": 29982,
+    "sha256": "955bd44d41facea5defc243e7fa7077f591e9b822ea67dda0f1ce9d1a74a94f1"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_choice_completion.py",
+    "bytes": 22985,
+    "sha256": "df3f18a80bc43ed1fb7211b223bec48ca0028ace02869c55810eb9411e1c3ac1"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_context_full_read.py",
+    "bytes": 10501,
+    "sha256": "f553e00fd2147069af8c5da0466b74670e2fc5032dd376679a593a9f5e009366"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_context_recheck.py",
+    "bytes": 9411,
+    "sha256": "61957bf5b8079bb20969c105f89592ef2270d8daca4f64af75e705776b8ba2bf"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_enemy_actions.py",
+    "bytes": 14480,
+    "sha256": "c0c2d965d4e90da6916d4d8afcb72eebc4f1e84db08781ac4e74fd10e5df5f8f"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_npc_recheck.py",
+    "bytes": 19632,
+    "sha256": "c74d7ec54e72a9e8935ba331262866a581ef17b300495d1d795dac86d38c5fbc"
+  },
+  {
+    "path": "FF7Rebrith/tools/finalize_pronoun_context.py",
+    "bytes": 10899,
+    "sha256": "fc9decd4ddbd672065251b48145ac0fee9f4a403810706bdc4453e278ac4fe54"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Light.ttf",
+    "bytes": 47880,
+    "sha256": "57f6620429d4f2ac4ac913aae2605aa3bef1b32205c0953d7ce27a8f1433e0f2"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThai-OFL.txt",
+    "bytes": 4380,
+    "sha256": "dad6e6abc2bf3fc37cc698af7607c3f4d4235039695713b222e5a034fb5b9b1c"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Regular.ttf",
+    "bytes": 47788,
+    "sha256": "8dc31f736aa3103b2f94b85e8e11cec99a8e41cb8aa526abf71f69bef05dcbf2"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThai-Variable.ttf",
+    "bytes": 218652,
+    "sha256": "5a1c559bb539583c8a1fd99d1c5b9491e5e14478c9cd2bd0970d5c3096cc9ef8"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThaiLooped-Regular.ttf",
+    "bytes": 60264,
+    "sha256": "72efc789564b7913d4a2650bde9e4e5a3d9c1fdb65442c58c1b2e33324fe8fd8"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/NotoSansThaiLooped-Variable.ttf",
+    "bytes": 218660,
+    "sha256": "a6d220ea215bc2c4bfcd5c5efc4103e20302443f87f6dca7a9ce733a11f2cfbd"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/OFL.txt",
+    "bytes": 4387,
+    "sha256": "b26cae1321380296ba8311b632a397d5eac11b47197f9d0aa0b9310f1531ad60"
+  },
+  {
+    "path": "FF7Rebrith/tools/fonts/Sarabun-Regular.ttf",
+    "bytes": 90220,
+    "sha256": "226d4f368fbc0457990ddef2692679badfd2c1a4e89e5ac4d43c10ba7743b2f1"
+  },
+  {
+    "path": "FF7Rebrith/tools/inspect_chapter2_boundaries.py",
+    "bytes": 642,
+    "sha256": "a87972aca4ff1097cb9e81fc50b028ee9872180f344608f18143357dfde86c0d"
+  },
+  {
+    "path": "FF7Rebrith/tools/inspect_chapter2_scope.py",
+    "bytes": 753,
+    "sha256": "a649fc893e245efd441f83bf141e9e37c5e3e54aca741a1160c4fd86e6aeb718"
+  },
+  {
+    "path": "FF7Rebrith/tools/inspect_digit_baseline.py",
+    "bytes": 1121,
+    "sha256": "bbd7b36cecb4b0e61141488f90471e443ec7a3888438de9af18c60e857d99325"
+  },
+  {
+    "path": "FF7Rebrith/tools/inspect_items_skills.py",
+    "bytes": 597,
+    "sha256": "d68ab6147050e0dc77920c18b4a618039c4ce7b0780533ee960222522c0bad94"
+  },
+  {
+    "path": "FF7Rebrith/tools/install_current_set.py",
+    "bytes": 4379,
+    "sha256": "b72e9722786995bb68c353fcbb0b8595bb2ee630a57c542d661343cb4392b345"
+  },
+  {
+    "path": "FF7Rebrith/tools/inventory_batch.py",
+    "bytes": 3159,
+    "sha256": "11821a953d255f3035576280417041f0b347fdbca36addaf4d528ef6bb015cb5"
+  },
+  {
+    "path": "FF7Rebrith/tools/npc_recheck.py",
+    "bytes": 2567,
+    "sha256": "1358196eb72710d9c972081b23adb88ef14d44f7e9888ef3b78655376a081021"
+  },
+  {
+    "path": "FF7Rebrith/tools/number_style.py",
+    "bytes": 1471,
+    "sha256": "4c144182626947ac67f4ec52d467b6139ef49b08424ab4c4387146a3216bc755"
+  },
+  {
+    "path": "FF7Rebrith/tools/pack_prototype.py",
+    "bytes": 5568,
+    "sha256": "659b372e9ececb68a1b6a02ec93d654a84f2a53fa741c29d8b3e52e5a4d32663"
+  },
+  {
+    "path": "FF7Rebrith/tools/package_release.py",
+    "bytes": 3794,
+    "sha256": "f67e47e93d0a364a1f0cbde9ce33ef3d4e1f5a6005c56c597353f4a23a9754ad"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_ch12_recheck.py",
+    "bytes": 3977,
+    "sha256": "38d30313d44a9eb00075474311935379979ce28bbf7816e07d28021b9fb5e9ce"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_ch1_6_recheck.py",
+    "bytes": 6352,
+    "sha256": "84b7ac79434cfd5ff38695edc6c20bcd02664c3bede2aecede0a98f26dd4dd2d"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter10.py",
+    "bytes": 3521,
+    "sha256": "7e38143398cc77958087033116f4c4bd284267ef7b32aeb1059c22ea1df8ae55"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter11.py",
+    "bytes": 3821,
+    "sha256": "51a0e3928f56470683694ed64e2bae491fa0be7b7367eebcaa0cb0e9eb4851c1"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter12.py",
+    "bytes": 3665,
+    "sha256": "1e64b61ee5cf70a4b3719b100a68bdcc91a94838344667de3932ee45d443df06"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter13.py",
+    "bytes": 3604,
+    "sha256": "966452c440508fbadda70838c771c6c76acf30f7359dbff141735adda83f1946"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter14.py",
+    "bytes": 3735,
+    "sha256": "353990969c1eaec5f14fbbf46b3aa603fdeb53a9719d32dd795c819f23a5418e"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter2.py",
+    "bytes": 2025,
+    "sha256": "cd7e5502cbeb732b8ffe62755217bfe5b52d4258ffe70a2a0858f1c13ae6a6f6"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter3.py",
+    "bytes": 3195,
+    "sha256": "edb41769d2382fb4456cf73e40d142a4242eef4b2f12994569e11e6634a64e4d"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter4.py",
+    "bytes": 5129,
+    "sha256": "2b91dae0e676e550399887a48e927bcf19f0adfc425f86d41551ae7f0463839c"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter5.py",
+    "bytes": 4319,
+    "sha256": "329cc1814739a066355c7aa34d89357238687917694f1077c6257cead51edcf2"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter6.py",
+    "bytes": 4410,
+    "sha256": "427ff869ea93d1df870bd613c19ed0462bce50247c489ebf4e69840713d11d1c"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter7.py",
+    "bytes": 4559,
+    "sha256": "295f177a41a8b6971a9e1b95a43d0cf99bbed744889d87ff86f5e399f5ddc2af"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter8.py",
+    "bytes": 4547,
+    "sha256": "7a3ce563c8861c08f0cbbd2b1558998b5c6983c59841607e676d6dbcb6c4a1f3"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_chapter9.py",
+    "bytes": 6456,
+    "sha256": "034bc7d8eeaf31f277c7a5f316989b6fdc128dcf41ff3a1d792ed3a2d7b652a8"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_choice_completion.py",
+    "bytes": 3685,
+    "sha256": "a4492a9dfb86fff12ebf2d8888c2a6bccb53717ab5fd747a33b35b5d05a487fe"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_inventory_install.py",
+    "bytes": 2319,
+    "sha256": "40b76284afdf0139b5a7abc397c54bc3eb6fbe6ccb66556ccd9c4348dac0649f"
+  },
+  {
+    "path": "FF7Rebrith/tools/prepare_npc_recheck.py",
+    "bytes": 2868,
+    "sha256": "0d6e6b4038c6977cd01cee1082cff4a64a4f6ba61a67062f1b2906992563f90e"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_ch12_recheck.py",
+    "bytes": 4694,
+    "sha256": "a268c0a741f2130a31ad88d4ee29ba74393ca451c4fcf6eb585aada04aeaf88d"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_ch1_6_recheck.py",
+    "bytes": 3462,
+    "sha256": "3de13dc0054464dc439473268fe587a6d942fb9383b1d6fa49850bd5a955a408"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter1.py",
+    "bytes": 2443,
+    "sha256": "01f8dfd5f4090aea81cee9ede94a186f2e76dce4b0df7271efbc5e6525796208"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter10.py",
+    "bytes": 3811,
+    "sha256": "97f135cf5b7a67fe35671b582938a515a98cbc736a0d4b0cbcf839e013ee782f"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter11.py",
+    "bytes": 3655,
+    "sha256": "dfd73d4a21c6bd5eb4e23731d1366306860113b6de35cb93341732dec993a3fa"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter11_recheck.py",
+    "bytes": 2756,
+    "sha256": "64fcb5c1a6ef4f77c4d4cb9018d9f5e39e7da8a2adb5d80502a20d5fd8707952"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter12.py",
+    "bytes": 4298,
+    "sha256": "3d9b5d877bbed2ad59b7d5f49d9fc7d3bc67f2c4f6096bafdd249e10d979bbc3"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter13.py",
+    "bytes": 4264,
+    "sha256": "2e9922c18c2f1a5273333b5530a98d4b14f273eeced50e07ff40df5d438b96f3"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter14.py",
+    "bytes": 4267,
+    "sha256": "07c1a89d97e2f563c91983e608b45b81da5a7604bbeef044b0b8d7eff7ae21fe"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter2.py",
+    "bytes": 2360,
+    "sha256": "49c17c8ac4103fcf699ae26d6720553de3ebc359c42f3558ecfa1ab7f2520e8d"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter3.py",
+    "bytes": 3069,
+    "sha256": "64cc7dfdc1301fc04fc6d4a681a68751e28b78d504dac8adbc36b9a4f676162e"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter4.py",
+    "bytes": 3394,
+    "sha256": "d28154e2d5b10ed38596dc10e20fe474767afad0842d88d34cf82ae65334cc07"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter5.py",
+    "bytes": 3344,
+    "sha256": "0a444d0e7f948fed0f48c98d059190d62b1afc70852006ea877b6059856f29cf"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter6.py",
+    "bytes": 3352,
+    "sha256": "6798d80571115f2f8f8f2114bf4cf574e96ef44f99d2df027ec5f5642bae4d2e"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter6_activity_ui.py",
+    "bytes": 3601,
+    "sha256": "b44b4a6fa4b2ccd02d0614673ff90cfe6ddd1e9924dc5ff32ff20af2e89d96fc"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter7.py",
+    "bytes": 3401,
+    "sha256": "f1c3cefd2ffd4e895438ddfa13bd36915532d77ffc1087e8737cf2faec841a15"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter8.py",
+    "bytes": 4283,
+    "sha256": "1a9ed1e9734901676417bed9c7868b30c3823a463d7602e8206131c274417857"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_chapter9.py",
+    "bytes": 2714,
+    "sha256": "bf6674d0568b5f94782942b103653a93a4ffc9221bfeab3dc989308080a622c9"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_choice_completion.py",
+    "bytes": 3776,
+    "sha256": "d4bc3c94492be4c06f344df9c6a049ad5f1db07089ee549a8bf862e54b77b820"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_enemy_actions.py",
+    "bytes": 2418,
+    "sha256": "9796d96d9aead5ebef4e7d5ea42616e72f75ede9793c8191b22b17ec431ac21d"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_inventory.py",
+    "bytes": 2837,
+    "sha256": "2bcc99dee5e92163f8d8021188da1feb80fcb64a6d881b8f4c06989d1e508b2c"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_menu.py",
+    "bytes": 3695,
+    "sha256": "79df0d8e7559f14f05903c630b1c5301c2dbbc130e4354d880490b83400a3a76"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_npc_recheck.py",
+    "bytes": 3175,
+    "sha256": "de3ab54f8e4288ffbf1b2466f65a00dadb80534f0766c7b2b9043633784173d6"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_pronoun_context.py",
+    "bytes": 333,
+    "sha256": "eaeb6df6d46b261f413c25717b709f5982082324b45e71bf7f8baabcb8e31205"
+  },
+  {
+    "path": "FF7Rebrith/tools/preview_ui_completion.py",
+    "bytes": 3462,
+    "sha256": "829dd984d2750f130aa87a6211e368b5c216117c8e4f722f014df60512db3bd0"
+  },
+  {
+    "path": "FF7Rebrith/tools/pronoun_context.py",
+    "bytes": 8456,
+    "sha256": "40ea439a41ec8de1ba8d0e4f0615f10c4a6f5ddfc799c6cfd5e8037a024f92b9"
+  },
+  {
+    "path": "FF7Rebrith/tools/pronoun_context_decisions.py",
+    "bytes": 8011,
+    "sha256": "207c5ab295c8bebbf1b0ef01409d2d4f73e2b0314972931e4229e7e82d692f27"
+  },
+  {
+    "path": "FF7Rebrith/tools/publish_final.py",
+    "bytes": 141,
+    "sha256": "0b7905b1deb3fd2d74f7f45895ccf733e2a47d13548167655a0b93441aade70a"
+  },
+  {
+    "path": "FF7Rebrith/tools/publish_final_parts.py",
+    "bytes": 15438,
+    "sha256": "206bd19bca7cdd55650f16cf723871c6b3b9ccc4fd97a30d84d148f11377abff"
+  },
+  {
+    "path": "FF7Rebrith/tools/recheck_chapter4_gender.py",
+    "bytes": 9432,
+    "sha256": "4a9ca0d2f19cc9c2e26cb8753de5540e0c70cb0809a731c3fa56b78029c0b20f"
+  },
+  {
+    "path": "FF7Rebrith/tools/recheck_chapter9.py",
+    "bytes": 3810,
+    "sha256": "2db9f94c8a73824a03f90ba1b1d54ef4952cb8ae7ea41b858d05c49780a8fb6c"
+  },
+  {
+    "path": "FF7Rebrith/tools/refine_ui_completion_scope.py",
+    "bytes": 1527,
+    "sha256": "37228a3c4ba40349e8a97646838c42012827b1c796cc0d073dec578fe14d0762"
+  },
+  {
+    "path": "FF7Rebrith/tools/resolve_gender_particles.py",
+    "bytes": 7185,
+    "sha256": "f241d1c3fbc1048de3ab0c44cc00f6b1789b790e775e6e9c6bed63c2f5f6b537"
+  },
+  {
+    "path": "FF7Rebrith/tools/retoc/LICENSE",
+    "bytes": 1105,
+    "sha256": "047220d71910580f08051543a363dafb2669319ffab6bdbd0fb19733541020bc"
+  },
+  {
+    "path": "FF7Rebrith/tools/retoc/oo2core_9_win64.dll",
+    "bytes": 637952,
+    "sha256": "6f5d41a7892ea6b2db420f2458dad2f84a63901c9a93ce9497337b16c195f457"
+  },
+  {
+    "path": "FF7Rebrith/tools/retoc/README.md",
+    "bytes": 4580,
+    "sha256": "8e96afbdb3a2433fe3484aef07cf68a0e43f6b2cb7e091a3f32b6a93052d2e97"
+  },
+  {
+    "path": "FF7Rebrith/tools/retoc/retoc.exe",
+    "bytes": 7097344,
+    "sha256": "a145f3557ec60b163ed1b78b2f380232d2753fa30350c8013c98e171db3ae7e7"
+  },
+  {
+    "path": "FF7Rebrith/tools/review_chapter10_names.py",
+    "bytes": 883,
+    "sha256": "e51fb19ad72e9b4d1282aeb185f0e77564f7d2a69e232644cebc411c45eb3cb7"
+  },
+  {
+    "path": "FF7Rebrith/tools/signoff_chapter10.py",
+    "bytes": 9387,
+    "sha256": "720df7df277d8c7e1662d39b89ed5e6f207c5d39b7377c6a163523ae9709e3b4"
+  },
+  {
+    "path": "FF7Rebrith/tools/signoff_chapter11.py",
+    "bytes": 6627,
+    "sha256": "13d3893320af9c31935eb28cfb9f236b4c4fc73340aca49acd92a33c742f602c"
+  },
+  {
+    "path": "FF7Rebrith/tools/signoff_chapter12.py",
+    "bytes": 6183,
+    "sha256": "551ad79d369ea6e9a716582a8415ddccb5960ad20e914a371e3add99f417a2ee"
+  },
+  {
+    "path": "FF7Rebrith/tools/signoff_chapter13.py",
+    "bytes": 4714,
+    "sha256": "3ea06343e3b8b666d2d91188afa62efee331a38b14d89e03edeedec02cfe0247"
+  },
+  {
+    "path": "FF7Rebrith/tools/signoff_chapter14.py",
+    "bytes": 3826,
+    "sha256": "74294966a91db7ab16b5f069e529a9683ac98a3276b5b943b07937afc85db41e"
+  },
+  {
+    "path": "FF7Rebrith/tools/texconv.exe",
+    "bytes": 966480,
+    "sha256": "dcfdec10244e02cf5037fba089c55fb7e1326b1c8181742d77d15fa5cb5eef06"
+  },
+  {
+    "path": "FF7Rebrith/tools/translate_ch12_recheck.py",
+    "bytes": 24952,
+    "sha256": "43ea97a91b4a5a504340510e71d1fb6a09306e6f7154594d9e77b2e44e417519"
+  },
+  {
+    "path": "FF7Rebrith/tools/translate_ch1_6_reports.py",
+    "bytes": 24031,
+    "sha256": "0df9d311a69223d92bfa8107c66e9a9d8710cdde06ec917b5f258a7817bbcdcc"
+  },
+  {
+    "path": "FF7Rebrith/tools/translate_ch1_6_speech.py",
+    "bytes": 16176,
+    "sha256": "1b025a1d79d5ddb520e08fffa082e660535f85b1740f0b85c28382f57f3fda2e"
+  },
+  {
+    "path": "FF7Rebrith/tools/translate_ch1_6_ui.py",
+    "bytes": 12420,
+    "sha256": "f4724b1f18f26102248d05f08276cc9d177c5341bd2a6651212b3c98b4a5870b"
+  },
+  {
+    "path": "FF7Rebrith/tools/translate_ch1_recap.py",
+    "bytes": 7459,
+    "sha256": "2fcb70b616f19742855fbfe610d6781de95f3eb4a7610fdaae9f7f24be3cd936"
+  },
+  {
+    "path": "FF7Rebrith/tools/ui_completion_batch.py",
+    "bytes": 1387,
+    "sha256": "997700be16a3e606cf3d160aade6e81fc307db5d40442a9801ca95613b1e5106"
+  },
+  {
+    "path": "FF7Rebrith/tools/ui_control_table_patterns.py",
+    "bytes": 4303,
+    "sha256": "ca865589287240ae2b2564261c9986d722dcbdb3da7ac873dc7cb9dd96dce22c"
+  },
+  {
+    "path": "FF7Rebrith/tools/UnrealReZen/CUE4Parse-Natives.dll",
+    "bytes": 27648,
+    "sha256": "bdfee06c62835b40d40ccc83bab75e4ef1ed185ccf3b897782fadceec913995d"
+  },
+  {
+    "path": "FF7Rebrith/tools/UnrealReZen/oo2core_9_win64.dll",
+    "bytes": 582656,
+    "sha256": "19452ae1abae65e1305d3818354d4fae7b1200294322f0d9c6d5ddeb7bd9f978"
+  },
+  {
+    "path": "FF7Rebrith/tools/UnrealReZen/UnrealReZen.exe",
+    "bytes": 4042280,
+    "sha256": "01ee1d2c18ed257036f6d6e32a8cc8fcf819a080179db97c315679bd5c7f02be"
+  },
+  {
+    "path": "FF7Rebrith/tools/UnrealReZen/UnrealReZen.pdb",
+    "bytes": 26672,
+    "sha256": "089cad49d180a1b60c2afde44ddc7cdc75fc546846fe0ea4cc5e3c524c35c966"
+  },
+  {
+    "path": "FF7Rebrith/tools/validate_context_visual.py",
+    "bytes": 2428,
+    "sha256": "ce4d3fddd6d8896bb3855e73975df8a9144942da83d65396466e2c147a1a05ca"
+  },
+  {
+    "path": "FF7Rebrith/tools/verify_chapter1.py",
+    "bytes": 13458,
+    "sha256": "f34ed497aaa75197a2240aa5e9f6236a73a47f428046a3fedee0eea4d2ba82d7"
+  },
+  {
+    "path": "FF7Rebrith/tools/verify_final_parts.py",
+    "bytes": 2183,
+    "sha256": "e5f61db13ba015cd4e02c5b5a191e6cb4d0775ce677f49b8d16144a27538d29b"
+  },
+  {
+    "path": "FF7Rebrith/tools/verify_installed_session.py",
+    "bytes": 1224,
+    "sha256": "87c6d9bc43d1cc7c9930eab07b09219216a5705765223ade686cdcdde504488f"
+  },
+  {
+    "path": "FF7Rebrith/tools/verify_text_preservation.py",
+    "bytes": 2445,
+    "sha256": "f6d47dda547cfde1dbc6681b61c17405d28fda2d39e9117784b6f6f7769f046e"
+  },
+  {
+    "path": "FF7Rebrith/TRANSLATION_GUIDE.md",
+    "bytes": 168243,
+    "sha256": "4bae55ebc7285946c3ce49a794c1ff000a0d77b4d17e56f1d67c779da4b95a1a"
+  },
+  {
+    "path": "FF7Rebrith/translations/aerith-name-corrections.json",
+    "bytes": 1289,
+    "sha256": "025463ef4a47f56ffb4b7a22e25d2666aad5984b7ae81ce2f112253ed77474d3"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-6-recheck-extra-th.json",
+    "bytes": 4194,
+    "sha256": "9edd642e680434d4a4005f23808d3986bcbb00674a58800610665593f86749df"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-6-recheck-speech-th.json",
+    "bytes": 24102,
+    "sha256": "97d5d7fd4ccff6426c30eae775867bf05cce54d9c54a53cb7a4d7f23e636ce3f"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-automatic.json",
+    "bytes": 11315,
+    "sha256": "37f44941a4c794268372c0d4c9c91f0733d413d9e51aa62a0fc9e12962bf098a"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-manual.json",
+    "bytes": 35978,
+    "sha256": "0c074892eab6b46212d04ad8542ac01ce9cbded0915a0e264338024d8b177490"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-6-recheck-ui-th.json",
+    "bytes": 96767,
+    "sha256": "2ba07ed0c9844b6dfb1ad41c68a1a6a8052e10a4622c7377461e1ab0c94ce7b7"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch1-opening-recap-th.json",
+    "bytes": 7860,
+    "sha256": "37f2c3fbc66d1f1f63c9ff29728ccea96021d3849d46154899ab76da0a8b3913"
+  },
+  {
+    "path": "FF7Rebrith/translations/ch12-recheck-ui-th.json",
+    "bytes": 39244,
+    "sha256": "421a4e0890562e7b055094aa90793409bcde4359f97224da2ad82c102d228da3"
   },
   {
     "path": "FF7Rebrith/translations/chapter1/batch-00.json",
@@ -7948,6 +7673,11 @@
     "path": "FF7Rebrith/translations/chapter1/batch-11.json",
     "bytes": 4551,
     "sha256": "deb474d8768a0fa613e3f051322456fecba55c55f0603b23748d23202c114f7b"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter1-th.json",
+    "bytes": 215473,
+    "sha256": "d7664d45838572bcc752b8ed18721ab875ce526efe159ce850761ba5977435a3"
   },
   {
     "path": "FF7Rebrith/translations/chapter10/batch-00.json",
@@ -8030,6 +7760,16 @@
     "sha256": "e465b472a41927bc1d16582ef018ec87bea40d803d78454c3c01538c2e4f74b8"
   },
   {
+    "path": "FF7Rebrith/translations/chapter10-recheck-lines.json",
+    "bytes": 19414,
+    "sha256": "f7d6cc6284f1103923ad3b35b9697df1bd0f2c06326529fe86100f0e95faf198"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter10-th.json",
+    "bytes": 578885,
+    "sha256": "7bc3d8c1d1d4cffeee48d73ef1cc7705090fa4866aed251f59c575102b2faaa6"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter11/batch-01.json",
     "bytes": 15566,
     "sha256": "2c4971006945ab7ca21090fde918aff76218f23b074e401a610ddde4e0788497"
@@ -8078,6 +7818,16 @@
     "path": "FF7Rebrith/translations/chapter11/batch-10.json",
     "bytes": 31781,
     "sha256": "0f20bff10fc4b654ac171deedf7341fec5830ac6e59f96c8b63c535543df28aa"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter11-recheck-lines.json",
+    "bytes": 21488,
+    "sha256": "cdcdd713476d0f3672b08b58eef1d6c5d532d188d62a33437795606be6242ffc"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter11-th.json",
+    "bytes": 356862,
+    "sha256": "e141637e4f7e7d1fc22ab4af6bd427117ce49c4bb43430be76787380809b8d47"
   },
   {
     "path": "FF7Rebrith/translations/chapter12/batch-01.json",
@@ -8245,6 +7995,11 @@
     "sha256": "3568d91263ba96352071322f898c556a2089648e6c30b6b9ecbe59ff6fac6a73"
   },
   {
+    "path": "FF7Rebrith/translations/chapter12-th.json",
+    "bytes": 899200,
+    "sha256": "42d19d63b5de0f2e9fb9469832e650c563ac04e64755d8327f43143aade57d81"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter13/batch-01.json",
     "bytes": 9209,
     "sha256": "95da5831dddda0869086009800d876ea09ff9a6149a2f84bb47de88f933e1841"
@@ -8283,6 +8038,11 @@
     "path": "FF7Rebrith/translations/chapter13/batch-08.json",
     "bytes": 6971,
     "sha256": "dcbe5967249a9a2856cf400193791a9b03f26ed23fe31b7c62ed0a48c09a40fa"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter13-th.json",
+    "bytes": 137875,
+    "sha256": "65022d8934133d59bd065808ef945a8e00de7374bcc1ab6c78249e815f755454"
   },
   {
     "path": "FF7Rebrith/translations/chapter14/batch-01.json",
@@ -8328,6 +8088,11 @@
     "path": "FF7Rebrith/translations/chapter14/batch-09.json",
     "bytes": 12922,
     "sha256": "34e0d5806527459cd6db5b19e7e5c39d66d6d4df00a63711b61f8d0b67524f07"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter14-th.json",
+    "bytes": 150473,
+    "sha256": "d1759f0fb3c3574e017a6cdee7d450f445417dae4ee4b06a3aa3fba9db9b7fc3"
   },
   {
     "path": "FF7Rebrith/translations/chapter2/batch-00.json",
@@ -8440,6 +8205,11 @@
     "sha256": "733ab11d72778889f884db7fcb465f95fadc38ac0c62ce224250cd65e57a7688"
   },
   {
+    "path": "FF7Rebrith/translations/chapter2-th.json",
+    "bytes": 516931,
+    "sha256": "cac3fa9c0cf1bb5fc087e4b50e50620e7230575bdd644524e13070367618d23a"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter3/batch-00.json",
     "bytes": 7303,
     "sha256": "fa5ef0f054b8d36f14f65318b712d79584378ccecc22d258344c7db79dd56acf"
@@ -8453,6 +8223,11 @@
     "path": "FF7Rebrith/translations/chapter3/batch-02.json",
     "bytes": 6877,
     "sha256": "4bcf19026b3919c283dcc572683177bb1bbd616423deae2e1f85055ce5e505c1"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter3-th.json",
+    "bytes": 40944,
+    "sha256": "e237427ce996a3d28864bb5a9fef9a799d1745d2bed9d0449de739fda690e035"
   },
   {
     "path": "FF7Rebrith/translations/chapter4/batch-00.json",
@@ -8560,6 +8335,11 @@
     "sha256": "f23a6df133c7109b507e524194b41a410261078ca7b98911b3f13c0886a21cbf"
   },
   {
+    "path": "FF7Rebrith/translations/chapter4-th.json",
+    "bytes": 569420,
+    "sha256": "710b6aa1acca0d40cd88a8a3bc536b147fcaf3aa8d330ea18621665be06efba4"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter5/batch-00.json",
     "bytes": 15509,
     "sha256": "e49e711837836469f1dcd61062d4aaae098a19db73a534c5c9cff4547e07c3f8"
@@ -8610,6 +8390,16 @@
     "sha256": "2b8fcd6ee9a8c14275574eac50d9963a690d6640ebc981e0d3c20a1c930e7d02"
   },
   {
+    "path": "FF7Rebrith/translations/chapter5-th.json",
+    "bytes": 223170,
+    "sha256": "7aa893b63310e47e01529d0e410904297c1173fe0f50c4fb7bbfea85580db329"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter5-ui-th.json",
+    "bytes": 504,
+    "sha256": "067d90c59df5145ff34a4d79f2da8e7a6df3f118df7448e37fa253d9a07bdd33"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter6/batch-00.json",
     "bytes": 16721,
     "sha256": "f71f2bda5ea38244c436e267748ca8d8fc1f5d5a7329dd7379392bc75a3cf389"
@@ -8658,6 +8448,21 @@
     "path": "FF7Rebrith/translations/chapter6/reused-lines.json",
     "bytes": 1625,
     "sha256": "060ab5cc010d46a8f7b4f9a5a7454a6418451df21174421ff4b80b310117edb3"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter6-activity-ui-th.json",
+    "bytes": 17579,
+    "sha256": "dd34441613c48371ac6334578fe8d99441cb498c76c7c31766ef796358888acd"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter6-th.json",
+    "bytes": 307421,
+    "sha256": "7bf01f38ad8580079a420137562ba2cda2efdedde21b830fcd8c10392fa4bff8"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter6-ui-th.json",
+    "bytes": 1461,
+    "sha256": "fa98fa7ae0c5a18ba32d2adfa41ff1a608f9b2f537eebfc9fb2017bf0a3ad55f"
   },
   {
     "path": "FF7Rebrith/translations/chapter7/batch-00.json",
@@ -8713,6 +8518,21 @@
     "path": "FF7Rebrith/translations/chapter7/reused-lines.json",
     "bytes": 2442,
     "sha256": "d156260b9820829ac39fa5f5181f5dfbc416302902fe221924cf776c83468d12"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter7-supplement-automatic.json",
+    "bytes": 19009,
+    "sha256": "c1a97a0f24c5c421ef58b0018f75b36fb5f4319ad240deff852d3e85a90d71fa"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter7-supplement-manual.json",
+    "bytes": 21402,
+    "sha256": "29eae513e9f031ceb5053727764c04587219268b283b23a6ef7a55639fe5b865"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter7-th.json",
+    "bytes": 344383,
+    "sha256": "07fe5b51302c4da4756d398bf23998298b161e2cb1dcadb9bc4e76b76be15e9f"
   },
   {
     "path": "FF7Rebrith/translations/chapter8/batch-00.json",
@@ -8795,6 +8615,21 @@
     "sha256": "d48ae062b05a64758565915917b90ebd568ec34a19459c90012890ead2603b7f"
   },
   {
+    "path": "FF7Rebrith/translations/chapter8-supplement-automatic.json",
+    "bytes": 34665,
+    "sha256": "efc169cf1d72920e3a23df230ad8faf91c31930362ae675c4e320ada63945534"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter8-supplement-manual.json",
+    "bytes": 127495,
+    "sha256": "a6ac22ba18ca91700cf009af06d3c814dc33b682cd2cfea7e25ac52a3fbedaa0"
+  },
+  {
+    "path": "FF7Rebrith/translations/chapter8-th.json",
+    "bytes": 643524,
+    "sha256": "7fb77d004050645cd9f99e1eca78fa3522dae9fcc5d1c3bf7b322b7b23bc7291"
+  },
+  {
     "path": "FF7Rebrith/translations/chapter9/batch-00.json",
     "bytes": 19204,
     "sha256": "97936fc1a59ebb63dc4468dc80e22c2ebe9ad0ddc8e9c929c2d273e2596c07d3"
@@ -8870,6 +8705,11 @@
     "sha256": "5be28e20227dd88b7f155ea35ec1051eee928ab03f292b614cad2f37895caff3"
   },
   {
+    "path": "FF7Rebrith/translations/chapter9-th.json",
+    "bytes": 411198,
+    "sha256": "f163cce7e23b2638720e26121b0bce640cbb0c221c575fe642b0ad5e8ced2cc7"
+  },
+  {
     "path": "FF7Rebrith/translations/choice-completion/batch-00.json",
     "bytes": 12881,
     "sha256": "004abff8299ac5ea9b989fa633d5f115bc20343d441d1572eaf31c43663a4f4a"
@@ -8928,6 +8768,26 @@
     "path": "FF7Rebrith/translations/choice-completion/batch-11.json",
     "bytes": 7040,
     "sha256": "fd46de42fd311e6b848c660dec2d157c66a8a90e008069045fdbbf771c163485"
+  },
+  {
+    "path": "FF7Rebrith/translations/choice-completion-automatic.json",
+    "bytes": 66169,
+    "sha256": "d4feee0b031f510af38c9de12fd2381332a5529925f400dea4e120fee8b5e4a6"
+  },
+  {
+    "path": "FF7Rebrith/translations/choice-completion-th.json",
+    "bytes": 276886,
+    "sha256": "b578c74e30bb39a1b7f581a806263ad0e7127f4568630bea8dcd0cf0b452910f"
+  },
+  {
+    "path": "FF7Rebrith/translations/enemy-actions-th.json",
+    "bytes": 88779,
+    "sha256": "2f2f15934a3a2e94100b809cef87f40bb8760d3da71b55bc7030eaae8b440863"
+  },
+  {
+    "path": "FF7Rebrith/translations/enemy-names-th.json",
+    "bytes": 20721,
+    "sha256": "a632e2204aeee0d5d205a1720ffb29029e804c058afb4980e581a63c8704de6c"
   },
   {
     "path": "FF7Rebrith/translations/inventory/batch-00.json",
@@ -9010,6 +8870,11 @@
     "sha256": "8745eb83a18688d7314cd1dba33bee319ce47ad4e47f01adfe5ba919577035be"
   },
   {
+    "path": "FF7Rebrith/translations/inventory-th.json",
+    "bytes": 552792,
+    "sha256": "96649c88558d9e6d414fc23910fb503ea38e1eec7e69b7fe2833f61c1292329f"
+  },
+  {
     "path": "FF7Rebrith/translations/menu/menu-00.json",
     "bytes": 11466,
     "sha256": "ccb9a9c37fa630c38ce4377e7708ec3ab92cb2dec5d339a6f25cb4f12f14227f"
@@ -9033,6 +8898,11 @@
     "path": "FF7Rebrith/translations/menu/menu-screen-settings.json",
     "bytes": 1085,
     "sha256": "4016554ef6ea49814a572d260d3e7d6ed1c90b684649413fe5c7c529fad8e61c"
+  },
+  {
+    "path": "FF7Rebrith/translations/menu-th.json",
+    "bytes": 71669,
+    "sha256": "b0aeacc830113a4a3b0a13114f1b6c4356db3f689b343bd59fdd50144b285493"
   },
   {
     "path": "FF7Rebrith/translations/npc-recheck/batch-00.json",
@@ -9093,6 +8963,16 @@
     "path": "FF7Rebrith/translations/npc-recheck/batch-11.json",
     "bytes": 13308,
     "sha256": "b2dfa7083a6c7ea71884d0e0f8c86fa69f317a439c8111aecaa3ac00b4370d2a"
+  },
+  {
+    "path": "FF7Rebrith/translations/npc-recheck-th.json",
+    "bytes": 316955,
+    "sha256": "27b8f1370962b1b48937e5ad7210e471159982cd8a2ffe21b90e7b512bf94c6d"
+  },
+  {
+    "path": "FF7Rebrith/translations/prototype-th.json",
+    "bytes": 8102,
+    "sha256": "198a1c9e879e32e79e2e4ce1618f2df604cedd822fb6bdeaa17a597a2a3a8c8c"
   },
   {
     "path": "FF7Rebrith/translations/ui-completion/batch-00.json",
@@ -9330,6 +9210,126 @@
     "sha256": "7f3cadb746ec131010beb363bde213fc5f2816b68816272f76bd8fc0012eb726"
   },
   {
+    "path": "FF7Rebrith/translations/ui-completion-th.json",
+    "bytes": 1097711,
+    "sha256": "c7735f42a029acf9c755a81f435eaabfafda254f4cebd785888ea8381742bc15"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-ch1-6-recheck-th.json",
+    "bytes": 3816446,
+    "sha256": "8d1e3450c4905b176f7fffeebc8a6f12d6670f092486dccd4054dd7b2f061bc3"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-ch12-recheck-th.json",
+    "bytes": 3686286,
+    "sha256": "f491a1f600810409018daf9f21830fadd68c50899fb2e3ca46a79238f77699af"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-choice-completion-th.json",
+    "bytes": 5490296,
+    "sha256": "0d04ec428c1110d13c4817dcc676ca7573f67597f89b1acf7f0f6fdf17d49851"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-enemy-actions-th.json",
+    "bytes": 5895207,
+    "sha256": "f6096dfad5ab45172a0ed6650d12099dc9d3d07187217686952048c208fa9eba"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-inventory-th.json",
+    "bytes": 1379912,
+    "sha256": "359c618b50742b9d9acae997aa1daa776561ebe2eb2bebb77b4f150e2319ef91"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-npc-recheck-th.json",
+    "bytes": 5806536,
+    "sha256": "b2472823e7896d01fd283c1f268a34a9b9f1b4433662dda4121b63540eeb5122"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-th.json",
+    "bytes": 310932,
+    "sha256": "40e9787912df8e1ed939b4eb40fbf7750fde19880267147e8b5a5f307b1e5270"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter10-th.json",
+    "bytes": 6481261,
+    "sha256": "63c3e1515ac4130a05bf8126af2a50362e6a7c832a2d81613c4559e8a1f43802"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter11-th.json",
+    "bytes": 6837844,
+    "sha256": "40693dad0d32bd096011020cdb51486209cd8f3fea5255716ca07eab50b3e69c"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter12-th.json",
+    "bytes": 7735834,
+    "sha256": "dc535bd9767da3f77d26a2b495a486c06fade1a560176ab7fe12d0357b1aa3d0"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter13-th.json",
+    "bytes": 7873364,
+    "sha256": "e128a336eda9b01749107fd5c437807868a383e6364b39020804e7a467b59145"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter14-th.json",
+    "bytes": 8023531,
+    "sha256": "5958321967a1bf3d18897aef9f77156457f71e5f41174441b573682ef55b9b32"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter2-th.json",
+    "bytes": 827349,
+    "sha256": "4a72414903caa04afc71ccffcc30b764ed123f70b45d67a678cb121ed77b1daa"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter3-th.json",
+    "bytes": 2538497,
+    "sha256": "597e8c7ed4ec676b533f90e323490acd5727e1ec1d0129f11eb3a9d7388979b0"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter4-th.json",
+    "bytes": 3107214,
+    "sha256": "5c098523f7f059e78d7350fa782945fe21b349f9e94c7bf4221e54652d4bfd6a"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter5-th.json",
+    "bytes": 3329810,
+    "sha256": "00bb0fa6ffefefaed7383743b2420ba4b41f24eeeccb249257a0af528b00cc1d"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter6-th.json",
+    "bytes": 3636779,
+    "sha256": "71a598cced15c2eb6a2a8920f2a98dec7bd8802dbacec3eede5a3cf3fb04d034"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter7-th.json",
+    "bytes": 4160394,
+    "sha256": "7cb4d54272a254b66abbb0af68580fc8eebad4071c7fe459dd40f513c906c21d"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter8-th.json",
+    "bytes": 4803674,
+    "sha256": "9fdd452919c87a7e2bf9a1759668d576a72b6a09f73f8efd8b048b4fa3cb7466"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-through-chapter9-th.json",
+    "bytes": 5214517,
+    "sha256": "4a558dbd6465bfaca9ced47bdf51c6f7c7d392e2bac90af84d9c21e88f58d6d3"
+  },
+  {
+    "path": "FF7Rebrith/translations/working-ui-completion-th.json",
+    "bytes": 2497778,
+    "sha256": "ab8c105934894b56d29a44de85435e67fda3b3a423d9b97fc1e8ef60b27f78cd"
+  },
+  {
+    "path": "FF7Rebrith/UI-COMPLETION-STATUS.md",
+    "bytes": 10409,
+    "sha256": "c5d4853f32a7fc6a635d6417c62ae62dfef9a54a18e7b6cb97eb1fcb73f5e152"
+  },
+  {
+    "path": "HANDOFF.md",
+    "bytes": 219291,
+    "sha256": "1f259240097e3a0f00b32879b72724ab1afc7eca35bb9746a596dd70b1983c4b"
+  },
+  {
     "path": "Mod/Final/ThaiJP_Chapter10_P.zip",
     "bytes": 71043,
     "sha256": "0214019cd64e7ce299e6609dee664300897dd4aa22c3835c830baa95778f9d33"
@@ -9373,5 +9373,20 @@
     "path": "Mod/Final/ThaiJP_Common_P.zip",
     "bytes": 20498308,
     "sha256": "c43e4249217dad99381bcee15a9396ddfc8c683a865c8322cc737c13e636d2fc"
+  },
+  {
+    "path": "README.md",
+    "bytes": 17,
+    "sha256": "075b7d91ff27f26f1f4c1608b445a091a3577ce921a12db50445c072e9f31b88"
+  },
+  {
+    "path": "restore_project.py",
+    "bytes": 2294,
+    "sha256": "46756f8d4ab056bc89e0957e4b9a9853ddbc3eaf5e0cbd3f7751e1f679fce403"
+  },
+  {
+    "path": "tools/inspect_reference_mods.py",
+    "bytes": 5600,
+    "sha256": "9ff7dccf45307f5d316c36eba278b121d93a512a652c5185f4a6a9de74a53152"
   }
 ]
