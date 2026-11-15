@@ -6,7 +6,7 @@
 
 - `HANDOFF.md`: สถานะงานและขั้นตอนทำต่อ (ล่าสุด Ch.1–14 + Common)
 - `FF7Rebrith/tools`, `translations`, `reference` และเอกสารระดับบน: โค้ด คำแปล ข้อมูลอ้างอิงและการตั้งค่าบิลด์
-- `Mod/Final`: ม็อดชุดล่าสุด 9 ZIP ใช้ร่วมกันตาม HANDOFF
+- `Mod/Final`: ม็อดรวมล่าสุดไฟล์เดียว `ThaiJP_AllChapters_P.zip` สำหรับ Ch.1–14 + Common
 - `chats/FF7-Rebirth-chat.md` และ `.json`: บทสนทนาผู้ใช้/ผู้ช่วย 690 ข้อความ ไม่รวม reasoning ภายในหรือ tool output
 - `GITHUB-FILES-SHA256.json`: รายการ hash สำหรับไฟล์สำรอง (ไม่รวมตัวรายการนี้และเอกสารนี้)
 
